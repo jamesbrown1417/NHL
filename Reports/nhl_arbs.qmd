@@ -187,7 +187,8 @@ pinnacle_odds |>
 
 all_odds |> 
   filter(margin > 0) |> 
-  mutate(margin = round(margin, 2))
+  mutate(margin = round(margin, 2)) |>
+  arrange(desc(margin))
 ```
 
 ## Top Down - Sportsbet

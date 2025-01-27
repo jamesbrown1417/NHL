@@ -16,6 +16,11 @@ source("Scripts/fix_team_names.R")
 odds_files <- list.files("Data/scraped_odds", full.names = TRUE, pattern = "shots") |> 
   map(~ read_csv(.x))
 
+# Get rid of anything with length 0 rows
+odds_files <- odds_files |> 
+  map(~ if (nrow(.x) > 0) .x else NULL) |> 
+  compact()
+
 # Get all player shots on goal data
 all_player_shots_on_goal <-
   bind_rows(odds_files) |>

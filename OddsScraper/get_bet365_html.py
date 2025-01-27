@@ -1,107 +1,71 @@
-# Libraries
-library(tidyverse)
-library(rvest)
-library(httr2)
-library(jsonlite)
-library(glue)
+# Import Modules=============================================================
+from selenium_driverless import webdriver
+from selenium_driverless.types.by import By
+from datetime import datetime
 
-# Read scraped HTML from the BET365_HTML Folder
-scraped_files_player <- list.files("Data/BET365_HTML/", full.names = TRUE, pattern = "hockey")
+# Get current timestamp=======================================================
+now = datetime.now()
+time_stamp = now.strftime("%Y-%m-%d_%H-%M-%S")
 
-# Main Function
-get_player_props <- function(scraped_file) {
-  # Get Markets
-  bet365_hockey_markets <-
-    read_html(scraped_file) |> 
-    html_nodes(".gl-MarketGroupPod")
-  
-  # Market Names
-  market_names <-
-    bet365_hockey_markets |> 
-    html_elements(".cm-MarketGroupWithIconsButton_Text") |> 
-    html_text()
-  
-  # Function to extract player data
-  extract_player_data <- function(market_name) {
-    index <- which(market_names == market_name)
-    
-    players <-
-      bet365_hockey_markets[[index]] |> 
-      html_elements(".srb-ParticipantLabelWithTeam_Name") |> 
-      html_text()
-    
-    cols <-
-      bet365_hockey_markets[[index]] |> 
-      html_elements(".gl-Market_General")
-    
-    over_index <- which(str_detect(cols |> html_text(), "Over"))
-    under_index <- which(str_detect(cols |> html_text(), "Under"))
-    
-    over_odds <-
-      cols[[over_index]] |> 
-      html_elements(".gl-ParticipantCenteredStacked_Odds") |> 
-      html_text()
-    
-    under_odds <-
-      cols[[under_index]] |> 
-      html_elements(".gl-ParticipantCenteredStacked_Odds") |> 
-      html_text()
-    
-    tibble(
-      player = players,
-      over_price = as.numeric(over_odds),
-      under_price = as.numeric(under_odds),
-      market_name = market_name,
-      agency = "Bet365"
-    )
-  }
-  
-  # Extract markets
-  shots_on_goal <- extract_player_data("Shots on Goal O/U")
-  points <- extract_player_data("Points O/U")
-  assists <- extract_player_data("Assists O/U")
-  anytime_goal_scorer <- extract_player_data("Anytime Goal Scorer") |> mutate(line = 1)
-  
-  # Get teams
-  team_names <-
-    scraped_file |> 
-    read_html() |> 
-    html_nodes(".sph-FixturePodHeader_TeamName") |> 
-    html_text()
-  
-  match_name <- paste(team_names, collapse = " v ")
-  
-  # Add match name to each dataset
-  shots_on_goal <- shots_on_goal |> mutate(match = match_name)
-  points <- points |> mutate(match = match_name)
-  assists <- assists |> mutate(match = match_name)
-  anytime_goal_scorer <- anytime_goal_scorer |> mutate(match = match_name)
-  
-  return(list(
-    shots_on_goal = shots_on_goal,
-    points = points,
-    assists = assists,
-    anytime_goal_scorer = anytime_goal_scorer
-  ))
-}
+# Get H2H HTML===============================================================
+import asyncio
 
-# Create safe version of function
-get_player_props_safe <- safely(get_player_props)
+async def main():
+    options = webdriver.ChromeOptions()
+    # options.add_argument("--headless=True")
 
-# Map over all html files
-list_of_player_props <- map(scraped_files_player, get_player_props_safe)
+    async with webdriver.Chrome(options=options) as driver:
+        await driver.get('https://www.bet365.com.au/#/AC/B17/C20836572/D48/E972/F10')
+        await driver.sleep(0.1)
+        
+        # wait 100s for elem to exist
+        elem = await driver.find_element(By.XPATH, "//div[contains(@class, 'gl-MarketGroup')]", timeout=100)
+        body_html = await elem.get_attribute('outerHTML')
+        
+        # Write html to file - overwrite existing file
+        with open(f"Data/BET365_HTML/h2h_html.txt", 'w') as f:
+            f.write(body_html)
+        
+        # Get all occurences of src-ParticipantFixtureDetailsHigher_Team, we want to click on each one
+        team_elements = await driver.find_elements(By.XPATH, "//div[contains(@class, 'sci-ParticipantFixtureDetailsHigherIceHockey_TeamNames')]")
+        
+        # Print team elements inner text
+        for team_element in team_elements:
+            print(await team_element.get_attribute('innerText'))
+        
+        # URL List
+        url_list = []
+        
+        for index in range(len(team_elements)):
+            # Get the team elements again as the page has been refreshed
+            team_elements = await driver.find_elements(By.XPATH, "//div[contains(@class, 'sci-ParticipantFixtureDetailsHigherIceHockey_TeamNames')]")
+            
+            # Scroll into view, in the middle of screen
+            await driver.execute_script("arguments[0].scrollIntoView(true);", team_elements[index])
+            await driver.execute_script("window.scrollBy(0, -150)")
+            
+            # Wait 5 seconds
+            await driver.sleep(0.1)
+            
+            # Click on the current element
+            await team_elements[index].click()
+            
+            # Get Current URL
+            cur_url = await driver.current_url
 
-# Keep only successful results
-list_of_player_props <- list_of_player_props |> keep(~is.null(.x$error)) |> map("result")
+            # Append 'I6/' to URL
+            modified_url = cur_url + 'I6/'
+            
+            url_list.append(modified_url)
+            
+            print(modified_url)
+            
+            # Go back to the previous page
+            await driver.back()
+            
+        # Write URL as a csv
+        url_list = '\n'.join(url_list)
+        with open(f"Data/BET365_HTML/urls.csv", 'w') as f:
+           f.write(url_list)
 
-# Split into separate datasets
-player_shots_on_goal <- map_dfr(list_of_player_props, "shots_on_goal")
-player_points <- map_dfr(list_of_player_props, "points")
-player_assists <- map_dfr(list_of_player_props, "assists")
-player_anytime_goal_scorer <- map_dfr(list_of_player_props, "anytime_goal_scorer")
-
-# Write out
-write_csv(player_shots_on_goal, "Data/scraped_odds/bet365_hockey_shots_on_goal.csv")
-write_csv(player_points, "Data/scraped_odds/bet365_hockey_points.csv")
-write_csv(player_assists, "Data/scraped_odds/bet365_hockey_assists.csv")
-write_csv(player_anytime_goal_scorer, "Data/scraped_odds/bet365_hockey_anytime_goal_scorer.csv")
+asyncio.run(main())

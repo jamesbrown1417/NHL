@@ -26,7 +26,7 @@ Rscript OddsScraper/scrape_bet365.R
 Rscript OddsScraper/Pinnacle/tidy_pinnacle.R
 
 # Run Sportsbet R Script
-Rscript OddsScraper/Sportsbet/scrape_sportsbet.R
+Rscript OddsScraper/scrape_sportsbet.R
 
 # Run Top Down Script
 Rscript Scripts/top_down_bets.R
