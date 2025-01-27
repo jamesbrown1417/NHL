@@ -221,7 +221,7 @@ sb_1 <-
   arrange(desc(EV)) |> 
   distinct() |> 
   mutate(type = "Overs") |> 
-  select(match, player_name, line, sb_devigged_price = over_price_devigged, price = over_price, type, agency, EV)
+  select(match, player_name, line, market_name, sb_devigged_price = over_price_devigged, price = over_price, type, agency, EV)
 
 # SB Unders and other unders
 sb_2 <-
@@ -232,7 +232,7 @@ sb_2 <-
   arrange(desc(EV)) |> 
   distinct() |> 
   mutate(type = "Unders") |> 
-  select(match, player_name, line, sb_devigged_price = under_price_devigged, price = under_price, type, agency, EV)
+  select(match, player_name, line, market_name, sb_devigged_price = under_price_devigged, price = under_price, type, agency, EV)
 
 sb_1 |> 
   bind_rows(sb_2) |> 
@@ -270,7 +270,7 @@ pinnacle_1 <-
   arrange(desc(EV)) |> 
   distinct() |> 
   mutate(type = "Overs") |> 
-  select(match, player_name, line, pinnacle_devigged_price = over_price_devigged, price = over_price, type, agency, EV)
+  select(match, player_name, line, market_name, pinnacle_devigged_price = over_price_devigged, price = over_price, type, agency, EV)
 
 # Pinnacle unders and other unders
 pinnacle_2 <-
@@ -281,7 +281,7 @@ pinnacle_2 <-
   arrange(desc(EV)) |> 
   distinct() |> 
   mutate(type = "Unders") |> 
-  select(match, player_name, line, pinnacle_devigged_price = under_price_devigged, price = under_price, type, agency, EV)
+  select(match, player_name, line, market_name, pinnacle_devigged_price = under_price_devigged, price = under_price, type, agency, EV)
 
 # Combine and filter positive EV opportunities
 pinnacle_1 |> 
