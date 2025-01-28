@@ -35,6 +35,8 @@ get_player_props <- function(scraped_file) {
   # Player Shots on Goal Alternate Lines
   #=============================================================================
   
+  shots_on_goal_alt_index <- which(market_names == "Shots on Goal")
+  
   # Extract shot lines (1, 2, 3, ...)
   shots_on_goal_alt_lines <- 
     bet365_player_markets[[shots_on_goal_alt_index]] |>
