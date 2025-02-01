@@ -1,334 +1,756 @@
 home_team,away_team,player_name,line,over_price,over_agency,under_price,under_agency,market_name,match,margin
-Vegas Golden Knights,Columbus Blue Jackets,Kent Johnson,0.5,3.3,Pinnacle,1.357,Pinnacle,Player Assists,Vegas Golden Knights v Columbus Blue Jackets,-3.9949978785645657
-Vegas Golden Knights,Columbus Blue Jackets,Zach Werenski,0.5,1.884,Pinnacle,1.961,Pinnacle,Player Assists,Vegas Golden Knights v Columbus Blue Jackets,-4.072946880301753
-Calgary Flames,Anaheim Ducks,Leo Carlsson,0.5,4.8,Pinnacle,1.2,Pinnacle,Player Assists,Calgary Flames v Anaheim Ducks,-4.166666666666674
-Edmonton Oilers,Detroit Red Wings,Evan Bouchard,0.5,1.833,Pinnacle,2.01,Pinnacle,Player Assists,Edmonton Oilers v Detroit Red Wings,-4.306617485404418
-Calgary Flames,Anaheim Ducks,Blake Coleman,0.5,3.05,Pinnacle,1.398,Pinnacle,Player Assists,Calgary Flames v Anaheim Ducks,-4.317643471938837
-Calgary Flames,Anaheim Ducks,Troy Terry,0.5,2.65,Pinnacle,1.5,Pinnacle,Player Assists,Calgary Flames v Anaheim Ducks,-4.402515723270439
-Seattle Kraken,San Jose Sharks,Matty Beniers,0.5,2.65,Pinnacle,1.5,Pinnacle,Player Assists,Seattle Kraken v San Jose Sharks,-4.402515723270439
-Calgary Flames,Anaheim Ducks,Rasmus Andersson,0.5,3.07,Pinnacle,1.392,Pinnacle,Player Assists,Calgary Flames v Anaheim Ducks,-4.412370362050266
-Carolina Hurricanes,Chicago Blackhawks,Brent Burns,0.5,3.04,Pinnacle,1.398,Pinnacle,Player Assists,Carolina Hurricanes v Chicago Blackhawks,-4.425495068142471
-Calgary Flames,Anaheim Ducks,Robby Fabbri,0.5,4.9,Pinnacle,1.19,Pinnacle,Player Assists,Calgary Flames v Anaheim Ducks,-4.441776710684264
-Calgary Flames,Detroit Red Wings,Nazem Kadri,0.5,2.45,Bet365,1.5699999999999998,Neds,Player Assists,Calgary Flames v Detroit Red Wings,-4.510594046535821
-Vegas Golden Knights,Columbus Blue Jackets,Pavel Dorofeyev,0.5,2.95,Pinnacle,1.416,Pinnacle,Player Assists,Vegas Golden Knights v Columbus Blue Jackets,-4.519774011299438
-Edmonton Oilers,Detroit Red Wings,Viktor Arvidsson,0.5,3.6,Pinnacle,1.303,Pinnacle,Player Assists,Edmonton Oilers v Detroit Red Wings,-4.5237486143088645
-Seattle Kraken,San Jose Sharks,Macklin Celebrini,0.5,2.53,Pinnacle,1.537,Pinnacle,Player Assists,Seattle Kraken v San Jose Sharks,-4.587500417887114
-Ottawa Senators,Washington Capitals,Josh Norris,0.5,3.8,Pinnacle,1.277,Pinnacle,Player Assists,Ottawa Senators v Washington Capitals,-4.624325104067917
-Boston Bruins,New York Rangers,Morgan Geekie,0.5,3.6,Bet365,1.3,Neds,Player Assists,Boston Bruins v New York Rangers,-4.700854700854684
-Calgary Flames,Anaheim Ducks,MacKenzie Weegar,0.5,2.35,Pinnacle,1.609,Pinnacle,Player Assists,Calgary Flames v Anaheim Ducks,-4.7035954669875535
-Seattle Kraken,San Jose Sharks,Brandon Montour,0.5,2.8,Pinnacle,1.448,Pinnacle,Player Assists,Seattle Kraken v San Jose Sharks,-4.775059194948694
-Calgary Flames,Anaheim Ducks,Frank Vatrano,0.5,3.5,Pinnacle,1.312,Pinnacle,Player Assists,Calgary Flames v Anaheim Ducks,-4.790940766550511
-Boston Bruins,Winnipeg Jets,Brad Marchand,0.5,2.82,Pinnacle,1.44,Pinnacle,Player Assists,Boston Bruins v Winnipeg Jets,-4.905437352245867
-Edmonton Oilers,Detroit Red Wings,Dylan Larkin,0.5,2.5,Pinnacle,1.54,Pinnacle,Player Assists,Edmonton Oilers v Detroit Red Wings,-4.935064935064926
-Carolina Hurricanes,Chicago Blackhawks,Teuvo Teravainen,0.5,3.2,Pinnacle,1.357,Pinnacle,Player Assists,Carolina Hurricanes v Chicago Blackhawks,-4.941967575534267
-Boston Bruins,Winnipeg Jets,Elias Lindholm,0.5,3.28,Pinnacle,1.343,Pinnacle,Player Assists,Boston Bruins v Winnipeg Jets,-4.947968690409166
+Ottawa Senators,Minnesota Wild,Thomas Chabot,0.5,3.18,Sportsbet,1.432,Pinnacle,Player Assists,Ottawa Senators v Minnesota Wild,-1.2789431151400077
+Ottawa Senators,Minnesota Wild,Drake Batherson,0.5,2.74,Sportsbet,1.54,Pinnacle,Player Assists,Ottawa Senators v Minnesota Wild,-1.431415300028438
+Tampa Bay Lightning,New York Islanders,Nikita Kucherov,1.5,3.05,Sportsbet,1.454,Pinnacle,Player Assists,Tampa Bay Lightning v New York Islanders,-1.5626761674972567
+Tampa Bay Lightning,New York Islanders,Jake Guentzel,0.5,2.33,Sportsbet,1.704,Pinnacle,Player Assists,Tampa Bay Lightning v New York Islanders,-1.6039009450119934
+Ottawa Senators,Minnesota Wild,Thomas Chabot,0.5,3.18,Sportsbet,1.42,Neds,Player Assists,Ottawa Senators v Minnesota Wild,-1.8690760917707605
+Carolina Hurricanes,Los Angeles Kings,Kevin Fiala,0.5,3.1,Bet365,1.434,Pinnacle,Player Assists,Carolina Hurricanes v Los Angeles Kings,-1.9930714896297275
+Ottawa Senators,Minnesota Wild,Jake Sanderson,0.5,2.42,Sportsbet,1.645,Pinnacle,Player Assists,Ottawa Senators v Minnesota Wild,-2.112587605817784
+Ottawa Senators,Minnesota Wild,Claude Giroux,0.5,2.45,Bet365,1.625,Pinnacle,Player Assists,Ottawa Senators v Minnesota Wild,-2.3547880690737877
+Ottawa Senators,Minnesota Wild,Thomas Chabot,0.5,3.18,Sportsbet,1.41,Bet365,Player Assists,Ottawa Senators v Minnesota Wild,-2.368526696105988
+Ottawa Senators,Minnesota Wild,Jake Sanderson,0.5,2.4,Bet365,1.645,Pinnacle,Player Assists,Ottawa Senators v Minnesota Wild,-2.4569402228976633
+Edmonton Oilers,Toronto Maple Leafs,John Tavares,0.5,2.7,Bet365,1.526,Pinnacle,Player Assists,Edmonton Oilers v Toronto Maple Leafs,-2.567836512790622
+Calgary Flames,Detroit Red Wings,Yegor Sharangovich,0.5,3.7,Sportsbet,1.323,Pinnacle,Player Assists,Calgary Flames v Detroit Red Wings,-2.6128168985311895
+Tampa Bay Lightning,New York Islanders,Nikita Kucherov,1.5,3.05,Sportsbet,1.43,Bet365,Player Assists,Tampa Bay Lightning v New York Islanders,-2.7169551759715915
+Washington Capitals,Winnipeg Jets,Pierre-Luc Dubois,0.5,3.09,Sportsbet,1.42,Neds,Player Assists,Washington Capitals v Winnipeg Jets,-2.784994758193182
+Washington Capitals,Winnipeg Jets,Josh Morrissey,0.5,2.25,Sportsbet,1.714,Pinnacle,Player Assists,Washington Capitals v Winnipeg Jets,-2.7875016206404757
+Carolina Hurricanes,Los Angeles Kings,Kevin Fiala,0.5,3.02,Sportsbet,1.434,Pinnacle,Player Assists,Carolina Hurricanes v Los Angeles Kings,-2.847589754957669
+Carolina Hurricanes,Los Angeles Kings,Shayne Gostisbehere,0.5,2.84,Sportsbet,1.476,Pinnacle,Player Assists,Carolina Hurricanes v Los Angeles Kings,-2.9619451124088814
+Tampa Bay Lightning,New York Islanders,Jake Guentzel,0.5,2.33,Sportsbet,1.66,Bet365,Player Assists,Tampa Bay Lightning v New York Islanders,-3.159418791044022
+Ottawa Senators,Minnesota Wild,Claude Giroux,0.5,2.4,Neds,1.625,Pinnacle,Player Assists,Ottawa Senators v Minnesota Wild,-3.205128205128216
+Carolina Hurricanes,Los Angeles Kings,Alex Laferriere,0.5,4.3,Bet365,1.25,Pinnacle,Player Assists,Carolina Hurricanes v Los Angeles Kings,-3.2558139534883734
+Ottawa Senators,Minnesota Wild,Jared Spurgeon,0.5,3.4,Sportsbet,1.353,Pinnacle,Player Assists,Ottawa Senators v Minnesota Wild,-3.3215947132733348
+Ottawa Senators,Minnesota Wild,Ryan Hartman,0.5,4.65,Sportsbet,1.222,Pinnacle,Player Assists,Ottawa Senators v Minnesota Wild,-3.338436900550823
+Calgary Flames,Detroit Red Wings,Yegor Sharangovich,0.5,3.7,Sportsbet,1.31,Bet365,Player Assists,Calgary Flames v Detroit Red Wings,-3.362904889622431
+Ottawa Senators,Minnesota Wild,Drake Batherson,0.5,2.6,Bet365,1.54,Pinnacle,Player Assists,Ottawa Senators v Minnesota Wild,-3.3966033966033926
+Carolina Hurricanes,Los Angeles Kings,Shayne Gostisbehere,0.5,2.8,Bet365,1.476,Pinnacle,Player Assists,Carolina Hurricanes v Los Angeles Kings,-3.4649632210607795
+Ottawa Senators,Minnesota Wild,Ryan Hartman,0.5,4.65,Sportsbet,1.22,Bet365,Player Assists,Ottawa Senators v Minnesota Wild,-3.472589458840125
+Ottawa Senators,Minnesota Wild,Jared Spurgeon,0.5,3.4,Sportsbet,1.35,Neds,Player Assists,Ottawa Senators v Minnesota Wild,-3.4858387799564294
+Carolina Hurricanes,Los Angeles Kings,Anze Kopitar,0.5,2.55,Sportsbet,1.555,Pinnacle,Player Assists,Carolina Hurricanes v Los Angeles Kings,-3.524367946535545
+Washington Capitals,Winnipeg Jets,Jakob Chychrun,0.5,2.92,Sportsbet,1.44,Neds,Player Assists,Washington Capitals v Winnipeg Jets,-3.691019786910199
+Washington Capitals,Winnipeg Jets,Pierre-Luc Dubois,0.5,3,Pinnacle,1.42,Neds,Player Assists,Washington Capitals v Winnipeg Jets,-3.7558685446009488
+Washington Capitals,Winnipeg Jets,Pierre-Luc Dubois,0.5,3.09,Sportsbet,1.4,Bet365,Player Assists,Washington Capitals v Winnipeg Jets,-3.7910309754970006
+Washington Capitals,Winnipeg Jets,Josh Morrissey,0.5,2.2,Bet365,1.714,Pinnacle,Player Assists,Washington Capitals v Winnipeg Jets,-3.7976026307414923
+Ottawa Senators,Minnesota Wild,Thomas Chabot,0.5,2.94,Pinnacle,1.432,Pinnacle,Player Assists,Ottawa Senators v Minnesota Wild,-3.846007676813734
+Carolina Hurricanes,Los Angeles Kings,Jackson Blake,0.5,3.75,Bet365,1.295,Pinnacle,Player Assists,Carolina Hurricanes v Los Angeles Kings,-3.886743886743882
+Washington Capitals,Winnipeg Jets,Josh Morrissey,0.5,2.25,Sportsbet,1.6800000000000002,Neds,Player Assists,Washington Capitals v Winnipeg Jets,-3.968253968253954
+Edmonton Oilers,Toronto Maple Leafs,Darnell Nurse,0.5,3.6,Pinnacle,1.312,Pinnacle,Player Assists,Edmonton Oilers v Toronto Maple Leafs,-3.99728997289972
+Edmonton Oilers,Toronto Maple Leafs,Mitch Marner,0.5,1.714,Pinnacle,2.19,Pinnacle,Player Assists,Edmonton Oilers v Toronto Maple Leafs,-4.005157632817036
+Washington Capitals,Winnipeg Jets,Josh Morrissey,0.5,2.19,Pinnacle,1.714,Pinnacle,Player Assists,Washington Capitals v Winnipeg Jets,-4.005157632817036
+Ottawa Senators,Minnesota Wild,Jared Spurgeon,0.5,3.4,Sportsbet,1.34,Bet365,Player Assists,Ottawa Senators v Minnesota Wild,-4.038630377524144
+Ottawa Senators,Minnesota Wild,Drake Batherson,0.5,2.74,Sportsbet,1.48,Neds,Player Assists,Ottawa Senators v Minnesota Wild,-4.063917932531069
+Ottawa Senators,Minnesota Wild,Jake Sanderson,0.5,2.31,Pinnacle,1.645,Pinnacle,Player Assists,Ottawa Senators v Minnesota Wild,-4.080316846274279
+Carolina Hurricanes,Los Angeles Kings,Mikko Rantanen,0.5,1.892,Pinnacle,1.952,Pinnacle,Player Assists,Carolina Hurricanes v Los Angeles Kings,-4.083630818285799
+Florida Panthers,Chicago Blackhawks,Anton Lundell,0.5,2.91,Pinnacle,1.434,Pinnacle,Player Assists,Florida Panthers v Chicago Blackhawks,-4.09926814188557
+Ottawa Senators,Minnesota Wild,Marco Rossi,0.5,2.61,Sportsbet,1.52,Neds,Player Assists,Ottawa Senators v Minnesota Wild,-4.103649929421271
+Ottawa Senators,Minnesota Wild,Brock Faber,0.5,3.16,Pinnacle,1.38,Neds,Player Assists,Ottawa Senators v Minnesota Wild,-4.1093377361951955
+Ottawa Senators,Minnesota Wild,Shane Pinto,0.5,4.25,Pinnacle,1.241,Pinnacle,Player Assists,Ottawa Senators v Minnesota Wild,-4.109589041095885
+Washington Capitals,Winnipeg Jets,Kyle Connor,0.5,2.26,Sportsbet,1.67,Neds,Player Assists,Washington Capitals v Winnipeg Jets,-4.128027131577561
+Pittsburgh Penguins,Nashville Predators,Sidney Crosby,0.5,1.89,Sportsbet,1.952,Pinnacle,Player Assists,Pittsburgh Penguins v Nashville Predators,-4.1395611067742255
+Tampa Bay Lightning,New York Islanders,Jake Guentzel,0.5,2.2,Bet365,1.704,Pinnacle,Player Assists,Tampa Bay Lightning v New York Islanders,-4.139991463935133
+Ottawa Senators,Minnesota Wild,Shane Pinto,0.5,4.25,Pinnacle,1.24,Neds,Player Assists,Ottawa Senators v Minnesota Wild,-4.174573055028463
+Edmonton Oilers,Toronto Maple Leafs,Morgan Rielly,0.5,3.31,Sportsbet,1.352,Pinnacle,Player Assists,Edmonton Oilers v Toronto Maple Leafs,-4.175977403957876
+Edmonton Oilers,Toronto Maple Leafs,Auston Matthews,0.5,2.47,Sportsbet,1.57,Bet365,Player Assists,Edmonton Oilers v Toronto Maple Leafs,-4.180097475437727
+Pittsburgh Penguins,Nashville Predators,Sidney Crosby,0.5,1.89,Sportsbet,1.95,Bet365,Player Assists,Pittsburgh Penguins v Nashville Predators,-4.192104192104207
+Washington Capitals,Winnipeg Jets,Neal Pionk,0.5,3.32,Sportsbet,1.35,Neds,Player Assists,Washington Capitals v Winnipeg Jets,-4.19455600178491
+Washington Capitals,Winnipeg Jets,Aliaksei Protas,0.5,3.32,Sportsbet,1.35,Neds,Player Assists,Washington Capitals v Winnipeg Jets,-4.19455600178491
+Ottawa Senators,Minnesota Wild,Joel Eriksson Ek,0.5,2.73,Sportsbet,1.48,Neds,Player Assists,Ottawa Senators v Minnesota Wild,-4.197604197604199
+Ottawa Senators,Minnesota Wild,Brady Tkachuk,0.5,2.8,Pinnacle,1.46,Neds,Player Assists,Ottawa Senators v Minnesota Wild,-4.207436399217213
+Edmonton Oilers,Toronto Maple Leafs,Evan Bouchard,0.5,1.862,Pinnacle,1.98,Pinnacle,Player Assists,Edmonton Oilers v Toronto Maple Leafs,-4.210743308487674
+Carolina Hurricanes,Los Angeles Kings,Brent Burns,0.5,3.5,Pinnacle,1.322,Pinnacle,Player Assists,Carolina Hurricanes v Los Angeles Kings,-4.214393775664571
+Edmonton Oilers,Toronto Maple Leafs,Connor McDavid,1.5,2.91,Pinnacle,1.431,Pinnacle,Player Assists,Edmonton Oilers v Toronto Maple Leafs,-4.245463125058535
+Carolina Hurricanes,Los Angeles Kings,Jackson Blake,0.5,3.7,Sportsbet,1.295,Pinnacle,Player Assists,Carolina Hurricanes v Los Angeles Kings,-4.247104247104239
+Edmonton Oilers,Toronto Maple Leafs,Auston Matthews,0.5,2.47,Sportsbet,1.568,Pinnacle,Player Assists,Edmonton Oilers v Toronto Maple Leafs,-4.261340163595806
+Ottawa Senators,Minnesota Wild,Jake Sanderson,0.5,2.3,Neds,1.645,Pinnacle,Player Assists,Ottawa Senators v Minnesota Wild,-4.268534425796222
+Ottawa Senators,Minnesota Wild,Jared Spurgeon,0.5,3.29,Pinnacle,1.353,Pinnacle,Player Assists,Ottawa Senators v Minnesota Wild,-4.304966785506492
+Carolina Hurricanes,Los Angeles Kings,Anze Kopitar,0.5,2.5,Bet365,1.555,Pinnacle,Player Assists,Carolina Hurricanes v Los Angeles Kings,-4.308681672025738
+Edmonton Oilers,Toronto Maple Leafs,Ryan Nugent-Hopkins,0.5,2.5,Pinnacle,1.555,Pinnacle,Player Assists,Edmonton Oilers v Toronto Maple Leafs,-4.308681672025738
+Ottawa Senators,Minnesota Wild,Josh Norris,0.5,3.81,Pinnacle,1.281,Pinnacle,Player Assists,Ottawa Senators v Minnesota Wild,-4.310731650346988
+Ottawa Senators,Minnesota Wild,Brock Faber,0.5,3.14,Sportsbet,1.38,Neds,Player Assists,Ottawa Senators v Minnesota Wild,-4.310901873903816
+Calgary Flames,Detroit Red Wings,MacKenzie Weegar,0.5,2.61,Pinnacle,1.515,Pinnacle,Player Assists,Calgary Flames v Detroit Red Wings,-4.320776905276746
+Edmonton Oilers,Toronto Maple Leafs,Morgan Rielly,0.5,3.29,Pinnacle,1.352,Pinnacle,Player Assists,Edmonton Oilers v Toronto Maple Leafs,-4.359633819535613
+Ottawa Senators,Minnesota Wild,Josh Norris,0.5,3.81,Pinnacle,1.28,Neds,Player Assists,Ottawa Senators v Minnesota Wild,-4.371719160104992
+Washington Capitals,Winnipeg Jets,Aliaksei Protas,0.5,3.3,Pinnacle,1.35,Neds,Player Assists,Washington Capitals v Winnipeg Jets,-4.377104377104368
+Washington Capitals,Winnipeg Jets,Neal Pionk,0.5,3.3,Pinnacle,1.35,Neds,Player Assists,Washington Capitals v Winnipeg Jets,-4.377104377104368
+Ottawa Senators,Minnesota Wild,Joel Eriksson Ek,0.5,2.73,Sportsbet,1.476,Pinnacle,Player Assists,Ottawa Senators v Minnesota Wild,-4.380714136811692
+Carolina Hurricanes,Los Angeles Kings,Alex Laferriere,0.5,4.1,Sportsbet,1.25,Pinnacle,Player Assists,Carolina Hurricanes v Los Angeles Kings,-4.390243902439028
+Carolina Hurricanes,Los Angeles Kings,Adrian Kempe,0.5,2.65,Pinnacle,1.5,Pinnacle,Player Assists,Carolina Hurricanes v Los Angeles Kings,-4.402515723270439
+Tampa Bay Lightning,New York Islanders,Bo Horvat,0.5,2.98,Sportsbet,1.411,Pinnacle,Player Assists,Tampa Bay Lightning v New York Islanders,-4.4287691627148185
+Edmonton Oilers,Toronto Maple Leafs,Matthew Knies,0.5,3.4,Pinnacle,1.333,Pinnacle,Player Assists,Edmonton Oilers v Toronto Maple Leafs,-4.430519394554522
+Edmonton Oilers,Toronto Maple Leafs,Oliver Ekman-Larsson,0.5,3.4,Sportsbet,1.333,Pinnacle,Player Assists,Edmonton Oilers v Toronto Maple Leafs,-4.430519394554522
+Ottawa Senators,Minnesota Wild,Thomas Chabot,0.5,2.94,Pinnacle,1.42,Neds,Player Assists,Ottawa Senators v Minnesota Wild,-4.436140653444487
+Calgary Flames,Detroit Red Wings,Blake Coleman,0.5,3.18,Sportsbet,1.37,Pinnacle,Player Assists,Calgary Flames v Detroit Red Wings,-4.439241610430145
+Ottawa Senators,Minnesota Wild,Claude Giroux,0.5,2.33,Pinnacle,1.625,Pinnacle,Player Assists,Ottawa Senators v Minnesota Wild,-4.456916474083861
+Ottawa Senators,Minnesota Wild,Jared Spurgeon,0.5,3.29,Pinnacle,1.35,Neds,Player Assists,Ottawa Senators v Minnesota Wild,-4.469210852189565
+Carolina Hurricanes,Los Angeles Kings,Anze Kopitar,0.5,2.49,Pinnacle,1.555,Pinnacle,Player Assists,Carolina Hurricanes v Los Angeles Kings,-4.469324242306838
+Washington Capitals,Winnipeg Jets,Kyle Connor,0.5,2.26,Sportsbet,1.66,Bet365,Player Assists,Washington Capitals v Winnipeg Jets,-4.488751466041174
+Ottawa Senators,Minnesota Wild,Brady Tkachuk,0.5,2.8,Pinnacle,1.454,Pinnacle,Player Assists,Ottawa Senators v Minnesota Wild,-4.490076635881324
+Tampa Bay Lightning,New York Islanders,Brock Nelson,0.5,2.8,Pinnacle,1.454,Pinnacle,Player Assists,Tampa Bay Lightning v New York Islanders,-4.490076635881324
+Tampa Bay Lightning,New York Islanders,Nikita Kucherov,1.5,2.8,Pinnacle,1.454,Pinnacle,Player Assists,Tampa Bay Lightning v New York Islanders,-4.490076635881324
+Edmonton Oilers,Toronto Maple Leafs,Auston Matthews,0.5,2.45,Pinnacle,1.57,Bet365,Player Assists,Edmonton Oilers v Toronto Maple Leafs,-4.5105940465357985
+Washington Capitals,Winnipeg Jets,Nikolaj Ehlers,0.5,2.45,Pinnacle,1.5699999999999998,Neds,Player Assists,Washington Capitals v Winnipeg Jets,-4.510594046535821
+Washington Capitals,Winnipeg Jets,Connor McMichael,0.5,3.6,Pinnacle,1.303,Pinnacle,Player Assists,Washington Capitals v Winnipeg Jets,-4.5237486143088645
+Carolina Hurricanes,Los Angeles Kings,Quinton Byfield,0.5,3.32,Sportsbet,1.344,Pinnacle,Player Assists,Carolina Hurricanes v Los Angeles Kings,-4.525243832472747
+Washington Capitals,Winnipeg Jets,Neal Pionk,0.5,3.32,Sportsbet,1.344,Pinnacle,Player Assists,Washington Capitals v Winnipeg Jets,-4.525243832472747
+Washington Capitals,Winnipeg Jets,Aliaksei Protas,0.5,3.32,Sportsbet,1.344,Pinnacle,Player Assists,Washington Capitals v Winnipeg Jets,-4.525243832472747
+Edmonton Oilers,Toronto Maple Leafs,Auston Matthews,0.5,2.45,Pinnacle,1.568,Pinnacle,Player Assists,Edmonton Oilers v Toronto Maple Leafs,-4.591836734693877
+Carolina Hurricanes,Los Angeles Kings,Andrei Svechnikov,0.5,2.6,Pinnacle,1.512,Pinnacle,Player Assists,Carolina Hurricanes v Los Angeles Kings,-4.599104599104598
+Ottawa Senators,Minnesota Wild,Joel Eriksson Ek,0.5,2.7,Pinnacle,1.48,Neds,Player Assists,Ottawa Senators v Minnesota Wild,-4.604604604604612
+Edmonton Oilers,Toronto Maple Leafs,Viktor Arvidsson,0.5,4,Pinnacle,1.256,Pinnacle,Player Assists,Edmonton Oilers v Toronto Maple Leafs,-4.617834394904463
+Tampa Bay Lightning,New York Islanders,Brock Nelson,0.5,2.79,Sportsbet,1.454,Pinnacle,Player Assists,Tampa Bay Lightning v New York Islanders,-4.618084828405644
+Calgary Flames,Detroit Red Wings,Morgan Frost,0.5,3.58,Pinnacle,1.304,Pinnacle,Player Assists,Calgary Flames v Detroit Red Wings,-4.620077458271932
+Carolina Hurricanes,Los Angeles Kings,Brent Burns,0.5,3.45,Sportsbet,1.322,Pinnacle,Player Assists,Carolina Hurricanes v Los Angeles Kings,-4.628472450612819
+Ottawa Senators,Minnesota Wild,Joel Eriksson Ek,0.5,2.73,Sportsbet,1.47,Bet365,Player Assists,Ottawa Senators v Minnesota Wild,-4.657247514390361
+Washington Capitals,Winnipeg Jets,Jakob Chychrun,0.5,2.92,Sportsbet,1.42,Bet365,Player Assists,Washington Capitals v Winnipeg Jets,-4.669110553733358
+Washington Capitals,Winnipeg Jets,Josh Morrissey,0.5,2.25,Sportsbet,1.66,Bet365,Player Assists,Washington Capitals v Winnipeg Jets,-4.685408299866145
+Washington Capitals,Winnipeg Jets,Mark Scheifele,0.5,2.37,Sportsbet,1.6,Neds,Player Assists,Washington Capitals v Winnipeg Jets,-4.694092827004215
+Washington Capitals,Winnipeg Jets,Connor McMichael,0.5,3.6,Pinnacle,1.3,Neds,Player Assists,Washington Capitals v Winnipeg Jets,-4.700854700854684
+Carolina Hurricanes,Los Angeles Kings,Mikko Rantanen,0.5,1.87,Sportsbet,1.952,Pinnacle,Player Assists,Carolina Hurricanes v Los Angeles Kings,-4.705444025598293
+Carolina Hurricanes,Los Angeles Kings,Quinton Byfield,0.5,3.3,Pinnacle,1.344,Pinnacle,Player Assists,Carolina Hurricanes v Los Angeles Kings,-4.707792207792205
+Washington Capitals,Winnipeg Jets,Aliaksei Protas,0.5,3.3,Pinnacle,1.344,Pinnacle,Player Assists,Washington Capitals v Winnipeg Jets,-4.707792207792205
+Washington Capitals,Winnipeg Jets,Neal Pionk,0.5,3.3,Pinnacle,1.344,Pinnacle,Player Assists,Washington Capitals v Winnipeg Jets,-4.707792207792205
+Washington Capitals,Winnipeg Jets,Pierre-Luc Dubois,0.5,3,Pinnacle,1.4,Bet365,Player Assists,Washington Capitals v Winnipeg Jets,-4.761904761904767
+Tampa Bay Lightning,New York Islanders,Bo Horvat,0.5,2.95,Pinnacle,1.411,Pinnacle,Player Assists,Tampa Bay Lightning v New York Islanders,-4.77002726759479
+Carolina Hurricanes,Los Angeles Kings,Trevor Moore,0.5,4.2,Pinnacle,1.235,Pinnacle,Player Assists,Carolina Hurricanes v Los Angeles Kings,-4.781183728552141
+Carolina Hurricanes,Los Angeles Kings,Shayne Gostisbehere,0.5,2.7,Pinnacle,1.476,Pinnacle,Player Assists,Carolina Hurricanes v Los Angeles Kings,-4.787714543812105
+Ottawa Senators,Minnesota Wild,Joel Eriksson Ek,0.5,2.7,Pinnacle,1.476,Pinnacle,Player Assists,Ottawa Senators v Minnesota Wild,-4.787714543812105
+Calgary Flames,Detroit Red Wings,Yegor Sharangovich,0.5,3.42,Pinnacle,1.323,Pinnacle,Player Assists,Calgary Flames v Detroit Red Wings,-4.825555953375504
+Ottawa Senators,Minnesota Wild,Shane Pinto,0.5,4.25,Pinnacle,1.23,Bet365,Player Assists,Ottawa Senators v Minnesota Wild,-4.830224772835967
+Edmonton Oilers,Toronto Maple Leafs,Matthew Knies,0.5,3.35,Sportsbet,1.333,Pinnacle,Player Assists,Edmonton Oilers v Toronto Maple Leafs,-4.869500957328876
+Washington Capitals,Winnipeg Jets,Kyle Connor,0.5,2.26,Sportsbet,1.649,Pinnacle,Player Assists,Washington Capitals v Winnipeg Jets,-4.890601437181008
+Carolina Hurricanes,Los Angeles Kings,Andrei Svechnikov,0.5,2.58,Sportsbet,1.512,Pinnacle,Player Assists,Carolina Hurricanes v Los Angeles Kings,-4.897256060046762
+Carolina Hurricanes,Los Angeles Kings,Brent Burns,0.5,3.5,Pinnacle,1.31,Bet365,Player Assists,Carolina Hurricanes v Los Angeles Kings,-4.9073064340239725
+Florida Panthers,Chicago Blackhawks,Gustav Forsling,0.5,3.29,Pinnacle,1.342,Pinnacle,Player Assists,Florida Panthers v Chicago Blackhawks,-4.910785064255596
+Tampa Bay Lightning,New York Islanders,Darren Raddysh,0.5,2.71,Sportsbet,1.47,Bet365,Player Assists,Tampa Bay Lightning v New York Islanders,-4.927579888043776
+Ottawa Senators,Minnesota Wild,Drake Batherson,0.5,2.5,Neds,1.54,Pinnacle,Player Assists,Ottawa Senators v Minnesota Wild,-4.935064935064926
+Ottawa Senators,Minnesota Wild,Thomas Chabot,0.5,2.94,Pinnacle,1.41,Bet365,Player Assists,Ottawa Senators v Minnesota Wild,-4.9355912577797145
+Washington Capitals,Winnipeg Jets,Dylan Strome,0.5,2.4,Bet365,1.58,Neds,Player Assists,Washington Capitals v Winnipeg Jets,-4.957805907172985
+Ottawa Senators,Minnesota Wild,Brock Faber,0.5,3.16,Pinnacle,1.364,Pinnacle,Player Assists,Ottawa Senators v Minnesota Wild,-4.959352611455503
+Calgary Flames,Detroit Red Wings,Blake Coleman,0.5,3.18,Sportsbet,1.36,Bet365,Player Assists,Calgary Flames v Detroit Red Wings,-4.975952645209025
 Washington Capitals,Winnipeg Jets,Josh Morrissey,0.5,2.2,Bet365,1.6800000000000002,Neds,Player Assists,Washington Capitals v Winnipeg Jets,-4.978354978354971
-Calgary Flames,Detroit Red Wings,Moritz Seider,0.5,2.2,Bet365,1.6800000000000002,Neds,Player Assists,Calgary Flames v Detroit Red Wings,-4.978354978354971
-Ottawa Senators,Washington Capitals,Aliaksei Protas,0.5,3.4,Pinnacle,1.322,Pinnacle,Player Assists,Ottawa Senators v Washington Capitals,-5.05472991011835
-Calgary Flames,Anaheim Ducks,Trevor Zegras,0.5,3.6,Pinnacle,1.294,Pinnacle,Player Assists,Calgary Flames v Anaheim Ducks,-5.057530482569117
-Boston Bruins,Winnipeg Jets,Neal Pionk,0.5,3.23,Pinnacle,1.349,Pinnacle,Player Assists,Boston Bruins v Winnipeg Jets,-5.088736754894696
-Vegas Golden Knights,Columbus Blue Jackets,Adam Fantilli,0.5,2.9,Pinnacle,1.416,Pinnacle,Player Assists,Vegas Golden Knights v Columbus Blue Jackets,-5.104227547243334
-Calgary Flames,Detroit Red Wings,Dylan Larkin,0.5,2.3,Bet365,1.62,Neds,Player Assists,Calgary Flames v Detroit Red Wings,-5.206655931293613
-Vegas Golden Knights,Columbus Blue Jackets,Dmitri Voronkov,0.5,3.3,Pinnacle,1.333,Pinnacle,Player Assists,Vegas Golden Knights v Columbus Blue Jackets,-5.321784991702483
+Calgary Flames,Detroit Red Wings,MacKenzie Weegar,0.5,2.61,Pinnacle,1.5,Bet365,Player Assists,Calgary Flames v Detroit Red Wings,-4.980842911877392
+Ottawa Senators,Minnesota Wild,Marco Rossi,0.5,2.61,Sportsbet,1.5,Bet365,Player Assists,Ottawa Senators v Minnesota Wild,-4.980842911877392
+Tampa Bay Lightning,New York Islanders,Bo Horvat,0.5,2.98,Sportsbet,1.4,Bet365,Player Assists,Tampa Bay Lightning v New York Islanders,-4.985618408437209
+Edmonton Oilers,Toronto Maple Leafs,Evan Bouchard,0.5,1.862,Pinnacle,1.95,Bet365,Player Assists,Edmonton Oilers v Toronto Maple Leafs,-4.987744085488455
+Ottawa Senators,Minnesota Wild,Brady Tkachuk,0.5,2.74,Sportsbet,1.46,Neds,Player Assists,Ottawa Senators v Minnesota Wild,-4.989501049894995
+Edmonton Oilers,Toronto Maple Leafs,Viktor Arvidsson,0.5,4,Pinnacle,1.25,Bet365,Player Assists,Edmonton Oilers v Toronto Maple Leafs,-5.000000000000004
+Washington Capitals,Winnipeg Jets,Cole Perfetti,0.5,4,Sportsbet,1.25,Neds,Player Assists,Washington Capitals v Winnipeg Jets,-5.000000000000004
+Ottawa Senators,Minnesota Wild,Jake Sanderson,0.5,2.42,Sportsbet,1.5699999999999998,Neds,Player Assists,Ottawa Senators v Minnesota Wild,-5.016581565510347
+Ottawa Senators,Minnesota Wild,Jared Spurgeon,0.5,3.29,Pinnacle,1.34,Bet365,Player Assists,Ottawa Senators v Minnesota Wild,-5.022002449757279
+Ottawa Senators,Minnesota Wild,Joel Eriksson Ek,0.5,2.7,Pinnacle,1.47,Bet365,Player Assists,Ottawa Senators v Minnesota Wild,-5.064247921390774
+Carolina Hurricanes,Los Angeles Kings,Drew Doughty,0.5,2.77,Sportsbet,1.45,Bet365,Player Assists,Carolina Hurricanes v Los Angeles Kings,-5.066600273870292
+Ottawa Senators,Minnesota Wild,Josh Norris,0.5,3.7,Bet365,1.281,Pinnacle,Player Assists,Ottawa Senators v Minnesota Wild,-5.091039517269036
+Edmonton Oilers,Toronto Maple Leafs,Connor McDavid,1.5,2.84,Sportsbet,1.431,Pinnacle,Player Assists,Edmonton Oilers v Toronto Maple Leafs,-5.092469562307467
+Carolina Hurricanes,Los Angeles Kings,Trevor Moore,0.5,4.2,Pinnacle,1.23,Bet365,Player Assists,Carolina Hurricanes v Los Angeles Kings,-5.110336817653893
+Edmonton Oilers,Toronto Maple Leafs,Ryan Nugent-Hopkins,0.5,2.45,Bet365,1.555,Pinnacle,Player Assists,Edmonton Oilers v Toronto Maple Leafs,-5.125008202637971
+Carolina Hurricanes,Los Angeles Kings,Andrei Svechnikov,0.5,2.6,Pinnacle,1.5,Bet365,Player Assists,Carolina Hurricanes v Los Angeles Kings,-5.12820512820511
+Edmonton Oilers,Toronto Maple Leafs,Zach Hyman,0.5,2.86,Pinnacle,1.425,Pinnacle,Player Assists,Edmonton Oilers v Toronto Maple Leafs,-5.140473561526182
+Ottawa Senators,Minnesota Wild,Josh Norris,0.5,3.7,Bet365,1.28,Neds,Player Assists,Ottawa Senators v Minnesota Wild,-5.152027027027017
+Ottawa Senators,Minnesota Wild,Brady Tkachuk,0.5,2.8,Pinnacle,1.44,Bet365,Player Assists,Ottawa Senators v Minnesota Wild,-5.158730158730163
+Tampa Bay Lightning,New York Islanders,Brock Nelson,0.5,2.8,Pinnacle,1.44,Bet365,Player Assists,Tampa Bay Lightning v New York Islanders,-5.158730158730163
+Ottawa Senators,Minnesota Wild,Brock Faber,0.5,3.14,Sportsbet,1.364,Pinnacle,Player Assists,Ottawa Senators v Minnesota Wild,-5.160916749164124
+Edmonton Oilers,Toronto Maple Leafs,Matthew Knies,0.5,3.4,Pinnacle,1.32,Bet365,Player Assists,Edmonton Oilers v Toronto Maple Leafs,-5.169340463458116
+Edmonton Oilers,Toronto Maple Leafs,Oliver Ekman-Larsson,0.5,3.4,Sportsbet,1.32,Bet365,Player Assists,Edmonton Oilers v Toronto Maple Leafs,-5.169340463458116
+Ottawa Senators,Minnesota Wild,Brock Faber,0.5,3.16,Pinnacle,1.36,Bet365,Player Assists,Ottawa Senators v Minnesota Wild,-5.174981384959043
+Washington Capitals,Winnipeg Jets,Josh Morrissey,0.5,2.19,Pinnacle,1.6800000000000002,Neds,Player Assists,Washington Capitals v Winnipeg Jets,-5.185909980430536
+Washington Capitals,Winnipeg Jets,Nikolaj Ehlers,0.5,2.41,Sportsbet,1.5699999999999998,Neds,Player Assists,Washington Capitals v Winnipeg Jets,-5.1880434495335415
+Ottawa Senators,Minnesota Wild,Claude Giroux,0.5,2.29,Sportsbet,1.625,Pinnacle,Player Assists,Ottawa Senators v Minnesota Wild,-5.206583809203913
+Calgary Flames,Detroit Red Wings,Blake Coleman,0.5,3.1,Pinnacle,1.37,Pinnacle,Player Assists,Calgary Flames v Detroit Red Wings,-5.250765246056033
+Ottawa Senators,Minnesota Wild,Brady Tkachuk,0.5,2.74,Sportsbet,1.454,Pinnacle,Player Assists,Ottawa Senators v Minnesota Wild,-5.272141286559107
+Edmonton Oilers,Toronto Maple Leafs,Connor McDavid,1.5,2.91,Pinnacle,1.41,Bet365,Player Assists,Edmonton Oilers v Toronto Maple Leafs,-5.286246983987719
+Tampa Bay Lightning,New York Islanders,Brock Nelson,0.5,2.79,Sportsbet,1.44,Bet365,Player Assists,Tampa Bay Lightning v New York Islanders,-5.286738351254483
+Edmonton Oilers,Toronto Maple Leafs,Darnell Nurse,0.5,3.6,Pinnacle,1.29,Bet365,Player Assists,Edmonton Oilers v Toronto Maple Leafs,-5.297157622739013
+Washington Capitals,Winnipeg Jets,Connor McMichael,0.5,3.6,Pinnacle,1.29,Bet365,Player Assists,Washington Capitals v Winnipeg Jets,-5.297157622739013
+Carolina Hurricanes,Los Angeles Kings,Quinton Byfield,0.5,3.32,Sportsbet,1.33,Bet365,Player Assists,Carolina Hurricanes v Los Angeles Kings,-5.308451852522866
+Washington Capitals,Winnipeg Jets,Neal Pionk,0.5,3.32,Sportsbet,1.33,Bet365,Player Assists,Washington Capitals v Winnipeg Jets,-5.308451852522866
+Washington Capitals,Winnipeg Jets,Aliaksei Protas,0.5,3.32,Sportsbet,1.33,Bet365,Player Assists,Washington Capitals v Winnipeg Jets,-5.308451852522866
+Carolina Hurricanes,Los Angeles Kings,Brent Burns,0.5,3.45,Sportsbet,1.31,Bet365,Player Assists,Carolina Hurricanes v Los Angeles Kings,-5.321385108972221
+Edmonton Oilers,Toronto Maple Leafs,Oliver Ekman-Larsson,0.5,3.3,Pinnacle,1.333,Pinnacle,Player Assists,Edmonton Oilers v Toronto Maple Leafs,-5.321784991702483
+Tampa Bay Lightning,New York Islanders,Bo Horvat,0.5,2.95,Pinnacle,1.4,Bet365,Player Assists,Tampa Bay Lightning v New York Islanders,-5.3268765133172025
+Ottawa Senators,Minnesota Wild,Claude Giroux,0.5,2.45,Bet365,1.55,Neds,Player Assists,Ottawa Senators v Minnesota Wild,-5.332455562870297
+Washington Capitals,Winnipeg Jets,Nikolaj Ehlers,0.5,2.45,Pinnacle,1.55,Bet365,Player Assists,Washington Capitals v Winnipeg Jets,-5.332455562870297
 Washington Capitals,Winnipeg Jets,Kyle Connor,0.5,2.2,Bet365,1.67,Neds,Player Assists,Washington Capitals v Winnipeg Jets,-5.334784975503548
+Ottawa Senators,Minnesota Wild,Jake Sanderson,0.5,2.4,Bet365,1.5699999999999998,Neds,Player Assists,Ottawa Senators v Minnesota Wild,-5.360934182590249
 Washington Capitals,Winnipeg Jets,Nikolaj Ehlers,0.5,2.4,Bet365,1.5699999999999998,Neds,Player Assists,Washington Capitals v Winnipeg Jets,-5.360934182590249
+Ottawa Senators,Minnesota Wild,Brock Faber,0.5,3.14,Sportsbet,1.36,Bet365,Player Assists,Ottawa Senators v Minnesota Wild,-5.376545522667664
+Washington Capitals,Winnipeg Jets,Tom Wilson,0.5,2.86,Pinnacle,1.42,Neds,Player Assists,Washington Capitals v Winnipeg Jets,-5.387570176302581
+Edmonton Oilers,Toronto Maple Leafs,Morgan Rielly,0.5,3.31,Sportsbet,1.33,Bet365,Player Assists,Edmonton Oilers v Toronto Maple Leafs,-5.399450287349783
+Calgary Flames,Detroit Red Wings,Dylan Larkin,0.5,2.25,Bet365,1.64,Bet365,Player Assists,Calgary Flames v Detroit Red Wings,-5.4200542005419905
+Carolina Hurricanes,Los Angeles Kings,Andrei Svechnikov,0.5,2.58,Sportsbet,1.5,Bet365,Player Assists,Carolina Hurricanes v Los Angeles Kings,-5.426356589147274
+Washington Capitals,Winnipeg Jets,Mark Scheifele,0.5,2.37,Sportsbet,1.581,Pinnacle,Player Assists,Washington Capitals v Winnipeg Jets,-5.4451997213748715
+Calgary Flames,Detroit Red Wings,Morgan Frost,0.5,3.58,Pinnacle,1.29,Bet365,Player Assists,Calgary Flames v Detroit Red Wings,-5.452340738815975
+Ottawa Senators,Minnesota Wild,Drake Batherson,0.5,2.74,Sportsbet,1.45,Bet365,Player Assists,Ottawa Senators v Minnesota Wild,-5.461867606342818
+Washington Capitals,Winnipeg Jets,Jakob Chychrun,0.5,2.92,Sportsbet,1.404,Pinnacle,Player Assists,Washington Capitals v Winnipeg Jets,-5.471646567536981
+Tampa Bay Lightning,New York Islanders,Darren Raddysh,0.5,2.67,Pinnacle,1.47,Bet365,Player Assists,Tampa Bay Lightning v New York Islanders,-5.480394404952982
+Washington Capitals,Winnipeg Jets,Mark Scheifele,0.5,2.37,Sportsbet,1.58,Bet365,Player Assists,Washington Capitals v Winnipeg Jets,-5.485232067510548
+Carolina Hurricanes,Los Angeles Kings,Mikko Rantanen,0.5,1.892,Pinnacle,1.9,Bet365,Player Assists,Carolina Hurricanes v Los Angeles Kings,-5.48570156893291
+Carolina Hurricanes,Los Angeles Kings,Quinton Byfield,0.5,3.3,Pinnacle,1.33,Bet365,Player Assists,Carolina Hurricanes v Los Angeles Kings,-5.491000227842324
+Washington Capitals,Winnipeg Jets,Aliaksei Protas,0.5,3.3,Pinnacle,1.33,Bet365,Player Assists,Washington Capitals v Winnipeg Jets,-5.491000227842324
+Washington Capitals,Winnipeg Jets,Neal Pionk,0.5,3.3,Pinnacle,1.33,Bet365,Player Assists,Washington Capitals v Winnipeg Jets,-5.491000227842324
+Washington Capitals,Winnipeg Jets,Nino Niederreiter,0.5,4.25,Sportsbet,1.22,Bet365,Player Assists,Washington Capitals v Winnipeg Jets,-5.496624879459988
 Washington Capitals,Winnipeg Jets,Pierre-Luc Dubois,0.5,2.85,Bet365,1.42,Neds,Player Assists,Washington Capitals v Winnipeg Jets,-5.510254509513235
 Washington Capitals,Winnipeg Jets,Tom Wilson,0.5,2.85,Bet365,1.42,Neds,Player Assists,Washington Capitals v Winnipeg Jets,-5.510254509513235
+Edmonton Oilers,Toronto Maple Leafs,John Tavares,0.5,2.5,Sportsbet,1.526,Pinnacle,Player Assists,Edmonton Oilers v Toronto Maple Leafs,-5.530799475753589
+Calgary Flames,Detroit Red Wings,MacKenzie Weegar,0.5,2.53,Sportsbet,1.515,Pinnacle,Player Assists,Calgary Flames v Detroit Red Wings,-5.532292359670743
+Ottawa Senators,Minnesota Wild,Thomas Chabot,0.5,2.8,Bet365,1.432,Pinnacle,Player Assists,Ottawa Senators v Minnesota Wild,-5.546687948922591
+Calgary Flames,Detroit Red Wings,Dylan Larkin,0.5,2.25,Bet365,1.636,Pinnacle,Player Assists,Calgary Flames v Detroit Red Wings,-5.569138820972563
+Calgary Flames,Detroit Red Wings,Yegor Sharangovich,0.5,3.42,Pinnacle,1.31,Bet365,Player Assists,Calgary Flames v Detroit Red Wings,-5.575643944466746
+Ottawa Senators,Minnesota Wild,Shane Pinto,0.5,4,Sportsbet,1.241,Pinnacle,Player Assists,Ottawa Senators v Minnesota Wild,-5.580177276389997
+Edmonton Oilers,Toronto Maple Leafs,Morgan Rielly,0.5,3.29,Pinnacle,1.33,Bet365,Player Assists,Edmonton Oilers v Toronto Maple Leafs,-5.5831067029275205
+Tampa Bay Lightning,New York Islanders,Tony DeAngelo,0.5,3,Pinnacle,1.384,Pinnacle,Player Assists,Tampa Bay Lightning v New York Islanders,-5.587668593448947
 Tampa Bay Lightning,New York Islanders,Mathew Barzal,0.5,2.28,Bet365,1.62,Bet365,Player Assists,Tampa Bay Lightning v New York Islanders,-5.588044184535423
+Edmonton Oilers,Toronto Maple Leafs,Connor McDavid,1.5,2.8,Bet365,1.431,Pinnacle,Player Assists,Edmonton Oilers v Toronto Maple Leafs,-5.595487670959365
 Washington Capitals,Winnipeg Jets,Mark Scheifele,0.5,2.32,Bet365,1.6,Neds,Player Assists,Washington Capitals v Winnipeg Jets,-5.603448275862077
+Edmonton Oilers,Toronto Maple Leafs,Matthew Knies,0.5,3.35,Sportsbet,1.32,Bet365,Player Assists,Edmonton Oilers v Toronto Maple Leafs,-5.608322026232471
+Ottawa Senators,Minnesota Wild,Josh Norris,0.5,3.81,Pinnacle,1.26,Bet365,Player Assists,Ottawa Senators v Minnesota Wild,-5.611798525184342
+Edmonton Oilers,Toronto Maple Leafs,Leon Draisaitl,0.5,1.662,Pinnacle,2.2,Bet365,Player Assists,Edmonton Oilers v Toronto Maple Leafs,-5.623017175363754
+Edmonton Oilers,Toronto Maple Leafs,Darnell Nurse,0.5,3.4,Bet365,1.312,Pinnacle,Player Assists,Edmonton Oilers v Toronto Maple Leafs,-5.631276901004312
 Washington Capitals,Winnipeg Jets,Cole Perfetti,0.5,3.9,Bet365,1.25,Neds,Player Assists,Washington Capitals v Winnipeg Jets,-5.641025641025643
+Tampa Bay Lightning,New York Islanders,Nikita Kucherov,1.5,2.8,Pinnacle,1.43,Bet365,Player Assists,Tampa Bay Lightning v New York Islanders,-5.644355644355659
+Ottawa Senators,Minnesota Wild,Shane Pinto,0.5,4,Sportsbet,1.24,Neds,Player Assists,Ottawa Senators v Minnesota Wild,-5.645161290322598
+Tampa Bay Lightning,New York Islanders,Brayden Point,0.5,2.16,Sportsbet,1.684,Pinnacle,Player Assists,Tampa Bay Lightning v New York Islanders,-5.678719099146656
 Tampa Bay Lightning,New York Islanders,Jake Guentzel,0.5,2.2,Bet365,1.66,Bet365,Player Assists,Tampa Bay Lightning v New York Islanders,-5.6955093099671394
 Edmonton Oilers,Toronto Maple Leafs,Leon Draisaitl,0.5,1.66,Bet365,2.2,Bet365,Player Assists,Edmonton Oilers v Toronto Maple Leafs,-5.6955093099671394
 Washington Capitals,Winnipeg Jets,Josh Morrissey,0.5,2.2,Bet365,1.66,Bet365,Player Assists,Washington Capitals v Winnipeg Jets,-5.6955093099671394
 Washington Capitals,Winnipeg Jets,Kyle Connor,0.5,2.2,Bet365,1.66,Bet365,Player Assists,Washington Capitals v Winnipeg Jets,-5.6955093099671394
-Calgary Flames,Detroit Red Wings,Moritz Seider,0.5,2.2,Bet365,1.66,Bet365,Player Assists,Calgary Flames v Detroit Red Wings,-5.6955093099671394
-Calgary Flames,Detroit Red Wings,Jonathan Huberdeau,0.5,2.5,Bet365,1.52,Neds,Player Assists,Calgary Flames v Detroit Red Wings,-5.789473684210522
-Calgary Flames,Detroit Red Wings,Blake Coleman,0.5,3,Bet365,1.38,Neds,Player Assists,Calgary Flames v Detroit Red Wings,-5.797101449275366
-Boston Bruins,New York Rangers,Elias Lindholm,0.5,3,Bet365,1.38,Neds,Player Assists,Boston Bruins v New York Rangers,-5.797101449275366
+Tampa Bay Lightning,New York Islanders,Mathew Barzal,0.5,2.28,Bet365,1.617,Pinnacle,Player Assists,Tampa Bay Lightning v New York Islanders,-5.702568108583161
+Calgary Flames,Detroit Red Wings,Lucas Raymond,0.5,1.9,Bet365,1.884,Pinnacle,Player Assists,Calgary Flames v Detroit Red Wings,-5.7101352106380565
+Ottawa Senators,Minnesota Wild,Marco Rossi,0.5,2.61,Sportsbet,1.483,Pinnacle,Player Assists,Ottawa Senators v Minnesota Wild,-5.745059589782553
+Edmonton Oilers,Toronto Maple Leafs,Evan Bouchard,0.5,1.81,Sportsbet,1.98,Pinnacle,Player Assists,Edmonton Oilers v Toronto Maple Leafs,-5.753669289580898
+Ottawa Senators,Minnesota Wild,Tim Stutzle,0.5,2.1,Bet365,1.72,Neds,Player Assists,Ottawa Senators v Minnesota Wild,-5.75858250276855
+Edmonton Oilers,Toronto Maple Leafs,Mitchell Marner,0.5,1.72,Sportsbet,2.1,Bet365,Player Assists,Edmonton Oilers v Toronto Maple Leafs,-5.75858250276855
+Carolina Hurricanes,Los Angeles Kings,Adrian Kempe,0.5,2.65,Pinnacle,1.47,Bet365,Player Assists,Carolina Hurricanes v Los Angeles Kings,-5.763059940957516
+Calgary Flames,Detroit Red Wings,Mikael Backlund,0.5,3.7,Sportsbet,1.27,Bet365,Player Assists,Calgary Flames v Detroit Red Wings,-5.767184507341971
+Calgary Flames,Detroit Red Wings,Blake Coleman,0.5,3.1,Pinnacle,1.36,Bet365,Player Assists,Calgary Flames v Detroit Red Wings,-5.787476280834913
+Ottawa Senators,Minnesota Wild,Marco Rossi,0.5,2.5,Bet365,1.52,Neds,Player Assists,Ottawa Senators v Minnesota Wild,-5.789473684210522
+Edmonton Oilers,Toronto Maple Leafs,Ryan Nugent-Hopkins,0.5,2.5,Pinnacle,1.52,Bet365,Player Assists,Edmonton Oilers v Toronto Maple Leafs,-5.789473684210522
+Ottawa Senators,Minnesota Wild,Brock Faber,0.5,3,Bet365,1.38,Neds,Player Assists,Ottawa Senators v Minnesota Wild,-5.797101449275366
+Tampa Bay Lightning,New York Islanders,Tony DeAngelo,0.5,3,Pinnacle,1.38,Bet365,Player Assists,Tampa Bay Lightning v New York Islanders,-5.797101449275366
 Washington Capitals,Winnipeg Jets,Jakob Chychrun,0.5,2.75,Bet365,1.44,Neds,Player Assists,Washington Capitals v Winnipeg Jets,-5.8080808080807955
-Washington Capitals,Winnipeg Jets,Dylan Strome,0.5,2.35,Bet365,1.58,Neds,Player Assists,Washington Capitals v Winnipeg Jets,-5.84433072986803
-Boston Bruins,New York Rangers,David Pastrnak,0.5,2.05,Bet365,1.75,Neds,Player Assists,Boston Bruins v New York Rangers,-5.923344947735187
-Calgary Flames,Detroit Red Wings,Lucas Raymond,0.5,1.95,Bet365,1.83,Neds,Player Assists,Calgary Flames v Detroit Red Wings,-5.926860025220693
-Calgary Flames,Detroit Red Wings,Dylan Larkin,0.5,2.3,Bet365,1.6,Bet365,Player Assists,Calgary Flames v Detroit Red Wings,-5.978260869565233
-Florida Panthers,Chicago Blackhawks,Aaron Ekblad,0.5,2.3,Bet365,1.6,Bet365,Player Assists,Florida Panthers v Chicago Blackhawks,-5.978260869565233
+Tampa Bay Lightning,New York Islanders,Nikita Kucherov,1.5,2.7,Bet365,1.454,Pinnacle,Player Assists,Tampa Bay Lightning v New York Islanders,-5.812827958632649
+Tampa Bay Lightning,New York Islanders,Brayden Point,0.5,2.16,Sportsbet,1.68,Bet365,Player Assists,Tampa Bay Lightning v New York Islanders,-5.820105820105814
+Ottawa Senators,Minnesota Wild,Jake Sanderson,0.5,2.42,Sportsbet,1.55,Bet365,Player Assists,Ottawa Senators v Minnesota Wild,-5.838443081844846
+Carolina Hurricanes,Los Angeles Kings,Mikko Rantanen,0.5,1.83,Bet365,1.952,Pinnacle,Player Assists,Carolina Hurricanes v Los Angeles Kings,-5.874316939890711
+Calgary Flames,Detroit Red Wings,Matt Coronato,0.5,3.2,Sportsbet,1.34,Bet365,Player Assists,Calgary Flames v Detroit Red Wings,-5.876865671641784
+Carolina Hurricanes,Los Angeles Kings,Adrian Kempe,0.5,2.55,Bet365,1.5,Pinnacle,Player Assists,Carolina Hurricanes v Los Angeles Kings,-5.882352941176472
+Carolina Hurricanes,Los Angeles Kings,Anze Kopitar,0.5,2.55,Sportsbet,1.5,Bet365,Player Assists,Carolina Hurricanes v Los Angeles Kings,-5.882352941176472
+Edmonton Oilers,Toronto Maple Leafs,Zach Hyman,0.5,2.86,Pinnacle,1.41,Bet365,Player Assists,Edmonton Oilers v Toronto Maple Leafs,-5.887020780637808
+Edmonton Oilers,Toronto Maple Leafs,Zach Hyman,0.5,2.8,Bet365,1.425,Pinnacle,Player Assists,Edmonton Oilers v Toronto Maple Leafs,-5.889724310776945
+Tampa Bay Lightning,New York Islanders,Brayden Point,0.5,2.15,Bet365,1.684,Pinnacle,Player Assists,Tampa Bay Lightning v New York Islanders,-5.894050709827092
+Calgary Flames,Detroit Red Wings,Moritz Seider,0.5,2.15,Bet365,1.684,Pinnacle,Player Assists,Calgary Flames v Detroit Red Wings,-5.894050709827092
+Pittsburgh Penguins,Nashville Predators,Bryan Rust,0.5,2.3,Bet365,1.602,Pinnacle,Player Assists,Pittsburgh Penguins v Nashville Predators,-5.900233403897293
+Washington Capitals,Winnipeg Jets,Josh Morrissey,0.5,2.19,Pinnacle,1.66,Bet365,Player Assists,Washington Capitals v Winnipeg Jets,-5.903064312042705
+Washington Capitals,Winnipeg Jets,Cole Perfetti,0.5,3.86,Pinnacle,1.25,Neds,Player Assists,Washington Capitals v Winnipeg Jets,-5.9067357512953444
+Edmonton Oilers,Toronto Maple Leafs,Viktor Arvidsson,0.5,3.8,Bet365,1.256,Pinnacle,Player Assists,Edmonton Oilers v Toronto Maple Leafs,-5.933623868588667
+Ottawa Senators,Minnesota Wild,Brady Tkachuk,0.5,2.74,Sportsbet,1.44,Bet365,Player Assists,Ottawa Senators v Minnesota Wild,-5.9407948094079455
+Ottawa Senators,Minnesota Wild,Marco Rossi,0.5,2.49,Pinnacle,1.52,Neds,Player Assists,Ottawa Senators v Minnesota Wild,-5.950116254491644
+Tampa Bay Lightning,New York Islanders,Bo Horvat,0.5,2.85,Bet365,1.411,Pinnacle,Player Assists,Tampa Bay Lightning v New York Islanders,-5.959441481094663
+Tampa Bay Lightning,New York Islanders,Brandon Hagel,0.5,2.1,Bet365,1.714,Pinnacle,Player Assists,Tampa Bay Lightning v New York Islanders,-5.962104795243661
+Washington Capitals,Winnipeg Jets,Josh Morrissey,0.5,2.1,Neds,1.714,Pinnacle,Player Assists,Washington Capitals v Winnipeg Jets,-5.962104795243661
+Carolina Hurricanes,Los Angeles Kings,Trevor Moore,0.5,4,Sportsbet,1.235,Pinnacle,Player Assists,Carolina Hurricanes v Los Angeles Kings,-5.971659919028349
+Ottawa Senators,Minnesota Wild,Matthew Boldy,0.5,2.3,Bet365,1.6,Bet365,Player Assists,Ottawa Senators v Minnesota Wild,-5.978260869565233
+Pittsburgh Penguins,Nashville Predators,Bryan Rust,0.5,2.3,Bet365,1.6,Bet365,Player Assists,Pittsburgh Penguins v Nashville Predators,-5.978260869565233
+Calgary Flames,Detroit Red Wings,MacKenzie Weegar,0.5,2.5,Bet365,1.515,Pinnacle,Player Assists,Calgary Flames v Detroit Red Wings,-6.006600660065997
+Washington Capitals,Winnipeg Jets,Nikolaj Ehlers,0.5,2.41,Sportsbet,1.55,Bet365,Player Assists,Washington Capitals v Winnipeg Jets,-6.009904965868018
+Ottawa Senators,Minnesota Wild,Drake Batherson,0.5,2.6,Bet365,1.48,Neds,Player Assists,Ottawa Senators v Minnesota Wild,-6.029106029106024
+Carolina Hurricanes,Los Angeles Kings,Phillip Danault,0.5,3.75,Sportsbet,1.26,Bet365,Player Assists,Carolina Hurricanes v Los Angeles Kings,-6.0317460317460325
 Tampa Bay Lightning,New York Islanders,Brayden Point,0.5,2.15,Bet365,1.68,Bet365,Player Assists,Tampa Bay Lightning v New York Islanders,-6.035437430786272
-Florida Panthers,Chicago Blackhawks,Sam Reinhart,0.5,2.15,Bet365,1.68,Bet365,Player Assists,Florida Panthers v Chicago Blackhawks,-6.035437430786272
+Calgary Flames,Detroit Red Wings,Moritz Seider,0.5,2.15,Bet365,1.68,Bet365,Player Assists,Calgary Flames v Detroit Red Wings,-6.035437430786272
+Edmonton Oilers,Toronto Maple Leafs,Evan Bouchard,0.5,1.8,Bet365,1.98,Pinnacle,Player Assists,Edmonton Oilers v Toronto Maple Leafs,-6.060606060606055
+Edmonton Oilers,Toronto Maple Leafs,Oliver Ekman-Larsson,0.5,3.3,Pinnacle,1.32,Bet365,Player Assists,Edmonton Oilers v Toronto Maple Leafs,-6.060606060606055
+Washington Capitals,Winnipeg Jets,Jakob Chychrun,0.5,2.73,Pinnacle,1.44,Neds,Player Assists,Washington Capitals v Winnipeg Jets,-6.074481074481075
+Washington Capitals,Winnipeg Jets,Kyle Connor,0.5,2.2,Bet365,1.649,Pinnacle,Player Assists,Washington Capitals v Winnipeg Jets,-6.097359281106995
+Ottawa Senators,Minnesota Wild,Tim Stutzle,0.5,2.1,Bet365,1.71,Bet365,Player Assists,Ottawa Senators v Minnesota Wild,-6.098579782790292
 Tampa Bay Lightning,New York Islanders,Brandon Hagel,0.5,2.1,Bet365,1.71,Bet365,Player Assists,Tampa Bay Lightning v New York Islanders,-6.098579782790292
 Edmonton Oilers,Toronto Maple Leafs,Mitchell Marner,0.5,1.71,Bet365,2.1,Bet365,Player Assists,Edmonton Oilers v Toronto Maple Leafs,-6.098579782790292
-Ottawa Senators,Minnesota Wild,Tim Stutzle,0.5,2.1,Bet365,1.71,Bet365,Player Assists,Ottawa Senators v Minnesota Wild,-6.098579782790292
-Edmonton Oilers,Toronto Maple Leafs,Auston Matthews,0.5,2.4,Bet365,1.55,Bet365,Player Assists,Edmonton Oilers v Toronto Maple Leafs,-6.182795698924726
-Washington Capitals,Winnipeg Jets,Nikolaj Ehlers,0.5,2.4,Bet365,1.55,Bet365,Player Assists,Washington Capitals v Winnipeg Jets,-6.182795698924726
-Carolina Hurricanes,Los Angeles Kings,Seth Jarvis,0.5,2.4,Bet365,1.55,Bet365,Player Assists,Carolina Hurricanes v Los Angeles Kings,-6.182795698924726
+Calgary Flames,Detroit Red Wings,Morgan Frost,0.5,3.4,Bet365,1.304,Pinnacle,Player Assists,Calgary Flames v Detroit Red Wings,-6.098881270299539
+Washington Capitals,Winnipeg Jets,Dylan Strome,0.5,2.4,Bet365,1.552,Pinnacle,Player Assists,Washington Capitals v Winnipeg Jets,-6.099656357388317
+Carolina Hurricanes,Los Angeles Kings,Mikko Rantanen,0.5,1.87,Sportsbet,1.9,Bet365,Player Assists,Carolina Hurricanes v Los Angeles Kings,-6.107514776245404
+Edmonton Oilers,Toronto Maple Leafs,Connor McDavid,1.5,2.84,Sportsbet,1.41,Bet365,Player Assists,Edmonton Oilers v Toronto Maple Leafs,-6.133253421236651
+Carolina Hurricanes,Los Angeles Kings,Shayne Gostisbehere,0.5,2.84,Sportsbet,1.41,Bet365,Player Assists,Carolina Hurricanes v Los Angeles Kings,-6.133253421236651
+Ottawa Senators,Minnesota Wild,Thomas Chabot,0.5,2.8,Bet365,1.42,Neds,Player Assists,Ottawa Senators v Minnesota Wild,-6.136820925553321
+Carolina Hurricanes,Los Angeles Kings,Andrei Svechnikov,0.5,2.5,Bet365,1.512,Pinnacle,Player Assists,Carolina Hurricanes v Los Angeles Kings,-6.137566137566131
+Washington Capitals,Winnipeg Jets,Connor McMichael,0.5,3.4,Bet365,1.303,Pinnacle,Player Assists,Washington Capitals v Winnipeg Jets,-6.157735542413434
+Washington Capitals,Winnipeg Jets,John Carlson,0.5,2.59,Pinnacle,1.48,Neds,Player Assists,Washington Capitals v Winnipeg Jets,-6.177606177606165
+Carolina Hurricanes,Los Angeles Kings,Drew Doughty,0.5,2.77,Sportsbet,1.427,Pinnacle,Player Assists,Carolina Hurricanes v Los Angeles Kings,-6.17816782576357
 Ottawa Senators,Minnesota Wild,Jake Sanderson,0.5,2.4,Bet365,1.55,Bet365,Player Assists,Ottawa Senators v Minnesota Wild,-6.182795698924726
-Washington Capitals,Winnipeg Jets,Dylan Strome,0.5,2.35,Bet365,1.57,Bet365,Player Assists,Washington Capitals v Winnipeg Jets,-6.247459005285272
-Florida Panthers,Chicago Blackhawks,Connor Bedard,0.5,2.35,Bet365,1.57,Bet365,Player Assists,Florida Panthers v Chicago Blackhawks,-6.247459005285272
-Calgary Flames,Detroit Red Wings,Nazem Kadri,0.5,2.35,Neds,1.5699999999999998,Neds,Player Assists,Calgary Flames v Detroit Red Wings,-6.247459005285272
-Boston Bruins,New York Rangers,David Pastrnak,0.5,2.05,Bet365,1.74,Bet365,Player Assists,Boston Bruins v New York Rangers,-6.251752172694136
+Pittsburgh Penguins,Nashville Predators,Erik Karlsson,0.5,2.4,Bet365,1.55,Bet365,Player Assists,Pittsburgh Penguins v Nashville Predators,-6.182795698924726
+Pittsburgh Penguins,Nashville Predators,Rickard Rakell,0.5,2.4,Bet365,1.55,Bet365,Player Assists,Pittsburgh Penguins v Nashville Predators,-6.182795698924726
+Edmonton Oilers,Toronto Maple Leafs,William Nylander,0.5,2.4,Bet365,1.55,Bet365,Player Assists,Edmonton Oilers v Toronto Maple Leafs,-6.182795698924726
+Washington Capitals,Winnipeg Jets,Dylan Strome,0.5,2.4,Bet365,1.55,Bet365,Player Assists,Washington Capitals v Winnipeg Jets,-6.182795698924726
+Washington Capitals,Winnipeg Jets,Nikolaj Ehlers,0.5,2.4,Bet365,1.55,Bet365,Player Assists,Washington Capitals v Winnipeg Jets,-6.182795698924726
+Calgary Flames,Detroit Red Wings,Nazem Kadri,0.5,2.4,Bet365,1.55,Bet365,Player Assists,Calgary Flames v Detroit Red Wings,-6.182795698924726
+Ottawa Senators,Minnesota Wild,Claude Giroux,0.5,2.4,Neds,1.55,Neds,Player Assists,Ottawa Senators v Minnesota Wild,-6.182795698924726
+Calgary Flames,Detroit Red Wings,Jonathan Huberdeau,0.5,2.53,Sportsbet,1.5,Bet365,Player Assists,Calgary Flames v Detroit Red Wings,-6.192358366271411
+Calgary Flames,Detroit Red Wings,MacKenzie Weegar,0.5,2.53,Sportsbet,1.5,Bet365,Player Assists,Calgary Flames v Detroit Red Wings,-6.192358366271411
+Washington Capitals,Winnipeg Jets,Dylan Strome,0.5,2.33,Pinnacle,1.58,Neds,Player Assists,Washington Capitals v Winnipeg Jets,-6.209594176128652
+Ottawa Senators,Minnesota Wild,Shane Pinto,0.5,3.9,Bet365,1.241,Pinnacle,Player Assists,Ottawa Senators v Minnesota Wild,-6.221202917415636
+Edmonton Oilers,Toronto Maple Leafs,Morgan Rielly,0.5,3.1,Bet365,1.352,Pinnacle,Player Assists,Edmonton Oilers v Toronto Maple Leafs,-6.222561557549144
+Ottawa Senators,Minnesota Wild,Brady Tkachuk,0.5,2.65,Bet365,1.46,Neds,Player Assists,Ottawa Senators v Minnesota Wild,-6.228999741535279
+Edmonton Oilers,Toronto Maple Leafs,Auston Matthews,0.5,2.35,Bet365,1.57,Bet365,Player Assists,Edmonton Oilers v Toronto Maple Leafs,-6.247459005285272
+Calgary Flames,Detroit Red Wings,Lucas Raymond,0.5,1.88,Sportsbet,1.884,Pinnacle,Player Assists,Calgary Flames v Detroit Red Wings,-6.270045624971754
+Edmonton Oilers,Toronto Maple Leafs,Zach Hyman,0.5,2.77,Sportsbet,1.425,Pinnacle,Player Assists,Edmonton Oilers v Toronto Maple Leafs,-6.276521628982201
+Pittsburgh Penguins,Nashville Predators,Bryan Rust,0.5,2.28,Sportsbet,1.602,Pinnacle,Player Assists,Pittsburgh Penguins v Nashville Predators,-6.281621657139103
+Ottawa Senators,Minnesota Wild,Shane Pinto,0.5,3.9,Bet365,1.24,Neds,Player Assists,Ottawa Senators v Minnesota Wild,-6.286186931348237
+Carolina Hurricanes,Los Angeles Kings,Trevor Moore,0.5,4,Sportsbet,1.23,Bet365,Player Assists,Carolina Hurricanes v Los Angeles Kings,-6.3008130081300795
+Washington Capitals,Winnipeg Jets,Cole Perfetti,0.5,4,Sportsbet,1.23,Bet365,Player Assists,Washington Capitals v Winnipeg Jets,-6.3008130081300795
+Ottawa Senators,Minnesota Wild,Shane Pinto,0.5,4,Sportsbet,1.23,Bet365,Player Assists,Ottawa Senators v Minnesota Wild,-6.3008130081300795
 Edmonton Oilers,Toronto Maple Leafs,Viktor Arvidsson,0.5,3.8,Bet365,1.25,Bet365,Player Assists,Edmonton Oilers v Toronto Maple Leafs,-6.315789473684208
-Calgary Flames,Detroit Red Wings,Matt Coronato,0.5,3.05,Bet365,1.36,Neds,Player Assists,Calgary Flames v Detroit Red Wings,-6.316297010607519
+Calgary Flames,Detroit Red Wings,Joel Farabee,0.5,3.8,Bet365,1.25,Bet365,Player Assists,Calgary Flames v Detroit Red Wings,-6.315789473684208
+Calgary Flames,Detroit Red Wings,Blake Coleman,0.5,3,Bet365,1.37,Pinnacle,Player Assists,Calgary Flames v Detroit Red Wings,-6.326034063260333
+Edmonton Oilers,Toronto Maple Leafs,Auston Matthews,0.5,2.35,Bet365,1.568,Pinnacle,Player Assists,Edmonton Oilers v Toronto Maple Leafs,-6.328701693443328
 Washington Capitals,Winnipeg Jets,Aliaksei Protas,0.5,3.1,Bet365,1.35,Neds,Player Assists,Washington Capitals v Winnipeg Jets,-6.332138590203096
 Washington Capitals,Winnipeg Jets,Neal Pionk,0.5,3.1,Bet365,1.35,Neds,Player Assists,Washington Capitals v Winnipeg Jets,-6.332138590203096
-Calgary Flames,Detroit Red Wings,Rasmus Andersson,0.5,3.1,Bet365,1.35,Neds,Player Assists,Calgary Flames v Detroit Red Wings,-6.332138590203096
-Calgary Flames,Detroit Red Wings,Yegor Sharangovich,0.5,3.1,Bet365,1.35,Neds,Player Assists,Calgary Flames v Detroit Red Wings,-6.332138590203096
 Washington Capitals,Winnipeg Jets,Connor McMichael,0.5,3.4,Bet365,1.3,Neds,Player Assists,Washington Capitals v Winnipeg Jets,-6.334841628959276
-Calgary Flames,Detroit Red Wings,Mikael Backlund,0.5,3.4,Bet365,1.3,Neds,Player Assists,Calgary Flames v Detroit Red Wings,-6.334841628959276
-Calgary Flames,Detroit Red Wings,Morgan Frost,0.5,3.4,Bet365,1.3,Neds,Player Assists,Calgary Flames v Detroit Red Wings,-6.334841628959276
-Boston Bruins,New York Rangers,Morgan Geekie,0.5,3.4,Neds,1.3,Neds,Player Assists,Boston Bruins v New York Rangers,-6.334841628959276
+Edmonton Oilers,Toronto Maple Leafs,Darnell Nurse,0.5,3.32,Sportsbet,1.312,Pinnacle,Player Assists,Edmonton Oilers v Toronto Maple Leafs,-6.339994122832793
+Calgary Flames,Detroit Red Wings,Alex DeBrincat,0.5,2.52,Pinnacle,1.5,Bet365,Player Assists,Calgary Flames v Detroit Red Wings,-6.349206349206349
+Washington Capitals,Winnipeg Jets,Mark Scheifele,0.5,2.32,Bet365,1.581,Pinnacle,Player Assists,Washington Capitals v Winnipeg Jets,-6.354555170232734
+Calgary Flames,Detroit Red Wings,Nazem Kadri,0.5,2.39,Pinnacle,1.55,Bet365,Player Assists,Calgary Flames v Detroit Red Wings,-6.357133216358468
+Pittsburgh Penguins,Nashville Predators,Bryan Rust,0.5,2.28,Sportsbet,1.6,Bet365,Player Assists,Pittsburgh Penguins v Nashville Predators,-6.359649122807021
+Ottawa Senators,Minnesota Wild,Matt Boldy,0.5,2.24,Sportsbet,1.62,Neds,Player Assists,Ottawa Senators v Minnesota Wild,-6.37125220458552
 Washington Capitals,Winnipeg Jets,Kyle Connor,0.5,2.15,Neds,1.67,Neds,Player Assists,Washington Capitals v Winnipeg Jets,-6.3918674279348275
 Carolina Hurricanes,Los Angeles Kings,Phillip Danault,0.5,3.7,Bet365,1.26,Bet365,Player Assists,Carolina Hurricanes v Los Angeles Kings,-6.392106392106389
-Ottawa Senators,Minnesota Wild,Shane Pinto,0.5,3.7,Bet365,1.26,Bet365,Player Assists,Ottawa Senators v Minnesota Wild,-6.392106392106389
+Ottawa Senators,Minnesota Wild,Josh Norris,0.5,3.7,Bet365,1.26,Bet365,Player Assists,Ottawa Senators v Minnesota Wild,-6.392106392106389
+Washington Capitals,Winnipeg Jets,Tom Wilson,0.5,2.86,Pinnacle,1.4,Bet365,Player Assists,Washington Capitals v Winnipeg Jets,-6.393606393606399
+Pittsburgh Penguins,Nashville Predators,Jonathan Marchessault,0.5,2.32,Bet365,1.58,Bet365,Player Assists,Pittsburgh Penguins v Nashville Predators,-6.3945875163683885
 Washington Capitals,Winnipeg Jets,Mark Scheifele,0.5,2.32,Bet365,1.58,Bet365,Player Assists,Washington Capitals v Winnipeg Jets,-6.3945875163683885
-Florida Panthers,Chicago Blackhawks,Carter Verhaeghe,0.5,2.32,Bet365,1.58,Bet365,Player Assists,Florida Panthers v Chicago Blackhawks,-6.3945875163683885
-Ottawa Senators,Minnesota Wild,Matthew Boldy,0.5,2.32,Bet365,1.58,Bet365,Player Assists,Ottawa Senators v Minnesota Wild,-6.3945875163683885
+Calgary Flames,Detroit Red Wings,Dylan Larkin,0.5,2.2,Sportsbet,1.64,Bet365,Player Assists,Calgary Flames v Detroit Red Wings,-6.430155210643007
+Ottawa Senators,Minnesota Wild,Tim Stutzle,0.5,2.07,Pinnacle,1.72,Neds,Player Assists,Ottawa Senators v Minnesota Wild,-6.44871362768229
+Pittsburgh Penguins,Nashville Predators,Jonathan Marchessault,0.5,2.32,Bet365,1.578,Pinnacle,Player Assists,Pittsburgh Penguins v Nashville Predators,-6.474804422883618
+Pittsburgh Penguins,Nashville Predators,Rickard Rakell,0.5,2.4,Bet365,1.543,Pinnacle,Player Assists,Pittsburgh Penguins v Nashville Predators,-6.475480665370492
+Edmonton Oilers,Toronto Maple Leafs,William Nylander,0.5,2.4,Bet365,1.543,Pinnacle,Player Assists,Edmonton Oilers v Toronto Maple Leafs,-6.475480665370492
+Washington Capitals,Winnipeg Jets,Nino Niederreiter,0.5,4.08,Pinnacle,1.22,Bet365,Player Assists,Washington Capitals v Winnipeg Jets,-6.47701703632273
+Ottawa Senators,Minnesota Wild,Tim Stutzle,0.5,2.1,Bet365,1.699,Pinnacle,Player Assists,Ottawa Senators v Minnesota Wild,-6.477199473079409
+Washington Capitals,Winnipeg Jets,Alex Ovechkin,0.5,2.57,Pinnacle,1.48,Neds,Player Assists,Washington Capitals v Winnipeg Jets,-6.478073404143436
 Washington Capitals,Winnipeg Jets,Gabe Vilardi,0.5,2.7,Neds,1.44,Neds,Player Assists,Washington Capitals v Winnipeg Jets,-6.481481481481488
+Edmonton Oilers,Toronto Maple Leafs,Ryan Nugent-Hopkins,0.5,2.37,Sportsbet,1.555,Pinnacle,Player Assists,Edmonton Oilers v Toronto Maple Leafs,-6.50277449902994
+Ottawa Senators,Minnesota Wild,Brady Tkachuk,0.5,2.65,Bet365,1.454,Pinnacle,Player Assists,Ottawa Senators v Minnesota Wild,-6.5116399781993906
+Pittsburgh Penguins,Nashville Predators,Steven Stamkos,0.5,2.65,Bet365,1.454,Pinnacle,Player Assists,Pittsburgh Penguins v Nashville Predators,-6.5116399781993906
+Tampa Bay Lightning,New York Islanders,Brock Nelson,0.5,2.65,Bet365,1.454,Pinnacle,Player Assists,Tampa Bay Lightning v New York Islanders,-6.5116399781993906
+Tampa Bay Lightning,New York Islanders,Anthony Cirelli,0.5,2.85,Bet365,1.4,Bet365,Player Assists,Tampa Bay Lightning v New York Islanders,-6.516290726817031
 Tampa Bay Lightning,New York Islanders,Bo Horvat,0.5,2.85,Bet365,1.4,Bet365,Player Assists,Tampa Bay Lightning v New York Islanders,-6.516290726817031
 Washington Capitals,Winnipeg Jets,Pierre-Luc Dubois,0.5,2.85,Bet365,1.4,Bet365,Player Assists,Washington Capitals v Winnipeg Jets,-6.516290726817031
 Washington Capitals,Winnipeg Jets,Tom Wilson,0.5,2.85,Bet365,1.4,Bet365,Player Assists,Washington Capitals v Winnipeg Jets,-6.516290726817031
-Ottawa Senators,Minnesota Wild,Thomas Chabot,0.5,2.85,Bet365,1.4,Bet365,Player Assists,Ottawa Senators v Minnesota Wild,-6.516290726817031
-Florida Panthers,Chicago Blackhawks,Tyler Bertuzzi,0.5,3.6,Bet365,1.27,Bet365,Player Assists,Florida Panthers v Chicago Blackhawks,-6.517935258092722
-Boston Bruins,New York Rangers,Morgan Geekie,0.5,3.6,Bet365,1.27,Bet365,Player Assists,Boston Bruins v New York Rangers,-6.517935258092722
-Florida Panthers,Chicago Blackhawks,Frank Nazar,0.5,4.3,Bet365,1.2,Bet365,Player Assists,Florida Panthers v Chicago Blackhawks,-6.589147286821717
-Ottawa Senators,Minnesota Wild,Ryan Hartman,0.5,4.3,Bet365,1.2,Bet365,Player Assists,Ottawa Senators v Minnesota Wild,-6.589147286821717
-Edmonton Oilers,Toronto Maple Leafs,Ryan Nugent-Hopkins,0.5,2.45,Bet365,1.52,Bet365,Player Assists,Edmonton Oilers v Toronto Maple Leafs,-6.605800214822777
-Edmonton Oilers,Toronto Maple Leafs,William Nylander,0.5,2.45,Bet365,1.52,Bet365,Player Assists,Edmonton Oilers v Toronto Maple Leafs,-6.605800214822777
-Calgary Flames,Detroit Red Wings,Nazem Kadri,0.5,2.45,Bet365,1.52,Bet365,Player Assists,Calgary Flames v Detroit Red Wings,-6.605800214822777
+Edmonton Oilers,Toronto Maple Leafs,Max Domi,0.5,3.6,Bet365,1.27,Bet365,Player Assists,Edmonton Oilers v Toronto Maple Leafs,-6.517935258092722
+Calgary Flames,Detroit Red Wings,Mikael Backlund,0.5,3.6,Bet365,1.27,Bet365,Player Assists,Calgary Flames v Detroit Red Wings,-6.517935258092722
+Calgary Flames,Detroit Red Wings,Joel Farabee,0.5,3.77,Pinnacle,1.25,Bet365,Player Assists,Calgary Flames v Detroit Red Wings,-6.525198938992061
+Tampa Bay Lightning,New York Islanders,Victor Hedman,0.5,2,Bet365,1.769,Pinnacle,Player Assists,Tampa Bay Lightning v New York Islanders,-6.529112492933864
+Edmonton Oilers,Toronto Maple Leafs,Evan Bouchard,0.5,1.81,Sportsbet,1.95,Bet365,Player Assists,Edmonton Oilers v Toronto Maple Leafs,-6.530670066581679
+Washington Capitals,Winnipeg Jets,Mark Scheifele,0.5,2.27,Pinnacle,1.6,Neds,Player Assists,Washington Capitals v Winnipeg Jets,-6.552863436123335
+Ottawa Senators,Minnesota Wild,Matt Boldy,0.5,2.23,Pinnacle,1.62,Neds,Player Assists,Ottawa Senators v Minnesota Wild,-6.571444389082659
+Tampa Bay Lightning,New York Islanders,Mathew Barzal,0.5,2.23,Sportsbet,1.62,Bet365,Player Assists,Tampa Bay Lightning v New York Islanders,-6.571444389082659
+Calgary Flames,Detroit Red Wings,Dylan Larkin,0.5,2.2,Sportsbet,1.636,Pinnacle,Player Assists,Calgary Flames v Detroit Red Wings,-6.57923983107358
+Carolina Hurricanes,Los Angeles Kings,Alex Laferriere,0.5,4.3,Bet365,1.2,Bet365,Player Assists,Carolina Hurricanes v Los Angeles Kings,-6.589147286821717
+Ottawa Senators,Minnesota Wild,Mats Zuccarello,0.5,1.925,Pinnacle,1.83,Bet365,Player Assists,Ottawa Senators v Minnesota Wild,-6.592860691221336
 Ottawa Senators,Minnesota Wild,Claude Giroux,0.5,2.45,Bet365,1.52,Bet365,Player Assists,Ottawa Senators v Minnesota Wild,-6.605800214822777
-Calgary Flames,Detroit Red Wings,Alex Debrincat,0.5,2.45,Neds,1.52,Neds,Player Assists,Calgary Flames v Detroit Red Wings,-6.605800214822777
-Calgary Flames,Detroit Red Wings,Jonathan Huberdeau,0.5,2.45,Neds,1.52,Neds,Player Assists,Calgary Flames v Detroit Red Wings,-6.605800214822777
-Edmonton Oilers,Toronto Maple Leafs,Connor McDavid,1.5,2.8,Bet365,1.41,Bet365,Player Assists,Edmonton Oilers v Toronto Maple Leafs,-6.636271529888549
-Florida Panthers,Chicago Blackhawks,Anton Lundell,0.5,2.8,Bet365,1.41,Bet365,Player Assists,Florida Panthers v Chicago Blackhawks,-6.636271529888549
+Edmonton Oilers,Toronto Maple Leafs,Ryan Nugent-Hopkins,0.5,2.45,Bet365,1.52,Bet365,Player Assists,Edmonton Oilers v Toronto Maple Leafs,-6.605800214822777
+Ottawa Senators,Minnesota Wild,Marco Rossi,0.5,2.45,Neds,1.52,Neds,Player Assists,Ottawa Senators v Minnesota Wild,-6.605800214822777
+Carolina Hurricanes,Los Angeles Kings,Trevor Moore,0.5,3.9,Bet365,1.235,Pinnacle,Player Assists,Carolina Hurricanes v Los Angeles Kings,-6.612685560053988
+Pittsburgh Penguins,Nashville Predators,Filip Forsberg,0.5,1.86,Bet365,1.892,Pinnacle,Player Assists,Pittsburgh Penguins v Nashville Predators,-6.6175634817795315
+Ottawa Senators,Minnesota Wild,Josh Norris,0.5,3.5,Neds,1.281,Pinnacle,Player Assists,Ottawa Senators v Minnesota Wild,-6.635441061670577
 Carolina Hurricanes,Los Angeles Kings,Shayne Gostisbehere,0.5,2.8,Bet365,1.41,Bet365,Player Assists,Carolina Hurricanes v Los Angeles Kings,-6.636271529888549
-Calgary Flames,Detroit Red Wings,Alex DeBrincat,0.5,2.5,Bet365,1.5,Bet365,Player Assists,Calgary Flames v Detroit Red Wings,-6.666666666666665
-Calgary Flames,Detroit Red Wings,Jonathan Huberdeau,0.5,2.5,Bet365,1.5,Bet365,Player Assists,Calgary Flames v Detroit Red Wings,-6.666666666666665
-Florida Panthers,Chicago Blackhawks,Seth Jones,0.5,2.5,Bet365,1.5,Bet365,Player Assists,Florida Panthers v Chicago Blackhawks,-6.666666666666665
+Ottawa Senators,Minnesota Wild,Thomas Chabot,0.5,2.8,Bet365,1.41,Bet365,Player Assists,Ottawa Senators v Minnesota Wild,-6.636271529888549
+Edmonton Oilers,Toronto Maple Leafs,Connor McDavid,1.5,2.8,Bet365,1.41,Bet365,Player Assists,Edmonton Oilers v Toronto Maple Leafs,-6.636271529888549
+Edmonton Oilers,Toronto Maple Leafs,Zach Hyman,0.5,2.8,Bet365,1.41,Bet365,Player Assists,Edmonton Oilers v Toronto Maple Leafs,-6.636271529888549
+Washington Capitals,Winnipeg Jets,John Carlson,0.5,2.59,Pinnacle,1.47,Bet365,Player Assists,Washington Capitals v Winnipeg Jets,-6.63724949439235
+Ottawa Senators,Minnesota Wild,Brock Faber,0.5,3,Bet365,1.364,Pinnacle,Player Assists,Ottawa Senators v Minnesota Wild,-6.6471163245356735
+Tampa Bay Lightning,New York Islanders,Brandon Hagel,0.5,2.07,Sportsbet,1.714,Pinnacle,Player Assists,Tampa Bay Lightning v New York Islanders,-6.652235920157379
+Carolina Hurricanes,Los Angeles Kings,Quinton Byfield,0.5,3.1,Bet365,1.344,Pinnacle,Player Assists,Carolina Hurricanes v Los Angeles Kings,-6.662826420890933
+Washington Capitals,Winnipeg Jets,Aliaksei Protas,0.5,3.1,Bet365,1.344,Pinnacle,Player Assists,Washington Capitals v Winnipeg Jets,-6.662826420890933
+Washington Capitals,Winnipeg Jets,Neal Pionk,0.5,3.1,Bet365,1.344,Pinnacle,Player Assists,Washington Capitals v Winnipeg Jets,-6.662826420890933
 Carolina Hurricanes,Los Angeles Kings,Andrei Svechnikov,0.5,2.5,Bet365,1.5,Bet365,Player Assists,Carolina Hurricanes v Los Angeles Kings,-6.666666666666665
 Carolina Hurricanes,Los Angeles Kings,Anze Kopitar,0.5,2.5,Bet365,1.5,Bet365,Player Assists,Carolina Hurricanes v Los Angeles Kings,-6.666666666666665
 Carolina Hurricanes,Los Angeles Kings,Jackson Blake,0.5,3.75,Bet365,1.25,Bet365,Player Assists,Carolina Hurricanes v Los Angeles Kings,-6.666666666666665
-Ottawa Senators,Minnesota Wild,Josh Norris,0.5,3.75,Bet365,1.25,Bet365,Player Assists,Ottawa Senators v Minnesota Wild,-6.666666666666665
+Carolina Hurricanes,Los Angeles Kings,Seth Jarvis,0.5,2.5,Bet365,1.5,Bet365,Player Assists,Carolina Hurricanes v Los Angeles Kings,-6.666666666666665
 Ottawa Senators,Minnesota Wild,Marco Rossi,0.5,2.5,Bet365,1.5,Bet365,Player Assists,Ottawa Senators v Minnesota Wild,-6.666666666666665
-Calgary Flames,Detroit Red Wings,Mackenzie Weegar,0.5,2.5,Neds,1.5,Neds,Player Assists,Calgary Flames v Detroit Red Wings,-6.666666666666665
+Calgary Flames,Detroit Red Wings,Alex DeBrincat,0.5,2.5,Bet365,1.5,Bet365,Player Assists,Calgary Flames v Detroit Red Wings,-6.666666666666665
+Calgary Flames,Detroit Red Wings,Jonathan Huberdeau,0.5,2.5,Bet365,1.5,Bet365,Player Assists,Calgary Flames v Detroit Red Wings,-6.666666666666665
+Calgary Flames,Detroit Red Wings,MacKenzie Weegar,0.5,2.5,Bet365,1.5,Bet365,Player Assists,Calgary Flames v Detroit Red Wings,-6.666666666666665
+Tampa Bay Lightning,New York Islanders,Mathew Barzal,0.5,2.23,Sportsbet,1.617,Pinnacle,Player Assists,Tampa Bay Lightning v New York Islanders,-6.685968313130397
 Tampa Bay Lightning,New York Islanders,Kyle Palmieri,0.5,3.5,Bet365,1.28,Bet365,Player Assists,Tampa Bay Lightning v New York Islanders,-6.696428571428559
 Edmonton Oilers,Toronto Maple Leafs,Mattias Ekholm,0.5,3.5,Bet365,1.28,Bet365,Player Assists,Edmonton Oilers v Toronto Maple Leafs,-6.696428571428559
+Ottawa Senators,Minnesota Wild,Josh Norris,0.5,3.5,Neds,1.28,Neds,Player Assists,Ottawa Senators v Minnesota Wild,-6.696428571428559
+Ottawa Senators,Minnesota Wild,Jared Spurgeon,0.5,3.05,Bet365,1.353,Pinnacle,Player Assists,Ottawa Senators v Minnesota Wild,-6.696715253292629
+Carolina Hurricanes,Los Angeles Kings,Drew Doughty,0.5,2.65,Pinnacle,1.45,Bet365,Player Assists,Carolina Hurricanes v Los Angeles Kings,-6.70136629798308
+Pittsburgh Penguins,Nashville Predators,Erik Karlsson,0.5,2.4,Bet365,1.537,Pinnacle,Player Assists,Pittsburgh Penguins v Nashville Predators,-6.728475384949051
+Tampa Bay Lightning,New York Islanders,Tony DeAngelo,0.5,2.9,Bet365,1.384,Pinnacle,Player Assists,Tampa Bay Lightning v New York Islanders,-6.737093880805256
 Washington Capitals,Winnipeg Jets,Kyle Connor,0.5,2.15,Neds,1.66,Bet365,Player Assists,Washington Capitals v Winnipeg Jets,-6.752591762398441
+Edmonton Oilers,Toronto Maple Leafs,Matthew Knies,0.5,3.15,Bet365,1.333,Pinnacle,Player Assists,Edmonton Oilers v Toronto Maple Leafs,-6.764786434703929
+Edmonton Oilers,Toronto Maple Leafs,Oliver Ekman-Larsson,0.5,3.15,Bet365,1.333,Pinnacle,Player Assists,Edmonton Oilers v Toronto Maple Leafs,-6.764786434703929
 Washington Capitals,Winnipeg Jets,Dylan Strome,0.5,2.3,Neds,1.58,Neds,Player Assists,Washington Capitals v Winnipeg Jets,-6.769400110071544
+Tampa Bay Lightning,New York Islanders,Victor Hedman,0.5,1.99,Sportsbet,1.769,Pinnacle,Player Assists,Tampa Bay Lightning v New York Islanders,-6.780368774340895
+Tampa Bay Lightning,New York Islanders,Darren Raddysh,0.5,2.71,Sportsbet,1.431,Pinnacle,Player Assists,Tampa Bay Lightning v New York Islanders,-6.781570960363692
+Ottawa Senators,Minnesota Wild,Joel Eriksson Ek,0.5,2.55,Bet365,1.48,Neds,Player Assists,Ottawa Senators v Minnesota Wild,-6.783253842077386
 Washington Capitals,Winnipeg Jets,John Carlson,0.5,2.55,Bet365,1.48,Neds,Player Assists,Washington Capitals v Winnipeg Jets,-6.783253842077386
+Pittsburgh Penguins,Nashville Predators,Sidney Crosby,0.5,1.8,Bet365,1.952,Pinnacle,Player Assists,Pittsburgh Penguins v Nashville Predators,-6.785063752276876
+Pittsburgh Penguins,Nashville Predators,Matt Grzelcyk,0.5,2.75,Bet365,1.42,Bet365,Player Assists,Pittsburgh Penguins v Nashville Predators,-6.786171574903976
 Washington Capitals,Winnipeg Jets,Gabriel Vilardi,0.5,2.75,Bet365,1.42,Bet365,Player Assists,Washington Capitals v Winnipeg Jets,-6.786171574903976
 Washington Capitals,Winnipeg Jets,Jakob Chychrun,0.5,2.75,Bet365,1.42,Bet365,Player Assists,Washington Capitals v Winnipeg Jets,-6.786171574903976
 Washington Capitals,Winnipeg Jets,Pierre-Luc Dubois,0.5,2.75,Neds,1.42,Neds,Player Assists,Washington Capitals v Winnipeg Jets,-6.786171574903976
 Washington Capitals,Winnipeg Jets,Tom Wilson,0.5,2.75,Neds,1.42,Neds,Player Assists,Washington Capitals v Winnipeg Jets,-6.786171574903976
+Ottawa Senators,Minnesota Wild,Tim Stutzle,0.5,2.07,Pinnacle,1.71,Bet365,Player Assists,Ottawa Senators v Minnesota Wild,-6.788710907704054
+Tampa Bay Lightning,New York Islanders,Brandon Hagel,0.5,2.07,Sportsbet,1.71,Bet365,Player Assists,Tampa Bay Lightning v New York Islanders,-6.788710907704054
+Pittsburgh Penguins,Nashville Predators,Gustav Nyquist,0.5,3.22,Pinnacle,1.32,Bet365,Player Assists,Pittsburgh Penguins v Nashville Predators,-6.813476378693761
 Tampa Bay Lightning,New York Islanders,Victor Hedman,0.5,2,Bet365,1.76,Bet365,Player Assists,Tampa Bay Lightning v New York Islanders,-6.818181818181834
-Florida Panthers,Chicago Blackhawks,Matthew Tkachuk,0.5,1.76,Bet365,2,Bet365,Player Assists,Florida Panthers v Chicago Blackhawks,-6.818181818181834
+Calgary Flames,Detroit Red Wings,Jonathan Huberdeau,0.5,2.49,Pinnacle,1.5,Bet365,Player Assists,Calgary Flames v Detroit Red Wings,-6.827309236947787
+Carolina Hurricanes,Los Angeles Kings,Anze Kopitar,0.5,2.49,Pinnacle,1.5,Bet365,Player Assists,Carolina Hurricanes v Los Angeles Kings,-6.827309236947787
+Ottawa Senators,Minnesota Wild,Marco Rossi,0.5,2.49,Pinnacle,1.5,Bet365,Player Assists,Ottawa Senators v Minnesota Wild,-6.827309236947787
+Ottawa Senators,Minnesota Wild,Ryan Hartman,0.5,4,Bet365,1.222,Pinnacle,Player Assists,Ottawa Senators v Minnesota Wild,-6.833060556464821
+Calgary Flames,Detroit Red Wings,Yegor Sharangovich,0.5,3.2,Bet365,1.323,Pinnacle,Player Assists,Calgary Flames v Detroit Red Wings,-6.835789871504172
+Pittsburgh Penguins,Nashville Predators,Roman Josi,0.5,1.8,Bet365,1.95,Bet365,Player Assists,Pittsburgh Penguins v Nashville Predators,-6.837606837606858
+Pittsburgh Penguins,Nashville Predators,Sidney Crosby,0.5,1.8,Bet365,1.95,Bet365,Player Assists,Pittsburgh Penguins v Nashville Predators,-6.837606837606858
 Edmonton Oilers,Toronto Maple Leafs,Evan Bouchard,0.5,1.8,Bet365,1.95,Bet365,Player Assists,Edmonton Oilers v Toronto Maple Leafs,-6.837606837606858
-Calgary Flames,Detroit Red Wings,Lucas Raymond,0.5,1.95,Bet365,1.8,Bet365,Player Assists,Calgary Flames v Detroit Red Wings,-6.837606837606858
-Florida Panthers,Chicago Blackhawks,Aleksander Barkov,0.5,1.8,Bet365,1.95,Bet365,Player Assists,Florida Panthers v Chicago Blackhawks,-6.837606837606858
-Ottawa Senators,Minnesota Wild,Mats Zuccarello,0.5,1.95,Bet365,1.8,Bet365,Player Assists,Ottawa Senators v Minnesota Wild,-6.837606837606858
-Calgary Flames,Detroit Red Wings,Rasmus Andersson,0.5,3.05,Neds,1.35,Neds,Player Assists,Calgary Flames v Detroit Red Wings,-6.8609593199757235
-Calgary Flames,Detroit Red Wings,Yegor Sharangovich,0.5,3.05,Neds,1.35,Neds,Player Assists,Calgary Flames v Detroit Red Wings,-6.8609593199757235
+Ottawa Senators,Minnesota Wild,Jared Spurgeon,0.5,3.05,Bet365,1.35,Neds,Player Assists,Ottawa Senators v Minnesota Wild,-6.8609593199757235
 Washington Capitals,Winnipeg Jets,Aliaksei Protas,0.5,3.05,Neds,1.35,Neds,Player Assists,Washington Capitals v Winnipeg Jets,-6.8609593199757235
 Washington Capitals,Winnipeg Jets,Neal Pionk,0.5,3.05,Neds,1.35,Neds,Player Assists,Washington Capitals v Winnipeg Jets,-6.8609593199757235
-Philadelphia Flyers,New York Islanders,Travis Konecny,0.5,2.01,Pinnacle,1.751,Pinnacle,Player Assists,Philadelphia Flyers v New York Islanders,-6.861466510963199
-Edmonton Oilers,Toronto Maple Leafs,Morgan Rielly,0.5,3,Bet365,1.36,Bet365,Player Assists,Edmonton Oilers v Toronto Maple Leafs,-6.8627450980392135
+Ottawa Senators,Minnesota Wild,Brock Faber,0.5,3,Bet365,1.36,Bet365,Player Assists,Ottawa Senators v Minnesota Wild,-6.8627450980392135
 Calgary Flames,Detroit Red Wings,Blake Coleman,0.5,3,Bet365,1.36,Bet365,Player Assists,Calgary Flames v Detroit Red Wings,-6.8627450980392135
-Florida Panthers,Chicago Blackhawks,Teuvo Teravainen,0.5,3,Bet365,1.36,Bet365,Player Assists,Florida Panthers v Chicago Blackhawks,-6.8627450980392135
-Boston Bruins,New York Rangers,Elias Lindholm,0.5,3,Bet365,1.36,Bet365,Player Assists,Boston Bruins v New York Rangers,-6.8627450980392135
-Boston Bruins,Winnipeg Jets,Kyle Connor,0.5,2.03,Pinnacle,1.735,Pinnacle,Player Assists,Boston Bruins v Winnipeg Jets,-6.897971351911547
+Washington Capitals,Winnipeg Jets,Connor McMichael,0.5,3.32,Sportsbet,1.303,Pinnacle,Player Assists,Washington Capitals v Winnipeg Jets,-6.866452764241937
+Ottawa Senators,Minnesota Wild,Thomas Chabot,0.5,2.7,Neds,1.432,Pinnacle,Player Assists,Ottawa Senators v Minnesota Wild,-6.869439271673894
+Pittsburgh Penguins,Nashville Predators,Erik Karlsson,0.5,2.36,Pinnacle,1.55,Bet365,Player Assists,Pittsburgh Penguins v Nashville Predators,-6.889010388190275
+Edmonton Oilers,Toronto Maple Leafs,William Nylander,0.5,2.36,Sportsbet,1.55,Bet365,Player Assists,Edmonton Oilers v Toronto Maple Leafs,-6.889010388190275
+Pittsburgh Penguins,Nashville Predators,Kris Letang,0.5,2.95,Bet365,1.37,Bet365,Player Assists,Pittsburgh Penguins v Nashville Predators,-6.891005814672768
+Carolina Hurricanes,Los Angeles Kings,Brent Burns,0.5,3.2,Bet365,1.322,Pinnacle,Player Assists,Carolina Hurricanes v Los Angeles Kings,-6.89296520423599
+Pittsburgh Penguins,Nashville Predators,Brady Skjei,0.5,3.27,Pinnacle,1.31,Bet365,Player Assists,Pittsburgh Penguins v Nashville Predators,-6.916917617947105
+Ottawa Senators,Minnesota Wild,Tim Stutzle,0.5,2.05,Neds,1.72,Neds,Player Assists,Ottawa Senators v Minnesota Wild,-6.920022688598992
 Edmonton Oilers,Toronto Maple Leafs,Darnell Nurse,0.5,3.4,Bet365,1.29,Bet365,Player Assists,Edmonton Oilers v Toronto Maple Leafs,-6.931144550843582
 Washington Capitals,Winnipeg Jets,Connor McMichael,0.5,3.4,Bet365,1.29,Bet365,Player Assists,Washington Capitals v Winnipeg Jets,-6.931144550843582
-Calgary Flames,Detroit Red Wings,Mikael Backlund,0.5,3.4,Bet365,1.29,Bet365,Player Assists,Calgary Flames v Detroit Red Wings,-6.931144550843582
 Calgary Flames,Detroit Red Wings,Morgan Frost,0.5,3.4,Bet365,1.29,Bet365,Player Assists,Calgary Flames v Detroit Red Wings,-6.931144550843582
-Washington Capitals,Winnipeg Jets,Cole Perfetti,0.5,3.9,Bet365,1.23,Bet365,Player Assists,Washington Capitals v Winnipeg Jets,-6.941838649155718
 Carolina Hurricanes,Los Angeles Kings,Trevor Moore,0.5,3.9,Bet365,1.23,Bet365,Player Assists,Carolina Hurricanes v Los Angeles Kings,-6.941838649155718
+Ottawa Senators,Minnesota Wild,Shane Pinto,0.5,3.9,Bet365,1.23,Bet365,Player Assists,Ottawa Senators v Minnesota Wild,-6.941838649155718
+Pittsburgh Penguins,Nashville Predators,Kevin Hayes,0.5,3.9,Bet365,1.23,Bet365,Player Assists,Pittsburgh Penguins v Nashville Predators,-6.941838649155718
+Pittsburgh Penguins,Nashville Predators,Thomas Novak,0.5,3.9,Bet365,1.23,Bet365,Player Assists,Pittsburgh Penguins v Nashville Predators,-6.941838649155718
+Washington Capitals,Winnipeg Jets,Cole Perfetti,0.5,3.9,Bet365,1.23,Bet365,Player Assists,Washington Capitals v Winnipeg Jets,-6.941838649155718
 Washington Capitals,Winnipeg Jets,Mark Scheifele,0.5,2.25,Neds,1.6,Neds,Player Assists,Washington Capitals v Winnipeg Jets,-6.944444444444442
 Tampa Bay Lightning,New York Islanders,Tony DeAngelo,0.5,2.9,Bet365,1.38,Bet365,Player Assists,Tampa Bay Lightning v New York Islanders,-6.946526736631697
-Boston Bruins,New York Rangers,Elias Lindholm,0.5,2.9,Neds,1.38,Neds,Player Assists,Boston Bruins v New York Rangers,-6.946526736631697
-Calgary Flames,Detroit Red Wings,Blake Coleman,0.5,2.9,Neds,1.38,Neds,Player Assists,Calgary Flames v Detroit Red Wings,-6.946526736631697
-Boston Bruins,New York Rangers,Brad Marchand,0.5,2.6,Bet365,1.46,Neds,Player Assists,Boston Bruins v New York Rangers,-6.954689146469972
-Boston Bruins,New York Rangers,Charlie McAvoy,0.5,2.6,Bet365,1.46,Neds,Player Assists,Boston Bruins v New York Rangers,-6.954689146469972
-Boston Bruins,New York Rangers,Pavel Zacha,0.5,2.6,Bet365,1.46,Neds,Player Assists,Boston Bruins v New York Rangers,-6.954689146469972
-Tampa Bay Lightning,New York Islanders,Anthony Cirelli,0.5,2.7,Bet365,1.43,Bet365,Player Assists,Tampa Bay Lightning v New York Islanders,-6.967106967106984
+Ottawa Senators,Minnesota Wild,Brock Faber,0.5,2.9,Neds,1.38,Neds,Player Assists,Ottawa Senators v Minnesota Wild,-6.946526736631697
+Calgary Flames,Detroit Red Wings,Vladimir Tarasenko,0.5,3.33,Pinnacle,1.3,Bet365,Player Assists,Calgary Flames v Detroit Red Wings,-6.953106953106936
+Ottawa Senators,Minnesota Wild,Brady Tkachuk,0.5,2.6,Neds,1.46,Neds,Player Assists,Ottawa Senators v Minnesota Wild,-6.954689146469972
+Calgary Flames,Detroit Red Wings,Jonathan Huberdeau,0.5,2.53,Sportsbet,1.483,Pinnacle,Player Assists,Calgary Flames v Detroit Red Wings,-6.9565750441765495
+Ottawa Senators,Minnesota Wild,Joel Eriksson Ek,0.5,2.55,Bet365,1.476,Pinnacle,Player Assists,Ottawa Senators v Minnesota Wild,-6.966363781284879
+Pittsburgh Penguins,Nashville Predators,Ryan O'Reilly,0.5,2.7,Bet365,1.43,Bet365,Player Assists,Pittsburgh Penguins v Nashville Predators,-6.967106967106984
 Tampa Bay Lightning,New York Islanders,Nikita Kucherov,1.5,2.7,Bet365,1.43,Bet365,Player Assists,Tampa Bay Lightning v New York Islanders,-6.967106967106984
 Edmonton Oilers,Toronto Maple Leafs,John Tavares,0.5,2.7,Bet365,1.43,Bet365,Player Assists,Edmonton Oilers v Toronto Maple Leafs,-6.967106967106984
-Florida Panthers,Chicago Blackhawks,Sam Bennett,0.5,2.7,Bet365,1.43,Bet365,Player Assists,Florida Panthers v Chicago Blackhawks,-6.967106967106984
+Ottawa Senators,Minnesota Wild,Ryan Hartman,0.5,4,Bet365,1.22,Bet365,Player Assists,Ottawa Senators v Minnesota Wild,-6.9672131147541005
+Edmonton Oilers,Toronto Maple Leafs,Bobby McMann,0.5,4,Bet365,1.22,Bet365,Player Assists,Edmonton Oilers v Toronto Maple Leafs,-6.9672131147541005
 Washington Capitals,Winnipeg Jets,Nino Niederreiter,0.5,4,Bet365,1.22,Bet365,Player Assists,Washington Capitals v Winnipeg Jets,-6.9672131147541005
-Florida Panthers,Chicago Blackhawks,Ryan Donato,0.5,4,Bet365,1.22,Bet365,Player Assists,Florida Panthers v Chicago Blackhawks,-6.9672131147541005
-Boston Bruins,New York Rangers,Charlie Coyle,0.5,4,Bet365,1.22,Bet365,Player Assists,Boston Bruins v New York Rangers,-6.9672131147541005
-Carolina Hurricanes,Los Angeles Kings,Alex Laferriere,0.5,4,Bet365,1.22,Bet365,Player Assists,Carolina Hurricanes v Los Angeles Kings,-6.9672131147541005
-Montreal Canadiens,Minnesota Wild,Mats Zuccarello,0.5,1.862,Pinnacle,1.877,Pinnacle,Player Assists,Montreal Canadiens v Minnesota Wild,-6.982197864705153
-Calgary Flames,Detroit Red Wings,Lucas Raymond,0.5,1.91,Neds,1.83,Neds,Player Assists,Calgary Flames v Detroit Red Wings,-7.000829685577781
-Seattle Kraken,San Jose Sharks,Vince Dunn,0.5,2.04,Pinnacle,1.724,Pinnacle,Player Assists,Seattle Kraken v San Jose Sharks,-7.024248214366957
+Tampa Bay Lightning,New York Islanders,Mathew Barzal,0.5,2.21,Pinnacle,1.62,Bet365,Player Assists,Tampa Bay Lightning v New York Islanders,-6.97726384000894
+Ottawa Senators,Minnesota Wild,Jake Sanderson,0.5,2.31,Pinnacle,1.5699999999999998,Neds,Player Assists,Ottawa Senators v Minnesota Wild,-6.984310805966865
+Pittsburgh Penguins,Nashville Predators,Matt Grzelcyk,0.5,2.75,Bet365,1.416,Pinnacle,Player Assists,Pittsburgh Penguins v Nashville Predators,-6.985105290190052
+Carolina Hurricanes,Los Angeles Kings,Seth Jarvis,0.5,2.48,Pinnacle,1.5,Bet365,Player Assists,Carolina Hurricanes v Los Angeles Kings,-6.989247311827951
+Calgary Flames,Detroit Red Wings,Matt Coronato,0.5,3.09,Pinnacle,1.34,Bet365,Player Assists,Calgary Flames v Detroit Red Wings,-6.989325218567366
+Ottawa Senators,Minnesota Wild,Mats Zuccarello,0.5,1.91,Sportsbet,1.83,Bet365,Player Assists,Ottawa Senators v Minnesota Wild,-7.000829685577781
+Tampa Bay Lightning,New York Islanders,Brayden Point,0.5,2.1,Pinnacle,1.684,Pinnacle,Player Assists,Tampa Bay Lightning v New York Islanders,-7.0014704218979595
+Calgary Flames,Detroit Red Wings,Moritz Seider,0.5,2.1,Sportsbet,1.684,Pinnacle,Player Assists,Calgary Flames v Detroit Red Wings,-7.0014704218979595
+Pittsburgh Penguins,Nashville Predators,Sidney Crosby,0.5,1.793,Pinnacle,1.952,Pinnacle,Player Assists,Pittsburgh Penguins v Nashville Predators,-7.001956607206528
+Pittsburgh Penguins,Nashville Predators,Kris Letang,0.5,2.94,Pinnacle,1.37,Bet365,Player Assists,Pittsburgh Penguins v Nashville Predators,-7.006306172103871
+Calgary Flames,Detroit Red Wings,Lucas Raymond,0.5,1.854,Pinnacle,1.884,Pinnacle,Player Assists,Calgary Flames v Detroit Red Wings,-7.015988841478915
+Pittsburgh Penguins,Nashville Predators,Roman Josi,0.5,1.8,Bet365,1.943,Pinnacle,Player Assists,Pittsburgh Penguins v Nashville Predators,-7.022359467032668
+Edmonton Oilers,Toronto Maple Leafs,Zach Hyman,0.5,2.77,Sportsbet,1.41,Bet365,Player Assists,Edmonton Oilers v Toronto Maple Leafs,-7.023068848093805
 Washington Capitals,Winnipeg Jets,Cole Perfetti,0.5,3.7,Neds,1.25,Neds,Player Assists,Washington Capitals v Winnipeg Jets,-7.027027027027022
-Ottawa Senators,Washington Capitals,Tim Stutzle,0.5,2.16,Pinnacle,1.645,Pinnacle,Player Assists,Ottawa Senators v Washington Capitals,-7.086569852527291
-Vegas Golden Knights,Columbus Blue Jackets,Shea Theodore,0.5,1.751,Pinnacle,2,Pinnacle,Player Assists,Vegas Golden Knights v Columbus Blue Jackets,-7.110222729868654
-Carolina Hurricanes,Chicago Blackhawks,Seth Jarvis,0.5,2.05,Pinnacle,1.714,Pinnacle,Player Assists,Carolina Hurricanes v Chicago Blackhawks,-7.123544981074081
-Montreal Canadiens,Minnesota Wild,Lane Hutson,0.5,2.05,Pinnacle,1.714,Pinnacle,Player Assists,Montreal Canadiens v Minnesota Wild,-7.123544981074081
-Philadelphia Flyers,New York Islanders,Mathew Barzal,0.5,2.05,Pinnacle,1.714,Pinnacle,Player Assists,Philadelphia Flyers v New York Islanders,-7.123544981074081
-Boston Bruins,New York Rangers,David Pastrnak,0.5,2,Neds,1.75,Neds,Player Assists,Boston Bruins v New York Rangers,-7.14285714285714
-Calgary Flames,Detroit Red Wings,Moritz Seider,0.5,2.1,Neds,1.6800000000000002,Neds,Player Assists,Calgary Flames v Detroit Red Wings,-7.14285714285714
+Carolina Hurricanes,Los Angeles Kings,Jackson Blake,0.5,3.7,Sportsbet,1.25,Bet365,Player Assists,Carolina Hurricanes v Los Angeles Kings,-7.027027027027022
+Calgary Flames,Detroit Red Wings,Mikael Backlund,0.5,3.7,Sportsbet,1.25,Pinnacle,Player Assists,Calgary Flames v Detroit Red Wings,-7.027027027027022
+Washington Capitals,Winnipeg Jets,Connor McMichael,0.5,3.32,Sportsbet,1.3,Neds,Player Assists,Washington Capitals v Winnipeg Jets,-7.043558850787757
+Washington Capitals,Winnipeg Jets,Jakob Chychrun,0.5,2.73,Pinnacle,1.42,Bet365,Player Assists,Washington Capitals v Winnipeg Jets,-7.052571841304234
+Washington Capitals,Winnipeg Jets,Tom Wilson,0.5,2.73,Sportsbet,1.42,Neds,Player Assists,Washington Capitals v Winnipeg Jets,-7.052571841304234
+Pittsburgh Penguins,Nashville Predators,Sidney Crosby,0.5,1.793,Pinnacle,1.95,Bet365,Player Assists,Pittsburgh Penguins v Nashville Predators,-7.054499692536509
+Florida Panthers,Chicago Blackhawks,Aleksander Barkov,0.5,1.709,Pinnacle,2.06,Pinnacle,Player Assists,Florida Panthers v Chicago Blackhawks,-7.057440051810238
+Calgary Flames,Detroit Red Wings,Dylan Larkin,0.5,2.17,Pinnacle,1.64,Bet365,Player Assists,Calgary Flames v Detroit Red Wings,-7.058559064853309
+Ottawa Senators,Minnesota Wild,Matt Boldy,0.5,2.24,Sportsbet,1.602,Pinnacle,Player Assists,Ottawa Senators v Minnesota Wild,-7.064829677189222
+Carolina Hurricanes,Los Angeles Kings,Phillip Danault,0.5,3.61,Pinnacle,1.26,Bet365,Player Assists,Carolina Hurricanes v Los Angeles Kings,-7.0659103900100995
+Edmonton Oilers,Toronto Maple Leafs,William Nylander,0.5,2.35,Pinnacle,1.55,Bet365,Player Assists,Edmonton Oilers v Toronto Maple Leafs,-7.069320521619771
+Pittsburgh Penguins,Nashville Predators,Rickard Rakell,0.5,2.35,Pinnacle,1.55,Bet365,Player Assists,Pittsburgh Penguins v Nashville Predators,-7.069320521619771
+Pittsburgh Penguins,Nashville Predators,Erik Karlsson,0.5,2.35,Sportsbet,1.55,Bet365,Player Assists,Pittsburgh Penguins v Nashville Predators,-7.069320521619771
+Tampa Bay Lightning,New York Islanders,Victor Hedman,0.5,1.99,Sportsbet,1.76,Bet365,Player Assists,Tampa Bay Lightning v New York Islanders,-7.069438099588865
+Florida Panthers,Chicago Blackhawks,Matthew Tkachuk,0.5,1.657,Pinnacle,2.14,Pinnacle,Player Assists,Florida Panthers v Chicago Blackhawks,-7.079002137631907
+Tampa Bay Lightning,New York Islanders,Mathew Barzal,0.5,2.21,Pinnacle,1.617,Pinnacle,Player Assists,Tampa Bay Lightning v New York Islanders,-7.091787764056678
+Edmonton Oilers,Toronto Maple Leafs,Bobby McMann,0.5,3.98,Pinnacle,1.22,Bet365,Player Assists,Edmonton Oilers v Toronto Maple Leafs,-7.092841255457616
+Washington Capitals,Winnipeg Jets,Alex Ovechkin,0.5,2.53,Sportsbet,1.48,Neds,Player Assists,Washington Capitals v Winnipeg Jets,-7.093259267172325
+Pittsburgh Penguins,Nashville Predators,Ryan O'Reilly,0.5,2.69,Pinnacle,1.43,Bet365,Player Assists,Pittsburgh Penguins v Nashville Predators,-7.104791119661025
+Edmonton Oilers,Toronto Maple Leafs,Mattias Ekholm,0.5,3.45,Sportsbet,1.28,Bet365,Player Assists,Edmonton Oilers v Toronto Maple Leafs,-7.110507246376807
+Edmonton Oilers,Toronto Maple Leafs,Leon Draisaitl,0.5,1.662,Pinnacle,2.13,Pinnacle,Player Assists,Edmonton Oilers v Toronto Maple Leafs,-7.116828528330021
+Pittsburgh Penguins,Nashville Predators,Kris Letang,0.5,2.93,Sportsbet,1.37,Bet365,Player Assists,Pittsburgh Penguins v Nashville Predators,-7.122393562691509
+Tampa Bay Lightning,New York Islanders,Brandon Hagel,0.5,2.05,Pinnacle,1.714,Pinnacle,Player Assists,Tampa Bay Lightning v New York Islanders,-7.123544981074081
+Calgary Flames,Detroit Red Wings,Rasmus Andersson,0.5,3.13,Pinnacle,1.33,Bet365,Player Assists,Calgary Flames v Detroit Red Wings,-7.136851713949399
+Boston Bruins,New York Rangers,David Pastrnak,0.5,1.819,Pinnacle,1.917,Pinnacle,Player Assists,Boston Bruins v New York Rangers,-7.140102029725659
+Pittsburgh Penguins,Nashville Predators,Kevin Hayes,0.5,3.87,Pinnacle,1.23,Bet365,Player Assists,Pittsburgh Penguins v Nashville Predators,-7.140606289783813
 Washington Capitals,Winnipeg Jets,Josh Morrissey,0.5,2.1,Neds,1.6800000000000002,Neds,Player Assists,Washington Capitals v Winnipeg Jets,-7.14285714285714
-Vegas Golden Knights,Columbus Blue Jackets,Tomas Hertl,0.5,2.47,Pinnacle,1.5,Pinnacle,Player Assists,Vegas Golden Knights v Columbus Blue Jackets,-7.1524966261808265
-Carolina Hurricanes,Chicago Blackhawks,Andrei Svechnikov,0.5,2.15,Pinnacle,1.649,Pinnacle,Player Assists,Carolina Hurricanes v Chicago Blackhawks,-7.154441733538297
-Washington Capitals,Winnipeg Jets,Dylan Strome,0.5,2.3,Neds,1.57,Bet365,Player Assists,Washington Capitals v Winnipeg Jets,-7.172528385488786
+Tampa Bay Lightning,New York Islanders,Anthony Cirelli,0.5,2.8,Pinnacle,1.4,Bet365,Player Assists,Tampa Bay Lightning v New York Islanders,-7.14285714285714
+Tampa Bay Lightning,New York Islanders,Brayden Point,0.5,2.1,Pinnacle,1.68,Bet365,Player Assists,Tampa Bay Lightning v New York Islanders,-7.14285714285714
+Calgary Flames,Detroit Red Wings,Moritz Seider,0.5,2.1,Sportsbet,1.68,Bet365,Player Assists,Calgary Flames v Detroit Red Wings,-7.14285714285714
+Pittsburgh Penguins,Nashville Predators,Jonathan Marchessault,0.5,2.28,Pinnacle,1.58,Bet365,Player Assists,Pittsburgh Penguins v Nashville Predators,-7.150788363313332
+Washington Capitals,Winnipeg Jets,Kyle Connor,0.5,2.15,Neds,1.649,Pinnacle,Player Assists,Washington Capitals v Winnipeg Jets,-7.154441733538297
+Boston Bruins,New York Rangers,Artemi Panarin,0.5,1.757,Pinnacle,1.99,Pinnacle,Player Assists,Boston Bruins v New York Rangers,-7.166452638834464
+Ottawa Senators,Minnesota Wild,Tim Stutzle,0.5,2.07,Pinnacle,1.699,Pinnacle,Player Assists,Ottawa Senators v Minnesota Wild,-7.167330597993127
+Ottawa Senators,Minnesota Wild,Jake Sanderson,0.5,2.3,Neds,1.5699999999999998,Neds,Player Assists,Ottawa Senators v Minnesota Wild,-7.172528385488786
 Washington Capitals,Winnipeg Jets,Nikolaj Ehlers,0.5,2.3,Neds,1.5699999999999998,Neds,Player Assists,Washington Capitals v Winnipeg Jets,-7.172528385488786
-Tampa Bay Lightning,New York Islanders,Brock Nelson,0.5,2.65,Bet365,1.44,Bet365,Player Assists,Tampa Bay Lightning v New York Islanders,-7.180293501048229
-Edmonton Oilers,Toronto Maple Leafs,Zach Hyman,0.5,2.65,Bet365,1.44,Bet365,Player Assists,Edmonton Oilers v Toronto Maple Leafs,-7.180293501048229
 Ottawa Senators,Minnesota Wild,Brady Tkachuk,0.5,2.65,Bet365,1.44,Bet365,Player Assists,Ottawa Senators v Minnesota Wild,-7.180293501048229
+Pittsburgh Penguins,Nashville Predators,Steven Stamkos,0.5,2.65,Bet365,1.44,Bet365,Player Assists,Pittsburgh Penguins v Nashville Predators,-7.180293501048229
+Tampa Bay Lightning,New York Islanders,Brock Nelson,0.5,2.65,Bet365,1.44,Bet365,Player Assists,Tampa Bay Lightning v New York Islanders,-7.180293501048229
 Washington Capitals,Winnipeg Jets,Jakob Chychrun,0.5,2.65,Neds,1.44,Neds,Player Assists,Washington Capitals v Winnipeg Jets,-7.180293501048229
-Calgary Flames,Detroit Red Wings,Dylan Larkin,0.5,2.2,Neds,1.62,Neds,Player Assists,Calgary Flames v Detroit Red Wings,-7.182940516273839
-Vegas Golden Knights,Columbus Blue Jackets,Mark Stone,0.5,1.666,Pinnacle,2.12,Pinnacle,Player Assists,Vegas Golden Knights v Columbus Blue Jackets,-7.193820924596261
-Calgary Flames,Anaheim Ducks,Nazem Kadri,0.5,2.19,Pinnacle,1.625,Pinnacle,Player Assists,Calgary Flames v Anaheim Ducks,-7.200561995082544
-Edmonton Oilers,Detroit Red Wings,Moritz Seider,0.5,2.26,Pinnacle,1.588,Pinnacle,Player Assists,Edmonton Oilers v Detroit Red Wings,-7.220079802055235
-Tampa Bay Lightning,New York Islanders,Nick Paul,0.5,3.3,Bet365,1.3,Bet365,Player Assists,Tampa Bay Lightning v New York Islanders,-7.226107226107215
-Calgary Flames,Detroit Red Wings,Marco Kasper,0.5,3.3,Neds,1.3,Neds,Player Assists,Calgary Flames v Detroit Red Wings,-7.226107226107215
-Boston Bruins,Winnipeg Jets,Josh Morrissey,0.5,2.06,Pinnacle,1.704,Pinnacle,Player Assists,Boston Bruins v Winnipeg Jets,-7.229135329778025
-Tampa Bay Lightning,Los Angeles Kings,Jake Guentzel,0.5,2.16,Pinnacle,1.641,Pinnacle,Player Assists,Tampa Bay Lightning v Los Angeles Kings,-7.23474845961134
+Edmonton Oilers,Toronto Maple Leafs,William Nylander,0.5,2.36,Sportsbet,1.543,Pinnacle,Player Assists,Edmonton Oilers v Toronto Maple Leafs,-7.181695354636042
+Ottawa Senators,Minnesota Wild,Matt Boldy,0.5,2.2,Neds,1.62,Neds,Player Assists,Ottawa Senators v Minnesota Wild,-7.182940516273839
+Washington Capitals,Winnipeg Jets,Gabriel Vilardi,0.5,2.72,Sportsbet,1.42,Bet365,Player Assists,Washington Capitals v Winnipeg Jets,-7.187241093620544
+Edmonton Oilers,Toronto Maple Leafs,Leon Draisaitl,0.5,1.66,Bet365,2.13,Pinnacle,Player Assists,Edmonton Oilers v Toronto Maple Leafs,-7.189320662933429
+Washington Capitals,Winnipeg Jets,Aliaksei Protas,0.5,3.05,Neds,1.344,Pinnacle,Player Assists,Washington Capitals v Winnipeg Jets,-7.191647150663538
+Washington Capitals,Winnipeg Jets,Neal Pionk,0.5,3.05,Neds,1.344,Pinnacle,Player Assists,Washington Capitals v Winnipeg Jets,-7.191647150663538
+Boston Bruins,New York Rangers,J.T. Miller,0.5,2.12,Pinnacle,1.666,Pinnacle,Player Assists,Boston Bruins v New York Rangers,-7.193820924596261
+Edmonton Oilers,Toronto Maple Leafs,Mattias Ekholm,0.5,3.44,Pinnacle,1.28,Bet365,Player Assists,Edmonton Oilers v Toronto Maple Leafs,-7.194767441860472
+Calgary Flames,Detroit Red Wings,Nazem Kadri,0.5,2.4,Bet365,1.526,Pinnacle,Player Assists,Calgary Flames v Detroit Red Wings,-7.197466142420272
+Edmonton Oilers,Toronto Maple Leafs,John Tavares,0.5,2.4,Pinnacle,1.526,Pinnacle,Player Assists,Edmonton Oilers v Toronto Maple Leafs,-7.197466142420272
+Pittsburgh Penguins,Nashville Predators,Michael Bunting,0.5,3.07,Pinnacle,1.34,Bet365,Player Assists,Pittsburgh Penguins v Nashville Predators,-7.200155573921929
+Pittsburgh Penguins,Nashville Predators,Filip Forsberg,0.5,1.84,Pinnacle,1.892,Pinnacle,Player Assists,Pittsburgh Penguins v Nashville Predators,-7.201948708521
+Tampa Bay Lightning,New York Islanders,Anders Lee,0.5,3.18,Pinnacle,1.32,Bet365,Player Assists,Tampa Bay Lightning v New York Islanders,-7.204116638078895
+Washington Capitals,Winnipeg Jets,Cole Perfetti,0.5,3.86,Pinnacle,1.23,Bet365,Player Assists,Washington Capitals v Winnipeg Jets,-7.2075487594254195
+Calgary Flames,Detroit Red Wings,Dylan Larkin,0.5,2.17,Pinnacle,1.636,Pinnacle,Player Assists,Calgary Flames v Detroit Red Wings,-7.207643685283882
+Calgary Flames,Detroit Red Wings,Vladimir Tarasenko,0.5,3.3,Bet365,1.3,Bet365,Player Assists,Calgary Flames v Detroit Red Wings,-7.226107226107215
+Florida Panthers,Chicago Blackhawks,Carter Verhaeghe,0.5,2.31,Pinnacle,1.564,Pinnacle,Player Assists,Florida Panthers v Chicago Blackhawks,-7.228662215874504
+Calgary Flames,Detroit Red Wings,Moritz Seider,0.5,2.09,Pinnacle,1.684,Pinnacle,Player Assists,Calgary Flames v Detroit Red Wings,-7.22931275500347
+Pittsburgh Penguins,Nashville Predators,Jonathan Marchessault,0.5,2.28,Pinnacle,1.578,Pinnacle,Player Assists,Pittsburgh Penguins v Nashville Predators,-7.231005269828561
+Ottawa Senators,Minnesota Wild,Brady Tkachuk,0.5,2.6,Neds,1.454,Pinnacle,Player Assists,Ottawa Senators v Minnesota Wild,-7.237329383134061
+Florida Panthers,Chicago Blackhawks,Sam Reinhart,0.5,2.11,Pinnacle,1.671,Pinnacle,Player Assists,Florida Panthers v Chicago Blackhawks,-7.237769477084699
+Carolina Hurricanes,Los Angeles Kings,Adrian Kempe,0.5,2.55,Bet365,1.47,Bet365,Player Assists,Carolina Hurricanes v Los Angeles Kings,-7.242897158863548
+Ottawa Senators,Minnesota Wild,Joel Eriksson Ek,0.5,2.55,Bet365,1.47,Bet365,Player Assists,Ottawa Senators v Minnesota Wild,-7.242897158863548
 Tampa Bay Lightning,New York Islanders,Darren Raddysh,0.5,2.55,Bet365,1.47,Bet365,Player Assists,Tampa Bay Lightning v New York Islanders,-7.242897158863548
 Washington Capitals,Winnipeg Jets,Alexander Ovechkin,0.5,2.55,Bet365,1.47,Bet365,Player Assists,Washington Capitals v Winnipeg Jets,-7.242897158863548
 Washington Capitals,Winnipeg Jets,John Carlson,0.5,2.55,Bet365,1.47,Bet365,Player Assists,Washington Capitals v Winnipeg Jets,-7.242897158863548
-Calgary Flames,Detroit Red Wings,MacKenzie Weegar,0.5,2.55,Bet365,1.47,Bet365,Player Assists,Calgary Flames v Detroit Red Wings,-7.242897158863548
-Carolina Hurricanes,Los Angeles Kings,Adrian Kempe,0.5,2.55,Bet365,1.47,Bet365,Player Assists,Carolina Hurricanes v Los Angeles Kings,-7.242897158863548
-Carolina Hurricanes,Los Angeles Kings,Drew Doughty,0.5,2.55,Bet365,1.47,Bet365,Player Assists,Carolina Hurricanes v Los Angeles Kings,-7.242897158863548
-Ottawa Senators,Minnesota Wild,Joel Eriksson Ek,0.5,2.55,Bet365,1.47,Bet365,Player Assists,Ottawa Senators v Minnesota Wild,-7.242897158863548
-Seattle Kraken,San Jose Sharks,Chandler Stephenson,0.5,2.21,Pinnacle,1.613,Pinnacle,Player Assists,Seattle Kraken v San Jose Sharks,-7.245149001467155
+Ottawa Senators,Minnesota Wild,Jared Spurgeon,0.5,3,Neds,1.353,Pinnacle,Player Assists,Ottawa Senators v Minnesota Wild,-7.243163340724323
+Ottawa Senators,Minnesota Wild,Tim Stutzle,0.5,2.05,Neds,1.71,Bet365,Player Assists,Ottawa Senators v Minnesota Wild,-7.2600199686207345
+Tampa Bay Lightning,New York Islanders,Brandon Hagel,0.5,2.05,Pinnacle,1.71,Bet365,Player Assists,Tampa Bay Lightning v New York Islanders,-7.2600199686207345
+Ottawa Senators,Minnesota Wild,Matt Boldy,0.5,2.23,Pinnacle,1.602,Pinnacle,Player Assists,Ottawa Senators v Minnesota Wild,-7.265021861686338
+Pittsburgh Penguins,Nashville Predators,Bryan Rust,0.5,2.23,Pinnacle,1.602,Pinnacle,Player Assists,Pittsburgh Penguins v Nashville Predators,-7.265021861686338
 Carolina Hurricanes,Los Angeles Kings,Mikko Rantanen,0.5,1.83,Bet365,1.9,Bet365,Player Assists,Carolina Hurricanes v Los Angeles Kings,-7.276387690537822
-Calgary Flames,Anaheim Ducks,Jonathan Huberdeau,0.5,2.32,Pinnacle,1.558,Pinnacle,Player Assists,Calgary Flames v Anaheim Ducks,-7.288300650701607
-Ottawa Senators,Washington Capitals,Dylan Strome,0.5,2.32,Pinnacle,1.558,Pinnacle,Player Assists,Ottawa Senators v Washington Capitals,-7.288300650701607
-Tampa Bay Lightning,Los Angeles Kings,Victor Hedman,0.5,1.97,Pinnacle,1.769,Pinnacle,Player Assists,Tampa Bay Lightning v Los Angeles Kings,-7.290533812730815
-Boston Bruins,Winnipeg Jets,Nikolaj Ehlers,0.5,2.15,Pinnacle,1.645,Pinnacle,Player Assists,Boston Bruins v Winnipeg Jets,-7.3019014632077495
-Edmonton Oilers,Detroit Red Wings,Leon Draisaitl,0.5,1.645,Pinnacle,2.15,Pinnacle,Player Assists,Edmonton Oilers v Detroit Red Wings,-7.3019014632077495
-Edmonton Oilers,Detroit Red Wings,Lucas Raymond,0.5,2.07,Pinnacle,1.694,Pinnacle,Player Assists,Edmonton Oilers v Detroit Red Wings,-7.34105595765675
-Montreal Canadiens,Minnesota Wild,Nick Suzuki,0.5,2.02,Pinnacle,1.729,Pinnacle,Player Assists,Montreal Canadiens v Minnesota Wild,-7.341850437212605
-Tampa Bay Lightning,Los Angeles Kings,Brayden Point,0.5,2.02,Pinnacle,1.729,Pinnacle,Player Assists,Tampa Bay Lightning v Los Angeles Kings,-7.341850437212605
-Vegas Golden Knights,Columbus Blue Jackets,Kirill Marchenko,0.5,2.31,Pinnacle,1.561,Pinnacle,Player Assists,Vegas Golden Knights v Columbus Blue Jackets,-7.351542329120808
-Carolina Hurricanes,Chicago Blackhawks,Jesperi Kotkaniemi,0.5,2.78,Pinnacle,1.4,Pinnacle,Player Assists,Carolina Hurricanes v Chicago Blackhawks,-7.3997944501541735
+Ottawa Senators,Minnesota Wild,Mats Zuccarello,0.5,1.9,Bet365,1.83,Bet365,Player Assists,Ottawa Senators v Minnesota Wild,-7.276387690537822
+Calgary Flames,Detroit Red Wings,Lucas Raymond,0.5,1.9,Bet365,1.83,Bet365,Player Assists,Calgary Flames v Detroit Red Wings,-7.276387690537822
+Tampa Bay Lightning,New York Islanders,Kyle Palmieri,0.5,3.43,Pinnacle,1.28,Bet365,Player Assists,Tampa Bay Lightning v New York Islanders,-7.279518950437325
+Calgary Flames,Detroit Red Wings,Matt Coronato,0.5,3.2,Sportsbet,1.315,Pinnacle,Player Assists,Calgary Flames v Detroit Red Wings,-7.295627376425862
+Washington Capitals,Winnipeg Jets,Mark Scheifele,0.5,2.27,Pinnacle,1.581,Pinnacle,Player Assists,Washington Capitals v Winnipeg Jets,-7.303970330494014
+Edmonton Oilers,Toronto Maple Leafs,Max Domi,0.5,3.5,Pinnacle,1.27,Bet365,Player Assists,Edmonton Oilers v Toronto Maple Leafs,-7.311586051743513
+Ottawa Senators,Minnesota Wild,Mats Zuccarello,0.5,1.925,Pinnacle,1.806,Pinnacle,Player Assists,Ottawa Senators v Minnesota Wild,-7.319037551595686
+Boston Bruins,New York Rangers,Adam Fox,0.5,1.775,Pinnacle,1.961,Pinnacle,Player Assists,Boston Bruins v New York Rangers,-7.332418786046224
+Tampa Bay Lightning,New York Islanders,Darren Raddysh,0.5,2.67,Pinnacle,1.431,Pinnacle,Player Assists,Tampa Bay Lightning v New York Islanders,-7.334385477272898
+Carolina Hurricanes,Los Angeles Kings,Seth Jarvis,0.5,2.5,Bet365,1.485,Pinnacle,Player Assists,Carolina Hurricanes v Los Angeles Kings,-7.3400673400673355
+Pittsburgh Penguins,Nashville Predators,Bryan Rust,0.5,2.23,Pinnacle,1.6,Bet365,Player Assists,Pittsburgh Penguins v Nashville Predators,-7.343049327354256
+Washington Capitals,Winnipeg Jets,Mark Scheifele,0.5,2.27,Pinnacle,1.58,Bet365,Player Assists,Washington Capitals v Winnipeg Jets,-7.344002676629668
+Washington Capitals,Winnipeg Jets,Dylan Strome,0.5,2.33,Pinnacle,1.552,Pinnacle,Player Assists,Washington Capitals v Winnipeg Jets,-7.3514446263439615
+Edmonton Oilers,Toronto Maple Leafs,William Nylander,0.5,2.35,Pinnacle,1.543,Pinnacle,Player Assists,Edmonton Oilers v Toronto Maple Leafs,-7.362005488065537
+Pittsburgh Penguins,Nashville Predators,Rickard Rakell,0.5,2.35,Pinnacle,1.543,Pinnacle,Player Assists,Pittsburgh Penguins v Nashville Predators,-7.362005488065537
+Calgary Flames,Detroit Red Wings,Moritz Seider,0.5,2.09,Pinnacle,1.68,Bet365,Player Assists,Calgary Flames v Detroit Red Wings,-7.370699475962628
+Calgary Flames,Detroit Red Wings,Nazem Kadri,0.5,2.39,Pinnacle,1.526,Pinnacle,Player Assists,Calgary Flames v Detroit Red Wings,-7.371803659854015
+Ottawa Senators,Minnesota Wild,Jared Spurgeon,0.5,3,Neds,1.35,Neds,Player Assists,Ottawa Senators v Minnesota Wild,-7.407407407407396
+Calgary Flames,Detroit Red Wings,Marco Kasper,0.5,3.12,Pinnacle,1.327,Pinnacle,Player Assists,Calgary Flames v Detroit Red Wings,-7.409232315034875
+Ottawa Senators,Minnesota Wild,Jared Spurgeon,0.5,3.05,Bet365,1.34,Bet365,Player Assists,Ottawa Senators v Minnesota Wild,-7.413750917543416
+Pittsburgh Penguins,Nashville Predators,Michael Bunting,0.5,3.05,Bet365,1.34,Bet365,Player Assists,Pittsburgh Penguins v Nashville Predators,-7.413750917543416
 Calgary Flames,Detroit Red Wings,Matt Coronato,0.5,3.05,Bet365,1.34,Bet365,Player Assists,Calgary Flames v Detroit Red Wings,-7.413750917543416
-Ottawa Senators,Minnesota Wild,Brock Faber,0.5,3.05,Bet365,1.34,Bet365,Player Assists,Ottawa Senators v Minnesota Wild,-7.413750917543416
-Carolina Hurricanes,Chicago Blackhawks,Shayne Gostisbehere,0.5,2.11,Pinnacle,1.666,Pinnacle,Player Assists,Carolina Hurricanes v Chicago Blackhawks,-7.417374532751486
-Vegas Golden Knights,Columbus Blue Jackets,Jack Eichel,0.5,1.598,Pinnacle,2.23,Pinnacle,Player Assists,Vegas Golden Knights v Columbus Blue Jackets,-7.421272105827348
-Boston Bruins,New York Rangers,Brad Marchand,0.5,2.6,Bet365,1.45,Bet365,Player Assists,Boston Bruins v New York Rangers,-7.427055702917773
-Boston Bruins,New York Rangers,Charlie McAvoy,0.5,2.6,Bet365,1.45,Bet365,Player Assists,Boston Bruins v New York Rangers,-7.427055702917773
-Boston Bruins,New York Rangers,Pavel Zacha,0.5,2.6,Bet365,1.45,Bet365,Player Assists,Boston Bruins v New York Rangers,-7.427055702917773
+Florida Panthers,Chicago Blackhawks,Aaron Ekblad,0.5,2.23,Pinnacle,1.598,Pinnacle,Player Assists,Florida Panthers v Chicago Blackhawks,-7.421272105827348
+Carolina Hurricanes,Los Angeles Kings,Drew Doughty,0.5,2.6,Bet365,1.45,Bet365,Player Assists,Carolina Hurricanes v Los Angeles Kings,-7.427055702917773
 Ottawa Senators,Minnesota Wild,Drake Batherson,0.5,2.6,Bet365,1.45,Bet365,Player Assists,Ottawa Senators v Minnesota Wild,-7.427055702917773
-Calgary Flames,Detroit Red Wings,Matt Coronato,0.5,2.95,Neds,1.36,Neds,Player Assists,Calgary Flames v Detroit Red Wings,-7.427716849451649
-Seattle Kraken,San Jose Sharks,Jared McCann,0.5,2.36,Pinnacle,1.537,Pinnacle,Player Assists,Seattle Kraken v San Jose Sharks,-7.434690074214578
+Ottawa Senators,Minnesota Wild,Marco Rossi,0.5,2.5,Bet365,1.483,Pinnacle,Player Assists,Ottawa Senators v Minnesota Wild,-7.430883344571804
+Calgary Flames,Detroit Red Wings,Jonathan Huberdeau,0.5,2.5,Bet365,1.483,Pinnacle,Player Assists,Calgary Flames v Detroit Red Wings,-7.430883344571804
+Ottawa Senators,Minnesota Wild,Claude Giroux,0.5,2.33,Pinnacle,1.55,Neds,Player Assists,Ottawa Senators v Minnesota Wild,-7.434583967880393
+Washington Capitals,Winnipeg Jets,Dylan Strome,0.5,2.33,Pinnacle,1.55,Bet365,Player Assists,Washington Capitals v Winnipeg Jets,-7.434583967880393
+Pittsburgh Penguins,Nashville Predators,Rickard Rakell,0.5,2.33,Sportsbet,1.55,Bet365,Player Assists,Pittsburgh Penguins v Nashville Predators,-7.434583967880393
+Calgary Flames,Detroit Red Wings,Nazem Kadri,0.5,2.33,Sportsbet,1.55,Bet365,Player Assists,Calgary Flames v Detroit Red Wings,-7.434583967880393
+Pittsburgh Penguins,Nashville Predators,Erik Karlsson,0.5,2.36,Pinnacle,1.537,Pinnacle,Player Assists,Pittsburgh Penguins v Nashville Predators,-7.434690074214578
+Carolina Hurricanes,Los Angeles Kings,Kevin Fiala,0.5,3.1,Bet365,1.33,Bet365,Player Assists,Carolina Hurricanes v Los Angeles Kings,-7.446034440941052
+Carolina Hurricanes,Los Angeles Kings,Quinton Byfield,0.5,3.1,Bet365,1.33,Bet365,Player Assists,Carolina Hurricanes v Los Angeles Kings,-7.446034440941052
+Edmonton Oilers,Toronto Maple Leafs,Morgan Rielly,0.5,3.1,Bet365,1.33,Bet365,Player Assists,Edmonton Oilers v Toronto Maple Leafs,-7.446034440941052
 Washington Capitals,Winnipeg Jets,Aliaksei Protas,0.5,3.1,Bet365,1.33,Bet365,Player Assists,Washington Capitals v Winnipeg Jets,-7.446034440941052
 Washington Capitals,Winnipeg Jets,Neal Pionk,0.5,3.1,Bet365,1.33,Bet365,Player Assists,Washington Capitals v Winnipeg Jets,-7.446034440941052
 Calgary Flames,Detroit Red Wings,Rasmus Andersson,0.5,3.1,Bet365,1.33,Bet365,Player Assists,Calgary Flames v Detroit Red Wings,-7.446034440941052
-Calgary Flames,Detroit Red Wings,Yegor Sharangovich,0.5,3.1,Bet365,1.33,Bet365,Player Assists,Calgary Flames v Detroit Red Wings,-7.446034440941052
-Carolina Hurricanes,Los Angeles Kings,Kevin Fiala,0.5,3.1,Bet365,1.33,Bet365,Player Assists,Carolina Hurricanes v Los Angeles Kings,-7.446034440941052
-Carolina Hurricanes,Los Angeles Kings,Quinton Byfield,0.5,3.1,Bet365,1.33,Bet365,Player Assists,Carolina Hurricanes v Los Angeles Kings,-7.446034440941052
-Montreal Canadiens,Minnesota Wild,Joel Eriksson Ek,0.5,2.42,Pinnacle,1.512,Pinnacle,Player Assists,Montreal Canadiens v Minnesota Wild,-7.459880187152912
-Boston Bruins,New York Rangers,David Pastrnak,0.5,2,Neds,1.74,Bet365,Player Assists,Boston Bruins v New York Rangers,-7.471264367816088
-Tampa Bay Lightning,Los Angeles Kings,Kevin Fiala,0.5,2.9,Pinnacle,1.37,Pinnacle,Player Assists,Tampa Bay Lightning v Los Angeles Kings,-7.4754593506166644
-Calgary Flames,Detroit Red Wings,Jonathan Huberdeau,0.5,2.45,Neds,1.5,Bet365,Player Assists,Calgary Flames v Detroit Red Wings,-7.482993197278898
-Edmonton Oilers,Detroit Red Wings,Ryan Nugent-Hopkins,0.5,2.35,Pinnacle,1.54,Pinnacle,Player Assists,Edmonton Oilers v Detroit Red Wings,-7.488256424426631
-Carolina Hurricanes,Chicago Blackhawks,Connor Bedard,0.5,2.41,Pinnacle,1.515,Pinnacle,Player Assists,Carolina Hurricanes v Chicago Blackhawks,-7.50037659367595
+Ottawa Senators,Minnesota Wild,Claude Giroux,0.5,2.4,Neds,1.52,Bet365,Player Assists,Ottawa Senators v Minnesota Wild,-7.456140350877205
+Ottawa Senators,Minnesota Wild,Thomas Chabot,0.5,2.7,Neds,1.42,Neds,Player Assists,Ottawa Senators v Minnesota Wild,-7.459572248304647
+Pittsburgh Penguins,Nashville Predators,Matt Grzelcyk,0.5,2.7,Pinnacle,1.42,Bet365,Player Assists,Pittsburgh Penguins v Nashville Predators,-7.459572248304647
+Ottawa Senators,Minnesota Wild,Ryan Hartman,0.5,3.9,Neds,1.222,Pinnacle,Player Assists,Ottawa Senators v Minnesota Wild,-7.474086197490459
+Ottawa Senators,Minnesota Wild,Marco Rossi,0.5,2.45,Neds,1.5,Bet365,Player Assists,Ottawa Senators v Minnesota Wild,-7.482993197278898
+Washington Capitals,Winnipeg Jets,Nikolaj Ehlers,0.5,2.45,Pinnacle,1.5,Pinnacle,Player Assists,Washington Capitals v Winnipeg Jets,-7.482993197278898
+Pittsburgh Penguins,Nashville Predators,Filip Forsberg,0.5,1.83,Sportsbet,1.892,Pinnacle,Player Assists,Pittsburgh Penguins v Nashville Predators,-7.498931364733874
+Tampa Bay Lightning,New York Islanders,Anthony Cirelli,0.5,2.85,Bet365,1.381,Pinnacle,Player Assists,Tampa Bay Lightning v New York Islanders,-7.499015460446912
+Pittsburgh Penguins,Nashville Predators,Gustav Nyquist,0.5,3.15,Bet365,1.32,Bet365,Player Assists,Pittsburgh Penguins v Nashville Predators,-7.503607503607501
 Tampa Bay Lightning,New York Islanders,Anders Lee,0.5,3.15,Bet365,1.32,Bet365,Player Assists,Tampa Bay Lightning v New York Islanders,-7.503607503607501
 Edmonton Oilers,Toronto Maple Leafs,Matthew Knies,0.5,3.15,Bet365,1.32,Bet365,Player Assists,Edmonton Oilers v Toronto Maple Leafs,-7.503607503607501
 Edmonton Oilers,Toronto Maple Leafs,Oliver Ekman-Larsson,0.5,3.15,Bet365,1.32,Bet365,Player Assists,Edmonton Oilers v Toronto Maple Leafs,-7.503607503607501
-Ottawa Senators,Minnesota Wild,Jared Spurgeon,0.5,3.15,Bet365,1.32,Bet365,Player Assists,Ottawa Senators v Minnesota Wild,-7.503607503607501
+Washington Capitals,Winnipeg Jets,Connor McMichael,0.5,3.25,Neds,1.303,Pinnacle,Player Assists,Washington Capitals v Winnipeg Jets,-7.515201605761845
+Tampa Bay Lightning,New York Islanders,Victor Hedman,0.5,1.961,Pinnacle,1.769,Pinnacle,Player Assists,Tampa Bay Lightning v New York Islanders,-7.52350310996599
+Pittsburgh Penguins,Nashville Predators,Filip Forsberg,0.5,1.86,Bet365,1.86,Bet365,Player Assists,Pittsburgh Penguins v Nashville Predators,-7.526881720430101
+Boston Bruins,New York Rangers,Vincent Trocheck,0.5,2.46,Pinnacle,1.495,Pinnacle,Player Assists,Boston Bruins v New York Rangers,-7.540038611088451
+Calgary Flames,Detroit Red Wings,Mikael Backlund,0.5,3.47,Pinnacle,1.27,Bet365,Player Assists,Calgary Flames v Detroit Red Wings,-7.558601284349531
+Ottawa Senators,Minnesota Wild,Drake Batherson,0.5,2.5,Neds,1.48,Neds,Player Assists,Ottawa Senators v Minnesota Wild,-7.567567567567579
+Ottawa Senators,Minnesota Wild,Joel Eriksson Ek,0.5,2.5,Neds,1.48,Neds,Player Assists,Ottawa Senators v Minnesota Wild,-7.567567567567579
 Washington Capitals,Winnipeg Jets,Alex Ovechkin,0.5,2.5,Neds,1.48,Neds,Player Assists,Washington Capitals v Winnipeg Jets,-7.567567567567579
 Washington Capitals,Winnipeg Jets,John Carlson,0.5,2.5,Neds,1.48,Neds,Player Assists,Washington Capitals v Winnipeg Jets,-7.567567567567579
-Florida Panthers,Chicago Blackhawks,Gustav Forsling,0.5,3.2,Bet365,1.31,Bet365,Player Assists,Florida Panthers v Chicago Blackhawks,-7.585877862595414
 Carolina Hurricanes,Los Angeles Kings,Brent Burns,0.5,3.2,Bet365,1.31,Bet365,Player Assists,Carolina Hurricanes v Los Angeles Kings,-7.585877862595414
-Philadelphia Flyers,New York Islanders,Anders Lee,0.5,2.95,Pinnacle,1.357,Pinnacle,Player Assists,Philadelphia Flyers v New York Islanders,-7.590272660280029
-Montreal Canadiens,Minnesota Wild,Cole Caufield,0.5,2.51,Pinnacle,1.476,Pinnacle,Player Assists,Montreal Canadiens v Minnesota Wild,-7.591314956974271
-Montreal Canadiens,Minnesota Wild,Marco Rossi,0.5,2.49,Pinnacle,1.483,Pinnacle,Player Assists,Montreal Canadiens v Minnesota Wild,-7.591525914852926
-Seattle Kraken,San Jose Sharks,Kaapo Kakko,0.5,2.29,Pinnacle,1.564,Pinnacle,Player Assists,Seattle Kraken v San Jose Sharks,-7.606741196573563
-Boston Bruins,New York Rangers,Charlie Coyle,0.5,3.9,Neds,1.22,Bet365,Player Assists,Boston Bruins v New York Rangers,-7.608238755779739
-Washington Capitals,Winnipeg Jets,Nino Niederreiter,0.5,3.9,Neds,1.22,Bet365,Player Assists,Washington Capitals v Winnipeg Jets,-7.608238755779739
-Montreal Canadiens,Minnesota Wild,Mike Matheson,0.5,2.54,Pinnacle,1.465,Pinnacle,Player Assists,Montreal Canadiens v Minnesota Wild,-7.629464405686481
-Seattle Kraken,San Jose Sharks,William Eklund,0.5,2.41,Pinnacle,1.512,Pinnacle,Player Assists,Seattle Kraken v San Jose Sharks,-7.631342071176084
-Ottawa Senators,Washington Capitals,Alex Ovechkin,0.5,2.7,Pinnacle,1.416,Pinnacle,Player Assists,Ottawa Senators v Washington Capitals,-7.6585059635907005
-Calgary Flames,Detroit Red Wings,Mikael Backlund,0.5,3.25,Neds,1.3,Neds,Player Assists,Calgary Flames v Detroit Red Wings,-7.692307692307687
-Calgary Flames,Detroit Red Wings,Morgan Frost,0.5,3.25,Neds,1.3,Neds,Player Assists,Calgary Flames v Detroit Red Wings,-7.692307692307687
+Pittsburgh Penguins,Nashville Predators,Brady Skjei,0.5,3.2,Bet365,1.31,Bet365,Player Assists,Pittsburgh Penguins v Nashville Predators,-7.585877862595414
+Calgary Flames,Detroit Red Wings,Yegor Sharangovich,0.5,3.2,Bet365,1.31,Bet365,Player Assists,Calgary Flames v Detroit Red Wings,-7.585877862595414
+Washington Capitals,Winnipeg Jets,Jakob Chychrun,0.5,2.75,Bet365,1.404,Pinnacle,Player Assists,Washington Capitals v Winnipeg Jets,-7.588707588707599
+Calgary Flames,Detroit Red Wings,Jonathan Huberdeau,0.5,2.49,Pinnacle,1.483,Pinnacle,Player Assists,Calgary Flames v Detroit Red Wings,-7.591525914852926
+Ottawa Senators,Minnesota Wild,Marco Rossi,0.5,2.49,Pinnacle,1.483,Pinnacle,Player Assists,Ottawa Senators v Minnesota Wild,-7.591525914852926
+Tampa Bay Lightning,New York Islanders,Anders Lee,0.5,3.14,Sportsbet,1.32,Bet365,Player Assists,Tampa Bay Lightning v New York Islanders,-7.604709515537533
+Pittsburgh Penguins,Nashville Predators,Gustav Nyquist,0.5,3.14,Sportsbet,1.32,Bet365,Player Assists,Pittsburgh Penguins v Nashville Predators,-7.604709515537533
+Ottawa Senators,Minnesota Wild,Ryan Hartman,0.5,3.9,Neds,1.22,Bet365,Player Assists,Ottawa Senators v Minnesota Wild,-7.608238755779739
+Pittsburgh Penguins,Nashville Predators,Erik Karlsson,0.5,2.35,Sportsbet,1.537,Pinnacle,Player Assists,Pittsburgh Penguins v Nashville Predators,-7.615000207644074
+Ottawa Senators,Minnesota Wild,Tim Stutzle,0.5,2.05,Neds,1.699,Pinnacle,Player Assists,Ottawa Senators v Minnesota Wild,-7.638639658909829
+Edmonton Oilers,Toronto Maple Leafs,Darnell Nurse,0.5,3.32,Sportsbet,1.29,Bet365,Player Assists,Edmonton Oilers v Toronto Maple Leafs,-7.639861772672085
+Washington Capitals,Winnipeg Jets,Connor McMichael,0.5,3.32,Sportsbet,1.29,Bet365,Player Assists,Washington Capitals v Winnipeg Jets,-7.639861772672085
+Carolina Hurricanes,Los Angeles Kings,Seth Jarvis,0.5,2.44,Sportsbet,1.5,Bet365,Player Assists,Carolina Hurricanes v Los Angeles Kings,-7.650273224043724
+Pittsburgh Penguins,Nashville Predators,Ryan O'Reilly,0.5,2.7,Bet365,1.416,Pinnacle,Player Assists,Pittsburgh Penguins v Nashville Predators,-7.6585059635907005
+Pittsburgh Penguins,Nashville Predators,Matt Grzelcyk,0.5,2.7,Pinnacle,1.416,Pinnacle,Player Assists,Pittsburgh Penguins v Nashville Predators,-7.6585059635907005
+Carolina Hurricanes,Los Angeles Kings,Seth Jarvis,0.5,2.48,Pinnacle,1.485,Pinnacle,Player Assists,Carolina Hurricanes v Los Angeles Kings,-7.662647985228621
+Calgary Flames,Detroit Red Wings,Alex DeBrincat,0.5,2.52,Pinnacle,1.471,Pinnacle,Player Assists,Calgary Flames v Detroit Red Wings,-7.663505012247351
+Pittsburgh Penguins,Nashville Predators,Ryan O'Reilly,0.5,2.65,Sportsbet,1.43,Bet365,Player Assists,Pittsburgh Penguins v Nashville Predators,-7.665918986673725
+Boston Bruins,New York Rangers,Alexis Lafreniere,0.5,2.99,Pinnacle,1.347,Pinnacle,Player Assists,Boston Bruins v New York Rangers,-7.683865793675038
 Washington Capitals,Winnipeg Jets,Connor McMichael,0.5,3.25,Neds,1.3,Neds,Player Assists,Washington Capitals v Winnipeg Jets,-7.692307692307687
-Montreal Canadiens,Minnesota Wild,Matt Boldy,0.5,2.2,Pinnacle,1.606,Pinnacle,Player Assists,Montreal Canadiens v Minnesota Wild,-7.721046077210447
-Seattle Kraken,San Jose Sharks,Mikael Granlund,0.5,2.2,Pinnacle,1.606,Pinnacle,Player Assists,Seattle Kraken v San Jose Sharks,-7.721046077210447
+Washington Capitals,Winnipeg Jets,Mark Scheifele,0.5,2.25,Neds,1.581,Pinnacle,Player Assists,Washington Capitals v Winnipeg Jets,-7.695551338815099
+Carolina Hurricanes,Los Angeles Kings,Alex Laferriere,0.5,4.1,Sportsbet,1.2,Bet365,Player Assists,Carolina Hurricanes v Los Angeles Kings,-7.723577235772372
+Ottawa Senators,Minnesota Wild,Mats Zuccarello,0.5,1.91,Sportsbet,1.806,Pinnacle,Player Assists,Ottawa Senators v Minnesota Wild,-7.727006545952131
+Pittsburgh Penguins,Nashville Predators,Rickard Rakell,0.5,2.33,Sportsbet,1.543,Pinnacle,Player Assists,Pittsburgh Penguins v Nashville Predators,-7.727268934326137
 Washington Capitals,Winnipeg Jets,Mark Scheifele,0.5,2.25,Neds,1.58,Bet365,Player Assists,Washington Capitals v Winnipeg Jets,-7.735583684950775
-Seattle Kraken,San Jose Sharks,Tyler Toffoli,0.5,3,Pinnacle,1.344,Pinnacle,Player Assists,Seattle Kraken v San Jose Sharks,-7.738095238095233
-Boston Bruins,Winnipeg Jets,Mark Scheifele,0.5,2.13,Pinnacle,1.645,Pinnacle,Player Assists,Boston Bruins v Winnipeg Jets,-7.738630363742738
-Tampa Bay Lightning,Los Angeles Kings,Brandon Hagel,0.5,2.13,Pinnacle,1.645,Pinnacle,Player Assists,Tampa Bay Lightning v Los Angeles Kings,-7.738630363742738
-Philadelphia Flyers,New York Islanders,Bo Horvat,0.5,2.5,Pinnacle,1.476,Pinnacle,Player Assists,Philadelphia Flyers v New York Islanders,-7.750677506775072
-Philadelphia Flyers,New York Islanders,Tony DeAngelo,0.5,2.5,Pinnacle,1.476,Pinnacle,Player Assists,Philadelphia Flyers v New York Islanders,-7.750677506775072
-Seattle Kraken,San Jose Sharks,Oliver Bjorkstrand,0.5,2.61,Pinnacle,1.44,Pinnacle,Player Assists,Seattle Kraken v San Jose Sharks,-7.75862068965516
-Tampa Bay Lightning,Los Angeles Kings,Darren Raddysh,0.5,2.54,Pinnacle,1.462,Pinnacle,Player Assists,Tampa Bay Lightning v Los Angeles Kings,-7.769531544535058
-Tampa Bay Lightning,Los Angeles Kings,Phillip Danault,0.5,3.6,Pinnacle,1.25,Pinnacle,Player Assists,Tampa Bay Lightning v Los Angeles Kings,-7.7777777777777946
+Ottawa Senators,Minnesota Wild,Joel Eriksson Ek,0.5,2.5,Neds,1.476,Pinnacle,Player Assists,Ottawa Senators v Minnesota Wild,-7.750677506775072
+Washington Capitals,Winnipeg Jets,John Carlson,0.5,2.59,Pinnacle,1.446,Pinnacle,Player Assists,Washington Capitals v Winnipeg Jets,-7.766331832721862
+Calgary Flames,Detroit Red Wings,Mikael Backlund,0.5,3.6,Bet365,1.25,Pinnacle,Player Assists,Calgary Flames v Detroit Red Wings,-7.7777777777777946
+Washington Capitals,Winnipeg Jets,Alex Ovechkin,0.5,2.57,Pinnacle,1.452,Pinnacle,Player Assists,Washington Capitals v Winnipeg Jets,-7.781029252553839
 Washington Capitals,Winnipeg Jets,Pierre-Luc Dubois,0.5,2.75,Neds,1.4,Bet365,Player Assists,Washington Capitals v Winnipeg Jets,-7.792207792207795
 Washington Capitals,Winnipeg Jets,Tom Wilson,0.5,2.75,Neds,1.4,Bet365,Player Assists,Washington Capitals v Winnipeg Jets,-7.792207792207795
-Calgary Flames,Anaheim Ducks,Ryan Strome,0.5,2.75,Pinnacle,1.4,Pinnacle,Player Assists,Calgary Flames v Anaheim Ducks,-7.792207792207795
-Carolina Hurricanes,Chicago Blackhawks,Mikko Rantanen,0.5,1.568,Pinnacle,2.27,Pinnacle,Player Assists,Carolina Hurricanes v Chicago Blackhawks,-7.828373640204989
-Seattle Kraken,San Jose Sharks,Jaden Schwartz,0.5,2.31,Pinnacle,1.549,Pinnacle,Player Assists,Seattle Kraken v San Jose Sharks,-7.847822502438384
-Tampa Bay Lightning,Los Angeles Kings,Drew Doughty,0.5,2.63,Pinnacle,1.432,Pinnacle,Player Assists,Tampa Bay Lightning v Los Angeles Kings,-7.855215922849812
-Boston Bruins,Winnipeg Jets,Gabriel Vilardi,0.5,2.64,Pinnacle,1.429,Pinnacle,Player Assists,Boston Bruins v Winnipeg Jets,-7.857794176898447
-Calgary Flames,Detroit Red Wings,Moritz Seider,0.5,2.1,Neds,1.66,Bet365,Player Assists,Calgary Flames v Detroit Red Wings,-7.860011474469308
+Pittsburgh Penguins,Nashville Predators,Ryan O'Reilly,0.5,2.69,Pinnacle,1.416,Pinnacle,Player Assists,Pittsburgh Penguins v Nashville Predators,-7.796190116144763
+Ottawa Senators,Minnesota Wild,Brock Faber,0.5,2.9,Neds,1.364,Pinnacle,Player Assists,Ottawa Senators v Minnesota Wild,-7.796541611892005
+Ottawa Senators,Minnesota Wild,Jake Sanderson,0.5,2.31,Pinnacle,1.55,Bet365,Player Assists,Ottawa Senators v Minnesota Wild,-7.806172322301341
+Boston Bruins,New York Rangers,Mika Zibanejad,0.5,2.7,Pinnacle,1.413,Pinnacle,Player Assists,Boston Bruins v New York Rangers,-7.808445388063223
+Tampa Bay Lightning,New York Islanders,Victor Hedman,0.5,1.961,Pinnacle,1.76,Bet365,Player Assists,Tampa Bay Lightning v New York Islanders,-7.81257243521396
+Carolina Hurricanes,Los Angeles Kings,Drew Doughty,0.5,2.65,Pinnacle,1.427,Pinnacle,Player Assists,Carolina Hurricanes v Los Angeles Kings,-7.81293384987638
+Calgary Flames,Detroit Red Wings,Lucas Raymond,0.5,1.88,Sportsbet,1.83,Bet365,Player Assists,Calgary Flames v Detroit Red Wings,-7.83629810487152
+Washington Capitals,Winnipeg Jets,Jakob Chychrun,0.5,2.73,Pinnacle,1.404,Pinnacle,Player Assists,Washington Capitals v Winnipeg Jets,-7.855107855107857
+Boston Bruins,New York Rangers,Brad Marchand,0.5,2.63,Pinnacle,1.432,Pinnacle,Player Assists,Boston Bruins v New York Rangers,-7.855215922849812
+Boston Bruins,New York Rangers,Charlie McAvoy,0.5,2.63,Pinnacle,1.432,Pinnacle,Player Assists,Boston Bruins v New York Rangers,-7.855215922849812
+Boston Bruins,New York Rangers,Pavel Zacha,0.5,2.63,Pinnacle,1.432,Pinnacle,Player Assists,Boston Bruins v New York Rangers,-7.855215922849812
 Washington Capitals,Winnipeg Jets,Josh Morrissey,0.5,2.1,Neds,1.66,Bet365,Player Assists,Washington Capitals v Winnipeg Jets,-7.860011474469308
-Ottawa Senators,Washington Capitals,Jakob Chychrun,0.5,2.66,Pinnacle,1.423,Pinnacle,Player Assists,Ottawa Senators v Washington Capitals,-7.8680538309935155
-Ottawa Senators,Washington Capitals,John Carlson,0.5,2.66,Pinnacle,1.423,Pinnacle,Player Assists,Ottawa Senators v Washington Capitals,-7.8680538309935155
-Edmonton Oilers,Detroit Red Wings,Zach Hyman,0.5,2.71,Pinnacle,1.409,Pinnacle,Player Assists,Edmonton Oilers v Detroit Red Wings,-7.872689798580024
-Carolina Hurricanes,Chicago Blackhawks,Seth Jones,0.5,2.69,Pinnacle,1.414,Pinnacle,Player Assists,Carolina Hurricanes v Chicago Blackhawks,-7.8960790396618075
-Tampa Bay Lightning,Los Angeles Kings,Nikita Kucherov,1.5,2.73,Pinnacle,1.403,Pinnacle,Player Assists,Tampa Bay Lightning v Los Angeles Kings,-7.905874121127154
-Seattle Kraken,San Jose Sharks,Jake Walman,0.5,2.7,Pinnacle,1.411,Pinnacle,Player Assists,Seattle Kraken v San Jose Sharks,-7.9087592198860746
-Calgary Flames,Detroit Red Wings,Lucas Raymond,0.5,1.91,Neds,1.8,Bet365,Player Assists,Calgary Flames v Detroit Red Wings,-7.911576497963946
-Edmonton Oilers,Detroit Red Wings,Alex DeBrincat,0.5,2.77,Pinnacle,1.392,Pinnacle,Player Assists,Edmonton Oilers v Detroit Red Wings,-7.940163492261099
-Calgary Flames,Detroit Red Wings,Dylan Larkin,0.5,2.2,Neds,1.6,Bet365,Player Assists,Calgary Flames v Detroit Red Wings,-7.954545454545459
-Calgary Flames,Detroit Red Wings,Rasmus Andersson,0.5,3.05,Neds,1.33,Bet365,Player Assists,Calgary Flames v Detroit Red Wings,-7.9748551707136794
-Calgary Flames,Detroit Red Wings,Yegor Sharangovich,0.5,3.05,Neds,1.33,Bet365,Player Assists,Calgary Flames v Detroit Red Wings,-7.9748551707136794
+Florida Panthers,Chicago Blackhawks,Sam Bennett,0.5,2.71,Pinnacle,1.409,Pinnacle,Player Assists,Florida Panthers v Chicago Blackhawks,-7.872689798580024
+Pittsburgh Penguins,Nashville Predators,Matt Grzelcyk,0.5,2.67,Sportsbet,1.42,Bet365,Player Assists,Pittsburgh Penguins v Nashville Predators,-7.875718731866854
+Ottawa Senators,Minnesota Wild,Matt Boldy,0.5,2.2,Neds,1.602,Pinnacle,Player Assists,Ottawa Senators v Minnesota Wild,-7.8765179888775405
+Washington Capitals,Winnipeg Jets,Gabriel Vilardi,0.5,2.75,Bet365,1.398,Pinnacle,Player Assists,Washington Capitals v Winnipeg Jets,-7.894394589673581
+Carolina Hurricanes,Los Angeles Kings,Phillip Danault,0.5,3.75,Sportsbet,1.231,Pinnacle,Player Assists,Carolina Hurricanes v Los Angeles Kings,-7.9014351475764855
+Ottawa Senators,Minnesota Wild,Brady Tkachuk,0.5,2.6,Neds,1.44,Bet365,Player Assists,Ottawa Senators v Minnesota Wild,-7.9059829059829
+Washington Capitals,Winnipeg Jets,Dylan Strome,0.5,2.3,Neds,1.552,Pinnacle,Player Assists,Washington Capitals v Winnipeg Jets,-7.9112505602868755
+Tampa Bay Lightning,New York Islanders,Anthony Cirelli,0.5,2.74,Sportsbet,1.4,Bet365,Player Assists,Tampa Bay Lightning v New York Islanders,-7.9249217935349225
+Ottawa Senators,Minnesota Wild,Josh Norris,0.5,3.5,Neds,1.26,Bet365,Player Assists,Ottawa Senators v Minnesota Wild,-7.9365079365079305
+Ottawa Senators,Minnesota Wild,Thomas Chabot,0.5,2.7,Neds,1.41,Bet365,Player Assists,Ottawa Senators v Minnesota Wild,-7.959022852639874
+Carolina Hurricanes,Los Angeles Kings,Shayne Gostisbehere,0.5,2.7,Pinnacle,1.41,Bet365,Player Assists,Carolina Hurricanes v Los Angeles Kings,-7.959022852639874
+Ottawa Senators,Minnesota Wild,Jared Spurgeon,0.5,3,Neds,1.34,Bet365,Player Assists,Ottawa Senators v Minnesota Wild,-7.96019900497511
 Washington Capitals,Winnipeg Jets,Aliaksei Protas,0.5,3.05,Neds,1.33,Bet365,Player Assists,Washington Capitals v Winnipeg Jets,-7.9748551707136794
 Washington Capitals,Winnipeg Jets,Neal Pionk,0.5,3.05,Neds,1.33,Bet365,Player Assists,Washington Capitals v Winnipeg Jets,-7.9748551707136794
-Boston Bruins,Winnipeg Jets,Charlie Coyle,0.5,4.4,Pinnacle,1.173,Pinnacle,Player Assists,Boston Bruins v Winnipeg Jets,-7.978764628380985
+Calgary Flames,Detroit Red Wings,Alex DeBrincat,0.5,2.5,Bet365,1.471,Pinnacle,Player Assists,Calgary Flames v Detroit Red Wings,-7.98096532970769
+Edmonton Oilers,Toronto Maple Leafs,Ryan Nugent-Hopkins,0.5,2.37,Sportsbet,1.52,Bet365,Player Assists,Edmonton Oilers v Toronto Maple Leafs,-7.983566511214746
+Pittsburgh Penguins,Nashville Predators,Steven Stamkos,0.5,2.55,Pinnacle,1.454,Pinnacle,Player Assists,Pittsburgh Penguins v Nashville Predators,-7.991477196105423
+Ottawa Senators,Minnesota Wild,Jake Sanderson,0.5,2.3,Neds,1.55,Bet365,Player Assists,Ottawa Senators v Minnesota Wild,-7.9943899018232845
+Washington Capitals,Winnipeg Jets,Dylan Strome,0.5,2.3,Neds,1.55,Bet365,Player Assists,Washington Capitals v Winnipeg Jets,-7.9943899018232845
 Washington Capitals,Winnipeg Jets,Nikolaj Ehlers,0.5,2.3,Neds,1.55,Bet365,Player Assists,Washington Capitals v Winnipeg Jets,-7.9943899018232845
-Tampa Bay Lightning,Los Angeles Kings,Quinton Byfield,0.5,3.2,Pinnacle,1.303,Pinnacle,Player Assists,Tampa Bay Lightning v Los Angeles Kings,-7.995970836531097
-Boston Bruins,Winnipeg Jets,Charlie McAvoy,0.5,2.81,Pinnacle,1.381,Pinnacle,Player Assists,Boston Bruins v Winnipeg Jets,-7.99848477430094
-Boston Bruins,Winnipeg Jets,Pavel Zacha,0.5,2.7,Pinnacle,1.409,Pinnacle,Player Assists,Boston Bruins v Winnipeg Jets,-8.009357831927023
-Boston Bruins,New York Rangers,Elias Lindholm,0.5,2.9,Neds,1.36,Bet365,Player Assists,Boston Bruins v New York Rangers,-8.012170385395523
-Calgary Flames,Detroit Red Wings,Blake Coleman,0.5,2.9,Neds,1.36,Bet365,Player Assists,Calgary Flames v Detroit Red Wings,-8.012170385395523
-Edmonton Oilers,Detroit Red Wings,Connor McDavid,0.5,1.383,Pinnacle,2.8,Pinnacle,Player Assists,Edmonton Oilers v Detroit Red Wings,-8.020865613056504
+Ottawa Senators,Minnesota Wild,Mats Zuccarello,0.5,1.9,Bet365,1.806,Pinnacle,Player Assists,Ottawa Senators v Minnesota Wild,-8.002564550912172
+Ottawa Senators,Minnesota Wild,Brock Faber,0.5,2.9,Neds,1.36,Bet365,Player Assists,Ottawa Senators v Minnesota Wild,-8.012170385395523
+Ottawa Senators,Minnesota Wild,Joel Eriksson Ek,0.5,2.5,Neds,1.47,Bet365,Player Assists,Ottawa Senators v Minnesota Wild,-8.027210884353742
 Washington Capitals,Winnipeg Jets,John Carlson,0.5,2.5,Neds,1.47,Bet365,Player Assists,Washington Capitals v Winnipeg Jets,-8.027210884353742
-Vegas Golden Knights,Columbus Blue Jackets,Alex Pietrangelo,0.5,2.77,Pinnacle,1.39,Pinnacle,Player Assists,Vegas Golden Knights v Columbus Blue Jackets,-8.043529075656464
-Vegas Golden Knights,Columbus Blue Jackets,Ivan Barbashev,0.5,2.77,Pinnacle,1.39,Pinnacle,Player Assists,Vegas Golden Knights v Columbus Blue Jackets,-8.043529075656464
-Montreal Canadiens,Minnesota Wild,Juraj Slafkovsky,0.5,2.84,Pinnacle,1.373,Pinnacle,Player Assists,Montreal Canadiens v Minnesota Wild,-8.04447955028056
-Ottawa Senators,Washington Capitals,Claude Giroux,0.5,2.48,Pinnacle,1.476,Pinnacle,Player Assists,Ottawa Senators v Washington Capitals,-8.073258151936358
-Tampa Bay Lightning,Los Angeles Kings,Anze Kopitar,0.5,2.48,Pinnacle,1.476,Pinnacle,Player Assists,Tampa Bay Lightning v Los Angeles Kings,-8.073258151936358
-Boston Bruins,New York Rangers,Morgan Geekie,0.5,3.4,Neds,1.27,Bet365,Player Assists,Boston Bruins v New York Rangers,-8.151922186197314
+Washington Capitals,Winnipeg Jets,Tom Wilson,0.5,2.73,Sportsbet,1.4,Bet365,Player Assists,Washington Capitals v Winnipeg Jets,-8.058608058608051
+Pittsburgh Penguins,Nashville Predators,Matt Grzelcyk,0.5,2.67,Sportsbet,1.416,Pinnacle,Player Assists,Pittsburgh Penguins v Nashville Predators,-8.07465244715293
+Pittsburgh Penguins,Nashville Predators,Filip Forsberg,0.5,1.84,Pinnacle,1.86,Bet365,Player Assists,Pittsburgh Penguins v Nashville Predators,-8.111266947171568
+Tampa Bay Lightning,New York Islanders,Anthony Cirelli,0.5,2.8,Pinnacle,1.381,Pinnacle,Player Assists,Tampa Bay Lightning v New York Islanders,-8.12558187648702
+Pittsburgh Penguins,Nashville Predators,Kris Letang,0.5,2.95,Bet365,1.347,Pinnacle,Player Assists,Pittsburgh Penguins v Nashville Predators,-8.137354824909092
+Boston Bruins,New York Rangers,Charlie Coyle,0.5,3.8,Pinnacle,1.222,Pinnacle,Player Assists,Boston Bruins v New York Rangers,-8.148850030149024
+Ottawa Senators,Minnesota Wild,Ryan Hartman,0.5,3.8,Pinnacle,1.222,Pinnacle,Player Assists,Ottawa Senators v Minnesota Wild,-8.148850030149024
 Washington Capitals,Winnipeg Jets,Jakob Chychrun,0.5,2.65,Neds,1.42,Bet365,Player Assists,Washington Capitals v Winnipeg Jets,-8.158384267871387
-Calgary Flames,Anaheim Ducks,Matt Coronato,0.5,2.91,Pinnacle,1.355,Pinnacle,Player Assists,Calgary Flames v Anaheim Ducks,-8.164999175764942
-Tampa Bay Lightning,Los Angeles Kings,Adrian Kempe,0.5,2.6,Pinnacle,1.434,Pinnacle,Player Assists,Tampa Bay Lightning v Los Angeles Kings,-8.196545435039159
-Calgary Flames,Anaheim Ducks,Jackson LaCombe,0.5,2.88,Pinnacle,1.361,Pinnacle,Player Assists,Calgary Flames v Anaheim Ducks,-8.197607967997378
-Ottawa Senators,Washington Capitals,Pierre-Luc Dubois,0.5,2.91,Pinnacle,1.354,Pinnacle,Player Assists,Ottawa Senators v Washington Capitals,-8.219504890689144
-Calgary Flames,Anaheim Ducks,Yegor Sharangovich,0.5,2.99,Pinnacle,1.337,Pinnacle,Player Assists,Calgary Flames v Anaheim Ducks,-8.23913168552366
-Calgary Flames,Detroit Red Wings,Mikael Backlund,0.5,3.25,Neds,1.29,Bet365,Player Assists,Calgary Flames v Detroit Red Wings,-8.288610614191994
-Calgary Flames,Detroit Red Wings,Morgan Frost,0.5,3.25,Neds,1.29,Bet365,Player Assists,Calgary Flames v Detroit Red Wings,-8.288610614191994
+Washington Capitals,Winnipeg Jets,Nikolaj Ehlers,0.5,2.41,Sportsbet,1.5,Pinnacle,Player Assists,Washington Capitals v Winnipeg Jets,-8.160442600276617
+Washington Capitals,Winnipeg Jets,Tom Wilson,0.5,2.86,Pinnacle,1.366,Pinnacle,Player Assists,Washington Capitals v Winnipeg Jets,-8.17147713194566
+Ottawa Senators,Minnesota Wild,Claude Giroux,0.5,2.29,Sportsbet,1.55,Neds,Player Assists,Ottawa Senators v Minnesota Wild,-8.184251303000423
+Tampa Bay Lightning,New York Islanders,Kyle Palmieri,0.5,3.5,Bet365,1.256,Pinnacle,Player Assists,Tampa Bay Lightning v New York Islanders,-8.189262966333022
+Calgary Flames,Detroit Red Wings,Rasmus Andersson,0.5,3.03,Sportsbet,1.33,Bet365,Player Assists,Calgary Flames v Detroit Red Wings,-8.19127025484503
+Washington Capitals,Winnipeg Jets,Cole Perfetti,0.5,4,Sportsbet,1.202,Pinnacle,Player Assists,Washington Capitals v Winnipeg Jets,-8.194675540765406
+Carolina Hurricanes,Los Angeles Kings,Kevin Fiala,0.5,2.6,Pinnacle,1.434,Pinnacle,Player Assists,Carolina Hurricanes v Los Angeles Kings,-8.196545435039159
+Tampa Bay Lightning,New York Islanders,Kyle Palmieri,0.5,3.32,Sportsbet,1.28,Bet365,Player Assists,Tampa Bay Lightning v New York Islanders,-8.245481927710841
+Ottawa Senators,Minnesota Wild,Marco Rossi,0.5,2.45,Neds,1.483,Pinnacle,Player Assists,Ottawa Senators v Minnesota Wild,-8.247209875184058
+Pittsburgh Penguins,Nashville Predators,Kris Letang,0.5,2.94,Pinnacle,1.347,Pinnacle,Player Assists,Pittsburgh Penguins v Nashville Predators,-8.252655182340195
+Edmonton Oilers,Toronto Maple Leafs,Mattias Ekholm,0.5,3.5,Bet365,1.255,Pinnacle,Player Assists,Edmonton Oilers v Toronto Maple Leafs,-8.252703471826983
+Carolina Hurricanes,Los Angeles Kings,Phillip Danault,0.5,3.7,Bet365,1.231,Pinnacle,Player Assists,Carolina Hurricanes v Los Angeles Kings,-8.261795507936842
+Ottawa Senators,Minnesota Wild,Ryan Hartman,0.5,3.8,Pinnacle,1.22,Bet365,Player Assists,Ottawa Senators v Minnesota Wild,-8.283002588438304
 Washington Capitals,Winnipeg Jets,Connor McMichael,0.5,3.25,Neds,1.29,Bet365,Player Assists,Washington Capitals v Winnipeg Jets,-8.288610614191994
-Philadelphia Flyers,New York Islanders,Matvei Michkov,0.5,3.04,Pinnacle,1.326,Pinnacle,Player Assists,Philadelphia Flyers v New York Islanders,-8.309518139239502
+Washington Capitals,Winnipeg Jets,Tom Wilson,0.5,2.85,Bet365,1.366,Pinnacle,Player Assists,Washington Capitals v Winnipeg Jets,-8.294161465156291
+Washington Capitals,Winnipeg Jets,Gabriel Vilardi,0.5,2.72,Sportsbet,1.398,Pinnacle,Player Assists,Washington Capitals v Winnipeg Jets,-8.29546410839015
+Boston Bruins,New York Rangers,Elias Lindholm,0.5,3.01,Pinnacle,1.332,Pinnacle,Player Assists,Boston Bruins v New York Rangers,-8.297666437201311
+Carolina Hurricanes,Los Angeles Kings,Kevin Fiala,0.5,3.02,Sportsbet,1.33,Bet365,Player Assists,Carolina Hurricanes v Los Angeles Kings,-8.300552706268993
+Carolina Hurricanes,Los Angeles Kings,Seth Jarvis,0.5,2.44,Sportsbet,1.485,Pinnacle,Player Assists,Carolina Hurricanes v Los Angeles Kings,-8.323673897444372
 Washington Capitals,Winnipeg Jets,Cole Perfetti,0.5,3.7,Neds,1.23,Bet365,Player Assists,Washington Capitals v Winnipeg Jets,-8.327840035157097
-Calgary Flames,Detroit Red Wings,Nazem Kadri,0.5,2.35,Neds,1.52,Bet365,Player Assists,Calgary Flames v Detroit Red Wings,-8.342665173572229
-Ottawa Senators,Washington Capitals,Thomas Chabot,0.5,2.98,Pinnacle,1.337,Pinnacle,Player Assists,Ottawa Senators v Washington Capitals,-8.351362611877743
-Ottawa Senators,Washington Capitals,Tom Wilson,0.5,3,Pinnacle,1.333,Pinnacle,Player Assists,Ottawa Senators v Washington Capitals,-8.35208802200551
-Philadelphia Flyers,New York Islanders,Morgan Frost,0.5,3.07,Pinnacle,1.319,Pinnacle,Player Assists,Philadelphia Flyers v New York Islanders,-8.388301274531829
-Carolina Hurricanes,Chicago Blackhawks,Jaccob Slavin,0.5,3.09,Pinnacle,1.315,Pinnacle,Player Assists,Carolina Hurricanes v Chicago Blackhawks,-8.408086923351421
-Seattle Kraken,San Jose Sharks,Shane Wright,0.5,3.03,Pinnacle,1.326,Pinnacle,Player Assists,Seattle Kraken v San Jose Sharks,-8.41808162716724
-Edmonton Oilers,Detroit Red Wings,Mattias Ekholm,0.5,3.1,Pinnacle,1.313,Pinnacle,Player Assists,Edmonton Oilers v Detroit Red Wings,-8.419526816205192
-Philadelphia Flyers,New York Islanders,Travis Sanheim,0.5,3.06,Pinnacle,1.32,Pinnacle,Player Assists,Philadelphia Flyers v New York Islanders,-8.437314319667255
-Carolina Hurricanes,Chicago Blackhawks,Jackson Blake,0.5,3.13,Pinnacle,1.307,Pinnacle,Player Assists,Carolina Hurricanes v Chicago Blackhawks,-8.459975897783135
-Montreal Canadiens,Minnesota Wild,Jared Spurgeon,0.5,3.13,Pinnacle,1.307,Pinnacle,Player Assists,Montreal Canadiens v Minnesota Wild,-8.459975897783135
-Montreal Canadiens,Minnesota Wild,Patrik Laine,0.5,3.11,Pinnacle,1.31,Pinnacle,Player Assists,Montreal Canadiens v Minnesota Wild,-8.490218698608265
-Calgary Flames,Anaheim Ducks,Mikael Backlund,0.5,3.13,Pinnacle,1.306,Pinnacle,Player Assists,Calgary Flames v Anaheim Ducks,-8.518560196488068
-Calgary Flames,Detroit Red Wings,Matt Coronato,0.5,2.95,Neds,1.34,Bet365,Player Assists,Calgary Flames v Detroit Red Wings,-8.525170756387546
-Philadelphia Flyers,New York Islanders,Kyle Palmieri,0.5,3.2,Pinnacle,1.294,Pinnacle,Player Assists,Philadelphia Flyers v New York Islanders,-8.529752704791349
-Calgary Flames,Anaheim Ducks,Mason McTavish,0.5,3.35,Pinnacle,1.268,Pinnacle,Player Assists,Calgary Flames v Anaheim Ducks,-8.715099580959551
-Tampa Bay Lightning,Los Angeles Kings,Nicholas Paul,0.5,3.35,Pinnacle,1.268,Pinnacle,Player Assists,Tampa Bay Lightning v Los Angeles Kings,-8.715099580959551
-Edmonton Oilers,Detroit Red Wings,Marco Kasper,0.5,3.48,Pinnacle,1.249,Pinnacle,Player Assists,Edmonton Oilers v Detroit Red Wings,-8.799683424900827
-Philadelphia Flyers,New York Islanders,Noah Cates,0.5,3.51,Pinnacle,1.245,Pinnacle,Player Assists,Philadelphia Flyers v New York Islanders,-8.811313630590734
-Edmonton Oilers,Detroit Red Wings,Darnell Nurse,0.5,3.5,Pinnacle,1.246,Pinnacle,Player Assists,Edmonton Oilers v Detroit Red Wings,-8.828250401284121
-Carolina Hurricanes,Chicago Blackhawks,Tyler Bertuzzi,0.5,3.52,Pinnacle,1.243,Pinnacle,Player Assists,Carolina Hurricanes v Chicago Blackhawks,-8.859613837489944
-Boston Bruins,Winnipeg Jets,Morgan Geekie,0.5,3.57,Pinnacle,1.236,Pinnacle,Player Assists,Boston Bruins v Winnipeg Jets,-8.917353349106637
-Edmonton Oilers,Detroit Red Wings,Vladimir Tarasenko,0.5,3.57,Pinnacle,1.236,Pinnacle,Player Assists,Edmonton Oilers v Detroit Red Wings,-8.917353349106637
-Seattle Kraken,San Jose Sharks,Will Smith,0.5,3.57,Pinnacle,1.236,Pinnacle,Player Assists,Seattle Kraken v San Jose Sharks,-8.917353349106637
-Ottawa Senators,Washington Capitals,Connor McMichael,0.5,3.56,Pinnacle,1.237,Pinnacle,Player Assists,Ottawa Senators v Washington Capitals,-8.930631375291798
-Seattle Kraken,San Jose Sharks,Fabian Zetterlund,0.5,3.72,Pinnacle,1.217,Pinnacle,Player Assists,Seattle Kraken v San Jose Sharks,-9.050989123616148
-Vegas Golden Knights,Columbus Blue Jackets,Cole Sillinger,0.5,3.82,Pinnacle,1.206,Pinnacle,Player Assists,Vegas Golden Knights v Columbus Blue Jackets,-9.096750106361728
-Calgary Flames,Anaheim Ducks,Alex Killorn,0.5,3.77,Pinnacle,1.211,Pinnacle,Player Assists,Calgary Flames v Anaheim Ducks,-9.101582093409878
-Philadelphia Flyers,New York Islanders,Tyson Foerster,0.5,3.75,Pinnacle,1.213,Pinnacle,Player Assists,Philadelphia Flyers v New York Islanders,-9.106897499312993
-Montreal Canadiens,Minnesota Wild,Kirby Dach,0.5,3.95,Pinnacle,1.192,Pinnacle,Player Assists,Montreal Canadiens v Minnesota Wild,-9.209073145866963
-Carolina Hurricanes,Chicago Blackhawks,Ryan Donato,0.5,4.38,Pinnacle,1.155,Pinnacle,Player Assists,Carolina Hurricanes v Chicago Blackhawks,-9.411136808397092
-Calgary Flames,Anaheim Ducks,Cutter Gauthier,0.5,4.55,Pinnacle,1.143,Pinnacle,Player Assists,Calgary Flames v Anaheim Ducks,-9.467085845038614
+Pittsburgh Penguins,Nashville Predators,Michael Bunting,0.5,3.07,Pinnacle,1.32,Pinnacle,Player Assists,Pittsburgh Penguins v Nashville Predators,-8.33086565985588
+Washington Capitals,Winnipeg Jets,Nikolaj Ehlers,0.5,2.4,Bet365,1.5,Pinnacle,Player Assists,Washington Capitals v Winnipeg Jets,-8.333333333333325
+Pittsburgh Penguins,Nashville Predators,Jonathan Marchessault,0.5,2.22,Sportsbet,1.58,Bet365,Player Assists,Pittsburgh Penguins v Nashville Predators,-8.336184285551361
+Washington Capitals,Winnipeg Jets,Nino Niederreiter,0.5,4.25,Sportsbet,1.179,Pinnacle,Player Assists,Washington Capitals v Winnipeg Jets,-8.347053834256336
+Pittsburgh Penguins,Nashville Predators,Ryan O'Reilly,0.5,2.65,Sportsbet,1.416,Pinnacle,Player Assists,Pittsburgh Penguins v Nashville Predators,-8.357317983157442
+Pittsburgh Penguins,Nashville Predators,Kris Letang,0.5,2.93,Sportsbet,1.347,Pinnacle,Player Assists,Pittsburgh Penguins v Nashville Predators,-8.368742572927834
+Washington Capitals,Winnipeg Jets,John Carlson,0.5,2.55,Bet365,1.446,Pinnacle,Player Assists,Washington Capitals v Winnipeg Jets,-8.371979497193083
+Washington Capitals,Winnipeg Jets,Alex Ovechkin,0.5,2.53,Sportsbet,1.452,Pinnacle,Player Assists,Washington Capitals v Winnipeg Jets,-8.396215115582706
+Calgary Flames,Detroit Red Wings,Matt Coronato,0.5,3.09,Pinnacle,1.315,Pinnacle,Player Assists,Calgary Flames v Detroit Red Wings,-8.408086923351421
+Pittsburgh Penguins,Nashville Predators,Filip Forsberg,0.5,1.83,Sportsbet,1.86,Bet365,Player Assists,Pittsburgh Penguins v Nashville Predators,-8.408249603384444
+Pittsburgh Penguins,Nashville Predators,Michael Bunting,0.5,2.96,Sportsbet,1.34,Bet365,Player Assists,Pittsburgh Penguins v Nashville Predators,-8.410649455425556
+Pittsburgh Penguins,Nashville Predators,Jonathan Marchessault,0.5,2.22,Sportsbet,1.578,Pinnacle,Player Assists,Pittsburgh Penguins v Nashville Predators,-8.41640119206657
+Calgary Flames,Detroit Red Wings,Nazem Kadri,0.5,2.33,Sportsbet,1.526,Pinnacle,Player Assists,Calgary Flames v Detroit Red Wings,-8.449254411375918
+Boston Bruins,New York Rangers,Mason Lohrei,0.5,3.13,Pinnacle,1.307,Pinnacle,Player Assists,Boston Bruins v New York Rangers,-8.459975897783135
+Calgary Flames,Detroit Red Wings,Rasmus Andersson,0.5,3.13,Pinnacle,1.306,Pinnacle,Player Assists,Calgary Flames v Detroit Red Wings,-8.518560196488068
+Carolina Hurricanes,Los Angeles Kings,Drew Doughty,0.5,2.6,Bet365,1.427,Pinnacle,Player Assists,Carolina Hurricanes v Los Angeles Kings,-8.53862325481105
+Pittsburgh Penguins,Nashville Predators,Michael Bunting,0.5,3.05,Bet365,1.32,Pinnacle,Player Assists,Pittsburgh Penguins v Nashville Predators,-8.54446100347741
+Tampa Bay Lightning,New York Islanders,Anders Lee,0.5,3.18,Pinnacle,1.297,Pinnacle,Player Assists,Tampa Bay Lightning v New York Islanders,-8.547543193533214
+Pittsburgh Penguins,Nashville Predators,Gustav Nyquist,0.5,3.22,Pinnacle,1.29,Pinnacle,Player Assists,Pittsburgh Penguins v Nashville Predators,-8.57528046607925
+Calgary Flames,Detroit Red Wings,Lucas Raymond,0.5,1.854,Pinnacle,1.83,Bet365,Player Assists,Calgary Flames v Detroit Red Wings,-8.582241321378659
+Pittsburgh Penguins,Nashville Predators,Brady Skjei,0.5,3.27,Pinnacle,1.282,Pinnacle,Player Assists,Pittsburgh Penguins v Nashville Predators,-8.584159880156683
+Calgary Flames,Detroit Red Wings,Vladimir Tarasenko,0.5,3.33,Pinnacle,1.272,Pinnacle,Player Assists,Calgary Flames v Detroit Red Wings,-8.646382231287886
+Pittsburgh Penguins,Nashville Predators,Steven Stamkos,0.5,2.55,Pinnacle,1.44,Bet365,Player Assists,Pittsburgh Penguins v Nashville Predators,-8.660130718954262
+Edmonton Oilers,Toronto Maple Leafs,Mattias Ekholm,0.5,3.45,Sportsbet,1.255,Pinnacle,Player Assists,Edmonton Oilers v Toronto Maple Leafs,-8.666782146775232
+Ottawa Senators,Minnesota Wild,Claude Giroux,0.5,2.33,Pinnacle,1.52,Bet365,Player Assists,Ottawa Senators v Minnesota Wild,-8.707928619832849
+Edmonton Oilers,Toronto Maple Leafs,Mattias Ekholm,0.5,3.44,Pinnacle,1.255,Pinnacle,Player Assists,Edmonton Oilers v Toronto Maple Leafs,-8.751042342258874
+Boston Bruins,New York Rangers,Reilly Smith,0.5,3.41,Pinnacle,1.259,Pinnacle,Player Assists,Boston Bruins v New York Rangers,-8.75363075009492
+Tampa Bay Lightning,New York Islanders,Kyle Palmieri,0.5,3.43,Pinnacle,1.256,Pinnacle,Player Assists,Tampa Bay Lightning v New York Islanders,-8.772353345341788
+Calgary Flames,Detroit Red Wings,Mikael Backlund,0.5,3.47,Pinnacle,1.25,Pinnacle,Player Assists,Calgary Flames v Detroit Red Wings,-8.818443804034581
+Calgary Flames,Detroit Red Wings,Rasmus Andersson,0.5,3.1,Bet365,1.306,Pinnacle,Player Assists,Calgary Flames v Detroit Red Wings,-8.82774292347972
+Calgary Flames,Detroit Red Wings,Matt Coronato,0.5,3.05,Bet365,1.315,Pinnacle,Player Assists,Calgary Flames v Detroit Red Wings,-8.832512622327515
+Washington Capitals,Winnipeg Jets,Cole Perfetti,0.5,3.9,Bet365,1.202,Pinnacle,Player Assists,Washington Capitals v Winnipeg Jets,-8.835701181791045
+Boston Bruins,New York Rangers,Morgan Geekie,0.5,3.49,Pinnacle,1.247,Pinnacle,Player Assists,Boston Bruins v New York Rangers,-8.845757037520396
+Tampa Bay Lightning,New York Islanders,Anders Lee,0.5,3.15,Bet365,1.297,Pinnacle,Player Assists,Tampa Bay Lightning v New York Islanders,-8.84703405906182
+Washington Capitals,Winnipeg Jets,Alex Ovechkin,0.5,2.5,Neds,1.452,Pinnacle,Player Assists,Washington Capitals v Winnipeg Jets,-8.87052341597796
+Calgary Flames,Detroit Red Wings,Joel Farabee,0.5,3.8,Bet365,1.211,Pinnacle,Player Assists,Calgary Flames v Detroit Red Wings,-8.892172628102045
+Tampa Bay Lightning,New York Islanders,Anthony Cirelli,0.5,2.74,Sportsbet,1.381,Pinnacle,Player Assists,Tampa Bay Lightning v New York Islanders,-8.907646527164804
+Pittsburgh Penguins,Nashville Predators,Brady Skjei,0.5,3.07,Sportsbet,1.31,Bet365,Player Assists,Pittsburgh Penguins v Nashville Predators,-8.909167764875559
+Calgary Flames,Detroit Red Wings,Vladimir Tarasenko,0.5,3.3,Bet365,1.272,Pinnacle,Player Assists,Calgary Flames v Detroit Red Wings,-8.919382504288166
+Carolina Hurricanes,Los Angeles Kings,Phillip Danault,0.5,3.61,Pinnacle,1.231,Pinnacle,Player Assists,Carolina Hurricanes v Los Angeles Kings,-8.935599505840575
+Boston Bruins,New York Rangers,Chris Kreider,0.5,3.6,Pinnacle,1.232,Pinnacle,Player Assists,Boston Bruins v New York Rangers,-8.946608946608947
+Tampa Bay Lightning,New York Islanders,Anders Lee,0.5,3.14,Sportsbet,1.297,Pinnacle,Player Assists,Tampa Bay Lightning v New York Islanders,-8.948136070991852
+Washington Capitals,Winnipeg Jets,Jakob Chychrun,0.5,2.65,Neds,1.404,Pinnacle,Player Assists,Washington Capitals v Winnipeg Jets,-8.960920281675012
+Ottawa Senators,Minnesota Wild,Drake Batherson,0.5,2.5,Neds,1.45,Bet365,Player Assists,Ottawa Senators v Minnesota Wild,-8.965517241379306
+Carolina Hurricanes,Los Angeles Kings,Jackson Blake,0.5,3.15,Pinnacle,1.295,Pinnacle,Player Assists,Carolina Hurricanes v Los Angeles Kings,-8.966108966108965
+Pittsburgh Penguins,Nashville Predators,Kevin Hayes,0.5,3.9,Bet365,1.2,Pinnacle,Player Assists,Pittsburgh Penguins v Nashville Predators,-8.974358974358987
+Tampa Bay Lightning,New York Islanders,Darren Raddysh,0.5,2.55,Bet365,1.431,Pinnacle,Player Assists,Tampa Bay Lightning v New York Islanders,-9.096888231183463
+Washington Capitals,Winnipeg Jets,Cole Perfetti,0.5,3.86,Pinnacle,1.202,Pinnacle,Player Assists,Washington Capitals v Winnipeg Jets,-9.101411292060746
+Calgary Flames,Detroit Red Wings,Joel Farabee,0.5,3.77,Pinnacle,1.211,Pinnacle,Player Assists,Calgary Flames v Detroit Red Wings,-9.101582093409878
+Edmonton Oilers,Toronto Maple Leafs,Bobby McMann,0.5,4,Bet365,1.189,Pinnacle,Player Assists,Edmonton Oilers v Toronto Maple Leafs,-9.104289318755265
+Washington Capitals,Winnipeg Jets,John Carlson,0.5,2.5,Neds,1.446,Pinnacle,Player Assists,Washington Capitals v Winnipeg Jets,-9.156293222683276
+Pittsburgh Penguins,Nashville Predators,Kevin Hayes,0.5,3.87,Pinnacle,1.2,Pinnacle,Player Assists,Pittsburgh Penguins v Nashville Predators,-9.173126614987082
+Edmonton Oilers,Toronto Maple Leafs,Bobby McMann,0.5,3.98,Pinnacle,1.189,Pinnacle,Player Assists,Edmonton Oilers v Toronto Maple Leafs,-9.22991745945878
+Carolina Hurricanes,Los Angeles Kings,Alex Laferriere,0.5,3.42,Pinnacle,1.25,Pinnacle,Player Assists,Carolina Hurricanes v Los Angeles Kings,-9.239766081871359
+Pittsburgh Penguins,Nashville Predators,Brady Skjei,0.5,3.2,Bet365,1.282,Pinnacle,Player Assists,Pittsburgh Penguins v Nashville Predators,-9.253120124804992
+Pittsburgh Penguins,Nashville Predators,Gustav Nyquist,0.5,3.15,Bet365,1.29,Pinnacle,Player Assists,Pittsburgh Penguins v Nashville Predators,-9.265411590992967
+Washington Capitals,Winnipeg Jets,Nino Niederreiter,0.5,4.08,Pinnacle,1.179,Pinnacle,Player Assists,Washington Capitals v Winnipeg Jets,-9.327445991119077
+Pittsburgh Penguins,Nashville Predators,Gustav Nyquist,0.5,3.14,Sportsbet,1.29,Pinnacle,Player Assists,Pittsburgh Penguins v Nashville Predators,-9.366513602923021
+Pittsburgh Penguins,Nashville Predators,Roman Josi,0.5,1.72,Sportsbet,1.95,Bet365,Player Assists,Pittsburgh Penguins v Nashville Predators,-9.421586165772222
+Pittsburgh Penguins,Nashville Predators,Steven Stamkos,0.5,2.46,Sportsbet,1.454,Pinnacle,Player Assists,Pittsburgh Penguins v Nashville Predators,-9.426197425660643
+Ottawa Senators,Minnesota Wild,Claude Giroux,0.5,2.29,Sportsbet,1.52,Bet365,Player Assists,Ottawa Senators v Minnesota Wild,-9.457595954952902
+Pittsburgh Penguins,Nashville Predators,Michael Bunting,0.5,2.96,Sportsbet,1.32,Pinnacle,Player Assists,Pittsburgh Penguins v Nashville Predators,-9.5413595413595509
+Edmonton Oilers,Toronto Maple Leafs,Leon Draisaitl,0.5,1.56,Sportsbet,2.2,Bet365,Player Assists,Edmonton Oilers v Toronto Maple Leafs,-9.557109557109555
+Washington Capitals,Winnipeg Jets,Tom Wilson,0.5,2.75,Neds,1.366,Pinnacle,Player Assists,Washington Capitals v Winnipeg Jets,-9.570078530547033
+Calgary Flames,Detroit Red Wings,Rasmus Andersson,0.5,3.03,Sportsbet,1.306,Pinnacle,Player Assists,Calgary Flames v Detroit Red Wings,-9.572978737383675
+Pittsburgh Penguins,Nashville Predators,Roman Josi,0.5,1.72,Sportsbet,1.943,Pinnacle,Player Assists,Pittsburgh Penguins v Nashville Predators,-9.606338795198033
+Tampa Bay Lightning,New York Islanders,Kyle Palmieri,0.5,3.32,Sportsbet,1.256,Pinnacle,Player Assists,Tampa Bay Lightning v New York Islanders,-9.738316322615304
+Washington Capitals,Winnipeg Jets,Nino Niederreiter,0.5,4,Bet365,1.179,Pinnacle,Player Assists,Washington Capitals v Winnipeg Jets,-9.81764206955047
+Washington Capitals,Winnipeg Jets,Tom Wilson,0.5,2.73,Sportsbet,1.366,Pinnacle,Player Assists,Washington Capitals v Winnipeg Jets,-9.836478796947311
+Edmonton Oilers,Toronto Maple Leafs,John Tavares,0.5,2.5,Sportsbet,1.43,Bet365,Player Assists,Edmonton Oilers v Toronto Maple Leafs,-9.930069930069951
+Pittsburgh Penguins,Nashville Predators,Steven Stamkos,0.5,2.46,Sportsbet,1.44,Bet365,Player Assists,Pittsburgh Penguins v Nashville Predators,-10.094850948509482
+Washington Capitals,Winnipeg Jets,Nikolaj Ehlers,0.5,2.3,Neds,1.5,Pinnacle,Player Assists,Washington Capitals v Winnipeg Jets,-10.144927536231885
+Washington Capitals,Winnipeg Jets,Cole Perfetti,0.5,3.7,Neds,1.202,Pinnacle,Player Assists,Washington Capitals v Winnipeg Jets,-10.221702567792423
+Pittsburgh Penguins,Nashville Predators,Brady Skjei,0.5,3.07,Sportsbet,1.282,Pinnacle,Player Assists,Pittsburgh Penguins v Nashville Predators,-10.576410027085137
+Edmonton Oilers,Toronto Maple Leafs,Leon Draisaitl,0.5,1.56,Sportsbet,2.13,Pinnacle,Player Assists,Edmonton Oilers v Toronto Maple Leafs,-11.050920910075845
+Edmonton Oilers,Toronto Maple Leafs,John Tavares,0.5,2.4,Pinnacle,1.43,Bet365,Player Assists,Edmonton Oilers v Toronto Maple Leafs,-11.596736596736612
+Carolina Hurricanes,Los Angeles Kings,Jackson Blake,0.5,3.15,Pinnacle,1.25,Bet365,Player Assists,Carolina Hurricanes v Los Angeles Kings,-11.746031746031749
+Carolina Hurricanes,Los Angeles Kings,Alex Laferriere,0.5,3.42,Pinnacle,1.2,Bet365,Player Assists,Carolina Hurricanes v Los Angeles Kings,-12.57309941520468
+Carolina Hurricanes,Los Angeles Kings,Kevin Fiala,0.5,2.6,Pinnacle,1.33,Bet365,Player Assists,Carolina Hurricanes v Los Angeles Kings,-13.649508386350483
