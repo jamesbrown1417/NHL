@@ -26,7 +26,7 @@ async def main():
         for index, url in enumerate(url_df, start=1):  # Start counting from 1 for match_n
             try:
                 await driver.get(url)
-                await driver.sleep(1)
+                await driver.sleep(2)
 
                 # Click relevant hockey prop buttons
                 hockey_buttons = [
@@ -63,7 +63,8 @@ async def main():
                     await driver.execute_script("arguments[0].scrollIntoView(true);", button_element)
                     await driver.execute_script("window.scrollBy(0, -150)")
                     await button_element.click()
-                    await driver.sleep(1)
+                    await driver.sleep(2)
+                    print("Clicked 'Show more' button.")
 
                 # Write out HTML to file------------------------------------------------
                 elem = await driver.find_element(By.XPATH, "//div[contains(@class, 'wcl-PageContainer_Colcontainer ')]")

@@ -13,7 +13,7 @@ get_player_props <- function(scraped_file) {
   
   # Extract match details
   match_teams <- read_html(scraped_file) |>
-    html_elements(".sph-FixturePodHeader_TeamName") |>
+    html_elements(".sph-FixturePodHeader_TeamName ") |>
     html_text() |> 
     str_trim()
   
