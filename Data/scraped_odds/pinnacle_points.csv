@@ -1,51 +1,137 @@
 match,player_name,market_name,line,over_price,agency,under_price
-Chicago Blackhawks v Edmonton Oilers,Connor Bedard,Player Points,0.5,1.571,Pinnacle,2.29
-Chicago Blackhawks v Edmonton Oilers,Connor McDavid,Player Points,1.5,1.709,Pinnacle,2.05
-Chicago Blackhawks v Edmonton Oilers,Corey Perry,Player Points,0.5,2.33,Pinnacle,1.555
-Chicago Blackhawks v Edmonton Oilers,Darnell Nurse,Player Points,0.5,2.6,Pinnacle,1.444
-Chicago Blackhawks v Edmonton Oilers,Evan Bouchard,Player Points,0.5,1.409,Pinnacle,2.71
-Chicago Blackhawks v Edmonton Oilers,Frank Nazar,Player Points,0.5,2.75,Pinnacle,1.396
-Chicago Blackhawks v Edmonton Oilers,Jeff Skinner,Player Points,0.5,2.49,Pinnacle,1.483
-Chicago Blackhawks v Edmonton Oilers,Leon Draisaitl,Player Points,1.5,1.925,Pinnacle,1.806
-Chicago Blackhawks v Edmonton Oilers,Mattias Ekholm,Player Points,0.5,2.34,Pinnacle,1.546
-Chicago Blackhawks v Edmonton Oilers,Ryan Donato,Player Points,0.5,2.18,Pinnacle,1.625
-Chicago Blackhawks v Edmonton Oilers,Ryan Nugent-Hopkins,Player Points,0.5,1.543,Pinnacle,2.35
-Chicago Blackhawks v Edmonton Oilers,Seth Jones,Player Points,0.5,2.07,Pinnacle,1.704
-Chicago Blackhawks v Edmonton Oilers,Teuvo Teravainen,Player Points,0.5,2.05,Pinnacle,1.704
-Chicago Blackhawks v Edmonton Oilers,Tyler Bertuzzi,Player Points,0.5,2.2,Pinnacle,1.606
-Chicago Blackhawks v Edmonton Oilers,Viktor Arvidsson,Player Points,0.5,2.09,Pinnacle,1.671
-Chicago Blackhawks v Edmonton Oilers,Zach Hyman,Player Points,0.5,1.512,Pinnacle,2.42
-Los Angeles Kings v Montreal Canadiens,Adrian Kempe,Player Points,0.5,1.454,Pinnacle,2.55
-Los Angeles Kings v Montreal Canadiens,Alex Laferriere,Player Points,0.5,1.99,Pinnacle,1.757
-Los Angeles Kings v Montreal Canadiens,Anze Kopitar,Player Points,0.5,1.694,Pinnacle,2.08
-Los Angeles Kings v Montreal Canadiens,Cole Caufield,Player Points,0.5,1.68,Pinnacle,2.1
-Los Angeles Kings v Montreal Canadiens,Drew Doughty,Player Points,0.5,1.862,Pinnacle,1.877
-Los Angeles Kings v Montreal Canadiens,Juraj Slafkovsky,Player Points,0.5,2.14,Pinnacle,1.645
-Los Angeles Kings v Montreal Canadiens,Kevin Fiala,Player Points,0.5,1.625,Pinnacle,2.19
-Los Angeles Kings v Montreal Canadiens,Lane Hutson,Player Points,0.5,1.943,Pinnacle,1.8
-Los Angeles Kings v Montreal Canadiens,Mike Matheson,Player Points,0.5,2.47,Pinnacle,1.49
-Los Angeles Kings v Montreal Canadiens,Nick Suzuki,Player Points,0.5,1.724,Pinnacle,2.03
-Los Angeles Kings v Montreal Canadiens,Patrik Laine,Player Points,0.5,2.2,Pinnacle,1.625
-Los Angeles Kings v Montreal Canadiens,Phillip Danault,Player Points,0.5,2.09,Pinnacle,1.689
-Los Angeles Kings v Montreal Canadiens,Quinton Byfield,Player Points,0.5,1.943,Pinnacle,1.793
-Los Angeles Kings v Montreal Canadiens,Trevor Moore,Player Points,0.5,2.23,Pinnacle,1.602
-Los Angeles Kings v Montreal Canadiens,Warren Foegele,Player Points,0.5,2.36,Pinnacle,1.537
-New York Rangers v Boston Bruins,Adam Fox,Player Points,0.5,1.724,Pinnacle,2.03
-New York Rangers v Boston Bruins,Alexis Lafreniere,Player Points,0.5,1.833,Pinnacle,1.892
-New York Rangers v Boston Bruins,Artemi Panarin,Player Points,1.5,2.38,Pinnacle,1.523
-New York Rangers v Boston Bruins,Brad Marchand,Player Points,0.5,1.833,Pinnacle,1.909
-New York Rangers v Boston Bruins,Charlie Coyle,Player Points,0.5,2.69,Pinnacle,1.418
-New York Rangers v Boston Bruins,Charlie McAvoy,Player Points,0.5,2.2,Pinnacle,1.709
-New York Rangers v Boston Bruins,Chris Kreider,Player Points,0.5,2.15,Pinnacle,1.74
-New York Rangers v Boston Bruins,David Pastrnak,Player Points,1.5,2.75,Pinnacle,1.454
-New York Rangers v Boston Bruins,Elias Lindholm,Player Points,0.5,2.15,Pinnacle,1.628
-New York Rangers v Boston Bruins,J.T. Miller,Player Points,0.5,1.434,Pinnacle,2.6
-New York Rangers v Boston Bruins,K'Andre Miller,Player Points,0.5,2.82,Pinnacle,1.377
-New York Rangers v Boston Bruins,Mason Lohrei,Player Points,0.5,3.02,Pinnacle,1.33
-New York Rangers v Boston Bruins,Matthew Poitras,Player Points,0.5,2.89,Pinnacle,1.359
-New York Rangers v Boston Bruins,Mika Zibanejad,Player Points,0.5,1.574,Pinnacle,2.26
-New York Rangers v Boston Bruins,Morgan Geekie,Player Points,0.5,2.22,Pinnacle,1.606
-New York Rangers v Boston Bruins,Pavel Zacha,Player Points,0.5,1.884,Pinnacle,1.961
-New York Rangers v Boston Bruins,Reilly Smith,Player Points,0.5,2.26,Pinnacle,1.588
-New York Rangers v Boston Bruins,Vincent Trocheck,Player Points,0.5,1.751,Pinnacle,1.99
-New York Rangers v Boston Bruins,Will Cuylle,Player Points,0.5,2.8,Pinnacle,1.381
+Calgary Flames v Colorado Avalanche,Artturi Lehkonen,Player Points,0.5,1.625,Pinnacle,2.32
+Calgary Flames v Colorado Avalanche,Blake Coleman,Player Points,0.5,2.09,Pinnacle,1.684
+Calgary Flames v Colorado Avalanche,Cale Makar,Player Points,0.5,1.5,Pinnacle,2.45
+Calgary Flames v Colorado Avalanche,Casey Mittelstadt,Player Points,0.5,2.66,Pinnacle,1.425
+Calgary Flames v Colorado Avalanche,Devon Toews,Player Points,0.5,2.16,Pinnacle,1.645
+Calgary Flames v Colorado Avalanche,Joel Farabee,Player Points,0.5,2.57,Pinnacle,1.452
+Calgary Flames v Colorado Avalanche,Jonathan Drouin,Player Points,0.5,1.787,Pinnacle,2.08
+Calgary Flames v Colorado Avalanche,Jonathan Huberdeau,Player Points,0.5,1.68,Pinnacle,2.1
+Calgary Flames v Colorado Avalanche,MacKenzie Weegar,Player Points,0.5,2.1,Pinnacle,1.769
+Calgary Flames v Colorado Avalanche,Martin Necas,Player Points,0.5,1.395,Pinnacle,2.76
+Calgary Flames v Colorado Avalanche,Matt Coronato,Player Points,0.5,2.04,Pinnacle,1.819
+Calgary Flames v Colorado Avalanche,Mikael Backlund,Player Points,0.5,2.46,Pinnacle,1.497
+Calgary Flames v Colorado Avalanche,Morgan Frost,Player Points,0.5,2.23,Pinnacle,1.694
+Calgary Flames v Colorado Avalanche,Nathan MacKinnon,Player Points,1.5,2.05,Pinnacle,1.714
+Calgary Flames v Colorado Avalanche,Nazem Kadri,Player Points,0.5,1.555,Pinnacle,2.32
+Calgary Flames v Colorado Avalanche,Rasmus Andersson,Player Points,0.5,2.85,Pinnacle,1.432
+Calgary Flames v Colorado Avalanche,Yegor Sharangovich,Player Points,0.5,2.47,Pinnacle,1.571
+Columbus Blue Jackets v Utah Hockey Club,Adam Fantilli,Player Points,0.5,1.675,Pinnacle,2.11
+Columbus Blue Jackets v Utah Hockey Club,Barrett Hayton,Player Points,0.5,2,Pinnacle,1.746
+Columbus Blue Jackets v Utah Hockey Club,Clayton Keller,Player Points,0.5,1.357,Pinnacle,2.9
+Columbus Blue Jackets v Utah Hockey Club,Cole Sillinger,Player Points,0.5,1.99,Pinnacle,1.757
+Columbus Blue Jackets v Utah Hockey Club,Dmitri Voronkov,Player Points,0.5,1.699,Pinnacle,2.07
+Columbus Blue Jackets v Utah Hockey Club,Dylan Guenther,Player Points,0.5,1.689,Pinnacle,2.08
+Columbus Blue Jackets v Utah Hockey Club,Kent Johnson,Player Points,0.5,1.714,Pinnacle,2.05
+Columbus Blue Jackets v Utah Hockey Club,Mikhail Sergachev,Player Points,0.5,1.833,Pinnacle,1.9
+Columbus Blue Jackets v Utah Hockey Club,Nick Schmaltz,Player Points,0.5,1.645,Pinnacle,2.14
+Columbus Blue Jackets v Utah Hockey Club,Zach Werenski,Player Points,0.5,1.454,Pinnacle,2.55
+Minnesota Wild v Carolina Hurricanes,Andrei Svechnikov,Player Points,0.5,1.884,Pinnacle,1.961
+Minnesota Wild v Carolina Hurricanes,Brent Burns,Player Points,0.5,2.45,Pinnacle,1.571
+Minnesota Wild v Carolina Hurricanes,Brock Faber,Player Points,0.5,2.59,Pinnacle,1.44
+Minnesota Wild v Carolina Hurricanes,Jackson Blake,Player Points,0.5,2.04,Pinnacle,1.724
+Minnesota Wild v Carolina Hurricanes,Jared Spurgeon,Player Points,0.5,2.85,Pinnacle,1.434
+Minnesota Wild v Carolina Hurricanes,Jesperi Kotkaniemi,Player Points,0.5,2.51,Pinnacle,1.543
+Minnesota Wild v Carolina Hurricanes,Joel Eriksson Ek,Player Points,0.5,1.869,Pinnacle,1.862
+Minnesota Wild v Carolina Hurricanes,Marco Rossi,Player Points,0.5,1.925,Pinnacle,1.917
+Minnesota Wild v Carolina Hurricanes,Mats Zuccarello,Player Points,0.5,1.518,Pinnacle,2.39
+Minnesota Wild v Carolina Hurricanes,Matt Boldy,Player Points,0.5,1.574,Pinnacle,2.3
+Minnesota Wild v Carolina Hurricanes,Mikko Rantanen,Player Points,0.5,1.448,Pinnacle,2.58
+Minnesota Wild v Carolina Hurricanes,Sebastian Aho,Player Points,0.5,1.442,Pinnacle,2.6
+Minnesota Wild v Carolina Hurricanes,Seth Jarvis,Player Points,0.5,1.699,Pinnacle,2.07
+Minnesota Wild v Carolina Hurricanes,Shayne Gostisbehere,Player Points,0.5,2.56,Pinnacle,1.458
+New Jersey Devils v Vegas Golden Knights,Alex Pietrangelo,Player Points,0.5,2.74,Pinnacle,1.4
+New Jersey Devils v Vegas Golden Knights,Brandon Saad,Player Points,0.5,2.63,Pinnacle,1.432
+New Jersey Devils v Vegas Golden Knights,Dawson Mercer,Player Points,0.5,2.45,Pinnacle,1.568
+New Jersey Devils v Vegas Golden Knights,Dougie Hamilton,Player Points,0.5,2.08,Pinnacle,1.689
+New Jersey Devils v Vegas Golden Knights,Ivan Barbashev,Player Points,0.5,2.25,Pinnacle,1.588
+New Jersey Devils v Vegas Golden Knights,Jack Eichel,Player Points,1.5,2.75,Pinnacle,1.4
+New Jersey Devils v Vegas Golden Knights,Jack Hughes,Player Points,1.5,2.94,Pinnacle,1.42
+New Jersey Devils v Vegas Golden Knights,Jesper Bratt,Player Points,0.5,1.54,Pinnacle,2.51
+New Jersey Devils v Vegas Golden Knights,Luke Hughes,Player Points,0.5,2.5,Pinnacle,1.478
+New Jersey Devils v Vegas Golden Knights,Mark Stone,Player Points,0.5,1.54,Pinnacle,2.36
+New Jersey Devils v Vegas Golden Knights,Ondrej Palat,Player Points,0.5,2.08,Pinnacle,1.694
+New Jersey Devils v Vegas Golden Knights,Pavel Dorofeyev,Player Points,0.5,1.925,Pinnacle,1.806
+New Jersey Devils v Vegas Golden Knights,Shea Theodore,Player Points,0.5,1.884,Pinnacle,1.847
+New Jersey Devils v Vegas Golden Knights,Stefan Noesen,Player Points,0.5,2.45,Pinnacle,1.571
+New Jersey Devils v Vegas Golden Knights,Timo Meier,Player Points,0.5,1.97,Pinnacle,1.769
+New Jersey Devils v Vegas Golden Knights,Tomas Hertl,Player Points,0.5,1.793,Pinnacle,1.943
+New Jersey Devils v Vegas Golden Knights,Victor Olofsson,Player Points,0.5,2.65,Pinnacle,1.416
+Philadelphia Flyers v Washington Capitals,Alex Ovechkin,Player Points,0.5,1.476,Pinnacle,2.49
+Philadelphia Flyers v Washington Capitals,Aliaksei Protas,Player Points,0.5,1.84,Pinnacle,2.01
+Philadelphia Flyers v Washington Capitals,Bobby Brink,Player Points,0.5,2.43,Pinnacle,1.591
+Philadelphia Flyers v Washington Capitals,Connor McMichael,Player Points,0.5,1.961,Pinnacle,1.775
+Philadelphia Flyers v Washington Capitals,Dylan Strome,Player Points,0.5,1.606,Pinnacle,2.36
+Philadelphia Flyers v Washington Capitals,Jakob Chychrun,Player Points,0.5,2.21,Pinnacle,1.617
+Philadelphia Flyers v Washington Capitals,John Carlson,Player Points,0.5,2,Pinnacle,1.751
+Philadelphia Flyers v Washington Capitals,Matvei Michkov,Player Points,0.5,2.08,Pinnacle,1.694
+Philadelphia Flyers v Washington Capitals,Noah Cates,Player Points,0.5,2.47,Pinnacle,1.568
+Philadelphia Flyers v Washington Capitals,Pierre-Luc Dubois,Player Points,0.5,1.934,Pinnacle,1.9
+Philadelphia Flyers v Washington Capitals,Scott Laughton,Player Points,0.5,2.46,Pinnacle,1.497
+Philadelphia Flyers v Washington Capitals,Tom Wilson,Player Points,0.5,1.862,Pinnacle,1.98
+Philadelphia Flyers v Washington Capitals,Travis Konecny,Player Points,0.5,1.552,Pinnacle,2.33
+Philadelphia Flyers v Washington Capitals,Travis Sanheim,Player Points,0.5,2.94,Pinnacle,1.418
+Philadelphia Flyers v Washington Capitals,Tyson Foerster,Player Points,0.5,2.19,Pinnacle,1.719
+San Jose Sharks v Vancouver Canucks,Brock Boeser,Player Points,0.5,1.584,Pinnacle,2.26
+San Jose Sharks v Vancouver Canucks,Conor Garland,Player Points,0.5,1.862,Pinnacle,1.869
+San Jose Sharks v Vancouver Canucks,Elias Pettersson,Player Points,0.5,1.606,Pinnacle,2.23
+San Jose Sharks v Vancouver Canucks,Fabian Zetterlund,Player Points,0.5,2.29,Pinnacle,1.571
+San Jose Sharks v Vancouver Canucks,Filip Chytil,Player Points,0.5,1.884,Pinnacle,1.847
+San Jose Sharks v Vancouver Canucks,Filip Hronek,Player Points,0.5,1.9,Pinnacle,1.833
+San Jose Sharks v Vancouver Canucks,Jake DeBrusk,Player Points,0.5,1.571,Pinnacle,2.27
+San Jose Sharks v Vancouver Canucks,Jake Walman,Player Points,0.5,2.1,Pinnacle,1.68
+San Jose Sharks v Vancouver Canucks,Macklin Celebrini,Player Points,0.5,1.531,Pinnacle,2.37
+San Jose Sharks v Vancouver Canucks,Tyler Toffoli,Player Points,0.5,1.729,Pinnacle,2.03
+San Jose Sharks v Vancouver Canucks,Will Smith,Player Points,0.5,2.28,Pinnacle,1.571
+San Jose Sharks v Vancouver Canucks,William Eklund,Player Points,0.5,1.645,Pinnacle,2.15
+Seattle Kraken v Toronto Maple Leafs,Auston Matthews,Player Points,1.5,2.56,Pinnacle,1.448
+Seattle Kraken v Toronto Maple Leafs,Bobby McMann,Player Points,0.5,2.28,Pinnacle,1.578
+Seattle Kraken v Toronto Maple Leafs,Brandon Montour,Player Points,0.5,2.5,Pinnacle,1.478
+Seattle Kraken v Toronto Maple Leafs,Chandler Stephenson,Player Points,0.5,1.961,Pinnacle,1.781
+Seattle Kraken v Toronto Maple Leafs,Jaden Schwartz,Player Points,0.5,1.9,Pinnacle,1.833
+Seattle Kraken v Toronto Maple Leafs,Jared McCann,Player Points,0.5,1.925,Pinnacle,1.806
+Seattle Kraken v Toronto Maple Leafs,John Tavares,Player Points,0.5,1.588,Pinnacle,2.25
+Seattle Kraken v Toronto Maple Leafs,Kaapo Kakko,Player Points,0.5,2.04,Pinnacle,1.724
+Seattle Kraken v Toronto Maple Leafs,Matthew Knies,Player Points,0.5,1.645,Pinnacle,2.13
+Seattle Kraken v Toronto Maple Leafs,Matty Beniers,Player Points,0.5,2.02,Pinnacle,1.729
+Seattle Kraken v Toronto Maple Leafs,Max Domi,Player Points,0.5,2.28,Pinnacle,1.578
+Seattle Kraken v Toronto Maple Leafs,Mitch Marner,Player Points,1.5,2.75,Pinnacle,1.4
+Seattle Kraken v Toronto Maple Leafs,Morgan Rielly,Player Points,0.5,2.21,Pinnacle,1.613
+Seattle Kraken v Toronto Maple Leafs,Oliver Bjorkstrand,Player Points,0.5,2.36,Pinnacle,1.54
+Seattle Kraken v Toronto Maple Leafs,Oliver Ekman-Larsson,Player Points,0.5,2.74,Pinnacle,1.401
+Seattle Kraken v Toronto Maple Leafs,Shane Wright,Player Points,0.5,2.37,Pinnacle,1.534
+Seattle Kraken v Toronto Maple Leafs,Vince Dunn,Player Points,0.5,2,Pinnacle,1.757
+Seattle Kraken v Toronto Maple Leafs,William Nylander,Player Points,0.5,1.416,Pinnacle,2.7
+St. Louis Blues v Florida Panthers,Aaron Ekblad,Player Points,0.5,2.03,Pinnacle,1.729
+St. Louis Blues v Florida Panthers,Aleksander Barkov,Player Points,0.5,1.416,Pinnacle,2.65
+St. Louis Blues v Florida Panthers,Anton Lundell,Player Points,0.5,2.17,Pinnacle,1.729
+St. Louis Blues v Florida Panthers,Brayden Schenn,Player Points,0.5,2.23,Pinnacle,1.598
+St. Louis Blues v Florida Panthers,Cam Fowler,Player Points,0.5,2.73,Pinnacle,1.401
+St. Louis Blues v Florida Panthers,Carter Verhaeghe,Player Points,0.5,1.606,Pinnacle,2.2
+St. Louis Blues v Florida Panthers,Colton Parayko,Player Points,0.5,2.57,Pinnacle,1.454
+St. Louis Blues v Florida Panthers,Dylan Holloway,Player Points,0.5,2.08,Pinnacle,1.689
+St. Louis Blues v Florida Panthers,Evan Rodrigues,Player Points,0.5,2.54,Pinnacle,1.462
+St. Louis Blues v Florida Panthers,Gustav Forsling,Player Points,0.5,2.76,Pinnacle,1.393
+St. Louis Blues v Florida Panthers,Jake Neighbours,Player Points,0.5,2.42,Pinnacle,1.512
+St. Louis Blues v Florida Panthers,Jordan Kyrou,Player Points,0.5,1.775,Pinnacle,1.961
+St. Louis Blues v Florida Panthers,Justin Faulk,Player Points,0.5,2.74,Pinnacle,1.4
+St. Louis Blues v Florida Panthers,Matthew Tkachuk,Player Points,0.5,1.434,Pinnacle,2.6
+St. Louis Blues v Florida Panthers,Pavel Buchnevich,Player Points,0.5,1.819,Pinnacle,1.909
+St. Louis Blues v Florida Panthers,Robert Thomas,Player Points,0.5,1.645,Pinnacle,2.16
+St. Louis Blues v Florida Panthers,Sam Bennett,Player Points,0.5,1.952,Pinnacle,1.787
+St. Louis Blues v Florida Panthers,Sam Reinhart,Player Points,0.5,1.454,Pinnacle,2.55
+Tampa Bay Lightning v Ottawa Senators,Brady Tkachuk,Player Points,0.5,1.625,Pinnacle,2.19
+Tampa Bay Lightning v Ottawa Senators,Brandon Hagel,Player Points,0.5,1.476,Pinnacle,2.5
+Tampa Bay Lightning v Ottawa Senators,Brayden Point,Player Points,0.5,1.413,Pinnacle,2.96
+Tampa Bay Lightning v Ottawa Senators,Claude Giroux,Player Points,0.5,1.8,Pinnacle,1.934
+Tampa Bay Lightning v Ottawa Senators,Darren Raddysh,Player Points,0.5,2.17,Pinnacle,1.625
+Tampa Bay Lightning v Ottawa Senators,David Perron,Player Points,0.5,2.61,Pinnacle,1.438
+Tampa Bay Lightning v Ottawa Senators,Drake Batherson,Player Points,0.5,1.854,Pinnacle,1.877
+Tampa Bay Lightning v Ottawa Senators,Jake Guentzel,Player Points,0.5,1.452,Pinnacle,2.77
+Tampa Bay Lightning v Ottawa Senators,Jake Sanderson,Player Points,0.5,2.02,Pinnacle,1.833
+Tampa Bay Lightning v Ottawa Senators,Nicholas Paul,Player Points,0.5,2.28,Pinnacle,1.649
+Tampa Bay Lightning v Ottawa Senators,Nikita Kucherov,Player Points,1.5,2,Pinnacle,1.751
+Tampa Bay Lightning v Ottawa Senators,Ridly Greig,Player Points,0.5,2.42,Pinnacle,1.51
+Tampa Bay Lightning v Ottawa Senators,Thomas Chabot,Player Points,0.5,2.41,Pinnacle,1.584
+Tampa Bay Lightning v Ottawa Senators,Tim Stutzle,Player Points,0.5,1.526,Pinnacle,2.37
+Tampa Bay Lightning v Ottawa Senators,Victor Hedman,Player Points,0.5,1.757,Pinnacle,1.99
