@@ -43,6 +43,8 @@ id,name,rot_num,line_id,price,handicap,selection,home_team,away_team
 1604144749,Under,43,4730010477,1.943,0.5,Jack Eichel (Assists),New Jersey Devils,Vegas Golden Knights
 1604143552,Under,39,4729482719,1.256,0.5,Scott Laughton (Assists),Philadelphia Flyers,Washington Capitals
 1604143551,Over,38,4729482718,4.0,0.5,Scott Laughton (Assists),Philadelphia Flyers,Washington Capitals
+1604144562,Over,36,4730020420,2.78,0.5,Ivan Provorov (Assists),Columbus Blue Jackets,Utah Hockey Club
+1604144563,Under,37,4730020421,1.389,0.5,Ivan Provorov (Assists),Columbus Blue Jackets,Utah Hockey Club
 1604143536,Over,38,4729346453,2.32,0.5,John Carlson (Assists),Philadelphia Flyers,Washington Capitals
 1604143537,Under,39,4729346454,1.555,0.5,John Carlson (Assists),Philadelphia Flyers,Washington Capitals
 1604144556,Over,36,4729824515,2.01,0.5,Nick Schmaltz (Assists),Columbus Blue Jackets,Utah Hockey Club
@@ -73,8 +75,8 @@ id,name,rot_num,line_id,price,handicap,selection,home_team,away_team
 1604144611,Under,37,4729595960,1.476,0.5,Kent Johnson (Assists),Columbus Blue Jackets,Utah Hockey Club
 1604144823,Over,40,4729929349,2.46,0.5,Claude Giroux (Assists),Tampa Bay Lightning,Ottawa Senators
 1604144824,Under,41,4729929350,1.5,0.5,Claude Giroux (Assists),Tampa Bay Lightning,Ottawa Senators
-1604144859,Over,40,4729466972,3.76,0.5,Nicholas Paul (Assists),Tampa Bay Lightning,Ottawa Senators
-1604144860,Under,41,4729466973,1.286,0.5,Nicholas Paul (Assists),Tampa Bay Lightning,Ottawa Senators
+1604144859,Over,40,4730034586,3.63,0.5,Nicholas Paul (Assists),Tampa Bay Lightning,Ottawa Senators
+1604144860,Under,41,4730034587,1.303,0.5,Nicholas Paul (Assists),Tampa Bay Lightning,Ottawa Senators
 1604144848,Under,41,4728890699,1.409,1.5,Nikita Kucherov (Assists),Tampa Bay Lightning,Ottawa Senators
 1604144847,Over,40,4728890698,2.93,1.5,Nikita Kucherov (Assists),Tampa Bay Lightning,Ottawa Senators
 1604144835,Over,40,4729975923,2.02,0.5,Victor Hedman (Assists),Tampa Bay Lightning,Ottawa Senators
@@ -91,8 +93,8 @@ id,name,rot_num,line_id,price,handicap,selection,home_team,away_team
 1604144917,Under,41,4729929488,1.735,0.5,Jake Guentzel (Assists),Tampa Bay Lightning,Ottawa Senators
 1604144949,Over,40,4729930234,2.55,0.5,Brady Tkachuk (Assists),Tampa Bay Lightning,Ottawa Senators
 1604144950,Under,41,4729930235,1.454,0.5,Brady Tkachuk (Assists),Tampa Bay Lightning,Ottawa Senators
-1604144937,Over,40,4729929481,2.55,0.5,Drake Batherson (Assists),Tampa Bay Lightning,Ottawa Senators
-1604144938,Under,41,4729929482,1.454,0.5,Drake Batherson (Assists),Tampa Bay Lightning,Ottawa Senators
+1604144937,Over,40,4730030282,2.58,0.5,Drake Batherson (Assists),Tampa Bay Lightning,Ottawa Senators
+1604144938,Under,41,4730030283,1.442,0.5,Drake Batherson (Assists),Tampa Bay Lightning,Ottawa Senators
 1604144970,Over,40,4729929165,2.4,0.5,Jake Sanderson (Assists),Tampa Bay Lightning,Ottawa Senators
 1604144971,Under,41,4729929166,1.588,0.5,Jake Sanderson (Assists),Tampa Bay Lightning,Ottawa Senators
 1604144961,Over,40,4729929883,2.01,0.5,Tim Stutzle (Assists),Tampa Bay Lightning,Ottawa Senators
@@ -113,6 +115,14 @@ id,name,rot_num,line_id,price,handicap,selection,home_team,away_team
 1604175226,Under,41,4729929200,1.2,0.5,David Perron (Assists),Tampa Bay Lightning,Ottawa Senators
 1604175338,Over,40,4729930018,3.9,0.5,Ridly Greig (Assists),Tampa Bay Lightning,Ottawa Senators
 1604175339,Under,41,4729930019,1.21,0.5,Ridly Greig (Assists),Tampa Bay Lightning,Ottawa Senators
+1604185715,Over,36,4730020872,3.47,0.5,Luca Del Bel Belluz (Assists),Columbus Blue Jackets,Utah Hockey Club
+1604185716,Under,37,4730020873,1.25,0.5,Luca Del Bel Belluz (Assists),Columbus Blue Jackets,Utah Hockey Club
+1604185724,Over,42,4730024047,4.58,0.5,Paul Cotter (Assists),New Jersey Devils,Vegas Golden Knights
+1604185725,Under,43,4730024048,1.141,0.5,Paul Cotter (Assists),New Jersey Devils,Vegas Golden Knights
+1604185730,Over,36,4730028315,3.27,0.5,James van Riemsdyk (Assists),Columbus Blue Jackets,Utah Hockey Club
+1604185731,Under,37,4730028316,1.281,0.5,James van Riemsdyk (Assists),Columbus Blue Jackets,Utah Hockey Club
+1604185748,Over,42,4730026178,3.77,0.5,Noah Hanifin (Assists),New Jersey Devils,Vegas Golden Knights
+1604185749,Under,43,4730026179,1.211,0.5,Noah Hanifin (Assists),New Jersey Devils,Vegas Golden Knights
 1604144025,Over,44,4729175401,3.3,0.5,Jackson Blake (Assists),Minnesota Wild,Carolina Hurricanes
 1604144026,Under,45,4729175402,1.285,0.5,Jackson Blake (Assists),Minnesota Wild,Carolina Hurricanes
 1604144013,Over,44,4729928410,2.27,0.5,Matt Boldy (Assists),Minnesota Wild,Carolina Hurricanes
@@ -123,16 +133,16 @@ id,name,rot_num,line_id,price,handicap,selection,home_team,away_team
 1604143900,Under,45,4729928401,1.606,0.5,Mats Zuccarello (Assists),Minnesota Wild,Carolina Hurricanes
 1604143884,Over,44,4729620263,3.6,0.5,Jared Spurgeon (Assists),Minnesota Wild,Carolina Hurricanes
 1604143885,Under,45,4729620264,1.303,0.5,Jared Spurgeon (Assists),Minnesota Wild,Carolina Hurricanes
-1604143875,Over,44,4729123435,3.0,0.5,Brent Burns (Assists),Minnesota Wild,Carolina Hurricanes
-1604143876,Under,45,4729123436,1.4,0.5,Brent Burns (Assists),Minnesota Wild,Carolina Hurricanes
+1604143875,Over,44,4730022528,2.94,0.5,Brent Burns (Assists),Minnesota Wild,Carolina Hurricanes
+1604143876,Under,45,4730022529,1.414,0.5,Brent Burns (Assists),Minnesota Wild,Carolina Hurricanes
 1604143936,Under,45,4728790437,1.751,0.5,Sebastian Aho (Assists),Minnesota Wild,Carolina Hurricanes
 1604143935,Over,44,4728790436,2.0,0.5,Sebastian Aho (Assists),Minnesota Wild,Carolina Hurricanes
 1604143923,Over,44,4728943286,2.07,0.5,Mikko Rantanen (Assists),Minnesota Wild,Carolina Hurricanes
 1604143924,Under,45,4728943287,1.704,0.5,Mikko Rantanen (Assists),Minnesota Wild,Carolina Hurricanes
 1604143908,Over,44,4729970457,3.0,0.5,Shayne Gostisbehere (Assists),Minnesota Wild,Carolina Hurricanes
 1604143909,Under,45,4729970458,1.384,0.5,Shayne Gostisbehere (Assists),Minnesota Wild,Carolina Hurricanes
-1604143959,Over,44,4729630060,3.8,0.5,Jesperi Kotkaniemi (Assists),Minnesota Wild,Carolina Hurricanes
-1604143960,Under,45,4729630061,1.208,0.5,Jesperi Kotkaniemi (Assists),Minnesota Wild,Carolina Hurricanes
+1604143959,Over,44,4730022532,3.75,0.5,Jesperi Kotkaniemi (Assists),Minnesota Wild,Carolina Hurricanes
+1604143960,Under,45,4730022533,1.214,0.5,Jesperi Kotkaniemi (Assists),Minnesota Wild,Carolina Hurricanes
 1604143947,Over,44,4729873785,2.78,0.5,Joel Eriksson Ek (Assists),Minnesota Wild,Carolina Hurricanes
 1604143948,Under,45,4729873786,1.389,0.5,Joel Eriksson Ek (Assists),Minnesota Wild,Carolina Hurricanes
 1604143995,Over,44,4728838879,2.76,0.5,Seth Jarvis (Assists),Minnesota Wild,Carolina Hurricanes
@@ -141,10 +151,10 @@ id,name,rot_num,line_id,price,handicap,selection,home_team,away_team
 1604143984,Under,45,4729620268,1.434,0.5,Marco Rossi (Assists),Minnesota Wild,Carolina Hurricanes
 1604143971,Over,44,4728790541,2.8,0.5,Andrei Svechnikov (Assists),Minnesota Wild,Carolina Hurricanes
 1604143972,Under,45,4728790542,1.454,0.5,Andrei Svechnikov (Assists),Minnesota Wild,Carolina Hurricanes
-1604143767,Over,46,4729538516,3.4,0.5,Gustav Forsling (Assists),St. Louis Blues,Florida Panthers
-1604143768,Under,47,4729538517,1.261,0.5,Gustav Forsling (Assists),St. Louis Blues,Florida Panthers
-1604143755,Over,46,4729635587,2.95,0.5,Sam Bennett (Assists),St. Louis Blues,Florida Panthers
-1604143756,Under,47,4729635588,1.357,0.5,Sam Bennett (Assists),St. Louis Blues,Florida Panthers
+1604143767,Over,46,4730034634,3.41,0.5,Gustav Forsling (Assists),St. Louis Blues,Florida Panthers
+1604143768,Under,47,4730034635,1.259,0.5,Gustav Forsling (Assists),St. Louis Blues,Florida Panthers
+1604143755,Over,46,4730034618,2.98,0.5,Sam Bennett (Assists),St. Louis Blues,Florida Panthers
+1604143756,Under,47,4730034619,1.348,0.5,Sam Bennett (Assists),St. Louis Blues,Florida Panthers
 1604143803,Over,46,4729739413,2.04,0.5,Matthew Tkachuk (Assists),St. Louis Blues,Florida Panthers
 1604143804,Under,47,4729739414,1.719,0.5,Matthew Tkachuk (Assists),St. Louis Blues,Florida Panthers
 1604143791,Over,46,4729538545,2.91,0.5,Jordan Kyrou (Assists),St. Louis Blues,Florida Panthers
@@ -155,10 +165,10 @@ id,name,rot_num,line_id,price,handicap,selection,home_team,away_team
 1604143828,Under,47,4729964130,1.588,0.5,Robert Thomas (Assists),St. Louis Blues,Florida Panthers
 1604143815,Over,46,4728789750,2.47,0.5,Pavel Buchnevich (Assists),St. Louis Blues,Florida Panthers
 1604143816,Under,47,4728789751,1.492,0.5,Pavel Buchnevich (Assists),St. Louis Blues,Florida Panthers
-1604143866,Over,46,4728838579,4.0,0.5,Jake Neighbours (Assists),St. Louis Blues,Florida Panthers
-1604143867,Under,47,4728838580,1.251,0.5,Jake Neighbours (Assists),St. Louis Blues,Florida Panthers
-1604143857,Over,46,4728838575,3.3,0.5,Dylan Holloway (Assists),St. Louis Blues,Florida Panthers
-1604143858,Under,47,4728838576,1.34,0.5,Dylan Holloway (Assists),St. Louis Blues,Florida Panthers
+1604143866,Over,46,4730034658,4.03,0.5,Jake Neighbours (Assists),St. Louis Blues,Florida Panthers
+1604143867,Under,47,4730034659,1.248,0.5,Jake Neighbours (Assists),St. Louis Blues,Florida Panthers
+1604143857,Over,46,4730034652,3.38,0.5,Dylan Holloway (Assists),St. Louis Blues,Florida Panthers
+1604143858,Under,47,4730034653,1.325,0.5,Dylan Holloway (Assists),St. Louis Blues,Florida Panthers
 1604143845,Over,46,4728790402,3.0,0.5,Anton Lundell (Assists),St. Louis Blues,Florida Panthers
 1604143846,Under,47,4728790403,1.4,0.5,Anton Lundell (Assists),St. Louis Blues,Florida Panthers
 1604143710,Over,46,4729538429,3.19,0.5,Cam Fowler (Assists),St. Louis Blues,Florida Panthers
@@ -167,16 +177,16 @@ id,name,rot_num,line_id,price,handicap,selection,home_team,away_team
 1604143705,Under,47,4728787788,1.3,0.5,Justin Faulk (Assists),St. Louis Blues,Florida Panthers
 1604143698,Over,46,4729964127,3.1,0.5,Brayden Schenn (Assists),St. Louis Blues,Florida Panthers
 1604143699,Under,47,4729964128,1.312,0.5,Brayden Schenn (Assists),St. Louis Blues,Florida Panthers
-1604143743,Over,46,4729635579,2.23,0.5,Sam Reinhart (Assists),St. Louis Blues,Florida Panthers
-1604143744,Under,47,4729635580,1.602,0.5,Sam Reinhart (Assists),St. Louis Blues,Florida Panthers
+1604143744,Under,47,4730034615,1.595,0.5,Sam Reinhart (Assists),St. Louis Blues,Florida Panthers
+1604143743,Over,46,4730034614,2.24,0.5,Sam Reinhart (Assists),St. Louis Blues,Florida Panthers
 1604143731,Over,46,4729620271,2.42,0.5,Aaron Ekblad (Assists),St. Louis Blues,Florida Panthers
 1604143732,Under,47,4729620272,1.512,0.5,Aaron Ekblad (Assists),St. Louis Blues,Florida Panthers
 1604143722,Over,46,4730005707,1.877,0.5,Aleksander Barkov (Assists),St. Louis Blues,Florida Panthers
 1604143723,Under,47,4730005708,1.854,0.5,Aleksander Barkov (Assists),St. Louis Blues,Florida Panthers
 1604173287,Over,46,4729646010,3.35,0.5,Colton Parayko (Assists),St. Louis Blues,Florida Panthers
 1604173288,Under,47,4729646011,1.268,0.5,Colton Parayko (Assists),St. Louis Blues,Florida Panthers
-1604173299,Over,46,4729648009,4.5,0.5,Evan Rodrigues (Assists),St. Louis Blues,Florida Panthers
-1604173300,Under,47,4729648010,1.222,0.5,Evan Rodrigues (Assists),St. Louis Blues,Florida Panthers
+1604173299,Over,46,4730034628,4.59,0.5,Evan Rodrigues (Assists),St. Louis Blues,Florida Panthers
+1604173300,Under,47,4730034629,1.215,0.5,Evan Rodrigues (Assists),St. Louis Blues,Florida Panthers
 1604144061,Over,48,4729630078,2.47,0.5,Jonathan Huberdeau (Assists),Calgary Flames,Colorado Avalanche
 1604144062,Under,49,4729630079,1.49,0.5,Jonathan Huberdeau (Assists),Calgary Flames,Colorado Avalanche
 1604144049,Over,48,4729928339,2.35,0.5,Nazem Kadri (Assists),Calgary Flames,Colorado Avalanche
@@ -223,20 +233,20 @@ id,name,rot_num,line_id,price,handicap,selection,home_team,away_team
 1604144350,Under,51,4729646991,1.384,0.5,Kaapo Kakko (Assists),Seattle Kraken,Toronto Maple Leafs
 1604144334,Over,50,4729646974,3.23,0.5,Brandon Montour (Assists),Seattle Kraken,Toronto Maple Leafs
 1604144335,Under,51,4729646975,1.289,0.5,Brandon Montour (Assists),Seattle Kraken,Toronto Maple Leafs
-1604144325,Over,50,4729646968,2.44,0.5,Vince Dunn (Assists),Seattle Kraken,Toronto Maple Leafs
-1604144326,Under,51,4729646969,1.502,0.5,Vince Dunn (Assists),Seattle Kraken,Toronto Maple Leafs
+1604144325,Over,50,4730034828,2.45,0.5,Vince Dunn (Assists),Seattle Kraken,Toronto Maple Leafs
+1604144326,Under,51,4730034829,1.5,0.5,Vince Dunn (Assists),Seattle Kraken,Toronto Maple Leafs
 1604144382,Over,50,4729647004,3.41,0.5,Shane Wright (Assists),Seattle Kraken,Toronto Maple Leafs
 1604144383,Under,51,4729647005,1.259,0.5,Shane Wright (Assists),Seattle Kraken,Toronto Maple Leafs
 1604144373,Over,50,4728796571,2.57,0.5,Matthew Knies (Assists),Seattle Kraken,Toronto Maple Leafs
 1604144374,Under,51,4728796572,1.454,0.5,Matthew Knies (Assists),Seattle Kraken,Toronto Maple Leafs
 1604144364,Over,50,4729646998,3.02,0.5,Matty Beniers (Assists),Seattle Kraken,Toronto Maple Leafs
 1604144365,Under,51,4729646999,1.33,0.5,Matty Beniers (Assists),Seattle Kraken,Toronto Maple Leafs
-1604144256,Over,50,4729646942,2.61,0.5,Chandler Stephenson (Assists),Seattle Kraken,Toronto Maple Leafs
-1604144257,Under,51,4729646943,1.44,0.5,Chandler Stephenson (Assists),Seattle Kraken,Toronto Maple Leafs
+1604144256,Over,50,4730034818,2.62,0.5,Chandler Stephenson (Assists),Seattle Kraken,Toronto Maple Leafs
+1604144257,Under,51,4730034819,1.438,0.5,Chandler Stephenson (Assists),Seattle Kraken,Toronto Maple Leafs
 1604144247,Over,50,4729914471,2.48,0.5,Morgan Rielly (Assists),Seattle Kraken,Toronto Maple Leafs
 1604144248,Under,51,4729914472,1.476,0.5,Morgan Rielly (Assists),Seattle Kraken,Toronto Maple Leafs
-1604144238,Over,50,4729646936,2.85,0.5,Jaden Schwartz (Assists),Seattle Kraken,Toronto Maple Leafs
-1604144239,Under,51,4729646937,1.37,0.5,Jaden Schwartz (Assists),Seattle Kraken,Toronto Maple Leafs
+1604144238,Over,50,4730034816,2.86,0.5,Jaden Schwartz (Assists),Seattle Kraken,Toronto Maple Leafs
+1604144239,Under,51,4730034817,1.367,0.5,Jaden Schwartz (Assists),Seattle Kraken,Toronto Maple Leafs
 1604144226,Over,50,4729929149,2.16,0.5,John Tavares (Assists),Seattle Kraken,Toronto Maple Leafs
 1604144227,Under,51,4729929150,1.625,0.5,John Tavares (Assists),Seattle Kraken,Toronto Maple Leafs
 1604165053,Over,50,4729837291,3.24,0.5,Oliver Ekman-Larsson (Assists),Seattle Kraken,Toronto Maple Leafs
@@ -271,3 +281,5 @@ id,name,rot_num,line_id,price,handicap,selection,home_team,away_team
 1604144497,Under,53,4729959869,1.256,0.5,Fabian Zetterlund (Assists),San Jose Sharks,Vancouver Canucks
 1604144481,Over,52,4729369443,2.16,0.5,Elias Pettersson (Assists),San Jose Sharks,Vancouver Canucks
 1604144482,Under,53,4729369444,1.645,0.5,Elias Pettersson (Assists),San Jose Sharks,Vancouver Canucks
+1604185736,Over,52,4730025888,4.11,0.5,Pius Suter (Assists),San Jose Sharks,Vancouver Canucks
+1604185737,Under,53,4730025889,1.177,0.5,Pius Suter (Assists),San Jose Sharks,Vancouver Canucks
