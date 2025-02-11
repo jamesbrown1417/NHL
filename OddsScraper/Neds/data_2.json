@@ -1,0 +1,36 @@
+{
+    "events": {
+        "6cd80160-6a68-4c68-9706-6d2160c7c74c": {
+            "id": "6cd80160-6a68-4c68-9706-6d2160c7c74c",
+            "name": "Washington Capitals vs Utah Hockey Club",
+            "event_type": {
+                "id": "6bfa0efc-05df-4ae1-9b1e-152365290cfd",
+                "name": "Match"
+            },
+            "match_status": "BettingClosed",
+            "advertised_start": "2025-02-09T17:38:00Z",
+            "actual_start": "2025-02-09T17:38:00Z",
+            "visible": true,
+            "slug": "washington-capitals-vs-utah-hockey-club",
+            "competition": {
+                "id": "7732fc3b-9dd0-46e8-95e9-f4011a4002df",
+                "name": "NHL",
+                "sort_order": 2,
+                "region": "USA",
+                "region_id": "e7d680d9-8068-4903-9326-a81ed660e79e"
+            },
+            "competition_id": "7732fc3b-9dd0-46e8-95e9-f4011a4002df",
+            "category_id": "b7c1f944-d02b-4d9b-b6f3-cb31389cfe36",
+            "comments": "Overtime (including any subsequent shootout), counts for all markets unless stated otherwise. In the event of a shoot out, the winning team are credited with one goal and this counts for all markets where applicable."
+        }
+    },
+    "regions": {
+        "e7d680d9-8068-4903-9326-a81ed660e79e": {
+            "region_id": "e7d680d9-8068-4903-9326-a81ed660e79e",
+            "name": "USA",
+            "slug": "usa",
+            "category_id": "b7c1f944-d02b-4d9b-b6f3-cb31389cfe36",
+            "sort_order": 1
+        }
+    }
+}
