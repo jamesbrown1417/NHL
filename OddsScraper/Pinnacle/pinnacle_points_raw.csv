@@ -5,8 +5,8 @@ id,name,rot_num,line_id,price,handicap,selection,home_team,away_team
 1604910260,Under,43,4764007707,1.534,0.5,Marco Kasper (Points),Detroit Red Wings,Minnesota Wild
 1604910220,Over,42,4764007478,1.512,0.5,Lucas Raymond (Points),Detroit Red Wings,Minnesota Wild
 1604910221,Under,43,4764007479,2.6,0.5,Lucas Raymond (Points),Detroit Red Wings,Minnesota Wild
-1604910238,Over,42,4765916359,2.16,0.5,Brock Faber (Points),Detroit Red Wings,Minnesota Wild
-1604910239,Under,43,4765916360,1.645,0.5,Brock Faber (Points),Detroit Red Wings,Minnesota Wild
+1604910238,Over,42,4766648986,2.12,0.5,Brock Faber (Points),Detroit Red Wings,Minnesota Wild
+1604910239,Under,43,4766648987,1.675,0.5,Brock Faber (Points),Detroit Red Wings,Minnesota Wild
 1604910232,Over,42,4764007506,1.917,0.5,Marco Rossi (Points),Detroit Red Wings,Minnesota Wild
 1604910233,Under,43,4764007507,1.826,0.5,Marco Rossi (Points),Detroit Red Wings,Minnesota Wild
 1604910124,Over,42,4764007170,1.775,0.5,Patrick Kane (Points),Detroit Red Wings,Minnesota Wild
@@ -51,12 +51,12 @@ id,name,rot_num,line_id,price,handicap,selection,home_team,away_team
 1604910089,Under,45,4766317325,1.45,0.5,Tyson Foerster (Points),Philadelphia Flyers,Edmonton Oilers
 1604910112,Over,44,4764007146,2.18,0.5,Matvei Michkov (Points),Philadelphia Flyers,Edmonton Oilers
 1604910113,Under,45,4764007147,1.632,0.5,Matvei Michkov (Points),Philadelphia Flyers,Edmonton Oilers
-1604910100,Over,44,4766610838,1.952,0.5,Andrei Kuzmenko (Points),Philadelphia Flyers,Edmonton Oilers
-1604910101,Under,45,4766610839,1.787,0.5,Andrei Kuzmenko (Points),Philadelphia Flyers,Edmonton Oilers
-1604930609,Over,44,4766086097,2.32,0.5,Owen Tippett (Points),Philadelphia Flyers,Edmonton Oilers
-1604930610,Under,45,4766086098,1.558,0.5,Owen Tippett (Points),Philadelphia Flyers,Edmonton Oilers
-1604909863,Over,46,4766611438,1.625,0.5,Tom Wilson (Points),Pittsburgh Penguins,Washington Capitals
-1604909864,Under,47,4766611439,2.16,0.5,Tom Wilson (Points),Pittsburgh Penguins,Washington Capitals
+1604910100,Over,44,4766643119,2.07,0.5,Andrei Kuzmenko (Points),Philadelphia Flyers,Edmonton Oilers
+1604910101,Under,45,4766643120,1.699,0.5,Andrei Kuzmenko (Points),Philadelphia Flyers,Edmonton Oilers
+1604930609,Over,44,4766644562,2.26,0.5,Owen Tippett (Points),Philadelphia Flyers,Edmonton Oilers
+1604930610,Under,45,4766644563,1.588,0.5,Owen Tippett (Points),Philadelphia Flyers,Edmonton Oilers
+1604909863,Over,46,4766648970,1.602,0.5,Tom Wilson (Points),Pittsburgh Penguins,Washington Capitals
+1604909864,Under,47,4766648971,2.19,0.5,Tom Wilson (Points),Pittsburgh Penguins,Washington Capitals
 1604909878,Over,46,4764006422,1.613,0.5,Dylan Strome (Points),Pittsburgh Penguins,Washington Capitals
 1604909879,Under,47,4764006423,2.21,0.5,Dylan Strome (Points),Pittsburgh Penguins,Washington Capitals
 1604909839,Over,46,4766606904,1.68,0.5,Bryan Rust (Points),Pittsburgh Penguins,Washington Capitals
@@ -115,14 +115,16 @@ id,name,rot_num,line_id,price,handicap,selection,home_team,away_team
 1604910287,Under,49,4764007709,1.826,0.5,Jason Zucker (Points),Buffalo Sabres,New York Rangers
 1604910298,Over,48,4764007742,1.8,0.5,Vincent Trocheck (Points),Buffalo Sabres,New York Rangers
 1604910299,Under,49,4764007743,1.943,0.5,Vincent Trocheck (Points),Buffalo Sabres,New York Rangers
+1604978731,Over,48,4766648992,2.48,0.5,Bowen Byram (Points),Buffalo Sabres,New York Rangers
+1604978732,Under,49,4766648993,1.487,0.5,Bowen Byram (Points),Buffalo Sabres,New York Rangers
 1604910889,Over,50,4764009943,2.8,0.5,Luke Hughes (Points),New Jersey Devils,Dallas Stars
 1604910890,Under,51,4764009944,1.381,0.5,Luke Hughes (Points),New Jersey Devils,Dallas Stars
 1604910883,Over,50,4766022152,2.52,0.5,Dawson Mercer (Points),New Jersey Devils,Dallas Stars
 1604910884,Under,51,4766022153,1.471,0.5,Dawson Mercer (Points),New Jersey Devils,Dallas Stars
 1604910862,Over,50,4766022146,1.666,0.5,Nico Hischier (Points),New Jersey Devils,Dallas Stars
 1604910863,Under,51,4766022147,2.12,0.5,Nico Hischier (Points),New Jersey Devils,Dallas Stars
-1604910850,Over,50,4764009839,1.515,0.5,Jesper Bratt (Points),New Jersey Devils,Dallas Stars
-1604910851,Under,51,4764009840,2.41,0.5,Jesper Bratt (Points),New Jersey Devils,Dallas Stars
+1604910850,Over,50,4766649004,1.51,0.5,Jesper Bratt (Points),New Jersey Devils,Dallas Stars
+1604910851,Under,51,4766649005,2.43,0.5,Jesper Bratt (Points),New Jersey Devils,Dallas Stars
 1604910874,Over,50,4764009905,1.425,0.5,Jack Hughes (Points),New Jersey Devils,Dallas Stars
 1604910875,Under,51,4764009906,2.65,0.5,Jack Hughes (Points),New Jersey Devils,Dallas Stars
 1604910760,Over,52,4765064978,1.549,0.5,Artturi Lehkonen (Points),Nashville Predators,Colorado Avalanche
@@ -133,8 +135,8 @@ id,name,rot_num,line_id,price,handicap,selection,home_team,away_team
 1604910770,Under,53,4765064983,1.662,0.5,Devon Toews (Points),Nashville Predators,Colorado Avalanche
 1604910736,Over,52,4765064966,1.892,1.5,Nathan MacKinnon (Points),Nashville Predators,Colorado Avalanche
 1604910737,Under,53,4765064967,1.847,1.5,Nathan MacKinnon (Points),Nashville Predators,Colorado Avalanche
-1604910721,Over,52,4764009415,1.396,0.5,Filip Forsberg (Points),Nashville Predators,Colorado Avalanche
-1604910722,Under,53,4764009416,2.75,0.5,Filip Forsberg (Points),Nashville Predators,Colorado Avalanche
+1604910721,Over,52,4766661095,1.4,0.5,Filip Forsberg (Points),Nashville Predators,Colorado Avalanche
+1604910722,Under,53,4766661096,2.74,0.5,Filip Forsberg (Points),Nashville Predators,Colorado Avalanche
 1604910745,Over,52,4765064972,1.869,0.5,Jonathan Drouin (Points),Nashville Predators,Colorado Avalanche
 1604910746,Under,53,4765064973,1.869,0.5,Jonathan Drouin (Points),Nashville Predators,Colorado Avalanche
 1604910827,Under,51,4766022131,1.505,0.5,Stefan Noesen (Points),New Jersey Devils,Dallas Stars
@@ -149,22 +151,22 @@ id,name,rot_num,line_id,price,handicap,selection,home_team,away_team
 1604910641,Under,55,4764009303,1.531,0.5,Matty Beniers (Points),Florida Panthers,Seattle Kraken
 1604910628,Over,54,4766150499,2.03,0.5,Anton Lundell (Points),Florida Panthers,Seattle Kraken
 1604910629,Under,55,4766150500,1.735,0.5,Anton Lundell (Points),Florida Panthers,Seattle Kraken
-1604910656,Under,53,4764009189,1.826,0.5,Steven Stamkos (Points),Nashville Predators,Colorado Avalanche
-1604910655,Over,52,4764009188,1.909,0.5,Steven Stamkos (Points),Nashville Predators,Colorado Avalanche
+1604910656,Under,53,4766661076,1.826,0.5,Steven Stamkos (Points),Nashville Predators,Colorado Avalanche
+1604910655,Over,52,4766661075,1.917,0.5,Steven Stamkos (Points),Nashville Predators,Colorado Avalanche
 1604910598,Over,54,4764411469,2.88,0.5,Brandon Montour (Points),Florida Panthers,Seattle Kraken
 1604910599,Under,55,4764411470,1.362,0.5,Brandon Montour (Points),Florida Panthers,Seattle Kraken
 1604910610,Over,54,4764009268,2.27,0.5,Kaapo Kakko (Points),Florida Panthers,Seattle Kraken
 1604910611,Under,55,4764009269,1.584,0.5,Kaapo Kakko (Points),Florida Panthers,Seattle Kraken
 1604910700,Over,52,4764009352,1.588,0.5,Jonathan Marchessault (Points),Nashville Predators,Colorado Avalanche
 1604910701,Under,53,4764009353,2.26,0.5,Jonathan Marchessault (Points),Nashville Predators,Colorado Avalanche
-1604910709,Over,52,4766607231,2.73,0.5,Brady Skjei (Points),Nashville Predators,Colorado Avalanche
-1604910710,Under,53,4766607232,1.401,0.5,Brady Skjei (Points),Nashville Predators,Colorado Avalanche
+1604910709,Over,52,4766661091,2.74,0.5,Brady Skjei (Points),Nashville Predators,Colorado Avalanche
+1604910710,Under,53,4766661092,1.4,0.5,Brady Skjei (Points),Nashville Predators,Colorado Avalanche
 1604910667,Over,52,4764009220,1.598,0.5,Roman Josi (Points),Nashville Predators,Colorado Avalanche
 1604910668,Under,53,4764009221,2.24,0.5,Roman Josi (Points),Nashville Predators,Colorado Avalanche
-1604910688,Over,52,4766607225,1.943,0.5,Ryan O'Reilly (Points),Nashville Predators,Colorado Avalanche
-1604910689,Under,53,4766607226,1.8,0.5,Ryan O'Reilly (Points),Nashville Predators,Colorado Avalanche
-1604910676,Over,52,4764009244,2.32,0.5,Gustav Nyquist (Points),Nashville Predators,Colorado Avalanche
-1604910677,Under,53,4764009245,1.555,0.5,Gustav Nyquist (Points),Nashville Predators,Colorado Avalanche
+1604910688,Over,52,4766661085,1.943,0.5,Ryan O'Reilly (Points),Nashville Predators,Colorado Avalanche
+1604910689,Under,53,4766661086,1.806,0.5,Ryan O'Reilly (Points),Nashville Predators,Colorado Avalanche
+1604910676,Over,52,4766661079,2.33,0.5,Gustav Nyquist (Points),Nashville Predators,Colorado Avalanche
+1604910677,Under,53,4766661080,1.552,0.5,Gustav Nyquist (Points),Nashville Predators,Colorado Avalanche
 1604910508,Over,54,4764296030,2.78,1.5,Aleksander Barkov (Points),Florida Panthers,Seattle Kraken
 1604910509,Under,55,4764296031,1.458,1.5,Aleksander Barkov (Points),Florida Panthers,Seattle Kraken
 1604910517,Over,54,4764290503,1.909,0.5,Aaron Ekblad (Points),Florida Panthers,Seattle Kraken
@@ -337,6 +339,12 @@ id,name,rot_num,line_id,price,handicap,selection,home_team,away_team
 1604912090,Under,63,4765826407,1.507,0.5,Mike Matheson (Points),Ottawa Senators,Montreal Canadiens
 1604960097,Over,64,4766041527,1.606,0.5,Kirill Marchenko (Points),Columbus Blue Jackets,Chicago Blackhawks
 1604960098,Under,65,4766041528,2.22,0.5,Kirill Marchenko (Points),Columbus Blue Jackets,Chicago Blackhawks
+1604978722,Over,64,4766646289,2.1,0.5,Cole Sillinger (Points),Columbus Blue Jackets,Chicago Blackhawks
+1604978723,Under,65,4766646290,1.68,0.5,Cole Sillinger (Points),Columbus Blue Jackets,Chicago Blackhawks
+1604978713,Over,64,4766645503,1.884,0.5,Boone Jenner (Points),Columbus Blue Jackets,Chicago Blackhawks
+1604978714,Under,65,4766645504,1.854,0.5,Boone Jenner (Points),Columbus Blue Jackets,Chicago Blackhawks
+1604978737,Over,56,4766649096,2.67,0.5,Jake Neighbours (Points),St. Louis Blues,Winnipeg Jets
+1604978738,Under,57,4766649097,1.42,0.5,Jake Neighbours (Points),St. Louis Blues,Winnipeg Jets
 1604911663,Over,66,4764012104,2.35,0.5,Warren Foegele (Points),Los Angeles Kings,Utah Hockey Club
 1604911664,Under,67,4764012105,1.543,0.5,Warren Foegele (Points),Los Angeles Kings,Utah Hockey Club
 1604911651,Over,66,4764012072,2.04,0.5,Mikhail Sergachev (Points),Los Angeles Kings,Utah Hockey Club
@@ -351,8 +359,8 @@ id,name,rot_num,line_id,price,handicap,selection,home_team,away_team
 1604911694,Under,67,4764019131,1.9,0.5,Quinton Byfield (Points),Los Angeles Kings,Utah Hockey Club
 1604911681,Over,66,4764012150,2.32,0.5,Barrett Hayton (Points),Los Angeles Kings,Utah Hockey Club
 1604911682,Under,67,4764012151,1.555,0.5,Barrett Hayton (Points),Los Angeles Kings,Utah Hockey Club
-1604911705,Over,66,4764012214,1.781,0.5,Alex Laferriere (Points),Los Angeles Kings,Utah Hockey Club
-1604911706,Under,67,4764012215,1.961,0.5,Alex Laferriere (Points),Los Angeles Kings,Utah Hockey Club
+1604911705,Over,66,4766620036,1.606,0.5,Alex Laferriere (Points),Los Angeles Kings,Utah Hockey Club
+1604911706,Under,67,4766620037,2.22,0.5,Alex Laferriere (Points),Los Angeles Kings,Utah Hockey Club
 1604911594,Over,66,4764011904,2.15,0.5,Phillip Danault (Points),Los Angeles Kings,Utah Hockey Club
 1604911595,Under,67,4764011905,1.645,0.5,Phillip Danault (Points),Los Angeles Kings,Utah Hockey Club
 1604911585,Over,66,4764011880,1.925,0.5,Drew Doughty (Points),Los Angeles Kings,Utah Hockey Club
@@ -375,8 +383,8 @@ id,name,rot_num,line_id,price,handicap,selection,home_team,away_team
 1604911508,Under,69,4764011691,1.769,0.5,Brock Boeser (Points),Vegas Golden Knights,Vancouver Canucks
 1604911564,Over,68,4764411872,1.675,0.5,Pavel Dorofeyev (Points),Vegas Golden Knights,Vancouver Canucks
 1604911565,Under,69,4764411873,2.11,0.5,Pavel Dorofeyev (Points),Vegas Golden Knights,Vancouver Canucks
-1604911417,Over,68,4764011452,2.33,0.5,Alex Pietrangelo (Points),Vegas Golden Knights,Vancouver Canucks
-1604911418,Under,69,4764011453,1.552,0.5,Alex Pietrangelo (Points),Vegas Golden Knights,Vancouver Canucks
+1604911417,Over,68,4766649191,2.24,0.5,Alex Pietrangelo (Points),Vegas Golden Knights,Vancouver Canucks
+1604911418,Under,69,4766649192,1.598,0.5,Alex Pietrangelo (Points),Vegas Golden Knights,Vancouver Canucks
 1604911462,Over,68,4764011572,2.04,0.5,Ivan Barbashev (Points),Vegas Golden Knights,Vancouver Canucks
 1604911463,Under,69,4764011573,1.724,0.5,Ivan Barbashev (Points),Vegas Golden Knights,Vancouver Canucks
 1604911486,Over,68,4764011638,2.29,0.5,Jake DeBrusk (Points),Vegas Golden Knights,Vancouver Canucks
