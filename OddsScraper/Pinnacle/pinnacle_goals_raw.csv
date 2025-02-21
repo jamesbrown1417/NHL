@@ -1,23 +1,345 @@
 id,name,rot_num,line_id,price,handicap,selection,home_team,away_team
-1604318877,Over,32,4739512328,3.5,0.5,Anthony Cirelli (Goals),Montreal Canadiens,Tampa Bay Lightning
-1604318878,Under,33,4739512329,1.312,0.5,Anthony Cirelli (Goals),Montreal Canadiens,Tampa Bay Lightning
-1604318865,Over,32,4739421554,2.72,0.5,Brandon Hagel (Goals),Montreal Canadiens,Tampa Bay Lightning
-1604318866,Under,33,4739421555,1.465,0.5,Brandon Hagel (Goals),Montreal Canadiens,Tampa Bay Lightning
-1604318853,Over,32,4739438819,3.3,0.5,Patrik Laine (Goals),Montreal Canadiens,Tampa Bay Lightning
-1604318854,Under,33,4739438820,1.333,0.5,Patrik Laine (Goals),Montreal Canadiens,Tampa Bay Lightning
-1604318910,Over,32,4739421573,3.61,0.5,Nick Suzuki (Goals),Montreal Canadiens,Tampa Bay Lightning
-1604318911,Under,33,4739421574,1.301,0.5,Nick Suzuki (Goals),Montreal Canadiens,Tampa Bay Lightning
-1604318889,Over,32,4739509491,2.49,0.5,Jake Guentzel (Goals),Montreal Canadiens,Tampa Bay Lightning
-1604318890,Under,33,4739509492,1.476,0.5,Jake Guentzel (Goals),Montreal Canadiens,Tampa Bay Lightning
-1604318940,Over,32,4739421577,4.16,0.5,Juraj Slafkovsky (Goals),Montreal Canadiens,Tampa Bay Lightning
-1604318941,Under,33,4739421578,1.173,0.5,Juraj Slafkovsky (Goals),Montreal Canadiens,Tampa Bay Lightning
-1604318934,Over,32,4737349449,4.83,0.5,Alex Newhook (Goals),Montreal Canadiens,Tampa Bay Lightning
-1604318935,Under,33,4737349450,1.126,0.5,Alex Newhook (Goals),Montreal Canadiens,Tampa Bay Lightning
-1604318925,Over,32,4737109567,2.68,0.5,Cole Caufield (Goals),Montreal Canadiens,Tampa Bay Lightning
-1604318926,Under,33,4737109568,1.418,0.5,Cole Caufield (Goals),Montreal Canadiens,Tampa Bay Lightning
-1604318799,Over,32,4739421530,4.85,0.5,Brendan Gallagher (Goals),Montreal Canadiens,Tampa Bay Lightning
-1604318800,Under,33,4739421531,1.125,0.5,Brendan Gallagher (Goals),Montreal Canadiens,Tampa Bay Lightning
-1604318838,Over,32,4739441693,2.4,0.5,Brayden Point (Goals),Montreal Canadiens,Tampa Bay Lightning
-1604318839,Under,33,4739441694,1.518,0.5,Brayden Point (Goals),Montreal Canadiens,Tampa Bay Lightning
-1604318826,Over,32,4739380970,4.04,0.5,Nicholas Paul (Goals),Montreal Canadiens,Tampa Bay Lightning
-1604318827,Under,33,4739380971,1.255,0.5,Nicholas Paul (Goals),Montreal Canadiens,Tampa Bay Lightning
+1604910253,Over,42,4764007664,4.22,0.5,Marco Kasper (Goals),Detroit Red Wings,Minnesota Wild
+1604910254,Under,43,4764007669,1.167,0.5,Marco Kasper (Goals),Detroit Red Wings,Minnesota Wild
+1604910244,Over,42,4764007665,2.76,0.5,Matt Boldy (Goals),Detroit Red Wings,Minnesota Wild
+1604910245,Under,43,4764007671,1.392,0.5,Matt Boldy (Goals),Detroit Red Wings,Minnesota Wild
+1604910214,Over,42,4764007456,2.89,0.5,Lucas Raymond (Goals),Detroit Red Wings,Minnesota Wild
+1604910215,Under,43,4764007457,1.359,0.5,Lucas Raymond (Goals),Detroit Red Wings,Minnesota Wild
+1604910226,Over,42,4764007512,3.85,0.5,Marco Rossi (Goals),Detroit Red Wings,Minnesota Wild
+1604910227,Under,43,4764007513,1.202,0.5,Marco Rossi (Goals),Detroit Red Wings,Minnesota Wild
+1604910118,Over,42,4764007154,3.39,0.5,Patrick Kane (Goals),Detroit Red Wings,Minnesota Wild
+1604910119,Under,43,4764007155,1.262,0.5,Patrick Kane (Goals),Detroit Red Wings,Minnesota Wild
+1604910133,Over,42,4764007190,3.86,0.5,Mats Zuccarello (Goals),Detroit Red Wings,Minnesota Wild
+1604910134,Under,43,4764007191,1.201,0.5,Mats Zuccarello (Goals),Detroit Red Wings,Minnesota Wild
+1604910187,Over,42,4764007398,3.29,0.5,Joel Eriksson Ek (Goals),Detroit Red Wings,Minnesota Wild
+1604910188,Under,43,4764007399,1.277,0.5,Joel Eriksson Ek (Goals),Detroit Red Wings,Minnesota Wild
+1604910145,Over,42,4764007350,4.9,0.5,Vladimir Tarasenko (Goals),Detroit Red Wings,Minnesota Wild
+1604910146,Under,43,4764007351,1.19,0.5,Vladimir Tarasenko (Goals),Detroit Red Wings,Minnesota Wild
+1604910176,Under,43,4764007361,1.416,0.5,Alex DeBrincat (Goals),Detroit Red Wings,Minnesota Wild
+1604910175,Over,42,4764007360,2.95,0.5,Alex DeBrincat (Goals),Detroit Red Wings,Minnesota Wild
+1604910163,Over,42,4764007348,2.48,0.5,Dylan Larkin (Goals),Detroit Red Wings,Minnesota Wild
+1604910164,Under,43,4764007349,1.571,0.5,Dylan Larkin (Goals),Detroit Red Wings,Minnesota Wild
+1604909986,Over,44,4764006808,4.51,0.5,Scott Laughton (Goals),Philadelphia Flyers,Edmonton Oilers
+1604909987,Under,45,4764006809,1.146,0.5,Scott Laughton (Goals),Philadelphia Flyers,Edmonton Oilers
+1604910007,Over,44,4764137027,2.03,0.5,Leon Draisaitl (Goals),Philadelphia Flyers,Edmonton Oilers
+1604910008,Under,45,4764137028,1.724,0.5,Leon Draisaitl (Goals),Philadelphia Flyers,Edmonton Oilers
+1604909959,Over,44,4764006740,2.46,0.5,Zach Hyman (Goals),Philadelphia Flyers,Edmonton Oilers
+1604909960,Under,45,4764006741,1.497,0.5,Zach Hyman (Goals),Philadelphia Flyers,Edmonton Oilers
+1604909971,Over,44,4764006772,3.47,0.5,Ryan Nugent-Hopkins (Goals),Philadelphia Flyers,Edmonton Oilers
+1604909972,Under,45,4764006773,1.25,0.5,Ryan Nugent-Hopkins (Goals),Philadelphia Flyers,Edmonton Oilers
+1604910058,Over,44,4764007008,3.87,0.5,Owen Tippett (Goals),Philadelphia Flyers,Edmonton Oilers
+1604910059,Under,45,4764007009,1.2,0.5,Owen Tippett (Goals),Philadelphia Flyers,Edmonton Oilers
+1604910064,Over,44,4764007028,4.57,0.5,Evan Bouchard (Goals),Philadelphia Flyers,Edmonton Oilers
+1604910065,Under,45,4764007029,1.142,0.5,Evan Bouchard (Goals),Philadelphia Flyers,Edmonton Oilers
+1604910049,Over,44,4764006988,3.5,0.5,Travis Konecny (Goals),Philadelphia Flyers,Edmonton Oilers
+1604910050,Under,45,4764006989,1.246,0.5,Travis Konecny (Goals),Philadelphia Flyers,Edmonton Oilers
+1604910031,Over,44,4764006934,2.23,0.5,Connor McDavid (Goals),Philadelphia Flyers,Edmonton Oilers
+1604910032,Under,45,4764006935,1.598,0.5,Connor McDavid (Goals),Philadelphia Flyers,Edmonton Oilers
+1604910019,Over,44,4764006908,4.09,0.5,Viktor Arvidsson (Goals),Philadelphia Flyers,Edmonton Oilers
+1604910020,Under,45,4764006909,1.179,0.5,Viktor Arvidsson (Goals),Philadelphia Flyers,Edmonton Oilers
+1604909935,Over,44,4764006560,4.76,0.5,Corey Perry (Goals),Philadelphia Flyers,Edmonton Oilers
+1604909936,Under,45,4764006561,1.13,0.5,Corey Perry (Goals),Philadelphia Flyers,Edmonton Oilers
+1604909947,Over,44,4764006708,4.36,0.5,Jeff Skinner (Goals),Philadelphia Flyers,Edmonton Oilers
+1604909948,Under,45,4764006709,1.157,0.5,Jeff Skinner (Goals),Philadelphia Flyers,Edmonton Oilers
+1604910094,Over,44,4764007098,4.51,0.5,Andrei Kuzmenko (Goals),Philadelphia Flyers,Edmonton Oilers
+1604910095,Under,45,4764007099,1.146,0.5,Andrei Kuzmenko (Goals),Philadelphia Flyers,Edmonton Oilers
+1604910082,Over,44,4764007074,4.22,0.5,Tyson Foerster (Goals),Philadelphia Flyers,Edmonton Oilers
+1604910083,Under,45,4764007075,1.168,0.5,Tyson Foerster (Goals),Philadelphia Flyers,Edmonton Oilers
+1604910106,Over,44,4764007130,4.07,0.5,Matvei Michkov (Goals),Philadelphia Flyers,Edmonton Oilers
+1604910107,Under,45,4764007131,1.18,0.5,Matvei Michkov (Goals),Philadelphia Flyers,Edmonton Oilers
+1604909866,Over,46,4764006390,4.66,0.5,Anthony Beauvillier (Goals),Pittsburgh Penguins,Washington Capitals
+1604909867,Under,47,4764006391,1.136,0.5,Anthony Beauvillier (Goals),Pittsburgh Penguins,Washington Capitals
+1604909872,Over,46,4764006406,3.57,0.5,Dylan Strome (Goals),Pittsburgh Penguins,Washington Capitals
+1604909873,Under,47,4764006407,1.236,0.5,Dylan Strome (Goals),Pittsburgh Penguins,Washington Capitals
+1604909857,Over,46,4764006364,3.19,0.5,Tom Wilson (Goals),Pittsburgh Penguins,Washington Capitals
+1604909858,Under,47,4764006365,1.295,0.5,Tom Wilson (Goals),Pittsburgh Penguins,Washington Capitals
+1604909881,Over,46,4764006430,4.22,0.5,Michael Bunting (Goals),Pittsburgh Penguins,Washington Capitals
+1604909882,Under,47,4764006431,1.167,0.5,Michael Bunting (Goals),Pittsburgh Penguins,Washington Capitals
+1604909833,Over,46,4764006296,3.23,0.5,Bryan Rust (Goals),Pittsburgh Penguins,Washington Capitals
+1604909834,Under,47,4764006297,1.288,0.5,Bryan Rust (Goals),Pittsburgh Penguins,Washington Capitals
+1604909827,Over,46,4764006282,4.46,0.5,Kevin Hayes (Goals),Pittsburgh Penguins,Washington Capitals
+1604909828,Under,47,4764006283,1.149,0.5,Kevin Hayes (Goals),Pittsburgh Penguins,Washington Capitals
+1604909845,Over,46,4764006328,2.95,0.5,Rickard Rakell (Goals),Pittsburgh Penguins,Washington Capitals
+1604909846,Under,47,4764006329,1.346,0.5,Rickard Rakell (Goals),Pittsburgh Penguins,Washington Capitals
+1604909926,Over,46,4764006544,3.86,0.5,Connor McMichael (Goals),Pittsburgh Penguins,Washington Capitals
+1604909927,Under,47,4764006545,1.202,0.5,Connor McMichael (Goals),Pittsburgh Penguins,Washington Capitals
+1604909899,Over,46,4764006474,3.57,0.5,Pierre-Luc Dubois (Goals),Pittsburgh Penguins,Washington Capitals
+1604909900,Under,47,4764006475,1.236,0.5,Pierre-Luc Dubois (Goals),Pittsburgh Penguins,Washington Capitals
+1604909914,Over,46,4764006504,3.75,0.5,Aliaksei Protas (Goals),Pittsburgh Penguins,Washington Capitals
+1604909915,Under,47,4764006505,1.214,0.5,Aliaksei Protas (Goals),Pittsburgh Penguins,Washington Capitals
+1604909776,Over,46,4764006144,2.36,0.5,Alex Ovechkin (Goals),Pittsburgh Penguins,Washington Capitals
+1604909777,Under,47,4764006145,1.537,0.5,Alex Ovechkin (Goals),Pittsburgh Penguins,Washington Capitals
+1604909785,Over,46,4764006168,4.76,0.5,Evgeni Malkin (Goals),Pittsburgh Penguins,Washington Capitals
+1604909786,Under,47,4764006169,1.13,0.5,Evgeni Malkin (Goals),Pittsburgh Penguins,Washington Capitals
+1604909791,Over,46,4764006184,3.01,0.5,Sidney Crosby (Goals),Pittsburgh Penguins,Washington Capitals
+1604909792,Under,47,4764006185,1.332,0.5,Sidney Crosby (Goals),Pittsburgh Penguins,Washington Capitals
+1604910382,Over,48,4764007968,5.05,0.5,Ryan McLeod (Goals),Buffalo Sabres,New York Rangers
+1604910383,Under,49,4764007969,1.114,0.5,Ryan McLeod (Goals),Buffalo Sabres,New York Rangers
+1604910391,Over,48,4764007988,4.02,0.5,Dylan Cozens (Goals),Buffalo Sabres,New York Rangers
+1604910392,Under,49,4764007989,1.185,0.5,Dylan Cozens (Goals),Buffalo Sabres,New York Rangers
+1604910349,Over,48,4764007878,2.44,0.5,Tage Thompson (Goals),Buffalo Sabres,New York Rangers
+1604910350,Under,49,4764007879,1.502,0.5,Tage Thompson (Goals),Buffalo Sabres,New York Rangers
+1604910361,Over,48,4764007912,3.36,0.5,Alex Tuch (Goals),Buffalo Sabres,New York Rangers
+1604910362,Under,49,4764007913,1.265,0.5,Alex Tuch (Goals),Buffalo Sabres,New York Rangers
+1604910439,Over,48,4764008122,4.66,0.5,Will Cuylle (Goals),Buffalo Sabres,New York Rangers
+1604910440,Under,49,4764008123,1.136,0.5,Will Cuylle (Goals),Buffalo Sabres,New York Rangers
+1604910454,Over,48,4764008158,4.01,0.5,Jiri Kulich (Goals),Buffalo Sabres,New York Rangers
+1604910455,Under,49,4764008159,1.186,0.5,Jiri Kulich (Goals),Buffalo Sabres,New York Rangers
+1604910406,Over,48,4764008028,3.88,0.5,Alexis Lafreniere (Goals),Buffalo Sabres,New York Rangers
+1604910407,Under,49,4764008029,1.199,0.5,Alexis Lafreniere (Goals),Buffalo Sabres,New York Rangers
+1604910430,Over,48,4764008092,3.08,0.5,JJ Peterka (Goals),Buffalo Sabres,New York Rangers
+1604910431,Under,49,4764008093,1.318,0.5,JJ Peterka (Goals),Buffalo Sabres,New York Rangers
+1604910418,Over,48,4764008060,4.42,0.5,Jack Quinn (Goals),Buffalo Sabres,New York Rangers
+1604910419,Under,49,4764008061,1.152,0.5,Jack Quinn (Goals),Buffalo Sabres,New York Rangers
+1604910265,Over,48,4764007580,3.7,0.5,Chris Kreider (Goals),Buffalo Sabres,New York Rangers
+1604910266,Under,49,4764007581,1.285,0.5,Chris Kreider (Goals),Buffalo Sabres,New York Rangers
+1604910316,Over,48,4764007790,3.39,0.5,J.T. Miller (Goals),Buffalo Sabres,New York Rangers
+1604910317,Under,49,4764007791,1.261,0.5,J.T. Miller (Goals),Buffalo Sabres,New York Rangers
+1604910328,Over,48,4764007822,2.72,0.5,Artemi Panarin (Goals),Buffalo Sabres,New York Rangers
+1604910329,Under,49,4764007823,1.406,0.5,Artemi Panarin (Goals),Buffalo Sabres,New York Rangers
+1604910280,Over,48,4764007684,3.61,0.5,Jason Zucker (Goals),Buffalo Sabres,New York Rangers
+1604910281,Under,49,4764007685,1.231,0.5,Jason Zucker (Goals),Buffalo Sabres,New York Rangers
+1604910304,Over,48,4764007758,3.39,0.5,Mika Zibanejad (Goals),Buffalo Sabres,New York Rangers
+1604910305,Under,49,4764007759,1.261,0.5,Mika Zibanejad (Goals),Buffalo Sabres,New York Rangers
+1604910292,Over,48,4764007726,3.36,0.5,Vincent Trocheck (Goals),Buffalo Sabres,New York Rangers
+1604910293,Under,49,4764007727,1.267,0.5,Vincent Trocheck (Goals),Buffalo Sabres,New York Rangers
+1604910856,Over,50,4764407155,2.99,0.5,Nico Hischier (Goals),New Jersey Devils,Dallas Stars
+1604910857,Under,51,4764407156,1.337,0.5,Nico Hischier (Goals),New Jersey Devils,Dallas Stars
+1604910877,Over,50,4764009913,4.59,0.5,Dawson Mercer (Goals),New Jersey Devils,Dallas Stars
+1604910878,Under,51,4764009914,1.14,0.5,Dawson Mercer (Goals),New Jersey Devils,Dallas Stars
+1604910868,Over,50,4764009887,2.62,0.5,Jack Hughes (Goals),New Jersey Devils,Dallas Stars
+1604910869,Under,51,4764009888,1.436,0.5,Jack Hughes (Goals),New Jersey Devils,Dallas Stars
+1604910754,Over,52,4765064974,2.75,0.5,Artturi Lehkonen (Goals),Nashville Predators,Colorado Avalanche
+1604910755,Under,53,4765064975,1.396,0.5,Artturi Lehkonen (Goals),Nashville Predators,Colorado Avalanche
+1604910778,Over,52,4765064984,2.62,0.5,Martin Necas (Goals),Nashville Predators,Colorado Avalanche
+1604910779,Under,53,4765064985,1.507,0.5,Martin Necas (Goals),Nashville Predators,Colorado Avalanche
+1604910772,Over,52,4764009654,4.58,0.5,Tommy Novak (Goals),Nashville Predators,Colorado Avalanche
+1604910773,Under,53,4764009656,1.141,0.5,Tommy Novak (Goals),Nashville Predators,Colorado Avalanche
+1604910730,Over,52,4765064962,2.12,0.5,Nathan MacKinnon (Goals),Nashville Predators,Colorado Avalanche
+1604910731,Under,53,4765064963,1.671,0.5,Nathan MacKinnon (Goals),Nashville Predators,Colorado Avalanche
+1604910748,Over,52,4764009511,5.25,0.5,Ross Colton (Goals),Nashville Predators,Colorado Avalanche
+1604910749,Under,53,4764009512,1.166,0.5,Ross Colton (Goals),Nashville Predators,Colorado Avalanche
+1604910739,Over,52,4765064968,4.26,0.5,Jonathan Drouin (Goals),Nashville Predators,Colorado Avalanche
+1604910740,Under,53,4765064969,1.164,0.5,Jonathan Drouin (Goals),Nashville Predators,Colorado Avalanche
+1604910832,Over,50,4764407153,3.51,0.5,Timo Meier (Goals),New Jersey Devils,Dallas Stars
+1604910833,Under,51,4764407154,1.244,0.5,Timo Meier (Goals),New Jersey Devils,Dallas Stars
+1604910820,Over,50,4764009768,5.0,0.5,Stefan Noesen (Goals),New Jersey Devils,Dallas Stars
+1604910821,Under,51,4764009772,1.181,0.5,Stefan Noesen (Goals),New Jersey Devils,Dallas Stars
+1604910844,Over,50,4764009823,3.39,0.5,Jesper Bratt (Goals),New Jersey Devils,Dallas Stars
+1604910845,Under,51,4764009824,1.263,0.5,Jesper Bratt (Goals),New Jersey Devils,Dallas Stars
+1604910799,Over,52,4764009766,5.25,0.5,Luke Evangelista (Goals),Nashville Predators,Colorado Avalanche
+1604910800,Under,53,4764009770,1.173,0.5,Luke Evangelista (Goals),Nashville Predators,Colorado Avalanche
+1604910790,Over,52,4764009767,4.0,0.5,Cale Makar (Goals),Nashville Predators,Colorado Avalanche
+1604910791,Under,53,4764009771,1.256,0.5,Cale Makar (Goals),Nashville Predators,Colorado Avalanche
+1604910805,Over,50,4764009743,5.5,0.5,Ondrej Palat (Goals),New Jersey Devils,Dallas Stars
+1604910806,Under,51,4764009744,1.166,0.5,Ondrej Palat (Goals),New Jersey Devils,Dallas Stars
+1604910634,Over,54,4764009306,4.34,0.5,Matty Beniers (Goals),Florida Panthers,Seattle Kraken
+1604910635,Under,55,4764009307,1.158,0.5,Matty Beniers (Goals),Florida Panthers,Seattle Kraken
+1604910649,Over,52,4764009172,3.27,0.5,Steven Stamkos (Goals),Nashville Predators,Colorado Avalanche
+1604910650,Under,53,4764009173,1.281,0.5,Steven Stamkos (Goals),Nashville Predators,Colorado Avalanche
+1604910601,Over,54,4764009288,4.94,0.5,Eeli Tolvanen (Goals),Florida Panthers,Seattle Kraken
+1604910602,Under,55,4764009289,1.12,0.5,Eeli Tolvanen (Goals),Florida Panthers,Seattle Kraken
+1604910604,Over,54,4764009282,4.77,0.5,Kaapo Kakko (Goals),Florida Panthers,Seattle Kraken
+1604910605,Under,55,4764009283,1.129,0.5,Kaapo Kakko (Goals),Florida Panthers,Seattle Kraken
+1604910622,Over,54,4764290535,4.06,0.5,Anton Lundell (Goals),Florida Panthers,Seattle Kraken
+1604910623,Under,55,4764290536,1.182,0.5,Anton Lundell (Goals),Florida Panthers,Seattle Kraken
+1604910694,Over,52,4764009336,2.95,0.5,Jonathan Marchessault (Goals),Nashville Predators,Colorado Avalanche
+1604910695,Under,53,4764009337,1.347,0.5,Jonathan Marchessault (Goals),Nashville Predators,Colorado Avalanche
+1604910715,Over,52,4764009405,2.39,0.5,Filip Forsberg (Goals),Nashville Predators,Colorado Avalanche
+1604910716,Under,53,4764009406,1.526,0.5,Filip Forsberg (Goals),Nashville Predators,Colorado Avalanche
+1604910670,Over,52,4764009228,4.66,0.5,Gustav Nyquist (Goals),Nashville Predators,Colorado Avalanche
+1604910671,Under,53,4764009229,1.136,0.5,Gustav Nyquist (Goals),Nashville Predators,Colorado Avalanche
+1604910661,Over,52,4764009204,4.94,0.5,Roman Josi (Goals),Nashville Predators,Colorado Avalanche
+1604910662,Under,53,4764009205,1.12,0.5,Roman Josi (Goals),Nashville Predators,Colorado Avalanche
+1604910682,Over,52,4764009260,3.99,0.5,Ryan O'Reilly (Goals),Nashville Predators,Colorado Avalanche
+1604910683,Under,53,4764009261,1.188,0.5,Ryan O'Reilly (Goals),Nashville Predators,Colorado Avalanche
+1604910502,Over,54,4764290465,2.73,0.5,Aleksander Barkov (Goals),Florida Panthers,Seattle Kraken
+1604910503,Under,55,4764290466,1.404,0.5,Aleksander Barkov (Goals),Florida Panthers,Seattle Kraken
+1604910523,Over,54,4764296032,2.39,0.5,Sam Reinhart (Goals),Florida Panthers,Seattle Kraken
+1604910524,Under,55,4764296033,1.588,0.5,Sam Reinhart (Goals),Florida Panthers,Seattle Kraken
+1604910469,Over,54,4764008414,4.11,0.5,Jaden Schwartz (Goals),Florida Panthers,Seattle Kraken
+1604910470,Under,55,4764008422,1.176,0.5,Jaden Schwartz (Goals),Florida Panthers,Seattle Kraken
+1604910487,Over,54,4764407065,4.88,0.5,Oliver Bjorkstrand (Goals),Florida Panthers,Seattle Kraken
+1604910488,Under,55,4764407066,1.123,0.5,Oliver Bjorkstrand (Goals),Florida Panthers,Seattle Kraken
+1604910562,Over,54,4764290527,2.74,0.5,Carter Verhaeghe (Goals),Florida Panthers,Seattle Kraken
+1604910563,Under,55,4764290528,1.473,0.5,Carter Verhaeghe (Goals),Florida Panthers,Seattle Kraken
+1604910538,Over,54,4764008775,4.29,0.5,Jared McCann (Goals),Florida Panthers,Seattle Kraken
+1604910539,Under,55,4764008777,1.162,0.5,Jared McCann (Goals),Florida Panthers,Seattle Kraken
+1604910532,Over,54,4765091436,2.7,0.5,Sam Bennett (Goals),Florida Panthers,Seattle Kraken
+1604910533,Under,55,4765091437,1.416,0.5,Sam Bennett (Goals),Florida Panthers,Seattle Kraken
+1604910548,Under,55,4764290518,1.212,0.5,Evan Rodrigues (Goals),Florida Panthers,Seattle Kraken
+1604910547,Over,54,4764290517,3.76,0.5,Evan Rodrigues (Goals),Florida Panthers,Seattle Kraken
+1604910478,Over,54,4764018630,5.06,0.5,Chandler Stephenson (Goals),Florida Panthers,Seattle Kraken
+1604910479,Under,55,4764018631,1.114,0.5,Chandler Stephenson (Goals),Florida Panthers,Seattle Kraken
+1604911015,Over,64,4764010368,3.31,0.5,Connor Bedard (Goals),Columbus Blue Jackets,Chicago Blackhawks
+1604911016,Under,65,4764010369,1.274,0.5,Connor Bedard (Goals),Columbus Blue Jackets,Chicago Blackhawks
+1604911036,Over,58,4764010422,3.22,0.5,John Tavares (Goals),Toronto Maple Leafs,Carolina Hurricanes
+1604911037,Under,59,4764010423,1.29,0.5,John Tavares (Goals),Toronto Maple Leafs,Carolina Hurricanes
+1604910991,Over,64,4764010308,2.89,0.5,Dmitri Voronkov (Goals),Columbus Blue Jackets,Chicago Blackhawks
+1604910992,Under,65,4764010309,1.359,0.5,Dmitri Voronkov (Goals),Columbus Blue Jackets,Chicago Blackhawks
+1604910979,Over,64,4764010181,3.74,0.5,Cole Sillinger (Goals),Columbus Blue Jackets,Chicago Blackhawks
+1604910980,Under,65,4764010182,1.215,0.5,Cole Sillinger (Goals),Columbus Blue Jackets,Chicago Blackhawks
+1604910982,Over,64,4764010189,4.85,0.5,Frank Nazar (Goals),Columbus Blue Jackets,Chicago Blackhawks
+1604910983,Under,65,4764010190,1.125,0.5,Frank Nazar (Goals),Columbus Blue Jackets,Chicago Blackhawks
+1604911003,Over,64,4764010336,2.86,0.5,Adam Fantilli (Goals),Columbus Blue Jackets,Chicago Blackhawks
+1604911004,Under,65,4764010337,1.367,0.5,Adam Fantilli (Goals),Columbus Blue Jackets,Chicago Blackhawks
+1604911102,Over,58,4764010600,2.77,0.5,Mikko Rantanen (Goals),Toronto Maple Leafs,Carolina Hurricanes
+1604911103,Under,59,4764010601,1.39,0.5,Mikko Rantanen (Goals),Toronto Maple Leafs,Carolina Hurricanes
+1604911090,Over,58,4764010566,2.58,0.5,William Nylander (Goals),Toronto Maple Leafs,Carolina Hurricanes
+1604911091,Under,59,4764010567,1.452,0.5,William Nylander (Goals),Toronto Maple Leafs,Carolina Hurricanes
+1604911054,Over,58,4764010470,4.76,0.5,Taylor Hall (Goals),Toronto Maple Leafs,Carolina Hurricanes
+1604911055,Under,59,4764010471,1.13,0.5,Taylor Hall (Goals),Toronto Maple Leafs,Carolina Hurricanes
+1604910892,Over,64,4764009951,4.94,0.5,James van Riemsdyk (Goals),Columbus Blue Jackets,Chicago Blackhawks
+1604910893,Under,65,4764009952,1.12,0.5,James van Riemsdyk (Goals),Columbus Blue Jackets,Chicago Blackhawks
+1604910898,Over,64,4764009963,3.07,0.5,Boone Jenner (Goals),Columbus Blue Jackets,Chicago Blackhawks
+1604910899,Under,65,4764009964,1.319,0.5,Boone Jenner (Goals),Columbus Blue Jackets,Chicago Blackhawks
+1604910904,Over,64,4764009979,4.29,0.5,Teuvo Teravainen (Goals),Columbus Blue Jackets,Chicago Blackhawks
+1604910905,Under,65,4764009980,1.162,0.5,Teuvo Teravainen (Goals),Columbus Blue Jackets,Chicago Blackhawks
+1604910958,Over,64,4764010121,3.5,0.5,Ryan Donato (Goals),Columbus Blue Jackets,Chicago Blackhawks
+1604910959,Under,65,4764010122,1.245,0.5,Ryan Donato (Goals),Columbus Blue Jackets,Chicago Blackhawks
+1604910946,Over,64,4764010089,4.11,0.5,Zach Werenski (Goals),Columbus Blue Jackets,Chicago Blackhawks
+1604910947,Under,65,4764010090,1.177,0.5,Zach Werenski (Goals),Columbus Blue Jackets,Chicago Blackhawks
+1604910970,Over,64,4764010157,3.24,0.5,Kent Johnson (Goals),Columbus Blue Jackets,Chicago Blackhawks
+1604910971,Under,65,4764010158,1.287,0.5,Kent Johnson (Goals),Columbus Blue Jackets,Chicago Blackhawks
+1604910925,Over,64,4764010035,4.28,0.5,Tyler Bertuzzi (Goals),Columbus Blue Jackets,Chicago Blackhawks
+1604910926,Under,65,4764010036,1.163,0.5,Tyler Bertuzzi (Goals),Columbus Blue Jackets,Chicago Blackhawks
+1604911399,Over,56,4764011410,3.94,0.5,Dylan Holloway (Goals),St. Louis Blues,Winnipeg Jets
+1604911400,Under,57,4764011411,1.193,0.5,Dylan Holloway (Goals),St. Louis Blues,Winnipeg Jets
+1604911387,Over,56,4764103490,4.19,0.5,Cole Perfetti (Goals),St. Louis Blues,Winnipeg Jets
+1604911388,Under,57,4764103491,1.17,0.5,Cole Perfetti (Goals),St. Louis Blues,Winnipeg Jets
+1604911270,Over,56,4764103425,4.95,0.5,Vladislav Namestnikov (Goals),St. Louis Blues,Winnipeg Jets
+1604911271,Under,57,4764103426,1.119,0.5,Vladislav Namestnikov (Goals),St. Louis Blues,Winnipeg Jets
+1604911261,Over,56,4764103419,2.77,0.5,Mark Scheifele (Goals),St. Louis Blues,Winnipeg Jets
+1604911262,Under,57,4764103420,1.39,0.5,Mark Scheifele (Goals),St. Louis Blues,Winnipeg Jets
+1604911249,Over,56,4764103411,4.52,0.5,Nino Niederreiter (Goals),St. Louis Blues,Winnipeg Jets
+1604911250,Under,57,4764103412,1.145,0.5,Nino Niederreiter (Goals),St. Louis Blues,Winnipeg Jets
+1604911336,Over,56,4764011128,3.95,0.5,Pavel Buchnevich (Goals),St. Louis Blues,Winnipeg Jets
+1604911337,Under,57,4764011129,1.192,0.5,Pavel Buchnevich (Goals),St. Louis Blues,Winnipeg Jets
+1604911360,Over,56,4764103449,3.2,0.5,Gabriel Vilardi (Goals),St. Louis Blues,Winnipeg Jets
+1604911361,Under,57,4764103450,1.294,0.5,Gabriel Vilardi (Goals),St. Louis Blues,Winnipeg Jets
+1604911348,Over,56,4764011152,3.5,0.5,Robert Thomas (Goals),St. Louis Blues,Winnipeg Jets
+1604911349,Under,57,4764011153,1.246,0.5,Robert Thomas (Goals),St. Louis Blues,Winnipeg Jets
+1604911312,Over,56,4764103441,2.64,0.5,Kyle Connor (Goals),St. Louis Blues,Winnipeg Jets
+1604911313,Under,57,4764103442,1.431,0.5,Kyle Connor (Goals),St. Louis Blues,Winnipeg Jets
+1604911300,Over,56,4764103433,3.34,0.5,Nikolaj Ehlers (Goals),St. Louis Blues,Winnipeg Jets
+1604911301,Under,57,4764103434,1.271,0.5,Nikolaj Ehlers (Goals),St. Louis Blues,Winnipeg Jets
+1604911324,Over,56,4764011104,3.05,0.5,Jordan Kyrou (Goals),St. Louis Blues,Winnipeg Jets
+1604911325,Under,57,4764011105,1.322,0.5,Jordan Kyrou (Goals),St. Louis Blues,Winnipeg Jets
+1604911138,Over,58,4764010696,3.33,0.5,Mitch Marner (Goals),Toronto Maple Leafs,Carolina Hurricanes
+1604911139,Under,59,4764010697,1.271,0.5,Mitch Marner (Goals),Toronto Maple Leafs,Carolina Hurricanes
+1604911162,Over,58,4764411669,3.59,0.5,Andrei Svechnikov (Goals),Toronto Maple Leafs,Carolina Hurricanes
+1604911163,Under,59,4764411670,1.234,0.5,Andrei Svechnikov (Goals),Toronto Maple Leafs,Carolina Hurricanes
+1604911114,Over,58,4764010632,2.14,0.5,Auston Matthews (Goals),Toronto Maple Leafs,Carolina Hurricanes
+1604911115,Under,59,4764010633,1.653,0.5,Auston Matthews (Goals),Toronto Maple Leafs,Carolina Hurricanes
+1604911126,Over,58,4764010658,2.77,0.5,Sebastian Aho (Goals),Toronto Maple Leafs,Carolina Hurricanes
+1604911127,Under,59,4764010659,1.39,0.5,Sebastian Aho (Goals),Toronto Maple Leafs,Carolina Hurricanes
+1604911213,Over,58,4764010896,3.93,0.5,Bobby McMann (Goals),Toronto Maple Leafs,Carolina Hurricanes
+1604911214,Under,59,4764010897,1.194,0.5,Bobby McMann (Goals),Toronto Maple Leafs,Carolina Hurricanes
+1604911201,Over,58,4764010858,3.91,0.5,Jackson Blake (Goals),Toronto Maple Leafs,Carolina Hurricanes
+1604911202,Under,59,4764010859,1.196,0.5,Jackson Blake (Goals),Toronto Maple Leafs,Carolina Hurricanes
+1604911225,Over,56,4764010906,4.75,0.5,Brayden Schenn (Goals),St. Louis Blues,Winnipeg Jets
+1604911226,Under,57,4764010907,1.13,0.5,Brayden Schenn (Goals),St. Louis Blues,Winnipeg Jets
+1604911177,Over,58,4764010788,2.88,0.5,Seth Jarvis (Goals),Toronto Maple Leafs,Carolina Hurricanes
+1604911178,Under,59,4764010789,1.361,0.5,Seth Jarvis (Goals),Toronto Maple Leafs,Carolina Hurricanes
+1604911189,Over,58,4764010822,3.39,0.5,Matthew Knies (Goals),Toronto Maple Leafs,Carolina Hurricanes
+1604911190,Under,59,4764010823,1.261,0.5,Matthew Knies (Goals),Toronto Maple Leafs,Carolina Hurricanes
+1604912044,Over,62,4764016207,4.03,0.5,Ridly Greig (Goals),Ottawa Senators,Montreal Canadiens
+1604912045,Under,63,4764016208,1.185,0.5,Ridly Greig (Goals),Ottawa Senators,Montreal Canadiens
+1604911789,Over,60,4764015531,1.934,0.5,David Pastrnak (Goals),Boston Bruins,Anaheim Ducks
+1604911790,Under,61,4764015532,1.806,0.5,David Pastrnak (Goals),Boston Bruins,Anaheim Ducks
+1604912047,Over,62,4764016215,4.82,0.5,Alex Newhook (Goals),Ottawa Senators,Montreal Canadiens
+1604912048,Under,63,4764016216,1.127,0.5,Alex Newhook (Goals),Ottawa Senators,Montreal Canadiens
+1604911801,Over,60,4764015563,3.16,0.5,Frank Vatrano (Goals),Boston Bruins,Anaheim Ducks
+1604911802,Under,61,4764015564,1.301,0.5,Frank Vatrano (Goals),Boston Bruins,Anaheim Ducks
+1604912050,Over,62,4764023703,4.59,0.5,Juraj Slafkovsky (Goals),Ottawa Senators,Montreal Canadiens
+1604912051,Under,63,4764023704,1.14,0.5,Juraj Slafkovsky (Goals),Ottawa Senators,Montreal Canadiens
+1604912011,Over,62,4764023483,2.68,0.5,Cole Caufield (Goals),Ottawa Senators,Montreal Canadiens
+1604912012,Under,63,4764023484,1.418,0.5,Cole Caufield (Goals),Ottawa Senators,Montreal Canadiens
+1604911750,Over,60,4764015429,4.21,0.5,Charlie Coyle (Goals),Boston Bruins,Anaheim Ducks
+1604911751,Under,61,4764015430,1.168,0.5,Charlie Coyle (Goals),Boston Bruins,Anaheim Ducks
+1604911774,Over,60,4764015495,3.27,0.5,Elias Lindholm (Goals),Boston Bruins,Anaheim Ducks
+1604911775,Under,61,4764015496,1.281,0.5,Elias Lindholm (Goals),Boston Bruins,Anaheim Ducks
+1604911762,Over,60,4764015461,4.58,0.5,Ryan Strome (Goals),Boston Bruins,Anaheim Ducks
+1604911763,Under,61,4764015462,1.141,0.5,Ryan Strome (Goals),Boston Bruins,Anaheim Ducks
+1604912023,Over,62,4765065449,3.22,0.5,Tim Stutzle (Goals),Ottawa Senators,Montreal Canadiens
+1604912024,Under,63,4765065450,1.29,0.5,Tim Stutzle (Goals),Ottawa Senators,Montreal Canadiens
+1604911852,Over,60,4764015709,3.91,0.5,Trevor Zegras (Goals),Boston Bruins,Anaheim Ducks
+1604911853,Under,61,4764015710,1.196,0.5,Trevor Zegras (Goals),Boston Bruins,Anaheim Ducks
+1604911870,Over,60,4764015759,3.43,0.5,Mason McTavish (Goals),Boston Bruins,Anaheim Ducks
+1604911871,Under,61,4764015760,1.256,0.5,Mason McTavish (Goals),Boston Bruins,Anaheim Ducks
+1604911813,Over,60,4764015599,3.47,0.5,Pavel Zacha (Goals),Boston Bruins,Anaheim Ducks
+1604911814,Under,61,4764015600,1.25,0.5,Pavel Zacha (Goals),Boston Bruins,Anaheim Ducks
+1604911840,Over,60,4764015671,3.35,0.5,Troy Terry (Goals),Boston Bruins,Anaheim Ducks
+1604911841,Under,61,4764015672,1.268,0.5,Troy Terry (Goals),Boston Bruins,Anaheim Ducks
+1604911828,Over,60,4764015639,3.35,0.5,Morgan Geekie (Goals),Boston Bruins,Anaheim Ducks
+1604911829,Under,61,4764015640,1.268,0.5,Morgan Geekie (Goals),Boston Bruins,Anaheim Ducks
+1604911915,Over,62,4764015863,3.8,0.5,Claude Giroux (Goals),Ottawa Senators,Montreal Canadiens
+1604911916,Under,63,4764015864,1.208,0.5,Claude Giroux (Goals),Ottawa Senators,Montreal Canadiens
+1604911930,Over,62,4764015905,4.42,0.5,Brendan Gallagher (Goals),Ottawa Senators,Montreal Canadiens
+1604911931,Under,63,4764015906,1.152,0.5,Brendan Gallagher (Goals),Ottawa Senators,Montreal Canadiens
+1604911924,Over,62,4764015889,4.58,0.5,David Perron (Goals),Ottawa Senators,Montreal Canadiens
+1604911925,Under,63,4764015890,1.141,0.5,David Perron (Goals),Ottawa Senators,Montreal Canadiens
+1604911882,Over,60,4765085325,5.0,0.5,Cutter Gauthier (Goals),Boston Bruins,Anaheim Ducks
+1604911883,Under,61,4765085326,1.173,0.5,Cutter Gauthier (Goals),Boston Bruins,Anaheim Ducks
+1604911978,Over,62,4765065437,3.24,0.5,Drake Batherson (Goals),Ottawa Senators,Montreal Canadiens
+1604911979,Under,63,4765065438,1.287,0.5,Drake Batherson (Goals),Ottawa Senators,Montreal Canadiens
+1604911726,Over,60,4764015365,2.77,0.5,Brad Marchand (Goals),Boston Bruins,Anaheim Ducks
+1604911727,Under,61,4764015366,1.39,0.5,Brad Marchand (Goals),Boston Bruins,Anaheim Ducks
+1604911738,Over,60,4764015397,4.62,0.5,Alex Killorn (Goals),Boston Bruins,Anaheim Ducks
+1604911739,Under,61,4764015398,1.138,0.5,Alex Killorn (Goals),Boston Bruins,Anaheim Ducks
+1604911990,Over,62,4765065443,2.25,0.5,Brady Tkachuk (Goals),Ottawa Senators,Montreal Canadiens
+1604911991,Under,63,4765065444,1.591,0.5,Brady Tkachuk (Goals),Ottawa Senators,Montreal Canadiens
+1604911951,Over,62,4765065433,5.09,0.5,Michael Amadio (Goals),Ottawa Senators,Montreal Canadiens
+1604911952,Under,63,4765065434,1.112,0.5,Michael Amadio (Goals),Ottawa Senators,Montreal Canadiens
+1604911942,Over,62,4764023687,3.7,0.5,Patrik Laine (Goals),Ottawa Senators,Montreal Canadiens
+1604911943,Under,63,4764023688,1.219,0.5,Patrik Laine (Goals),Ottawa Senators,Montreal Canadiens
+1604911966,Over,62,4764411830,3.5,0.5,Nick Suzuki (Goals),Ottawa Senators,Montreal Canadiens
+1604911967,Under,63,4764411831,1.245,0.5,Nick Suzuki (Goals),Ottawa Senators,Montreal Canadiens
+1604911657,Over,66,4764012088,3.95,0.5,Warren Foegele (Goals),Los Angeles Kings,Utah Hockey Club
+1604911658,Under,67,4764012089,1.193,0.5,Warren Foegele (Goals),Los Angeles Kings,Utah Hockey Club
+1604911675,Over,66,4764012138,4.29,0.5,Barrett Hayton (Goals),Los Angeles Kings,Utah Hockey Club
+1604911676,Under,67,4764012139,1.162,0.5,Barrett Hayton (Goals),Los Angeles Kings,Utah Hockey Club
+1604911669,Over,66,4764012124,3.91,0.5,Trevor Moore (Goals),Los Angeles Kings,Utah Hockey Club
+1604911670,Under,67,4764012125,1.196,0.5,Trevor Moore (Goals),Los Angeles Kings,Utah Hockey Club
+1604911627,Over,66,4764012006,2.55,0.5,Adrian Kempe (Goals),Los Angeles Kings,Utah Hockey Club
+1604911628,Under,67,4764012007,1.46,0.5,Adrian Kempe (Goals),Los Angeles Kings,Utah Hockey Club
+1604911636,Over,66,4764407356,2.91,0.5,Clayton Keller (Goals),Los Angeles Kings,Utah Hockey Club
+1604911637,Under,67,4764407357,1.354,0.5,Clayton Keller (Goals),Los Angeles Kings,Utah Hockey Club
+1604911720,Over,66,4764012254,4.76,0.5,Josh Doan (Goals),Los Angeles Kings,Utah Hockey Club
+1604911721,Under,67,4764012255,1.13,0.5,Josh Doan (Goals),Los Angeles Kings,Utah Hockey Club
+1604911687,Over,66,4764012170,3.68,0.5,Quinton Byfield (Goals),Los Angeles Kings,Utah Hockey Club
+1604911688,Under,67,4764012171,1.223,0.5,Quinton Byfield (Goals),Los Angeles Kings,Utah Hockey Club
+1604911699,Over,66,4764012204,3.2,0.5,Alex Laferriere (Goals),Los Angeles Kings,Utah Hockey Club
+1604911700,Under,67,4764012205,1.294,0.5,Alex Laferriere (Goals),Los Angeles Kings,Utah Hockey Club
+1604911600,Over,66,4764011920,2.49,0.5,Kevin Fiala (Goals),Los Angeles Kings,Utah Hockey Club
+1604911601,Under,67,4764011921,1.485,0.5,Kevin Fiala (Goals),Los Angeles Kings,Utah Hockey Club
+1604911588,Over,66,4764011888,4.52,0.5,Phillip Danault (Goals),Los Angeles Kings,Utah Hockey Club
+1604911589,Under,67,4764011889,1.145,0.5,Phillip Danault (Goals),Los Angeles Kings,Utah Hockey Club
+1604911570,Over,66,4764011840,4.03,0.5,Anze Kopitar (Goals),Los Angeles Kings,Utah Hockey Club
+1604911571,Under,67,4764011841,1.185,0.5,Anze Kopitar (Goals),Los Angeles Kings,Utah Hockey Club
+1604911531,Over,68,4764011748,4.13,0.5,Elias Pettersson (Goals),Vegas Golden Knights,Vancouver Canucks
+1604911532,Under,69,4764011749,1.175,0.5,Elias Pettersson (Goals),Vegas Golden Knights,Vancouver Canucks
+1604911540,Over,68,4764011774,4.94,0.5,Victor Olofsson (Goals),Vegas Golden Knights,Vancouver Canucks
+1604911541,Under,69,4764011775,1.12,0.5,Victor Olofsson (Goals),Vegas Golden Knights,Vancouver Canucks
+1604911501,Over,68,4764011674,3.61,0.5,Brock Boeser (Goals),Vegas Golden Knights,Vancouver Canucks
+1604911502,Under,69,4764011675,1.23,0.5,Brock Boeser (Goals),Vegas Golden Knights,Vancouver Canucks
+1604911495,Over,68,4764411858,4.32,0.5,Conor Garland (Goals),Vegas Golden Knights,Vancouver Canucks
+1604911496,Under,69,4764411859,1.159,0.5,Conor Garland (Goals),Vegas Golden Knights,Vancouver Canucks
+1604911513,Over,68,4764011706,4.94,0.5,Pius Suter (Goals),Vegas Golden Knights,Vancouver Canucks
+1604911514,Under,69,4764011707,1.12,0.5,Pius Suter (Goals),Vegas Golden Knights,Vancouver Canucks
+1604911520,Under,69,4764411865,1.161,0.5,Filip Chytil (Goals),Vegas Golden Knights,Vancouver Canucks
+1604911519,Over,68,4764411864,4.3,0.5,Filip Chytil (Goals),Vegas Golden Knights,Vancouver Canucks
+1604911558,Over,68,4764411870,2.67,0.5,Pavel Dorofeyev (Goals),Vegas Golden Knights,Vancouver Canucks
+1604911559,Under,69,4764411871,1.42,0.5,Pavel Dorofeyev (Goals),Vegas Golden Knights,Vancouver Canucks
+1604911424,Under,69,4764011469,1.307,0.5,Mark Stone (Goals),Vegas Golden Knights,Vancouver Canucks
+1604911423,Over,68,4764011468,3.13,0.5,Mark Stone (Goals),Vegas Golden Knights,Vancouver Canucks
+1604911468,Over,68,4764011588,2.32,0.5,Jack Eichel (Goals),Vegas Golden Knights,Vancouver Canucks
+1604911469,Under,69,4764011589,1.558,0.5,Jack Eichel (Goals),Vegas Golden Knights,Vancouver Canucks
+1604911480,Over,68,4764011620,4.05,0.5,Jake DeBrusk (Goals),Vegas Golden Knights,Vancouver Canucks
+1604911481,Under,69,4764011621,1.182,0.5,Jake DeBrusk (Goals),Vegas Golden Knights,Vancouver Canucks
+1604911435,Over,68,4764411850,4.55,0.5,Brandon Saad (Goals),Vegas Golden Knights,Vancouver Canucks
+1604911436,Under,69,4764411851,1.143,0.5,Brandon Saad (Goals),Vegas Golden Knights,Vancouver Canucks
+1604911456,Over,68,4764011556,4.02,0.5,Ivan Barbashev (Goals),Vegas Golden Knights,Vancouver Canucks
+1604911457,Under,69,4764011557,1.185,0.5,Ivan Barbashev (Goals),Vegas Golden Knights,Vancouver Canucks
+1604911447,Over,68,4764011532,2.73,0.5,Tomas Hertl (Goals),Vegas Golden Knights,Vancouver Canucks
+1604911448,Under,69,4764011533,1.404,0.5,Tomas Hertl (Goals),Vegas Golden Knights,Vancouver Canucks

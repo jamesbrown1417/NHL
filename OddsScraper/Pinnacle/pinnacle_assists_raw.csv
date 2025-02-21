@@ -1,27 +1,381 @@
 id,name,rot_num,line_id,price,handicap,selection,home_team,away_team
-1604318880,Over,32,4739296194,2.8,0.5,Anthony Cirelli (Assists),Montreal Canadiens,Tampa Bay Lightning
-1604318881,Under,33,4739296195,1.454,0.5,Anthony Cirelli (Assists),Montreal Canadiens,Tampa Bay Lightning
-1604318868,Over,32,4739437992,2.04,0.5,Brandon Hagel (Assists),Montreal Canadiens,Tampa Bay Lightning
-1604318869,Under,33,4739437993,1.719,0.5,Brandon Hagel (Assists),Montreal Canadiens,Tampa Bay Lightning
-1604318856,Over,32,4739421550,4.22,0.5,Patrik Laine (Assists),Montreal Canadiens,Tampa Bay Lightning
-1604318857,Under,33,4739421551,1.233,0.5,Patrik Laine (Assists),Montreal Canadiens,Tampa Bay Lightning
-1604318901,Over,32,4739421564,2.97,0.5,Darren Raddysh (Assists),Montreal Canadiens,Tampa Bay Lightning
-1604318902,Under,33,4739421565,1.408,0.5,Darren Raddysh (Assists),Montreal Canadiens,Tampa Bay Lightning
-1604318892,Over,32,4739421560,2.13,0.5,Jake Guentzel (Assists),Montreal Canadiens,Tampa Bay Lightning
-1604318893,Under,33,4739421561,1.653,0.5,Jake Guentzel (Assists),Montreal Canadiens,Tampa Bay Lightning
-1604318944,Under,33,4739421580,1.341,0.5,Juraj Slafkovsky (Assists),Montreal Canadiens,Tampa Bay Lightning
-1604318943,Over,32,4739421579,2.97,0.5,Juraj Slafkovsky (Assists),Montreal Canadiens,Tampa Bay Lightning
-1604318928,Over,32,4737109569,2.63,0.5,Cole Caufield (Assists),Montreal Canadiens,Tampa Bay Lightning
-1604318929,Under,33,4737109570,1.432,0.5,Cole Caufield (Assists),Montreal Canadiens,Tampa Bay Lightning
-1604318913,Over,32,4739296079,2.24,0.5,Nick Suzuki (Assists),Montreal Canadiens,Tampa Bay Lightning
-1604318914,Under,33,4739296080,1.684,0.5,Nick Suzuki (Assists),Montreal Canadiens,Tampa Bay Lightning
-1604318949,Over,32,4737109583,2.1,0.5,Lane Hutson (Assists),Montreal Canadiens,Tampa Bay Lightning
-1604318950,Under,33,4737109584,1.684,0.5,Lane Hutson (Assists),Montreal Canadiens,Tampa Bay Lightning
-1604318790,Over,32,4739421524,2.02,0.5,Victor Hedman (Assists),Montreal Canadiens,Tampa Bay Lightning
-1604318791,Under,33,4739421525,1.735,0.5,Victor Hedman (Assists),Montreal Canadiens,Tampa Bay Lightning
-1604318841,Over,32,4739421546,2.12,0.5,Brayden Point (Assists),Montreal Canadiens,Tampa Bay Lightning
-1604318842,Under,33,4739421547,1.671,0.5,Brayden Point (Assists),Montreal Canadiens,Tampa Bay Lightning
-1604318829,Over,32,4737109098,3.5,0.5,Nicholas Paul (Assists),Montreal Canadiens,Tampa Bay Lightning
-1604318830,Under,33,4737109099,1.312,0.5,Nicholas Paul (Assists),Montreal Canadiens,Tampa Bay Lightning
-1604318820,Over,32,4739461955,2.79,0.5,Mike Matheson (Assists),Montreal Canadiens,Tampa Bay Lightning
-1604318821,Under,33,4739461956,1.384,0.5,Mike Matheson (Assists),Montreal Canadiens,Tampa Bay Lightning
+1604910256,Over,42,4764007710,3.9,0.5,Marco Kasper (Assists),Detroit Red Wings,Minnesota Wild
+1604910257,Under,43,4764007711,1.27,0.5,Marco Kasper (Assists),Detroit Red Wings,Minnesota Wild
+1604910247,Over,42,4764007660,2.35,0.5,Matt Boldy (Assists),Detroit Red Wings,Minnesota Wild
+1604910248,Under,43,4764007661,1.54,0.5,Matt Boldy (Assists),Detroit Red Wings,Minnesota Wild
+1604910217,Over,42,4764007462,2.08,0.5,Lucas Raymond (Assists),Detroit Red Wings,Minnesota Wild
+1604910218,Under,43,4764007463,1.781,0.5,Lucas Raymond (Assists),Detroit Red Wings,Minnesota Wild
+1604910235,Over,42,4764007651,2.94,0.5,Brock Faber (Assists),Detroit Red Wings,Minnesota Wild
+1604910236,Under,43,4764007657,1.347,0.5,Brock Faber (Assists),Detroit Red Wings,Minnesota Wild
+1604910229,Over,42,4764007508,2.7,0.5,Marco Rossi (Assists),Detroit Red Wings,Minnesota Wild
+1604910230,Under,43,4764007509,1.409,0.5,Marco Rossi (Assists),Detroit Red Wings,Minnesota Wild
+1604910121,Over,42,4764007162,2.6,0.5,Patrick Kane (Assists),Detroit Red Wings,Minnesota Wild
+1604910122,Under,43,4764007163,1.444,0.5,Patrick Kane (Assists),Detroit Red Wings,Minnesota Wild
+1604910136,Over,42,4764007198,2.19,0.5,Mats Zuccarello (Assists),Detroit Red Wings,Minnesota Wild
+1604910137,Under,43,4764007199,1.628,0.5,Mats Zuccarello (Assists),Detroit Red Wings,Minnesota Wild
+1604910190,Over,42,4764007440,3.2,0.5,Joel Eriksson Ek (Assists),Detroit Red Wings,Minnesota Wild
+1604910191,Under,43,4764007441,1.357,0.5,Joel Eriksson Ek (Assists),Detroit Red Wings,Minnesota Wild
+1604910178,Over,42,4764007336,2.58,0.5,Alex DeBrincat (Assists),Detroit Red Wings,Minnesota Wild
+1604910179,Under,43,4764007337,1.452,0.5,Alex DeBrincat (Assists),Detroit Red Wings,Minnesota Wild
+1604910205,Over,42,4764007434,2.24,0.5,Moritz Seider (Assists),Detroit Red Wings,Minnesota Wild
+1604910206,Under,43,4764007435,1.595,0.5,Moritz Seider (Assists),Detroit Red Wings,Minnesota Wild
+1604910148,Over,42,4764007346,4.0,0.5,Vladimir Tarasenko (Assists),Detroit Red Wings,Minnesota Wild
+1604910149,Under,43,4764007347,1.256,0.5,Vladimir Tarasenko (Assists),Detroit Red Wings,Minnesota Wild
+1604910166,Over,42,4764007356,2.43,0.5,Dylan Larkin (Assists),Detroit Red Wings,Minnesota Wild
+1604910167,Under,43,4764007357,1.588,0.5,Dylan Larkin (Assists),Detroit Red Wings,Minnesota Wild
+1604909998,Over,44,4764018620,3.32,0.5,Darnell Nurse (Assists),Philadelphia Flyers,Edmonton Oilers
+1604909999,Under,45,4764018621,1.273,0.5,Darnell Nurse (Assists),Philadelphia Flyers,Edmonton Oilers
+1604909989,Over,44,4764006818,3.74,0.5,Scott Laughton (Assists),Philadelphia Flyers,Edmonton Oilers
+1604909990,Under,45,4764006819,1.215,0.5,Scott Laughton (Assists),Philadelphia Flyers,Edmonton Oilers
+1604910010,Over,44,4764006882,1.546,0.5,Leon Draisaitl (Assists),Philadelphia Flyers,Edmonton Oilers
+1604910011,Under,45,4764006883,2.34,0.5,Leon Draisaitl (Assists),Philadelphia Flyers,Edmonton Oilers
+1604909962,Over,44,4764006748,2.66,0.5,Zach Hyman (Assists),Philadelphia Flyers,Edmonton Oilers
+1604909963,Under,45,4764006749,1.423,0.5,Zach Hyman (Assists),Philadelphia Flyers,Edmonton Oilers
+1604909974,Over,44,4764006780,2.47,0.5,Ryan Nugent-Hopkins (Assists),Philadelphia Flyers,Edmonton Oilers
+1604909975,Under,45,4764006781,1.492,0.5,Ryan Nugent-Hopkins (Assists),Philadelphia Flyers,Edmonton Oilers
+1604910052,Over,44,4764006994,2.21,0.5,Travis Konecny (Assists),Philadelphia Flyers,Edmonton Oilers
+1604910053,Under,45,4764006995,1.617,0.5,Travis Konecny (Assists),Philadelphia Flyers,Edmonton Oilers
+1604910067,Over,44,4764007036,1.704,0.5,Evan Bouchard (Assists),Philadelphia Flyers,Edmonton Oilers
+1604910068,Under,45,4764007037,2.06,0.5,Evan Bouchard (Assists),Philadelphia Flyers,Edmonton Oilers
+1604910022,Over,44,4764006912,3.52,0.5,Viktor Arvidsson (Assists),Philadelphia Flyers,Edmonton Oilers
+1604910023,Under,45,4764006913,1.243,0.5,Viktor Arvidsson (Assists),Philadelphia Flyers,Edmonton Oilers
+1604910034,Over,44,4764006942,2.86,1.5,Connor McDavid (Assists),Philadelphia Flyers,Edmonton Oilers
+1604910035,Under,45,4764006943,1.366,1.5,Connor McDavid (Assists),Philadelphia Flyers,Edmonton Oilers
+1604910040,Over,44,4764006958,3.34,0.5,Travis Sanheim (Assists),Philadelphia Flyers,Edmonton Oilers
+1604910041,Under,45,4764006959,1.27,0.5,Travis Sanheim (Assists),Philadelphia Flyers,Edmonton Oilers
+1604909950,Over,44,4764006716,3.48,0.5,Jeff Skinner (Assists),Philadelphia Flyers,Edmonton Oilers
+1604909951,Under,45,4764006717,1.249,0.5,Jeff Skinner (Assists),Philadelphia Flyers,Edmonton Oilers
+1604909941,Over,44,4764006662,3.02,0.5,Mattias Ekholm (Assists),Philadelphia Flyers,Edmonton Oilers
+1604909942,Under,45,4764006663,1.33,0.5,Mattias Ekholm (Assists),Philadelphia Flyers,Edmonton Oilers
+1604910085,Over,44,4764007078,4.13,0.5,Tyson Foerster (Assists),Philadelphia Flyers,Edmonton Oilers
+1604910086,Under,45,4764007079,1.176,0.5,Tyson Foerster (Assists),Philadelphia Flyers,Edmonton Oilers
+1604910109,Over,44,4764007136,3.24,0.5,Matvei Michkov (Assists),Philadelphia Flyers,Edmonton Oilers
+1604910110,Under,45,4764007137,1.287,0.5,Matvei Michkov (Assists),Philadelphia Flyers,Edmonton Oilers
+1604910097,Over,44,4764007104,3.57,0.5,Andrei Kuzmenko (Assists),Philadelphia Flyers,Edmonton Oilers
+1604910098,Under,45,4764007105,1.236,0.5,Andrei Kuzmenko (Assists),Philadelphia Flyers,Edmonton Oilers
+1604930606,Over,44,4764690193,3.77,0.5,Owen Tippett (Assists),Philadelphia Flyers,Edmonton Oilers
+1604930607,Under,45,4764690194,1.212,0.5,Owen Tippett (Assists),Philadelphia Flyers,Edmonton Oilers
+1604909860,Over,46,4764006374,2.84,0.5,Tom Wilson (Assists),Pittsburgh Penguins,Washington Capitals
+1604909861,Under,47,4764006375,1.371,0.5,Tom Wilson (Assists),Pittsburgh Penguins,Washington Capitals
+1604909875,Over,46,4764006414,2.14,0.5,Dylan Strome (Assists),Pittsburgh Penguins,Washington Capitals
+1604909876,Under,47,4764006415,1.657,0.5,Dylan Strome (Assists),Pittsburgh Penguins,Washington Capitals
+1604909836,Over,46,4764006304,2.63,0.5,Bryan Rust (Assists),Pittsburgh Penguins,Washington Capitals
+1604909837,Under,47,4764006305,1.432,0.5,Bryan Rust (Assists),Pittsburgh Penguins,Washington Capitals
+1604909848,Over,46,4764406973,2.54,0.5,Rickard Rakell (Assists),Pittsburgh Penguins,Washington Capitals
+1604909849,Under,47,4764406974,1.462,0.5,Rickard Rakell (Assists),Pittsburgh Penguins,Washington Capitals
+1604909929,Over,46,4764006550,3.13,0.5,Connor McMichael (Assists),Pittsburgh Penguins,Washington Capitals
+1604909930,Under,47,4764006551,1.307,0.5,Connor McMichael (Assists),Pittsburgh Penguins,Washington Capitals
+1604909902,Over,46,4764006482,2.51,0.5,Pierre-Luc Dubois (Assists),Pittsburgh Penguins,Washington Capitals
+1604909903,Under,47,4764006483,1.476,0.5,Pierre-Luc Dubois (Assists),Pittsburgh Penguins,Washington Capitals
+1604909890,Over,46,4764006450,3.03,0.5,Jakob Chychrun (Assists),Pittsburgh Penguins,Washington Capitals
+1604909891,Under,47,4764006451,1.327,0.5,Jakob Chychrun (Assists),Pittsburgh Penguins,Washington Capitals
+1604909917,Over,46,4764006514,2.8,0.5,Aliaksei Protas (Assists),Pittsburgh Penguins,Washington Capitals
+1604909918,Under,47,4764006515,1.381,0.5,Aliaksei Protas (Assists),Pittsburgh Penguins,Washington Capitals
+1604909804,Under,47,4764006217,1.281,0.5,Kris Letang (Assists),Pittsburgh Penguins,Washington Capitals
+1604909803,Over,46,4764006216,3.27,0.5,Kris Letang (Assists),Pittsburgh Penguins,Washington Capitals
+1604909794,Over,46,4764006192,2.05,0.5,Sidney Crosby (Assists),Pittsburgh Penguins,Washington Capitals
+1604909795,Under,47,4764006193,1.719,0.5,Sidney Crosby (Assists),Pittsburgh Penguins,Washington Capitals
+1604909821,Over,46,4764006264,2.23,0.5,John Carlson (Assists),Pittsburgh Penguins,Washington Capitals
+1604909822,Under,47,4764006265,1.598,0.5,John Carlson (Assists),Pittsburgh Penguins,Washington Capitals
+1604909812,Over,46,4764006240,2.4,0.5,Erik Karlsson (Assists),Pittsburgh Penguins,Washington Capitals
+1604909813,Under,47,4764006241,1.518,0.5,Erik Karlsson (Assists),Pittsburgh Penguins,Washington Capitals
+1604909779,Over,46,4764006152,2.39,0.5,Alex Ovechkin (Assists),Pittsburgh Penguins,Washington Capitals
+1604909780,Under,47,4764006153,1.523,0.5,Alex Ovechkin (Assists),Pittsburgh Penguins,Washington Capitals
+1604930615,Over,46,4764694655,3.57,0.5,Michael Bunting (Assists),Pittsburgh Penguins,Washington Capitals
+1604930616,Under,47,4764694656,1.236,0.5,Michael Bunting (Assists),Pittsburgh Penguins,Washington Capitals
+1604910376,Over,48,4764007952,2.0,0.5,Rasmus Dahlin (Assists),Buffalo Sabres,New York Rangers
+1604910377,Under,49,4764007953,1.751,0.5,Rasmus Dahlin (Assists),Buffalo Sabres,New York Rangers
+1604910394,Over,48,4764007996,3.7,0.5,Dylan Cozens (Assists),Buffalo Sabres,New York Rangers
+1604910395,Under,49,4764007997,1.22,0.5,Dylan Cozens (Assists),Buffalo Sabres,New York Rangers
+1604910385,Over,48,4764007976,3.1,0.5,Bowen Byram (Assists),Buffalo Sabres,New York Rangers
+1604910386,Under,49,4764007977,1.313,0.5,Bowen Byram (Assists),Buffalo Sabres,New York Rangers
+1604910352,Over,48,4764007888,2.55,0.5,Tage Thompson (Assists),Buffalo Sabres,New York Rangers
+1604910353,Under,49,4764007889,1.46,0.5,Tage Thompson (Assists),Buffalo Sabres,New York Rangers
+1604910340,Over,48,4764007854,1.854,0.5,Adam Fox (Assists),Buffalo Sabres,New York Rangers
+1604910341,Under,49,4764007855,1.884,0.5,Adam Fox (Assists),Buffalo Sabres,New York Rangers
+1604910364,Over,48,4764007924,2.66,0.5,Alex Tuch (Assists),Buffalo Sabres,New York Rangers
+1604910365,Under,49,4764007925,1.423,0.5,Alex Tuch (Assists),Buffalo Sabres,New York Rangers
+1604910445,Over,48,4764008138,2.8,0.5,Owen Power (Assists),Buffalo Sabres,New York Rangers
+1604910446,Under,49,4764008139,1.383,0.5,Owen Power (Assists),Buffalo Sabres,New York Rangers
+1604910433,Over,48,4764008100,2.61,0.5,JJ Peterka (Assists),Buffalo Sabres,New York Rangers
+1604910434,Under,49,4764008101,1.438,0.5,JJ Peterka (Assists),Buffalo Sabres,New York Rangers
+1604910409,Over,48,4764008036,3.23,0.5,Alexis Lafreniere (Assists),Buffalo Sabres,New York Rangers
+1604910410,Under,49,4764008037,1.289,0.5,Alexis Lafreniere (Assists),Buffalo Sabres,New York Rangers
+1604910421,Over,48,4764008068,3.75,0.5,Jack Quinn (Assists),Buffalo Sabres,New York Rangers
+1604910422,Under,49,4764008069,1.213,0.5,Jack Quinn (Assists),Buffalo Sabres,New York Rangers
+1604910268,Over,48,4764007586,3.54,0.5,Chris Kreider (Assists),Buffalo Sabres,New York Rangers
+1604910269,Under,49,4764007587,1.24,0.5,Chris Kreider (Assists),Buffalo Sabres,New York Rangers
+1604910319,Over,48,4764663766,2.04,0.5,J.T. Miller (Assists),Buffalo Sabres,New York Rangers
+1604910320,Under,49,4764663767,1.724,0.5,J.T. Miller (Assists),Buffalo Sabres,New York Rangers
+1604910307,Over,48,4764007766,2.25,0.5,Mika Zibanejad (Assists),Buffalo Sabres,New York Rangers
+1604910308,Under,49,4764007767,1.591,0.5,Mika Zibanejad (Assists),Buffalo Sabres,New York Rangers
+1604910331,Over,48,4764663768,1.84,0.5,Artemi Panarin (Assists),Buffalo Sabres,New York Rangers
+1604910332,Under,49,4764663769,1.892,0.5,Artemi Panarin (Assists),Buffalo Sabres,New York Rangers
+1604910283,Over,48,4764007692,2.83,0.5,Jason Zucker (Assists),Buffalo Sabres,New York Rangers
+1604910284,Under,49,4764007693,1.375,0.5,Jason Zucker (Assists),Buffalo Sabres,New York Rangers
+1604910295,Over,48,4764007734,2.68,0.5,Vincent Trocheck (Assists),Buffalo Sabres,New York Rangers
+1604910296,Under,49,4764007735,1.418,0.5,Vincent Trocheck (Assists),Buffalo Sabres,New York Rangers
+1604910886,Over,50,4764009935,3.43,0.5,Luke Hughes (Assists),New Jersey Devils,Dallas Stars
+1604910887,Under,51,4764009936,1.256,0.5,Luke Hughes (Assists),New Jersey Devils,Dallas Stars
+1604910859,Over,50,4764009865,2.8,0.5,Nico Hischier (Assists),New Jersey Devils,Dallas Stars
+1604910860,Under,51,4764009866,1.381,0.5,Nico Hischier (Assists),New Jersey Devils,Dallas Stars
+1604910880,Over,50,4764018668,3.86,0.5,Dawson Mercer (Assists),New Jersey Devils,Dallas Stars
+1604910881,Under,51,4764018669,1.202,0.5,Dawson Mercer (Assists),New Jersey Devils,Dallas Stars
+1604910871,Over,50,4764009897,2.03,0.5,Jack Hughes (Assists),New Jersey Devils,Dallas Stars
+1604910872,Under,51,4764009898,1.735,0.5,Jack Hughes (Assists),New Jersey Devils,Dallas Stars
+1604910766,Over,52,4765064980,2.62,0.5,Devon Toews (Assists),Nashville Predators,Colorado Avalanche
+1604910767,Under,53,4765064981,1.436,0.5,Devon Toews (Assists),Nashville Predators,Colorado Avalanche
+1604910757,Over,52,4765064976,2.32,0.5,Artturi Lehkonen (Assists),Nashville Predators,Colorado Avalanche
+1604910758,Under,53,4765064977,1.558,0.5,Artturi Lehkonen (Assists),Nashville Predators,Colorado Avalanche
+1604910781,Over,52,4765064986,1.769,0.5,Martin Necas (Assists),Nashville Predators,Colorado Avalanche
+1604910782,Under,53,4765064987,1.98,0.5,Martin Necas (Assists),Nashville Predators,Colorado Avalanche
+1604910733,Over,52,4765064964,1.406,0.5,Nathan MacKinnon (Assists),Nashville Predators,Colorado Avalanche
+1604910734,Under,53,4765064965,2.72,0.5,Nathan MacKinnon (Assists),Nashville Predators,Colorado Avalanche
+1604910742,Over,52,4765064970,2.57,0.5,Jonathan Drouin (Assists),Nashville Predators,Colorado Avalanche
+1604910743,Under,53,4765064971,1.531,0.5,Jonathan Drouin (Assists),Nashville Predators,Colorado Avalanche
+1604910823,Over,50,4764018664,3.98,0.5,Stefan Noesen (Assists),New Jersey Devils,Dallas Stars
+1604910824,Under,51,4764018665,1.189,0.5,Stefan Noesen (Assists),New Jersey Devils,Dallas Stars
+1604910848,Under,51,4764009832,1.781,0.5,Jesper Bratt (Assists),New Jersey Devils,Dallas Stars
+1604910847,Over,50,4764009831,1.97,0.5,Jesper Bratt (Assists),New Jersey Devils,Dallas Stars
+1604910835,Over,50,4764009811,3.26,0.5,Timo Meier (Assists),New Jersey Devils,Dallas Stars
+1604910836,Under,51,4764009812,1.283,0.5,Timo Meier (Assists),New Jersey Devils,Dallas Stars
+1604910793,Over,52,4765064990,1.751,0.5,Cale Makar (Assists),Nashville Predators,Colorado Avalanche
+1604910794,Under,53,4765064991,2.13,0.5,Cale Makar (Assists),Nashville Predators,Colorado Avalanche
+1604910811,Over,50,4764009741,2.75,0.5,Dougie Hamilton (Assists),New Jersey Devils,Dallas Stars
+1604910812,Under,51,4764009742,1.476,0.5,Dougie Hamilton (Assists),New Jersey Devils,Dallas Stars
+1604910637,Over,54,4764009308,3.62,0.5,Matty Beniers (Assists),Florida Panthers,Seattle Kraken
+1604910638,Under,55,4764009309,1.23,0.5,Matty Beniers (Assists),Florida Panthers,Seattle Kraken
+1604910652,Over,52,4764009180,3.06,0.5,Steven Stamkos (Assists),Nashville Predators,Colorado Avalanche
+1604910653,Under,53,4764009181,1.321,0.5,Steven Stamkos (Assists),Nashville Predators,Colorado Avalanche
+1604910607,Over,54,4764009264,3.13,0.5,Kaapo Kakko (Assists),Florida Panthers,Seattle Kraken
+1604910608,Under,55,4764009265,1.307,0.5,Kaapo Kakko (Assists),Florida Panthers,Seattle Kraken
+1604910595,Over,54,4764411467,3.71,0.5,Brandon Montour (Assists),Florida Panthers,Seattle Kraken
+1604910596,Under,55,4764411468,1.219,0.5,Brandon Montour (Assists),Florida Panthers,Seattle Kraken
+1604910697,Over,52,4764009344,2.33,0.5,Jonathan Marchessault (Assists),Nashville Predators,Colorado Avalanche
+1604910698,Under,53,4764009345,1.552,0.5,Jonathan Marchessault (Assists),Nashville Predators,Colorado Avalanche
+1604910718,Over,52,4764009409,2.07,0.5,Filip Forsberg (Assists),Nashville Predators,Colorado Avalanche
+1604910719,Under,53,4764009410,1.699,0.5,Filip Forsberg (Assists),Nashville Predators,Colorado Avalanche
+1604910706,Over,52,4764009372,3.45,0.5,Brady Skjei (Assists),Nashville Predators,Colorado Avalanche
+1604910707,Under,53,4764009373,1.253,0.5,Brady Skjei (Assists),Nashville Predators,Colorado Avalanche
+1604910664,Over,52,4764009216,1.869,0.5,Roman Josi (Assists),Nashville Predators,Colorado Avalanche
+1604910665,Under,53,4764009217,1.869,0.5,Roman Josi (Assists),Nashville Predators,Colorado Avalanche
+1604910685,Over,52,4764009312,2.68,0.5,Ryan O'Reilly (Assists),Nashville Predators,Colorado Avalanche
+1604910686,Under,53,4764009313,1.418,0.5,Ryan O'Reilly (Assists),Nashville Predators,Colorado Avalanche
+1604910673,Over,52,4764009236,3.3,0.5,Gustav Nyquist (Assists),Nashville Predators,Colorado Avalanche
+1604910674,Under,53,4764009237,1.277,0.5,Gustav Nyquist (Assists),Nashville Predators,Colorado Avalanche
+1604910505,Over,54,4764296028,1.666,0.5,Aleksander Barkov (Assists),Florida Panthers,Seattle Kraken
+1604910506,Under,55,4764296029,2.12,0.5,Aleksander Barkov (Assists),Florida Panthers,Seattle Kraken
+1604910526,Over,54,4764290509,2.03,0.5,Sam Reinhart (Assists),Florida Panthers,Seattle Kraken
+1604910527,Under,55,4764290510,1.819,0.5,Sam Reinhart (Assists),Florida Panthers,Seattle Kraken
+1604910514,Over,54,4764290501,2.25,0.5,Aaron Ekblad (Assists),Florida Panthers,Seattle Kraken
+1604910515,Under,55,4764290502,1.662,0.5,Aaron Ekblad (Assists),Florida Panthers,Seattle Kraken
+1604910472,Over,54,4764008404,3.44,0.5,Jaden Schwartz (Assists),Florida Panthers,Seattle Kraken
+1604910473,Under,55,4764008409,1.255,0.5,Jaden Schwartz (Assists),Florida Panthers,Seattle Kraken
+1604910490,Over,54,4764008453,3.76,0.5,Oliver Bjorkstrand (Assists),Florida Panthers,Seattle Kraken
+1604910491,Under,55,4764008462,1.212,0.5,Oliver Bjorkstrand (Assists),Florida Panthers,Seattle Kraken
+1604910481,Over,54,4764008451,2.88,0.5,Chandler Stephenson (Assists),Florida Panthers,Seattle Kraken
+1604910482,Under,55,4764008458,1.363,0.5,Chandler Stephenson (Assists),Florida Panthers,Seattle Kraken
+1604910574,Over,54,4764009140,2.65,0.5,Vince Dunn (Assists),Florida Panthers,Seattle Kraken
+1604910575,Under,55,4764009143,1.5,0.5,Vince Dunn (Assists),Florida Panthers,Seattle Kraken
+1604910565,Over,54,4764290529,2.28,0.5,Carter Verhaeghe (Assists),Florida Panthers,Seattle Kraken
+1604910566,Under,55,4764290530,1.653,0.5,Carter Verhaeghe (Assists),Florida Panthers,Seattle Kraken
+1604910541,Over,54,4764008774,2.83,0.5,Jared McCann (Assists),Florida Panthers,Seattle Kraken
+1604910542,Under,55,4764008776,1.375,0.5,Jared McCann (Assists),Florida Panthers,Seattle Kraken
+1604910553,Over,54,4764290521,3.01,0.5,Gustav Forsling (Assists),Florida Panthers,Seattle Kraken
+1604910554,Under,55,4764290522,1.331,0.5,Gustav Forsling (Assists),Florida Panthers,Seattle Kraken
+1604926661,Over,50,4764407181,2.37,0.5,Wyatt Johnston (Assists),New Jersey Devils,Dallas Stars
+1604926662,Under,51,4764407182,1.534,0.5,Wyatt Johnston (Assists),New Jersey Devils,Dallas Stars
+1604930624,Over,54,4764698090,2.64,0.5,Sam Bennett (Assists),Florida Panthers,Seattle Kraken
+1604930625,Under,55,4764698091,1.431,0.5,Sam Bennett (Assists),Florida Panthers,Seattle Kraken
+1604911018,Over,64,4764010374,2.15,0.5,Connor Bedard (Assists),Columbus Blue Jackets,Chicago Blackhawks
+1604911019,Under,65,4764010375,1.649,0.5,Connor Bedard (Assists),Columbus Blue Jackets,Chicago Blackhawks
+1604911040,Under,59,4764010431,1.469,0.5,John Tavares (Assists),Toronto Maple Leafs,Carolina Hurricanes
+1604911039,Over,58,4764010430,2.53,0.5,John Tavares (Assists),Toronto Maple Leafs,Carolina Hurricanes
+1604911027,Over,58,4764010398,2.94,0.5,Brent Burns (Assists),Toronto Maple Leafs,Carolina Hurricanes
+1604911028,Under,59,4764010399,1.347,0.5,Brent Burns (Assists),Toronto Maple Leafs,Carolina Hurricanes
+1604911006,Over,64,4764010348,2.38,0.5,Adam Fantilli (Assists),Columbus Blue Jackets,Chicago Blackhawks
+1604911007,Under,65,4764010349,1.531,0.5,Adam Fantilli (Assists),Columbus Blue Jackets,Chicago Blackhawks
+1604910994,Over,64,4764010322,2.71,0.5,Dmitri Voronkov (Assists),Columbus Blue Jackets,Chicago Blackhawks
+1604910995,Under,65,4764010323,1.408,0.5,Dmitri Voronkov (Assists),Columbus Blue Jackets,Chicago Blackhawks
+1604911081,Over,58,4764010540,3.2,0.5,Max Domi (Assists),Toronto Maple Leafs,Carolina Hurricanes
+1604911082,Under,59,4764010541,1.294,0.5,Max Domi (Assists),Toronto Maple Leafs,Carolina Hurricanes
+1604911093,Over,58,4764010570,2.51,0.5,William Nylander (Assists),Toronto Maple Leafs,Carolina Hurricanes
+1604911094,Under,59,4764010571,1.476,0.5,William Nylander (Assists),Toronto Maple Leafs,Carolina Hurricanes
+1604911045,Over,58,4764010446,3.46,0.5,Oliver Ekman-Larsson (Assists),Toronto Maple Leafs,Carolina Hurricanes
+1604911046,Under,59,4764010447,1.251,0.5,Oliver Ekman-Larsson (Assists),Toronto Maple Leafs,Carolina Hurricanes
+1604911066,Over,58,4764010502,2.69,0.5,Morgan Rielly (Assists),Toronto Maple Leafs,Carolina Hurricanes
+1604911067,Under,59,4764010503,1.414,0.5,Morgan Rielly (Assists),Toronto Maple Leafs,Carolina Hurricanes
+1604911072,Over,58,4764010518,3.34,0.5,Shayne Gostisbehere (Assists),Toronto Maple Leafs,Carolina Hurricanes
+1604911073,Under,59,4764010519,1.271,0.5,Shayne Gostisbehere (Assists),Toronto Maple Leafs,Carolina Hurricanes
+1604911057,Over,58,4764010478,3.91,0.5,Taylor Hall (Assists),Toronto Maple Leafs,Carolina Hurricanes
+1604911058,Under,59,4764010479,1.196,0.5,Taylor Hall (Assists),Toronto Maple Leafs,Carolina Hurricanes
+1604910907,Over,64,4764009987,2.7,0.5,Teuvo Teravainen (Assists),Columbus Blue Jackets,Chicago Blackhawks
+1604910908,Under,65,4764009988,1.413,0.5,Teuvo Teravainen (Assists),Columbus Blue Jackets,Chicago Blackhawks
+1604910949,Over,64,4764010095,1.645,0.5,Zach Werenski (Assists),Columbus Blue Jackets,Chicago Blackhawks
+1604910950,Under,65,4764010096,2.16,0.5,Zach Werenski (Assists),Columbus Blue Jackets,Chicago Blackhawks
+1604910973,Over,64,4764010165,2.43,0.5,Kent Johnson (Assists),Columbus Blue Jackets,Chicago Blackhawks
+1604910974,Under,65,4764010166,1.507,0.5,Kent Johnson (Assists),Columbus Blue Jackets,Chicago Blackhawks
+1604910961,Over,64,4764010129,2.92,0.5,Ryan Donato (Assists),Columbus Blue Jackets,Chicago Blackhawks
+1604910962,Under,65,4764010130,1.352,0.5,Ryan Donato (Assists),Columbus Blue Jackets,Chicago Blackhawks
+1604910928,Over,64,4764010043,3.87,0.5,Tyler Bertuzzi (Assists),Columbus Blue Jackets,Chicago Blackhawks
+1604910929,Under,65,4764010044,1.2,0.5,Tyler Bertuzzi (Assists),Columbus Blue Jackets,Chicago Blackhawks
+1604910916,Over,64,4764010011,2.51,0.5,Seth Jones (Assists),Columbus Blue Jackets,Chicago Blackhawks
+1604910917,Under,65,4764010012,1.476,0.5,Seth Jones (Assists),Columbus Blue Jackets,Chicago Blackhawks
+1604910934,Over,64,4764010059,2.75,0.5,Ivan Provorov (Assists),Columbus Blue Jackets,Chicago Blackhawks
+1604910935,Under,65,4764010060,1.396,0.5,Ivan Provorov (Assists),Columbus Blue Jackets,Chicago Blackhawks
+1604911402,Over,56,4764011416,3.27,0.5,Dylan Holloway (Assists),St. Louis Blues,Winnipeg Jets
+1604911403,Under,57,4764011417,1.281,0.5,Dylan Holloway (Assists),St. Louis Blues,Winnipeg Jets
+1604911363,Over,56,4764103451,2.67,0.5,Gabriel Vilardi (Assists),St. Louis Blues,Winnipeg Jets
+1604911364,Under,57,4764103452,1.421,0.5,Gabriel Vilardi (Assists),St. Louis Blues,Winnipeg Jets
+1604911390,Over,56,4764103492,3.2,0.5,Cole Perfetti (Assists),St. Louis Blues,Winnipeg Jets
+1604911391,Under,57,4764103493,1.294,0.5,Cole Perfetti (Assists),St. Louis Blues,Winnipeg Jets
+1604911273,Over,56,4764103427,3.13,0.5,Vladislav Namestnikov (Assists),St. Louis Blues,Winnipeg Jets
+1604911274,Under,57,4764103428,1.307,0.5,Vladislav Namestnikov (Assists),St. Louis Blues,Winnipeg Jets
+1604911282,Over,56,4764011020,3.67,0.5,Colton Parayko (Assists),St. Louis Blues,Winnipeg Jets
+1604911283,Under,57,4764011021,1.223,0.5,Colton Parayko (Assists),St. Louis Blues,Winnipeg Jets
+1604911240,Over,56,4764010936,3.23,0.5,Cam Fowler (Assists),St. Louis Blues,Winnipeg Jets
+1604911241,Under,57,4764010937,1.289,0.5,Cam Fowler (Assists),St. Louis Blues,Winnipeg Jets
+1604911264,Over,56,4764103421,2.11,0.5,Mark Scheifele (Assists),St. Louis Blues,Winnipeg Jets
+1604911265,Under,57,4764103422,1.675,0.5,Mark Scheifele (Assists),St. Louis Blues,Winnipeg Jets
+1604911252,Over,56,4764103413,3.96,0.5,Nino Niederreiter (Assists),St. Louis Blues,Winnipeg Jets
+1604911253,Under,57,4764103414,1.191,0.5,Nino Niederreiter (Assists),St. Louis Blues,Winnipeg Jets
+1604911339,Over,56,4764011134,2.74,0.5,Pavel Buchnevich (Assists),St. Louis Blues,Winnipeg Jets
+1604911340,Under,57,4764011135,1.4,0.5,Pavel Buchnevich (Assists),St. Louis Blues,Winnipeg Jets
+1604911351,Over,56,4764011158,2.23,0.5,Robert Thomas (Assists),St. Louis Blues,Winnipeg Jets
+1604911352,Under,57,4764011159,1.602,0.5,Robert Thomas (Assists),St. Louis Blues,Winnipeg Jets
+1604911303,Over,56,4764104378,2.23,0.5,Nikolaj Ehlers (Assists),St. Louis Blues,Winnipeg Jets
+1604911304,Under,57,4764104379,1.598,0.5,Nikolaj Ehlers (Assists),St. Louis Blues,Winnipeg Jets
+1604911327,Over,56,4764011110,2.87,0.5,Jordan Kyrou (Assists),St. Louis Blues,Winnipeg Jets
+1604911328,Under,57,4764011111,1.364,0.5,Jordan Kyrou (Assists),St. Louis Blues,Winnipeg Jets
+1604911315,Over,56,4764103443,2.05,0.5,Kyle Connor (Assists),St. Louis Blues,Winnipeg Jets
+1604911316,Under,57,4764103444,1.719,0.5,Kyle Connor (Assists),St. Louis Blues,Winnipeg Jets
+1604911141,Over,58,4764010704,1.662,0.5,Mitch Marner (Assists),Toronto Maple Leafs,Carolina Hurricanes
+1604911142,Under,59,4764010705,2.13,0.5,Mitch Marner (Assists),Toronto Maple Leafs,Carolina Hurricanes
+1604911165,Over,58,4764010756,2.68,0.5,Andrei Svechnikov (Assists),Toronto Maple Leafs,Carolina Hurricanes
+1604911166,Under,59,4764010757,1.418,0.5,Andrei Svechnikov (Assists),Toronto Maple Leafs,Carolina Hurricanes
+1604911117,Over,58,4764010640,2.05,0.5,Auston Matthews (Assists),Toronto Maple Leafs,Carolina Hurricanes
+1604911118,Under,59,4764010641,1.714,0.5,Auston Matthews (Assists),Toronto Maple Leafs,Carolina Hurricanes
+1604911105,Over,58,4765065314,2.07,0.5,Mikko Rantanen (Assists),Toronto Maple Leafs,Carolina Hurricanes
+1604911106,Under,59,4765065315,1.704,0.5,Mikko Rantanen (Assists),Toronto Maple Leafs,Carolina Hurricanes
+1604911129,Over,58,4765065318,2.04,0.5,Sebastian Aho (Assists),Toronto Maple Leafs,Carolina Hurricanes
+1604911130,Under,59,4765065319,1.724,0.5,Sebastian Aho (Assists),Toronto Maple Leafs,Carolina Hurricanes
+1604911216,Over,58,4764010900,4.59,0.5,Bobby McMann (Assists),Toronto Maple Leafs,Carolina Hurricanes
+1604911217,Under,59,4764010901,1.141,0.5,Bobby McMann (Assists),Toronto Maple Leafs,Carolina Hurricanes
+1604911204,Over,58,4764010872,3.35,0.5,Jackson Blake (Assists),Toronto Maple Leafs,Carolina Hurricanes
+1604911205,Under,59,4764010873,1.268,0.5,Jackson Blake (Assists),Toronto Maple Leafs,Carolina Hurricanes
+1604911228,Over,56,4764010912,3.47,0.5,Brayden Schenn (Assists),St. Louis Blues,Winnipeg Jets
+1604911229,Under,57,4764010913,1.25,0.5,Brayden Schenn (Assists),St. Louis Blues,Winnipeg Jets
+1604911180,Over,58,4764411673,2.52,0.5,Seth Jarvis (Assists),Toronto Maple Leafs,Carolina Hurricanes
+1604911181,Under,59,4764411674,1.473,0.5,Seth Jarvis (Assists),Toronto Maple Leafs,Carolina Hurricanes
+1604911192,Over,58,4764010830,2.72,0.5,Matthew Knies (Assists),Toronto Maple Leafs,Carolina Hurricanes
+1604911193,Under,59,4764010831,1.404,0.5,Matthew Knies (Assists),Toronto Maple Leafs,Carolina Hurricanes
+1604911792,Over,60,4764122065,1.666,0.5,David Pastrnak (Assists),Boston Bruins,Anaheim Ducks
+1604911793,Under,61,4764122066,2.12,0.5,David Pastrnak (Assists),Boston Bruins,Anaheim Ducks
+1604911777,Over,60,4764015501,2.49,0.5,Elias Lindholm (Assists),Boston Bruins,Anaheim Ducks
+1604911778,Under,61,4764015502,1.485,0.5,Elias Lindholm (Assists),Boston Bruins,Anaheim Ducks
+1604912038,Over,62,4765065455,2.13,0.5,Jake Sanderson (Assists),Ottawa Senators,Montreal Canadiens
+1604912039,Under,63,4765065456,1.657,0.5,Jake Sanderson (Assists),Ottawa Senators,Montreal Canadiens
+1604911804,Over,60,4764015575,3.27,0.5,Frank Vatrano (Assists),Boston Bruins,Anaheim Ducks
+1604911805,Under,61,4764015576,1.281,0.5,Frank Vatrano (Assists),Boston Bruins,Anaheim Ducks
+1604912059,Over,62,4764016247,2.05,0.5,Lane Hutson (Assists),Ottawa Senators,Montreal Canadiens
+1604912060,Under,63,4764016248,1.719,0.5,Lane Hutson (Assists),Ottawa Senators,Montreal Canadiens
+1604912053,Over,62,4764023705,3.35,0.5,Juraj Slafkovsky (Assists),Ottawa Senators,Montreal Canadiens
+1604912054,Under,63,4764023706,1.268,0.5,Juraj Slafkovsky (Assists),Ottawa Senators,Montreal Canadiens
+1604911753,Over,60,4764015437,3.5,0.5,Charlie Coyle (Assists),Boston Bruins,Anaheim Ducks
+1604911754,Under,61,4764015438,1.246,0.5,Charlie Coyle (Assists),Boston Bruins,Anaheim Ducks
+1604912014,Over,62,4764023485,2.51,0.5,Cole Caufield (Assists),Ottawa Senators,Montreal Canadiens
+1604912015,Under,63,4764023486,1.476,0.5,Cole Caufield (Assists),Ottawa Senators,Montreal Canadiens
+1604912002,Over,62,4764016095,4.24,0.5,Kirby Dach (Assists),Ottawa Senators,Montreal Canadiens
+1604912003,Under,63,4764016096,1.166,0.5,Kirby Dach (Assists),Ottawa Senators,Montreal Canadiens
+1604912026,Over,62,4765065451,1.862,0.5,Tim Stutzle (Assists),Ottawa Senators,Montreal Canadiens
+1604912027,Under,63,4765065452,1.877,0.5,Tim Stutzle (Assists),Ottawa Senators,Montreal Canadiens
+1604911765,Over,60,4764015471,2.88,0.5,Ryan Strome (Assists),Boston Bruins,Anaheim Ducks
+1604911766,Under,61,4764015472,1.361,0.5,Ryan Strome (Assists),Boston Bruins,Anaheim Ducks
+1604911855,Over,60,4764015717,3.35,0.5,Trevor Zegras (Assists),Boston Bruins,Anaheim Ducks
+1604911856,Under,61,4764015718,1.268,0.5,Trevor Zegras (Assists),Boston Bruins,Anaheim Ducks
+1604911843,Over,60,4764015679,2.47,0.5,Troy Terry (Assists),Boston Bruins,Anaheim Ducks
+1604911844,Under,61,4764015680,1.492,0.5,Troy Terry (Assists),Boston Bruins,Anaheim Ducks
+1604911861,Over,60,4764015733,2.68,0.5,Mason Lohrei (Assists),Boston Bruins,Anaheim Ducks
+1604911862,Under,61,4764015734,1.418,0.5,Mason Lohrei (Assists),Boston Bruins,Anaheim Ducks
+1604911816,Over,60,4764015605,2.18,0.5,Pavel Zacha (Assists),Boston Bruins,Anaheim Ducks
+1604911817,Under,61,4764015606,1.632,0.5,Pavel Zacha (Assists),Boston Bruins,Anaheim Ducks
+1604911831,Over,60,4764015647,3.09,0.5,Morgan Geekie (Assists),Boston Bruins,Anaheim Ducks
+1604911832,Under,61,4764015648,1.315,0.5,Morgan Geekie (Assists),Boston Bruins,Anaheim Ducks
+1604911918,Over,62,4764015873,2.15,0.5,Claude Giroux (Assists),Ottawa Senators,Montreal Canadiens
+1604911919,Under,63,4764015874,1.649,0.5,Claude Giroux (Assists),Ottawa Senators,Montreal Canadiens
+1604911906,Over,60,4764015861,3.91,0.5,Leo Carlsson (Assists),Boston Bruins,Anaheim Ducks
+1604911907,Under,61,4764015862,1.196,0.5,Leo Carlsson (Assists),Boston Bruins,Anaheim Ducks
+1604911936,Over,62,4764015921,2.87,0.5,Mike Matheson (Assists),Ottawa Senators,Montreal Canadiens
+1604911937,Under,63,4764015922,1.364,0.5,Mike Matheson (Assists),Ottawa Senators,Montreal Canadiens
+1604911888,Over,60,4764015813,3.52,0.5,Matthew Poitras (Assists),Boston Bruins,Anaheim Ducks
+1604911889,Under,61,4764015814,1.243,0.5,Matthew Poitras (Assists),Boston Bruins,Anaheim Ducks
+1604911873,Over,60,4764015765,3.49,0.5,Mason McTavish (Assists),Boston Bruins,Anaheim Ducks
+1604911874,Under,61,4764015766,1.246,0.5,Mason McTavish (Assists),Boston Bruins,Anaheim Ducks
+1604911897,Over,60,4764015841,3.04,0.5,Jackson LaCombe (Assists),Boston Bruins,Anaheim Ducks
+1604911898,Under,61,4764015842,1.324,0.5,Jackson LaCombe (Assists),Boston Bruins,Anaheim Ducks
+1604911981,Over,62,4765065439,2.31,0.5,Drake Batherson (Assists),Ottawa Senators,Montreal Canadiens
+1604911982,Under,63,4765065440,1.564,0.5,Drake Batherson (Assists),Ottawa Senators,Montreal Canadiens
+1604911993,Over,62,4765065445,2.49,0.5,Brady Tkachuk (Assists),Ottawa Senators,Montreal Canadiens
+1604911994,Under,63,4765065446,1.483,0.5,Brady Tkachuk (Assists),Ottawa Senators,Montreal Canadiens
+1604911741,Over,60,4764015405,3.86,0.5,Alex Killorn (Assists),Boston Bruins,Anaheim Ducks
+1604911742,Under,61,4764015406,1.201,0.5,Alex Killorn (Assists),Boston Bruins,Anaheim Ducks
+1604911729,Over,60,4764015373,2.23,0.5,Brad Marchand (Assists),Boston Bruins,Anaheim Ducks
+1604911730,Under,61,4764015374,1.598,0.5,Brad Marchand (Assists),Boston Bruins,Anaheim Ducks
+1604911945,Over,62,4764025244,3.98,0.5,Patrik Laine (Assists),Ottawa Senators,Montreal Canadiens
+1604911946,Under,63,4764025245,1.189,0.5,Patrik Laine (Assists),Ottawa Senators,Montreal Canadiens
+1604911957,Over,62,4764015977,2.51,0.5,Thomas Chabot (Assists),Ottawa Senators,Montreal Canadiens
+1604911958,Under,63,4764015978,1.476,0.5,Thomas Chabot (Assists),Ottawa Senators,Montreal Canadiens
+1604911660,Over,66,4764012096,3.83,0.5,Warren Foegele (Assists),Los Angeles Kings,Utah Hockey Club
+1604911661,Under,67,4764012097,1.204,0.5,Warren Foegele (Assists),Los Angeles Kings,Utah Hockey Club
+1604911678,Over,66,4764012142,3.51,0.5,Barrett Hayton (Assists),Los Angeles Kings,Utah Hockey Club
+1604911679,Under,67,4764012143,1.245,0.5,Barrett Hayton (Assists),Los Angeles Kings,Utah Hockey Club
+1604911630,Over,66,4764012014,2.3,0.5,Adrian Kempe (Assists),Los Angeles Kings,Utah Hockey Club
+1604911631,Under,67,4764012015,1.568,0.5,Adrian Kempe (Assists),Los Angeles Kings,Utah Hockey Club
+1604911648,Over,66,4764012062,2.42,0.5,Mikhail Sergachev (Assists),Los Angeles Kings,Utah Hockey Club
+1604911649,Under,67,4764012063,1.51,0.5,Mikhail Sergachev (Assists),Los Angeles Kings,Utah Hockey Club
+1604911639,Over,66,4764039210,1.952,0.5,Clayton Keller (Assists),Los Angeles Kings,Utah Hockey Club
+1604911640,Under,67,4764039211,1.793,0.5,Clayton Keller (Assists),Los Angeles Kings,Utah Hockey Club
+1604911714,Over,66,4764039214,2.78,0.5,Dylan Guenther (Assists),Los Angeles Kings,Utah Hockey Club
+1604911715,Under,67,4764039215,1.389,0.5,Dylan Guenther (Assists),Los Angeles Kings,Utah Hockey Club
+1604911690,Over,66,4764019128,2.62,0.5,Quinton Byfield (Assists),Los Angeles Kings,Utah Hockey Club
+1604911691,Under,67,4764019129,1.438,0.5,Quinton Byfield (Assists),Los Angeles Kings,Utah Hockey Club
+1604911702,Over,66,4764012210,2.73,0.5,Alex Laferriere (Assists),Los Angeles Kings,Utah Hockey Club
+1604911703,Under,67,4764012211,1.404,0.5,Alex Laferriere (Assists),Los Angeles Kings,Utah Hockey Club
+1604911591,Over,66,4764011896,2.98,0.5,Phillip Danault (Assists),Los Angeles Kings,Utah Hockey Club
+1604911592,Under,67,4764011897,1.338,0.5,Phillip Danault (Assists),Los Angeles Kings,Utah Hockey Club
+1604911616,Under,67,4764039213,1.52,0.5,Nick Schmaltz (Assists),Los Angeles Kings,Utah Hockey Club
+1604911615,Over,66,4764039212,2.4,0.5,Nick Schmaltz (Assists),Los Angeles Kings,Utah Hockey Club
+1604911603,Over,66,4764011940,2.29,0.5,Kevin Fiala (Assists),Los Angeles Kings,Utah Hockey Club
+1604911604,Under,67,4764011941,1.571,0.5,Kevin Fiala (Assists),Los Angeles Kings,Utah Hockey Club
+1604911582,Over,66,4764011872,2.25,0.5,Drew Doughty (Assists),Los Angeles Kings,Utah Hockey Club
+1604911583,Under,67,4764011873,1.595,0.5,Drew Doughty (Assists),Los Angeles Kings,Utah Hockey Club
+1604911573,Over,66,4764011848,2.18,0.5,Anze Kopitar (Assists),Los Angeles Kings,Utah Hockey Club
+1604911574,Under,67,4764011849,1.632,0.5,Anze Kopitar (Assists),Los Angeles Kings,Utah Hockey Club
+1604912281,Over,66,4764019325,3.2,0.5,Trevor Moore (Assists),Los Angeles Kings,Utah Hockey Club
+1604912282,Under,67,4764019326,1.294,0.5,Trevor Moore (Assists),Los Angeles Kings,Utah Hockey Club
+1604911534,Over,68,4764011758,2.71,0.5,Elias Pettersson (Assists),Vegas Golden Knights,Vancouver Canucks
+1604911535,Under,69,4764011759,1.409,0.5,Elias Pettersson (Assists),Vegas Golden Knights,Vancouver Canucks
+1604911522,Over,68,4764411866,3.72,0.5,Filip Chytil (Assists),Vegas Golden Knights,Vancouver Canucks
+1604911523,Under,69,4764411867,1.217,0.5,Filip Chytil (Assists),Vegas Golden Knights,Vancouver Canucks
+1604911543,Over,68,4764011782,3.91,0.5,Victor Olofsson (Assists),Vegas Golden Knights,Vancouver Canucks
+1604911544,Under,69,4764011783,1.196,0.5,Victor Olofsson (Assists),Vegas Golden Knights,Vancouver Canucks
+1604911504,Over,68,4764011684,3.0,0.5,Brock Boeser (Assists),Vegas Golden Knights,Vancouver Canucks
+1604911505,Under,69,4764011685,1.333,0.5,Brock Boeser (Assists),Vegas Golden Knights,Vancouver Canucks
+1604911561,Over,68,4764011826,2.83,0.5,Pavel Dorofeyev (Assists),Vegas Golden Knights,Vancouver Canucks
+1604911562,Under,69,4764011827,1.375,0.5,Pavel Dorofeyev (Assists),Vegas Golden Knights,Vancouver Canucks
+1604911414,Over,68,4764011444,2.85,0.5,Alex Pietrangelo (Assists),Vegas Golden Knights,Vancouver Canucks
+1604911415,Under,69,4764011445,1.434,0.5,Alex Pietrangelo (Assists),Vegas Golden Knights,Vancouver Canucks
+1604911471,Over,68,4764011596,1.653,0.5,Jack Eichel (Assists),Vegas Golden Knights,Vancouver Canucks
+1604911472,Under,69,4764011597,2.14,0.5,Jack Eichel (Assists),Vegas Golden Knights,Vancouver Canucks
+1604911459,Over,68,4764011564,2.91,0.5,Ivan Barbashev (Assists),Vegas Golden Knights,Vancouver Canucks
+1604911460,Under,69,4764011565,1.354,0.5,Ivan Barbashev (Assists),Vegas Golden Knights,Vancouver Canucks
+1604911483,Over,68,4764011632,3.59,0.5,Jake DeBrusk (Assists),Vegas Golden Knights,Vancouver Canucks
+1604911484,Under,69,4764011633,1.233,0.5,Jake DeBrusk (Assists),Vegas Golden Knights,Vancouver Canucks
+1604911438,Over,68,4764411852,3.86,0.5,Brandon Saad (Assists),Vegas Golden Knights,Vancouver Canucks
+1604911439,Under,69,4764411853,1.202,0.5,Brandon Saad (Assists),Vegas Golden Knights,Vancouver Canucks
+1604911426,Over,68,4764011476,1.793,0.5,Mark Stone (Assists),Vegas Golden Knights,Vancouver Canucks
+1604911427,Under,69,4764011477,1.952,0.5,Mark Stone (Assists),Vegas Golden Knights,Vancouver Canucks
+1604911450,Over,68,4764011540,2.43,0.5,Tomas Hertl (Assists),Vegas Golden Knights,Vancouver Canucks
+1604911451,Under,69,4764011541,1.507,0.5,Tomas Hertl (Assists),Vegas Golden Knights,Vancouver Canucks
+1604912544,Under,69,4764407284,1.212,0.5,Conor Garland (Assists),Vegas Golden Knights,Vancouver Canucks
+1604912543,Over,68,4764407283,3.77,0.5,Conor Garland (Assists),Vegas Golden Knights,Vancouver Canucks
