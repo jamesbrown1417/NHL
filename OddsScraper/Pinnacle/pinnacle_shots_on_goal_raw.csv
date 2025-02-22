@@ -111,8 +111,8 @@ id,name,rot_num,line_id,price,handicap,selection,home_team,away_team
 1604910764,Under,53,4771121203,2.19,1.5,Devon Toews (Shots On Goal),Nashville Predators,Colorado Avalanche
 1604910775,Over,52,4771299897,1.571,2.5,Martin Necas (Shots On Goal),Nashville Predators,Colorado Avalanche
 1604910776,Under,53,4771299898,2.4,2.5,Martin Necas (Shots On Goal),Nashville Predators,Colorado Avalanche
-1604910727,Over,52,4770909926,1.806,3.5,Nathan MacKinnon (Shots On Goal),Nashville Predators,Colorado Avalanche
-1604910728,Under,53,4770909927,1.925,3.5,Nathan MacKinnon (Shots On Goal),Nashville Predators,Colorado Avalanche
+1604910727,Over,52,4771598023,1.666,3.5,Nathan MacKinnon (Shots On Goal),Nashville Predators,Colorado Avalanche
+1604910728,Under,53,4771598024,2.12,3.5,Nathan MacKinnon (Shots On Goal),Nashville Predators,Colorado Avalanche
 1604910752,Under,53,4764009510,1.54,2.5,Artturi Lehkonen (Shots On Goal),Nashville Predators,Colorado Avalanche
 1604910751,Over,52,4764009509,2.35,2.5,Artturi Lehkonen (Shots On Goal),Nashville Predators,Colorado Avalanche
 1604910829,Over,50,4771361165,1.943,2.5,Timo Meier (Shots On Goal),New Jersey Devils,Dallas Stars
@@ -125,12 +125,12 @@ id,name,rot_num,line_id,price,handicap,selection,home_team,away_team
 1604910788,Under,53,4771299888,2.28,2.5,Cale Makar (Shots On Goal),Nashville Predators,Colorado Avalanche
 1604910808,Over,50,4771361159,1.833,2.5,Dougie Hamilton (Shots On Goal),New Jersey Devils,Dallas Stars
 1604910809,Under,51,4771361160,1.892,2.5,Dougie Hamilton (Shots On Goal),New Jersey Devils,Dallas Stars
-1604910631,Over,54,4769999551,1.925,1.5,Matty Beniers (Shots On Goal),Florida Panthers,Seattle Kraken
-1604910632,Under,55,4769999552,1.813,1.5,Matty Beniers (Shots On Goal),Florida Panthers,Seattle Kraken
+1604910631,Over,54,4771599501,1.925,1.5,Matty Beniers (Shots On Goal),Florida Panthers,Seattle Kraken
+1604910632,Under,55,4771599502,1.813,1.5,Matty Beniers (Shots On Goal),Florida Panthers,Seattle Kraken
 1604910646,Over,52,4767219733,1.543,1.5,Steven Stamkos (Shots On Goal),Nashville Predators,Colorado Avalanche
 1604910647,Under,53,4767219734,2.35,1.5,Steven Stamkos (Shots On Goal),Nashville Predators,Colorado Avalanche
-1604910619,Over,54,4769999543,1.606,1.5,Anton Lundell (Shots On Goal),Florida Panthers,Seattle Kraken
-1604910620,Under,55,4769999544,2.22,1.5,Anton Lundell (Shots On Goal),Florida Panthers,Seattle Kraken
+1604910619,Over,54,4771575531,1.588,1.5,Anton Lundell (Shots On Goal),Florida Panthers,Seattle Kraken
+1604910620,Under,55,4771575532,2.24,1.5,Anton Lundell (Shots On Goal),Florida Panthers,Seattle Kraken
 1604910703,Over,52,4771562730,1.757,1.5,Brady Skjei (Shots On Goal),Nashville Predators,Colorado Avalanche
 1604910704,Under,53,4771562731,1.99,1.5,Brady Skjei (Shots On Goal),Nashville Predators,Colorado Avalanche
 1604910691,Over,52,4771562724,1.781,2.5,Jonathan Marchessault (Shots On Goal),Nashville Predators,Colorado Avalanche
@@ -147,52 +147,58 @@ id,name,rot_num,line_id,price,handicap,selection,home_team,away_team
 1604910500,Under,55,4769999447,1.657,2.5,Aleksander Barkov (Shots On Goal),Florida Panthers,Seattle Kraken
 1604910520,Over,54,4770917974,2.07,2.5,Sam Reinhart (Shots On Goal),Florida Panthers,Seattle Kraken
 1604910521,Under,55,4770917975,1.699,2.5,Sam Reinhart (Shots On Goal),Florida Panthers,Seattle Kraken
-1604910466,Over,54,4769999424,1.606,1.5,Jaden Schwartz (Shots On Goal),Florida Panthers,Seattle Kraken
-1604910467,Under,55,4769999425,2.22,1.5,Jaden Schwartz (Shots On Goal),Florida Panthers,Seattle Kraken
-1604910484,Over,54,4769999438,1.724,1.5,Oliver Bjorkstrand (Shots On Goal),Florida Panthers,Seattle Kraken
-1604910485,Under,55,4769999439,2.04,1.5,Oliver Bjorkstrand (Shots On Goal),Florida Panthers,Seattle Kraken
+1604910466,Over,54,4771599481,1.606,1.5,Jaden Schwartz (Shots On Goal),Florida Panthers,Seattle Kraken
+1604910467,Under,55,4771599482,2.22,1.5,Jaden Schwartz (Shots On Goal),Florida Panthers,Seattle Kraken
+1604910484,Over,54,4771599491,1.724,1.5,Oliver Bjorkstrand (Shots On Goal),Florida Panthers,Seattle Kraken
+1604910485,Under,55,4771599492,2.04,1.5,Oliver Bjorkstrand (Shots On Goal),Florida Panthers,Seattle Kraken
 1604910571,Over,54,4770158755,1.625,1.5,Vince Dunn (Shots On Goal),Florida Panthers,Seattle Kraken
 1604910572,Under,55,4770158756,2.17,1.5,Vince Dunn (Shots On Goal),Florida Panthers,Seattle Kraken
-1604910592,Over,54,4769999529,2.17,2.5,Brandon Montour (Shots On Goal),Florida Panthers,Seattle Kraken
-1604910593,Under,55,4769999530,1.636,2.5,Brandon Montour (Shots On Goal),Florida Panthers,Seattle Kraken
-1604910535,Over,54,4769999493,1.555,1.5,Jared McCann (Shots On Goal),Florida Panthers,Seattle Kraken
-1604910536,Under,55,4769999494,2.32,1.5,Jared McCann (Shots On Goal),Florida Panthers,Seattle Kraken
-1604910560,Under,55,4769999516,1.448,3.5,Carter Verhaeghe (Shots On Goal),Florida Panthers,Seattle Kraken
-1604910559,Over,54,4769999515,2.56,3.5,Carter Verhaeghe (Shots On Goal),Florida Panthers,Seattle Kraken
+1604910592,Over,54,4771599214,2.16,2.5,Brandon Montour (Shots On Goal),Florida Panthers,Seattle Kraken
+1604910593,Under,55,4771599215,1.645,2.5,Brandon Montour (Shots On Goal),Florida Panthers,Seattle Kraken
+1604910535,Over,54,4771599499,1.555,1.5,Jared McCann (Shots On Goal),Florida Panthers,Seattle Kraken
+1604910536,Under,55,4771599500,2.32,1.5,Jared McCann (Shots On Goal),Florida Panthers,Seattle Kraken
+1604910560,Under,55,4771598968,1.571,3.5,Carter Verhaeghe (Shots On Goal),Florida Panthers,Seattle Kraken
+1604910559,Over,54,4771598967,2.29,3.5,Carter Verhaeghe (Shots On Goal),Florida Panthers,Seattle Kraken
 1604910550,Over,54,4769999509,2.37,2.5,Gustav Forsling (Shots On Goal),Florida Panthers,Seattle Kraken
 1604910551,Under,55,4769999510,1.534,2.5,Gustav Forsling (Shots On Goal),Florida Panthers,Seattle Kraken
-1604912074,Over,50,4766725843,1.621,1.5,Thomas Harley (Shots On Goal),New Jersey Devils,Dallas Stars
-1604912075,Under,51,4766725844,2.19,1.5,Thomas Harley (Shots On Goal),New Jersey Devils,Dallas Stars
-1604912077,Over,50,4769691744,1.645,1.5,Logan Stankoven (Shots On Goal),New Jersey Devils,Dallas Stars
-1604912078,Under,51,4769691745,2.13,1.5,Logan Stankoven (Shots On Goal),New Jersey Devils,Dallas Stars
-1604912080,Over,50,4769691741,1.699,1.5,Mason Marchment (Shots On Goal),New Jersey Devils,Dallas Stars
-1604912081,Under,51,4769691743,2.07,1.5,Mason Marchment (Shots On Goal),New Jersey Devils,Dallas Stars
+1604912074,Over,50,4771577215,1.621,1.5,Thomas Harley (Shots On Goal),New Jersey Devils,Dallas Stars
+1604912075,Under,51,4771577216,2.2,1.5,Thomas Harley (Shots On Goal),New Jersey Devils,Dallas Stars
+1604912077,Over,50,4771570386,1.671,1.5,Logan Stankoven (Shots On Goal),New Jersey Devils,Dallas Stars
+1604912078,Under,51,4771570387,2.09,1.5,Logan Stankoven (Shots On Goal),New Jersey Devils,Dallas Stars
+1604912080,Over,50,4771577209,1.689,1.5,Mason Marchment (Shots On Goal),New Jersey Devils,Dallas Stars
+1604912081,Under,51,4771577210,2.08,1.5,Mason Marchment (Shots On Goal),New Jersey Devils,Dallas Stars
 1604912065,Over,50,4770782626,2.08,2.5,Jason Robertson (Shots On Goal),New Jersey Devils,Dallas Stars
 1604912066,Under,51,4770782627,1.694,2.5,Jason Robertson (Shots On Goal),New Jersey Devils,Dallas Stars
 1604912068,Over,50,4771464301,1.98,2.5,Wyatt Johnston (Shots On Goal),New Jersey Devils,Dallas Stars
 1604912069,Under,51,4771464302,1.763,2.5,Wyatt Johnston (Shots On Goal),New Jersey Devils,Dallas Stars
 1604912071,Over,50,4769691731,1.555,1.5,Roope Hintz (Shots On Goal),New Jersey Devils,Dallas Stars
 1604912072,Under,51,4769691732,2.3,1.5,Roope Hintz (Shots On Goal),New Jersey Devils,Dallas Stars
-1604912083,Over,50,4764017904,1.719,1.5,Matt Duchene (Shots On Goal),New Jersey Devils,Dallas Stars
-1604912084,Under,51,4764017905,2.05,1.5,Matt Duchene (Shots On Goal),New Jersey Devils,Dallas Stars
+1604912083,Over,50,4771577207,1.714,1.5,Matt Duchene (Shots On Goal),New Jersey Devils,Dallas Stars
+1604912084,Under,51,4771577208,2.05,1.5,Matt Duchene (Shots On Goal),New Jersey Devils,Dallas Stars
 1604930621,Over,54,4769999477,2.56,3.5,Sam Bennett (Shots On Goal),Florida Panthers,Seattle Kraken
 1604930622,Under,55,4769999478,1.45,3.5,Sam Bennett (Shots On Goal),Florida Panthers,Seattle Kraken
 1604958435,Over,54,4769999501,1.476,1.5,Evan Rodrigues (Shots On Goal),Florida Panthers,Seattle Kraken
 1604958436,Under,55,4769999502,2.5,1.5,Evan Rodrigues (Shots On Goal),Florida Panthers,Seattle Kraken
 1605037022,Over,52,4771298034,1.862,1.5,Ross Colton (Shots On Goal),Nashville Predators,Colorado Avalanche
 1605037023,Under,53,4771298035,1.877,1.5,Ross Colton (Shots On Goal),Nashville Predators,Colorado Avalanche
+1605043776,Under,55,4771569062,2.13,1.5,Mackie Samoskevich (Shots On Goal),Florida Panthers,Seattle Kraken
+1605043775,Over,54,4771569061,1.724,1.5,Mackie Samoskevich (Shots On Goal),Florida Panthers,Seattle Kraken
+1605043784,Over,50,4771570059,2.01,1.5,Mikael Granlund (Shots On Goal),New Jersey Devils,Dallas Stars
+1605043785,Under,51,4771570060,1.746,1.5,Mikael Granlund (Shots On Goal),New Jersey Devils,Dallas Stars
+1605043781,Over,54,4771577145,1.925,1.5,Kaapo Kakko (Shots On Goal),Florida Panthers,Seattle Kraken
+1605043782,Under,55,4771577146,1.819,1.5,Kaapo Kakko (Shots On Goal),Florida Panthers,Seattle Kraken
 1604911024,Over,58,4771275688,2.39,2.5,Brent Burns (Shots On Goal),Toronto Maple Leafs,Carolina Hurricanes
 1604911025,Under,59,4771275689,1.523,2.5,Brent Burns (Shots On Goal),Toronto Maple Leafs,Carolina Hurricanes
-1604911012,Over,64,4771448151,1.806,2.5,Connor Bedard (Shots On Goal),Columbus Blue Jackets,Chicago Blackhawks
-1604911013,Under,65,4771448152,1.925,2.5,Connor Bedard (Shots On Goal),Columbus Blue Jackets,Chicago Blackhawks
+1604911012,Over,64,4771575527,1.8,2.5,Connor Bedard (Shots On Goal),Columbus Blue Jackets,Chicago Blackhawks
+1604911013,Under,65,4771575528,1.934,2.5,Connor Bedard (Shots On Goal),Columbus Blue Jackets,Chicago Blackhawks
 1604911033,Over,58,4770288609,2.3,2.5,John Tavares (Shots On Goal),Toronto Maple Leafs,Carolina Hurricanes
 1604911034,Under,59,4770288610,1.561,2.5,John Tavares (Shots On Goal),Toronto Maple Leafs,Carolina Hurricanes
 1604910988,Over,64,4771448147,2.47,2.5,Dmitri Voronkov (Shots On Goal),Columbus Blue Jackets,Chicago Blackhawks
 1604910989,Under,65,4771448148,1.502,2.5,Dmitri Voronkov (Shots On Goal),Columbus Blue Jackets,Chicago Blackhawks
 1604911000,Over,64,4771529670,1.909,2.5,Adam Fantilli (Shots On Goal),Columbus Blue Jackets,Chicago Blackhawks
 1604911001,Under,65,4771529671,1.819,2.5,Adam Fantilli (Shots On Goal),Columbus Blue Jackets,Chicago Blackhawks
-1604911087,Over,58,4770047456,1.751,2.5,William Nylander (Shots On Goal),Toronto Maple Leafs,Carolina Hurricanes
-1604911088,Under,59,4770047457,1.99,2.5,William Nylander (Shots On Goal),Toronto Maple Leafs,Carolina Hurricanes
+1604911087,Over,58,4771636317,1.704,2.5,William Nylander (Shots On Goal),Toronto Maple Leafs,Carolina Hurricanes
+1604911088,Under,59,4771636318,2.06,2.5,William Nylander (Shots On Goal),Toronto Maple Leafs,Carolina Hurricanes
 1604911099,Over,58,4764010590,1.714,2.5,Mikko Rantanen (Shots On Goal),Toronto Maple Leafs,Carolina Hurricanes
 1604911100,Under,59,4764010591,2.05,2.5,Mikko Rantanen (Shots On Goal),Toronto Maple Leafs,Carolina Hurricanes
 1604911051,Over,58,4771448229,1.9,1.5,Taylor Hall (Shots On Goal),Toronto Maple Leafs,Carolina Hurricanes
@@ -209,8 +215,8 @@ id,name,rot_num,line_id,price,handicap,selection,home_team,away_team
 1604910923,Under,65,4770893229,1.8,1.5,Tyler Bertuzzi (Shots On Goal),Columbus Blue Jackets,Chicago Blackhawks
 1604910913,Over,64,4770464451,1.54,1.5,Seth Jones (Shots On Goal),Columbus Blue Jackets,Chicago Blackhawks
 1604910914,Under,65,4770464452,2.37,1.5,Seth Jones (Shots On Goal),Columbus Blue Jackets,Chicago Blackhawks
-1604910944,Under,65,4767220281,1.606,3.5,Zach Werenski (Shots On Goal),Columbus Blue Jackets,Chicago Blackhawks
-1604910943,Over,64,4767220280,2.22,3.5,Zach Werenski (Shots On Goal),Columbus Blue Jackets,Chicago Blackhawks
+1604910944,Under,65,4771636559,1.606,3.5,Zach Werenski (Shots On Goal),Columbus Blue Jackets,Chicago Blackhawks
+1604910943,Over,64,4771636558,2.21,3.5,Zach Werenski (Shots On Goal),Columbus Blue Jackets,Chicago Blackhawks
 1604911396,Over,56,4770662269,1.497,1.5,Dylan Holloway (Shots On Goal),St. Louis Blues,Winnipeg Jets
 1604911397,Under,57,4770662270,2.44,1.5,Dylan Holloway (Shots On Goal),St. Louis Blues,Winnipeg Jets
 1604911375,Over,56,4769748175,1.689,1.5,Neal Pionk (Shots On Goal),St. Louis Blues,Winnipeg Jets
@@ -237,8 +243,8 @@ id,name,rot_num,line_id,price,handicap,selection,home_team,away_team
 1604911322,Under,57,4770662247,1.909,2.5,Jordan Kyrou (Shots On Goal),St. Louis Blues,Winnipeg Jets
 1604911159,Over,58,4771275798,2.21,2.5,Andrei Svechnikov (Shots On Goal),Toronto Maple Leafs,Carolina Hurricanes
 1604911160,Under,59,4771275800,1.617,2.5,Andrei Svechnikov (Shots On Goal),Toronto Maple Leafs,Carolina Hurricanes
-1604911111,Over,58,4771448211,1.869,3.5,Auston Matthews (Shots On Goal),Toronto Maple Leafs,Carolina Hurricanes
-1604911112,Under,59,4771448212,1.854,3.5,Auston Matthews (Shots On Goal),Toronto Maple Leafs,Carolina Hurricanes
+1604911111,Over,58,4771607593,1.862,3.5,Auston Matthews (Shots On Goal),Toronto Maple Leafs,Carolina Hurricanes
+1604911112,Under,59,4771607594,1.869,3.5,Auston Matthews (Shots On Goal),Toronto Maple Leafs,Carolina Hurricanes
 1604911136,Under,59,4770358860,1.523,2.5,Mitch Marner (Shots On Goal),Toronto Maple Leafs,Carolina Hurricanes
 1604911135,Over,58,4770358859,2.41,2.5,Mitch Marner (Shots On Goal),Toronto Maple Leafs,Carolina Hurricanes
 1604911123,Over,58,4771290407,1.934,2.5,Sebastian Aho (Shots On Goal),Toronto Maple Leafs,Carolina Hurricanes
@@ -251,8 +257,8 @@ id,name,rot_num,line_id,price,handicap,selection,home_team,away_team
 1604911175,Under,59,4771290412,1.555,2.5,Seth Jarvis (Shots On Goal),Toronto Maple Leafs,Carolina Hurricanes
 1604911198,Over,58,4770047466,1.675,1.5,Jackson Blake (Shots On Goal),Toronto Maple Leafs,Carolina Hurricanes
 1604911199,Under,59,4770047467,2.1,1.5,Jackson Blake (Shots On Goal),Toronto Maple Leafs,Carolina Hurricanes
-1604911186,Over,58,4764010814,1.869,1.5,Matthew Knies (Shots On Goal),Toronto Maple Leafs,Carolina Hurricanes
-1604911187,Under,59,4764010815,1.869,1.5,Matthew Knies (Shots On Goal),Toronto Maple Leafs,Carolina Hurricanes
+1604911186,Over,58,4771637169,1.854,1.5,Matthew Knies (Shots On Goal),Toronto Maple Leafs,Carolina Hurricanes
+1604911187,Under,59,4771637170,1.877,1.5,Matthew Knies (Shots On Goal),Toronto Maple Leafs,Carolina Hurricanes
 1604911786,Over,60,4764015523,2.11,4.5,David Pastrnak (Shots On Goal),Boston Bruins,Anaheim Ducks
 1604911787,Under,61,4764015524,1.675,4.5,David Pastrnak (Shots On Goal),Boston Bruins,Anaheim Ducks
 1604911798,Over,60,4769737723,1.68,2.5,Frank Vatrano (Shots On Goal),Boston Bruins,Anaheim Ducks

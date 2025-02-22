@@ -135,8 +135,8 @@ id,name,rot_num,line_id,price,handicap,selection,home_team,away_team
 1604910737,Under,53,4771049911,1.833,1.5,Nathan MacKinnon (Points),Nashville Predators,Colorado Avalanche
 1604910721,Over,52,4771562734,1.389,0.5,Filip Forsberg (Points),Nashville Predators,Colorado Avalanche
 1604910722,Under,53,4771562735,2.78,0.5,Filip Forsberg (Points),Nashville Predators,Colorado Avalanche
-1604910745,Over,52,4767219747,1.869,0.5,Jonathan Drouin (Points),Nashville Predators,Colorado Avalanche
-1604910746,Under,53,4767219748,1.869,0.5,Jonathan Drouin (Points),Nashville Predators,Colorado Avalanche
+1604910745,Over,52,4771571763,1.68,0.5,Jonathan Drouin (Points),Nashville Predators,Colorado Avalanche
+1604910746,Under,53,4771571764,2.1,0.5,Jonathan Drouin (Points),Nashville Predators,Colorado Avalanche
 1604910826,Over,50,4771361163,2.45,0.5,Stefan Noesen (Points),New Jersey Devils,Dallas Stars
 1604910827,Under,51,4771361164,1.497,0.5,Stefan Noesen (Points),New Jersey Devils,Dallas Stars
 1604910838,Over,50,4771262653,2.04,0.5,Timo Meier (Points),New Jersey Devils,Dallas Stars
@@ -145,16 +145,16 @@ id,name,rot_num,line_id,price,handicap,selection,home_team,away_team
 1604910797,Under,53,4771121213,2.78,0.5,Cale Makar (Points),Nashville Predators,Colorado Avalanche
 1604910814,Over,50,4764009773,2.24,0.5,Dougie Hamilton (Points),New Jersey Devils,Dallas Stars
 1604910815,Under,51,4764009774,1.684,0.5,Dougie Hamilton (Points),New Jersey Devils,Dallas Stars
-1604910640,Over,54,4769999560,2.37,0.5,Matty Beniers (Points),Florida Panthers,Seattle Kraken
-1604910641,Under,55,4769999561,1.531,0.5,Matty Beniers (Points),Florida Panthers,Seattle Kraken
+1604910640,Over,54,4771599507,2.37,0.5,Matty Beniers (Points),Florida Panthers,Seattle Kraken
+1604910641,Under,55,4771599508,1.531,0.5,Matty Beniers (Points),Florida Panthers,Seattle Kraken
 1604910628,Over,54,4769999549,2.03,0.5,Anton Lundell (Points),Florida Panthers,Seattle Kraken
 1604910629,Under,55,4769999550,1.735,0.5,Anton Lundell (Points),Florida Panthers,Seattle Kraken
 1604910656,Under,53,4771562707,1.826,0.5,Steven Stamkos (Points),Nashville Predators,Colorado Avalanche
 1604910655,Over,52,4771562706,1.9,0.5,Steven Stamkos (Points),Nashville Predators,Colorado Avalanche
-1604910598,Over,54,4769999533,2.88,0.5,Brandon Montour (Points),Florida Panthers,Seattle Kraken
-1604910599,Under,55,4769999534,1.362,0.5,Brandon Montour (Points),Florida Panthers,Seattle Kraken
-1604910610,Over,54,4769999541,2.26,0.5,Kaapo Kakko (Points),Florida Panthers,Seattle Kraken
-1604910611,Under,55,4769999542,1.584,0.5,Kaapo Kakko (Points),Florida Panthers,Seattle Kraken
+1604910598,Over,54,4771570335,2.89,0.5,Brandon Montour (Points),Florida Panthers,Seattle Kraken
+1604910599,Under,55,4771570336,1.361,0.5,Brandon Montour (Points),Florida Panthers,Seattle Kraken
+1604910610,Over,54,4771577149,2.18,0.5,Kaapo Kakko (Points),Florida Panthers,Seattle Kraken
+1604910611,Under,55,4771577150,1.632,0.5,Kaapo Kakko (Points),Florida Panthers,Seattle Kraken
 1604910700,Over,52,4771562728,1.591,0.5,Jonathan Marchessault (Points),Nashville Predators,Colorado Avalanche
 1604910701,Under,53,4771562729,2.23,0.5,Jonathan Marchessault (Points),Nashville Predators,Colorado Avalanche
 1604910709,Over,52,4767219739,2.74,0.5,Brady Skjei (Points),Nashville Predators,Colorado Avalanche
@@ -169,50 +169,58 @@ id,name,rot_num,line_id,price,handicap,selection,home_team,away_team
 1604910509,Under,55,4769999453,1.456,1.5,Aleksander Barkov (Points),Florida Panthers,Seattle Kraken
 1604910517,Over,54,4769999458,1.909,0.5,Aaron Ekblad (Points),Florida Panthers,Seattle Kraken
 1604910518,Under,55,4769999459,1.934,0.5,Aaron Ekblad (Points),Florida Panthers,Seattle Kraken
-1604910475,Over,54,4771448233,2.26,0.5,Jaden Schwartz (Points),Florida Panthers,Seattle Kraken
-1604910476,Under,55,4771448234,1.588,0.5,Jaden Schwartz (Points),Florida Panthers,Seattle Kraken
-1604910493,Over,54,4769999444,2.56,0.5,Oliver Bjorkstrand (Points),Florida Panthers,Seattle Kraken
-1604910494,Under,55,4769999445,1.456,0.5,Oliver Bjorkstrand (Points),Florida Panthers,Seattle Kraken
+1604910475,Over,54,4771599485,2.25,0.5,Jaden Schwartz (Points),Florida Panthers,Seattle Kraken
+1604910476,Under,55,4771599486,1.588,0.5,Jaden Schwartz (Points),Florida Panthers,Seattle Kraken
+1604910493,Over,54,4771599497,2.56,0.5,Oliver Bjorkstrand (Points),Florida Panthers,Seattle Kraken
+1604910494,Under,55,4771599498,1.456,0.5,Oliver Bjorkstrand (Points),Florida Panthers,Seattle Kraken
 1604910568,Over,54,4769999521,1.526,0.5,Carter Verhaeghe (Points),Florida Panthers,Seattle Kraken
 1604910569,Under,55,4769999522,2.57,0.5,Carter Verhaeghe (Points),Florida Panthers,Seattle Kraken
 1604910577,Over,54,4769999527,2.17,0.5,Vince Dunn (Points),Florida Panthers,Seattle Kraken
 1604910578,Under,55,4769999528,1.729,0.5,Vince Dunn (Points),Florida Panthers,Seattle Kraken
-1604910544,Over,54,4771258412,2.04,0.5,Jared McCann (Points),Florida Panthers,Seattle Kraken
-1604910545,Under,55,4771258413,1.719,0.5,Jared McCann (Points),Florida Panthers,Seattle Kraken
-1604910529,Over,54,4771561236,2.75,1.5,Sam Reinhart (Points),Florida Panthers,Seattle Kraken
-1604910530,Under,55,4771561237,1.4,1.5,Sam Reinhart (Points),Florida Panthers,Seattle Kraken
+1604910544,Over,54,4771570331,2.04,0.5,Jared McCann (Points),Florida Panthers,Seattle Kraken
+1604910545,Under,55,4771570332,1.714,0.5,Jared McCann (Points),Florida Panthers,Seattle Kraken
+1604910529,Over,54,4771571759,2.7,1.5,Sam Reinhart (Points),Florida Panthers,Seattle Kraken
+1604910530,Under,55,4771571760,1.416,1.5,Sam Reinhart (Points),Florida Panthers,Seattle Kraken
 1604910556,Over,54,4769999513,2.43,0.5,Gustav Forsling (Points),Florida Panthers,Seattle Kraken
 1604910557,Under,55,4769999514,1.505,0.5,Gustav Forsling (Points),Florida Panthers,Seattle Kraken
-1604912092,Over,54,4769999436,2.19,0.5,Chandler Stephenson (Points),Florida Panthers,Seattle Kraken
-1604912093,Under,55,4769999437,1.625,0.5,Chandler Stephenson (Points),Florida Panthers,Seattle Kraken
-1604926656,Under,51,4771526644,1.781,0.5,Thomas Harley (Points),New Jersey Devils,Dallas Stars
-1604926655,Over,50,4771526643,1.961,0.5,Thomas Harley (Points),New Jersey Devils,Dallas Stars
-1604926664,Over,50,4771262649,1.625,0.5,Wyatt Johnston (Points),New Jersey Devils,Dallas Stars
-1604926665,Under,51,4771262650,2.16,0.5,Wyatt Johnston (Points),New Jersey Devils,Dallas Stars
+1604912092,Over,54,4771599489,2.19,0.5,Chandler Stephenson (Points),Florida Panthers,Seattle Kraken
+1604912093,Under,55,4771599490,1.625,0.5,Chandler Stephenson (Points),Florida Panthers,Seattle Kraken
+1604926655,Over,50,4771577217,1.97,0.5,Thomas Harley (Points),New Jersey Devils,Dallas Stars
+1604926656,Under,51,4771577218,1.775,0.5,Thomas Harley (Points),New Jersey Devils,Dallas Stars
+1604926664,Over,50,4771577223,1.68,0.5,Wyatt Johnston (Points),New Jersey Devils,Dallas Stars
+1604926665,Under,51,4771577224,2.08,0.5,Wyatt Johnston (Points),New Jersey Devils,Dallas Stars
 1604930627,Over,54,4769999483,1.813,0.5,Sam Bennett (Points),Florida Panthers,Seattle Kraken
 1604930628,Under,55,4769999484,1.925,0.5,Sam Bennett (Points),Florida Panthers,Seattle Kraken
 1604958480,Over,54,4769999507,2.13,0.5,Evan Rodrigues (Points),Florida Panthers,Seattle Kraken
 1604958481,Under,55,4769999508,1.657,0.5,Evan Rodrigues (Points),Florida Panthers,Seattle Kraken
-1604982412,Over,50,4771262651,1.588,0.5,Jason Robertson (Points),New Jersey Devils,Dallas Stars
-1604982413,Under,51,4771262652,2.24,0.5,Jason Robertson (Points),New Jersey Devils,Dallas Stars
+1604982412,Over,50,4771577213,1.588,0.5,Jason Robertson (Points),New Jersey Devils,Dallas Stars
+1604982413,Under,51,4771577214,2.25,0.5,Jason Robertson (Points),New Jersey Devils,Dallas Stars
 1605037571,Over,52,4771562740,2.55,0.5,Tommy Novak (Points),Nashville Predators,Colorado Avalanche
 1605037572,Under,53,4771562741,1.46,0.5,Tommy Novak (Points),Nashville Predators,Colorado Avalanche
+1605043757,Over,50,4771570380,2.49,0.5,Ondrej Palat (Points),New Jersey Devils,Dallas Stars
+1605043758,Under,51,4771570381,1.483,0.5,Ondrej Palat (Points),New Jersey Devils,Dallas Stars
+1605043769,Over,50,4771570390,2.78,0.5,Logan Stankoven (Points),New Jersey Devils,Dallas Stars
+1605043770,Under,51,4771570391,1.387,0.5,Logan Stankoven (Points),New Jersey Devils,Dallas Stars
+1605043763,Over,50,4771570384,2.71,0.5,Evgenii Dadonov (Points),New Jersey Devils,Dallas Stars
+1605043764,Under,51,4771570385,1.409,0.5,Evgenii Dadonov (Points),New Jersey Devils,Dallas Stars
+1605043778,Over,54,4771569059,2.46,0.5,Mackie Samoskevich (Points),Florida Panthers,Seattle Kraken
+1605043779,Under,55,4771569060,1.495,0.5,Mackie Samoskevich (Points),Florida Panthers,Seattle Kraken
 1604911021,Over,64,4771448155,1.578,0.5,Connor Bedard (Points),Columbus Blue Jackets,Chicago Blackhawks
 1604911022,Under,65,4771448156,2.28,0.5,Connor Bedard (Points),Columbus Blue Jackets,Chicago Blackhawks
 1604911009,Over,64,4771284145,1.555,0.5,Adam Fantilli (Points),Columbus Blue Jackets,Chicago Blackhawks
 1604911010,Under,65,4771284146,2.31,0.5,Adam Fantilli (Points),Columbus Blue Jackets,Chicago Blackhawks
 1604911030,Over,58,4771276816,2.49,0.5,Brent Burns (Points),Toronto Maple Leafs,Carolina Hurricanes
 1604911031,Under,59,4771276818,1.476,0.5,Brent Burns (Points),Toronto Maple Leafs,Carolina Hurricanes
-1604910997,Over,64,4771283222,1.694,0.5,Dmitri Voronkov (Points),Columbus Blue Jackets,Chicago Blackhawks
-1604910998,Under,65,4771283223,2.08,0.5,Dmitri Voronkov (Points),Columbus Blue Jackets,Chicago Blackhawks
+1604910997,Over,64,4771590550,1.555,0.5,Dmitri Voronkov (Points),Columbus Blue Jackets,Chicago Blackhawks
+1604910998,Under,65,4771590551,2.32,0.5,Dmitri Voronkov (Points),Columbus Blue Jackets,Chicago Blackhawks
 1604911084,Over,58,4771448221,2.58,0.5,Max Domi (Points),Toronto Maple Leafs,Carolina Hurricanes
 1604911085,Under,59,4771448222,1.448,0.5,Max Domi (Points),Toronto Maple Leafs,Carolina Hurricanes
 1604911075,Over,58,4771275692,2.97,0.5,Shayne Gostisbehere (Points),Toronto Maple Leafs,Carolina Hurricanes
 1604911076,Under,59,4771275693,1.354,0.5,Shayne Gostisbehere (Points),Toronto Maple Leafs,Carolina Hurricanes
 1604911096,Over,58,4770288631,1.552,0.5,William Nylander (Points),Toronto Maple Leafs,Carolina Hurricanes
 1604911097,Under,59,4770288632,2.33,0.5,William Nylander (Points),Toronto Maple Leafs,Carolina Hurricanes
-1604911042,Over,58,4771276811,1.704,0.5,John Tavares (Points),Toronto Maple Leafs,Carolina Hurricanes
-1604911043,Under,59,4771276812,2.06,0.5,John Tavares (Points),Toronto Maple Leafs,Carolina Hurricanes
+1604911042,Over,58,4771612552,1.699,0.5,John Tavares (Points),Toronto Maple Leafs,Carolina Hurricanes
+1604911043,Under,59,4771612553,2.07,0.5,John Tavares (Points),Toronto Maple Leafs,Carolina Hurricanes
 1604911048,Over,58,4770288617,2.96,0.5,Oliver Ekman-Larsson (Points),Toronto Maple Leafs,Carolina Hurricanes
 1604911049,Under,59,4770288618,1.342,0.5,Oliver Ekman-Larsson (Points),Toronto Maple Leafs,Carolina Hurricanes
 1604911069,Over,58,4770288623,2.34,0.5,Morgan Rielly (Points),Toronto Maple Leafs,Carolina Hurricanes
@@ -275,8 +283,8 @@ id,name,rot_num,line_id,price,handicap,selection,home_team,away_team
 1604911208,Under,59,4771131713,1.606,0.5,Jackson Blake (Points),Toronto Maple Leafs,Carolina Hurricanes
 1604911232,Under,57,4771319226,1.561,0.5,Brayden Schenn (Points),St. Louis Blues,Winnipeg Jets
 1604911231,Over,56,4771319225,2.3,0.5,Brayden Schenn (Points),St. Louis Blues,Winnipeg Jets
-1604911219,Over,58,4770320987,2.44,0.5,Bobby McMann (Points),Toronto Maple Leafs,Carolina Hurricanes
-1604911220,Under,59,4770320988,1.502,0.5,Bobby McMann (Points),Toronto Maple Leafs,Carolina Hurricanes
+1604911219,Over,58,4771610840,2.43,0.5,Bobby McMann (Points),Toronto Maple Leafs,Carolina Hurricanes
+1604911220,Under,59,4771610841,1.512,0.5,Bobby McMann (Points),Toronto Maple Leafs,Carolina Hurricanes
 1604911183,Over,58,4771276813,1.625,0.5,Seth Jarvis (Points),Toronto Maple Leafs,Carolina Hurricanes
 1604911184,Under,59,4771276814,2.17,0.5,Seth Jarvis (Points),Toronto Maple Leafs,Carolina Hurricanes
 1604911195,Over,58,4771276815,1.8,0.5,Matthew Knies (Points),Toronto Maple Leafs,Carolina Hurricanes
@@ -295,8 +303,8 @@ id,name,rot_num,line_id,price,handicap,selection,home_team,away_team
 1604912057,Under,63,4771520911,1.645,0.5,Juraj Slafkovsky (Points),Ottawa Senators,Montreal Canadiens
 1604911756,Over,60,4771448177,2.35,0.5,Charlie Coyle (Points),Boston Bruins,Anaheim Ducks
 1604911757,Under,61,4771448178,1.546,0.5,Charlie Coyle (Points),Boston Bruins,Anaheim Ducks
-1604912005,Over,62,4771448129,2.9,0.5,Kirby Dach (Points),Ottawa Senators,Montreal Canadiens
-1604912006,Under,63,4771448130,1.357,0.5,Kirby Dach (Points),Ottawa Senators,Montreal Canadiens
+1604912005,Over,62,4771619463,2.85,0.5,Kirby Dach (Points),Ottawa Senators,Montreal Canadiens
+1604912006,Under,63,4771619464,1.37,0.5,Kirby Dach (Points),Ottawa Senators,Montreal Canadiens
 1604912029,Over,62,4771563445,1.4,0.5,Tim Stutzle (Points),Ottawa Senators,Montreal Canadiens
 1604912030,Under,63,4771563446,2.75,0.5,Tim Stutzle (Points),Ottawa Senators,Montreal Canadiens
 1604912017,Over,62,4771280087,1.74,0.5,Cole Caufield (Points),Ottawa Senators,Montreal Canadiens
@@ -307,8 +315,8 @@ id,name,rot_num,line_id,price,handicap,selection,home_team,away_team
 1604911847,Under,61,4771271195,2.03,0.5,Troy Terry (Points),Boston Bruins,Anaheim Ducks
 1604911858,Over,60,4764015725,2.18,0.5,Trevor Zegras (Points),Boston Bruins,Anaheim Ducks
 1604911859,Under,61,4764015726,1.632,0.5,Trevor Zegras (Points),Boston Bruins,Anaheim Ducks
-1604911864,Over,60,4771271186,2.2,0.5,Mason Lohrei (Points),Boston Bruins,Anaheim Ducks
-1604911865,Under,61,4771271187,1.606,0.5,Mason Lohrei (Points),Boston Bruins,Anaheim Ducks
+1604911864,Over,60,4771670653,2.26,0.5,Mason Lohrei (Points),Boston Bruins,Anaheim Ducks
+1604911865,Under,61,4771670654,1.574,0.5,Mason Lohrei (Points),Boston Bruins,Anaheim Ducks
 1604911819,Over,60,4771271695,1.606,0.5,Pavel Zacha (Points),Boston Bruins,Anaheim Ducks
 1604911820,Under,61,4771271698,2.21,0.5,Pavel Zacha (Points),Boston Bruins,Anaheim Ducks
 1604911834,Over,60,4770661923,1.961,0.5,Morgan Geekie (Points),Boston Bruins,Anaheim Ducks
