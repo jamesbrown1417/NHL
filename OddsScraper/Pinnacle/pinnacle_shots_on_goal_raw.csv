@@ -49,8 +49,8 @@ id,name,rot_num,line_id,price,handicap,selection,home_team,away_team
 1605086191,Under,25,4776147890,2.11,2.5,Jack Eichel (Shots On Goal),Los Angeles Kings,Vegas Golden Knights
 1605086181,Over,24,4776147867,1.952,1.5,Noah Hanifin (Shots On Goal),Los Angeles Kings,Vegas Golden Knights
 1605086182,Under,25,4776147868,1.793,1.5,Noah Hanifin (Shots On Goal),Los Angeles Kings,Vegas Golden Knights
-1605086202,Over,24,4777180751,1.606,2.5,Adrian Kempe (Shots On Goal),Los Angeles Kings,Vegas Golden Knights
-1605086203,Under,25,4777180752,2.2,2.5,Adrian Kempe (Shots On Goal),Los Angeles Kings,Vegas Golden Knights
+1605086202,Over,24,4777219870,1.588,2.5,Adrian Kempe (Shots On Goal),Los Angeles Kings,Vegas Golden Knights
+1605086203,Under,25,4777219871,2.23,2.5,Adrian Kempe (Shots On Goal),Los Angeles Kings,Vegas Golden Knights
 1605086157,Over,24,4776716240,1.854,2.5,Kevin Fiala (Shots On Goal),Los Angeles Kings,Vegas Golden Knights
 1605086158,Under,25,4776716241,1.877,2.5,Kevin Fiala (Shots On Goal),Los Angeles Kings,Vegas Golden Knights
 1605086145,Over,24,4776580138,2.29,2.5,Tomas Hertl (Shots On Goal),Los Angeles Kings,Vegas Golden Knights
@@ -153,8 +153,8 @@ id,name,rot_num,line_id,price,handicap,selection,home_team,away_team
 1605105994,Under,29,4777081640,1.515,2.5,Jiri Kulich (Shots On Goal),Buffalo Sabres,Anaheim Ducks
 1605105831,Over,34,4777080865,2.5,2.5,Bobby McMann (Shots On Goal),Boston Bruins,Toronto Maple Leafs
 1605105832,Under,35,4777080867,1.48,2.5,Bobby McMann (Shots On Goal),Boston Bruins,Toronto Maple Leafs
-1605105855,Over,28,4777080883,1.724,2.5,Frank Vatrano (Shots On Goal),Buffalo Sabres,Anaheim Ducks
 1605105856,Under,29,4777080884,2.13,2.5,Frank Vatrano (Shots On Goal),Buffalo Sabres,Anaheim Ducks
+1605105855,Over,28,4777080883,1.724,2.5,Frank Vatrano (Shots On Goal),Buffalo Sabres,Anaheim Ducks
 1605105801,Over,34,4777080659,1.505,1.5,Morgan Geekie (Shots On Goal),Boston Bruins,Toronto Maple Leafs
 1605105802,Under,35,4777080660,2.44,1.5,Morgan Geekie (Shots On Goal),Boston Bruins,Toronto Maple Leafs
 1605105903,Over,28,4777081089,1.512,1.5,Jason Zucker (Shots On Goal),Buffalo Sabres,Anaheim Ducks
@@ -167,8 +167,8 @@ id,name,rot_num,line_id,price,handicap,selection,home_team,away_team
 1605105880,Under,29,4777080946,1.476,2.5,Mason McTavish (Shots On Goal),Buffalo Sabres,Anaheim Ducks
 1605105699,Over,34,4777080317,2.22,2.5,John Tavares (Shots On Goal),Boston Bruins,Toronto Maple Leafs
 1605105700,Under,35,4777080318,1.671,2.5,John Tavares (Shots On Goal),Boston Bruins,Toronto Maple Leafs
-1605105724,Under,35,4777080380,2.18,1.5,Elias Lindholm (Shots On Goal),Boston Bruins,Toronto Maple Leafs
 1605105723,Over,34,4777080379,1.632,1.5,Elias Lindholm (Shots On Goal),Boston Bruins,Toronto Maple Leafs
+1605105724,Under,35,4777080380,2.18,1.5,Elias Lindholm (Shots On Goal),Boston Bruins,Toronto Maple Leafs
 1605105675,Over,30,4777080230,2.29,2.5,Matt Coronato (Shots On Goal),Washington Capitals,Calgary Flames
 1605105676,Under,31,4777080231,1.574,2.5,Matt Coronato (Shots On Goal),Washington Capitals,Calgary Flames
 1605105687,Over,34,4777080273,2.03,2.5,Brad Marchand (Shots On Goal),Boston Bruins,Toronto Maple Leafs
@@ -309,8 +309,8 @@ id,name,rot_num,line_id,price,handicap,selection,home_team,away_team
 1605106780,Under,45,4777084352,2.04,2.5,Alex DeBrincat (Shots On Goal),Minnesota Wild,Detroit Red Wings
 1605106608,Over,46,4777083767,1.781,1.5,Oliver Bjorkstrand (Shots On Goal),St. Louis Blues,Seattle Kraken
 1605106609,Under,47,4777083768,1.961,1.5,Oliver Bjorkstrand (Shots On Goal),St. Louis Blues,Seattle Kraken
-1605106623,Over,46,4777201315,2.35,2.5,Jared McCann (Shots On Goal),St. Louis Blues,Seattle Kraken
 1605106624,Under,47,4777201316,1.591,2.5,Jared McCann (Shots On Goal),St. Louis Blues,Seattle Kraken
+1605106623,Over,46,4777201315,2.35,2.5,Jared McCann (Shots On Goal),St. Louis Blues,Seattle Kraken
 1605106563,Over,46,4777083637,2.01,1.5,Justin Faulk (Shots On Goal),St. Louis Blues,Seattle Kraken
 1605106564,Under,47,4777083638,1.813,1.5,Justin Faulk (Shots On Goal),St. Louis Blues,Seattle Kraken
 1605106590,Over,46,4777083635,1.892,1.5,Colton Parayko (Shots On Goal),St. Louis Blues,Seattle Kraken
@@ -343,7 +343,7 @@ id,name,rot_num,line_id,price,handicap,selection,home_team,away_team
 1605107023,Under,49,4777085183,1.751,2.5,Connor Bedard (Shots On Goal),Utah Hockey Club,Chicago Blackhawks
 1605106938,Over,48,4777085092,1.558,2.5,Clayton Keller (Shots On Goal),Utah Hockey Club,Chicago Blackhawks
 1605106939,Under,49,4777085093,2.32,2.5,Clayton Keller (Shots On Goal),Utah Hockey Club,Chicago Blackhawks
-1605106911,Over,48,4777084919,2.6,2.5,Nick Schmaltz (Shots On Goal),Utah Hockey Club,Chicago Blackhawks
 1605106912,Under,49,4777084921,1.5,2.5,Nick Schmaltz (Shots On Goal),Utah Hockey Club,Chicago Blackhawks
+1605106911,Over,48,4777084919,2.6,2.5,Nick Schmaltz (Shots On Goal),Utah Hockey Club,Chicago Blackhawks
 1605106902,Over,48,4777201791,1.704,1.5,Seth Jones (Shots On Goal),Utah Hockey Club,Chicago Blackhawks
 1605106903,Under,49,4777201792,2.17,1.5,Seth Jones (Shots On Goal),Utah Hockey Club,Chicago Blackhawks

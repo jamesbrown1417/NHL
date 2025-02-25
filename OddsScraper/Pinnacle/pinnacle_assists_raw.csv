@@ -33,10 +33,10 @@ id,name,rot_num,line_id,price,handicap,selection,home_team,away_team
 1605094603,Under,23,4777166009,1.952,0.5,Josh Morrissey (Assists),Winnipeg Jets,San Jose Sharks
 1605086122,Over,24,4776933669,1.909,0.5,Mark Stone (Assists),Los Angeles Kings,Vegas Golden Knights
 1605086123,Under,25,4776933670,1.819,0.5,Mark Stone (Assists),Los Angeles Kings,Vegas Golden Knights
-1605086247,Over,24,4777153361,3.8,0.5,Victor Olofsson (Assists),Los Angeles Kings,Vegas Golden Knights
-1605086248,Under,25,4777153362,1.277,0.5,Victor Olofsson (Assists),Los Angeles Kings,Vegas Golden Knights
-1605086271,Over,24,4777152265,3.2,0.5,Alex Laferriere (Assists),Los Angeles Kings,Vegas Golden Knights
-1605086272,Under,25,4777152266,1.357,0.5,Alex Laferriere (Assists),Los Angeles Kings,Vegas Golden Knights
+1605086247,Over,24,4777221445,3.9,0.5,Victor Olofsson (Assists),Los Angeles Kings,Vegas Golden Knights
+1605086248,Under,25,4777221446,1.27,0.5,Victor Olofsson (Assists),Los Angeles Kings,Vegas Golden Knights
+1605086272,Under,25,4777221440,1.344,0.5,Alex Laferriere (Assists),Los Angeles Kings,Vegas Golden Knights
+1605086271,Over,24,4777221439,3.3,0.5,Alex Laferriere (Assists),Los Angeles Kings,Vegas Golden Knights
 1605086141,Over,24,4777017810,2.6,0.5,Phillip Danault (Assists),Los Angeles Kings,Vegas Golden Knights
 1605086142,Under,25,4777017811,1.434,0.5,Phillip Danault (Assists),Los Angeles Kings,Vegas Golden Knights
 1605086259,Over,24,4776935262,3.1,0.5,Pavel Dorofeyev (Assists),Los Angeles Kings,Vegas Golden Knights
@@ -53,14 +53,14 @@ id,name,rot_num,line_id,price,handicap,selection,home_team,away_team
 1605086236,Under,25,4776148018,1.249,0.5,Trevor Moore (Assists),Los Angeles Kings,Vegas Golden Knights
 1605086110,Over,24,4776147677,2.83,0.5,Alex Pietrangelo (Assists),Los Angeles Kings,Vegas Golden Knights
 1605086111,Under,25,4776147678,1.375,0.5,Alex Pietrangelo (Assists),Los Angeles Kings,Vegas Golden Knights
-1605086101,Over,24,4777152276,2.48,0.5,Drew Doughty (Assists),Los Angeles Kings,Vegas Golden Knights
-1605086102,Under,25,4777152278,1.476,0.5,Drew Doughty (Assists),Los Angeles Kings,Vegas Golden Knights
+1605086101,Over,24,4777221441,2.6,0.5,Drew Doughty (Assists),Los Angeles Kings,Vegas Golden Knights
+1605086102,Under,25,4777221442,1.454,0.5,Drew Doughty (Assists),Los Angeles Kings,Vegas Golden Knights
 1605086184,Over,24,4777174620,3.0,0.5,Noah Hanifin (Assists),Los Angeles Kings,Vegas Golden Knights
 1605086185,Under,25,4777174621,1.344,0.5,Noah Hanifin (Assists),Los Angeles Kings,Vegas Golden Knights
 1605086208,Over,24,4776925882,2.5,0.5,Adrian Kempe (Assists),Los Angeles Kings,Vegas Golden Knights
 1605086209,Under,25,4776925883,1.476,0.5,Adrian Kempe (Assists),Los Angeles Kings,Vegas Golden Knights
-1605086196,Over,24,4777048562,1.8,0.5,Jack Eichel (Assists),Los Angeles Kings,Vegas Golden Knights
-1605086197,Under,25,4777048563,1.934,0.5,Jack Eichel (Assists),Los Angeles Kings,Vegas Golden Knights
+1605086196,Over,24,4777221449,1.869,0.5,Jack Eichel (Assists),Los Angeles Kings,Vegas Golden Knights
+1605086197,Under,25,4777221450,1.862,0.5,Jack Eichel (Assists),Los Angeles Kings,Vegas Golden Knights
 1605086151,Over,24,4776931401,2.65,0.5,Tomas Hertl (Assists),Los Angeles Kings,Vegas Golden Knights
 1605086152,Under,25,4776931402,1.434,0.5,Tomas Hertl (Assists),Los Angeles Kings,Vegas Golden Knights
 1605086176,Under,25,4776147848,1.305,0.5,Ivan Barbashev (Assists),Los Angeles Kings,Vegas Golden Knights
@@ -177,12 +177,12 @@ id,name,rot_num,line_id,price,handicap,selection,home_team,away_team
 1605105808,Under,35,4777080664,1.27,0.5,Morgan Geekie (Assists),Boston Bruins,Toronto Maple Leafs
 1605105795,Over,34,4777080655,1.735,0.5,Mitch Marner (Assists),Boston Bruins,Toronto Maple Leafs
 1605105796,Under,35,4777080656,2.02,0.5,Mitch Marner (Assists),Boston Bruins,Toronto Maple Leafs
-1605105817,Under,35,4777080718,1.357,0.5,Mason Lohrei (Assists),Boston Bruins,Toronto Maple Leafs
 1605105816,Over,34,4777080717,3.2,0.5,Mason Lohrei (Assists),Boston Bruins,Toronto Maple Leafs
+1605105817,Under,35,4777080718,1.357,0.5,Mason Lohrei (Assists),Boston Bruins,Toronto Maple Leafs
 1605105894,Over,28,4777080975,2.83,0.5,Jackson LaCombe (Assists),Buffalo Sabres,Anaheim Ducks
 1605105895,Under,29,4777080976,1.374,0.5,Jackson LaCombe (Assists),Buffalo Sabres,Anaheim Ducks
-1605105910,Under,29,4777081042,1.434,0.5,Jason Zucker (Assists),Buffalo Sabres,Anaheim Ducks
 1605105909,Over,28,4777081041,2.63,0.5,Jason Zucker (Assists),Buffalo Sabres,Anaheim Ducks
+1605105910,Under,29,4777081042,1.434,0.5,Jason Zucker (Assists),Buffalo Sabres,Anaheim Ducks
 1605105861,Over,28,4777080877,3.1,0.5,Frank Vatrano (Assists),Buffalo Sabres,Anaheim Ducks
 1605105862,Under,29,4777080878,1.314,0.5,Frank Vatrano (Assists),Buffalo Sabres,Anaheim Ducks
 1605105885,Over,28,4777080875,3.13,0.5,Mason McTavish (Assists),Buffalo Sabres,Anaheim Ducks
@@ -333,8 +333,8 @@ id,name,rot_num,line_id,price,handicap,selection,home_team,away_team
 1605106735,Under,47,4777084276,1.312,0.5,Matty Beniers (Assists),St. Louis Blues,Seattle Kraken
 1605106722,Over,46,4777201339,3.83,0.5,Jake Neighbours (Assists),St. Louis Blues,Seattle Kraken
 1605106723,Under,47,4777201340,1.205,0.5,Jake Neighbours (Assists),St. Louis Blues,Seattle Kraken
-1605106747,Under,47,4777084248,1.294,0.5,Shane Wright (Assists),St. Louis Blues,Seattle Kraken
 1605106746,Over,46,4777084247,3.2,0.5,Shane Wright (Assists),St. Louis Blues,Seattle Kraken
+1605106747,Under,47,4777084248,1.294,0.5,Shane Wright (Assists),St. Louis Blues,Seattle Kraken
 1605106701,Over,46,4777084265,2.55,0.5,Kaapo Kakko (Assists),St. Louis Blues,Seattle Kraken
 1605106702,Under,47,4777084267,1.526,0.5,Kaapo Kakko (Assists),St. Louis Blues,Seattle Kraken
 1605106713,Over,46,4777084255,2.9,0.5,Dylan Holloway (Assists),St. Louis Blues,Seattle Kraken
@@ -369,8 +369,8 @@ id,name,rot_num,line_id,price,handicap,selection,home_team,away_team
 1605106675,Under,47,4777084077,1.312,0.5,Brandon Montour (Assists),St. Louis Blues,Seattle Kraken
 1605106629,Over,46,4777083955,2.59,0.5,Jared McCann (Assists),St. Louis Blues,Seattle Kraken
 1605106630,Under,47,4777083957,1.446,0.5,Jared McCann (Assists),St. Louis Blues,Seattle Kraken
-1605106654,Under,47,4777201324,1.411,0.5,Jordan Kyrou (Assists),St. Louis Blues,Seattle Kraken
 1605106653,Over,46,4777201323,2.7,0.5,Jordan Kyrou (Assists),St. Louis Blues,Seattle Kraken
+1605106654,Under,47,4777201324,1.411,0.5,Jordan Kyrou (Assists),St. Louis Blues,Seattle Kraken
 1605106641,Over,46,4777083825,2.26,0.5,Vince Dunn (Assists),St. Louis Blues,Seattle Kraken
 1605106642,Under,47,4777083826,1.584,0.5,Vince Dunn (Assists),St. Louis Blues,Seattle Kraken
 1605106557,Over,46,4777083581,2.94,0.5,Brayden Schenn (Assists),St. Louis Blues,Seattle Kraken
