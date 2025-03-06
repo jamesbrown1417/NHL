@@ -157,7 +157,7 @@
             "name": "Thomas Chabot (Ottawa Senators)",
             "home_away": "AWAY",
             "visible": true,
-            "sort_order": 470,
+            "sort_order": 480,
             "market_id": "57965c58-e6dd-4139-b00d-872cc5210040"
         },
         "08d8f7fb-9697-4b96-a8ea-2135a1c68a5a": {
@@ -1054,7 +1054,7 @@
             "name": "Artem Zub (Ottawa Senators)",
             "home_away": "AWAY",
             "visible": true,
-            "sort_order": 560,
+            "sort_order": 540,
             "market_id": "57965c58-e6dd-4139-b00d-872cc5210040"
         },
         "3a137666-d783-4eaa-9a58-42a812d669f9": {
@@ -1355,7 +1355,7 @@
             "name": "Andreas Athanasiou (Chicago Blackhawks)",
             "home_away": "HOME",
             "visible": true,
-            "sort_order": 490,
+            "sort_order": 500,
             "market_id": "57965c58-e6dd-4139-b00d-872cc5210040"
         },
         "4b7af22f-2605-43c2-97d2-4861d0976e9f": {
@@ -1656,6 +1656,14 @@
             "visible": true,
             "sort_order": 40,
             "market_id": "78905207-3d09-4ad9-8887-c9db0ee770be"
+        },
+        "61fa64a4-8b7c-4cab-84fa-783449c7690e": {
+            "id": "61fa64a4-8b7c-4cab-84fa-783449c7690e",
+            "name": "Ottawa Senators (+3.5)",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 20,
+            "market_id": "8db1cce8-f123-46d0-81b9-dbdbcc3cb624"
         },
         "6335af32-971d-41f2-bbfa-dec7fb30a170": {
             "id": "6335af32-971d-41f2-bbfa-dec7fb30a170",
@@ -2327,7 +2335,7 @@
             "name": "Ethan Del Mastro (Chicago Blackhawks)",
             "home_away": "HOME",
             "visible": true,
-            "sort_order": 500,
+            "sort_order": 490,
             "market_id": "57965c58-e6dd-4139-b00d-872cc5210040"
         },
         "8a83e091-f7a7-4e5a-b3cd-8c5eebfac725": {
@@ -2935,7 +2943,7 @@
             "name": "Lukas Reichel (Chicago Blackhawks)",
             "home_away": "HOME",
             "visible": true,
-            "sort_order": 550,
+            "sort_order": 560,
             "market_id": "57965c58-e6dd-4139-b00d-872cc5210040"
         },
         "b0e781fb-f1f6-49c8-a0c3-5069d996c7f8": {
@@ -3364,6 +3372,14 @@
             "sort_order": 10,
             "market_id": "eabf954f-736b-42e7-931a-4f532361fd07"
         },
+        "ca2d934b-c258-4daa-974c-41295e8213dc": {
+            "id": "ca2d934b-c258-4daa-974c-41295e8213dc",
+            "name": "Chicago Blackhawks (-3.5)",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 10,
+            "market_id": "8db1cce8-f123-46d0-81b9-dbdbcc3cb624"
+        },
         "ca488e2c-6c8b-44fd-8951-be4baca8f8c6": {
             "id": "ca488e2c-6c8b-44fd-8951-be4baca8f8c6",
             "name": "Ottawa Senators",
@@ -3652,7 +3668,7 @@
             "name": "Wyatt Kaiser (Chicago Blackhawks)",
             "home_away": "HOME",
             "visible": true,
-            "sort_order": 590,
+            "sort_order": 580,
             "market_id": "57965c58-e6dd-4139-b00d-872cc5210040"
         },
         "dc48cd7b-bbb6-443b-a915-fa543853451c": {
@@ -3668,7 +3684,7 @@
             "name": "Patrick Maroon (Chicago Blackhawks)",
             "home_away": "HOME",
             "visible": true,
-            "sort_order": 580,
+            "sort_order": 590,
             "market_id": "57965c58-e6dd-4139-b00d-872cc5210040"
         },
         "dc9d504e-b3e3-40fe-8fa4-b6a18c8e3e2b": {
@@ -4143,7 +4159,7 @@
             "name": "Adam Gaudette (Ottawa Senators)",
             "home_away": "AWAY",
             "visible": true,
-            "sort_order": 480,
+            "sort_order": 470,
             "market_id": "57965c58-e6dd-4139-b00d-872cc5210040"
         },
         "f7321676-f13a-4319-8870-6909cbfb2752": {
@@ -4159,7 +4175,7 @@
             "name": "Colton Dach (Chicago Blackhawks)",
             "home_away": "HOME",
             "visible": true,
-            "sort_order": 540,
+            "sort_order": 550,
             "market_id": "57965c58-e6dd-4139-b00d-872cc5210040"
         },
         "f74331d3-c0aa-4d5a-906a-a32162c9667b": {
@@ -4338,8 +4354,8 @@
                 "name": "Match"
             },
             "match_status": "BettingOpen",
-            "advertised_start": "2025-03-06T00:38:00Z",
-            "actual_start": "2025-03-06T00:38:00Z",
+            "advertised_start": "2025-03-06T00:42:00Z",
+            "actual_start": "2025-03-06T00:42:00Z",
             "visible": true,
             "slug": "chicago-blackhawks-vs-ottawa-senators",
             "competition": {
@@ -4391,7 +4407,8 @@
                         "69682441-113d-4db0-add6-a6fccd7d1ee1",
                         "7958b592-e88c-48c9-91f2-cc3da8b85839",
                         "94f2ecec-8f81-4b06-9ae4-5b0e4444bce3",
-                        "eb0d6c02-dba8-4a92-bf95-1476976ede77"
+                        "eb0d6c02-dba8-4a92-bf95-1476976ede77",
+                        "8db1cce8-f123-46d0-81b9-dbdbcc3cb624"
                     ]
                 },
                 {
@@ -4689,7 +4706,7 @@
                     ]
                 }
             ],
-            "market_count": 207,
+            "market_count": 208,
             "main_markets": [
                 "7ccc8900-be4e-4db1-9c72-b3a4d4918569"
             ],
@@ -4705,6 +4722,7 @@
                 "7958b592-e88c-48c9-91f2-cc3da8b85839",
                 "94f2ecec-8f81-4b06-9ae4-5b0e4444bce3",
                 "eb0d6c02-dba8-4a92-bf95-1476976ede77",
+                "8db1cce8-f123-46d0-81b9-dbdbcc3cb624",
                 "8088d2aa-9479-4671-a5cc-d0534748aafd",
                 "c44e70f0-169f-4f8c-8d06-b22d67b96001",
                 "082c1bd5-c9f7-4353-8c0f-be43a111b83b",
@@ -5061,10 +5079,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Player Saves O/U - Linus Ullmark (22.5)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "visible": true,
             "entrant_ids": [
@@ -5080,10 +5098,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Player Shots O/U - Brady Tkachuk (3.5)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "visible": true,
             "entrant_ids": [
@@ -5099,10 +5117,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Chicago Blackhawks Total (3)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "visible": true,
             "entrant_ids": [
@@ -5118,10 +5136,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Both Teams To Score in 1st Period",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "same_game_multi_available": true,
             "visible": true,
@@ -5138,10 +5156,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Ottawa Senators Total (1)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "visible": true,
             "entrant_ids": [
@@ -5157,10 +5175,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "3rd Period Total (2.5)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "same_game_multi_available": true,
             "visible": true,
@@ -5177,10 +5195,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "3rd Period Chicago Blackhawks Total (1)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "visible": true,
             "entrant_ids": [
@@ -5196,10 +5214,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Correct Score (inc OT)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "same_game_multi_available": true,
             "visible": true,
@@ -5257,10 +5275,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "2nd Period Total (0.5)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "same_game_multi_available": true,
             "visible": true,
@@ -5277,10 +5295,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Player Shots O/U - Ridly Greig (1.5)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "visible": true,
             "entrant_ids": [
@@ -5296,10 +5314,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Both Teams To Score",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "same_game_multi_available": true,
             "visible": true,
@@ -5316,10 +5334,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Tim Stutzle (Ott) : Plus minus (0.5)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "visible": true,
             "entrant_ids": [
@@ -5335,10 +5353,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Player Saves O/U - Arvid Soderblom (28.5)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "visible": true,
             "entrant_ids": [
@@ -5354,10 +5372,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "2nd Period Line (-0.5)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "same_game_multi_available": true,
             "comments": "If the Line market results in a refund, the whole SGM bet will be refunded.",
@@ -5375,10 +5393,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Player Shots O/U - Thomas Chabot (2.5)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "visible": true,
             "entrant_ids": [
@@ -5394,10 +5412,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "First Team to Score (Regular Time Only)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "visible": true,
             "entrant_ids": [
@@ -5414,10 +5432,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Ridly Greig (Ott) : Plus minus (0.5)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "visible": true,
             "entrant_ids": [
@@ -5433,10 +5451,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Total (4.5)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "same_game_multi_available": true,
             "comments": "Includes Overtime. If the Total market results in a refund, the whole SGM bet will be refunded.",
@@ -5454,10 +5472,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Total (7.5)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "same_game_multi_available": true,
             "comments": "Includes Overtime. If the Total market results in a refund, the whole SGM bet will be refunded.",
@@ -5475,10 +5493,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "1st Period Line (+1.5)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "same_game_multi_available": true,
             "comments": "If the Line market results in a refund, the whole SGM bet will be refunded.",
@@ -5496,10 +5514,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Player Assists O/U - Josh Norris (0.5)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "visible": true,
             "entrant_ids": [
@@ -5515,10 +5533,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Player Assists O/U - Tyler Bertuzzi (0.5)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "visible": true,
             "entrant_ids": [
@@ -5534,10 +5552,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "3rd Period Chicago Blackhawks Total (0.5)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "same_game_multi_available": true,
             "visible": true,
@@ -5554,10 +5572,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "1st Period Ottawa Senators Total (2.5)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "same_game_multi_available": true,
             "visible": true,
@@ -5574,10 +5592,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "1st Period Ottawa Senators Total (2)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "visible": true,
             "entrant_ids": [
@@ -5593,10 +5611,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Chicago Blackhawks Total (4)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "visible": true,
             "entrant_ids": [
@@ -5612,10 +5630,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "3rd Period Total (2)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "visible": true,
             "entrant_ids": [
@@ -5631,10 +5649,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Artem Zub (Ott) : Plus minus (0.5)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "visible": true,
             "entrant_ids": [
@@ -5650,10 +5668,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Player Points O/U - Tim Stutzle (1.5)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "visible": true,
             "entrant_ids": [
@@ -5669,10 +5687,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "1st Period Line (-1)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "visible": true,
             "entrant_ids": [
@@ -5688,10 +5706,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "2nd Period Correct Score",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "same_game_multi_available": true,
             "visible": true,
@@ -5723,10 +5741,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Player Blocked Shots O/U - Artem Zub (1.5)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "visible": true,
             "entrant_ids": [
@@ -5742,10 +5760,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "1st Period Total (2)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "visible": true,
             "entrant_ids": [
@@ -5761,10 +5779,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "2nd Period Line (-1.5)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "same_game_multi_available": true,
             "comments": "If the Line market results in a refund, the whole SGM bet will be refunded.",
@@ -5782,10 +5800,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "2nd Period Ottawa Senators Total (1)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "visible": true,
             "entrant_ids": [
@@ -5801,10 +5819,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Player Shutouts O/U - Linus Ullmark (0.5)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "visible": true,
             "entrant_ids": [
@@ -5820,10 +5838,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "3rd Period Total (1.5)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "same_game_multi_available": true,
             "visible": true,
@@ -5840,10 +5858,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "3rd Period Line (+1)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "visible": true,
             "entrant_ids": [
@@ -5859,10 +5877,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Player Goals Against O/U - Arvid Soderblom (3.5)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "visible": true,
             "entrant_ids": [
@@ -5878,10 +5896,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "3rd Period Total (1)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "visible": true,
             "entrant_ids": [
@@ -5897,10 +5915,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Chicago Blackhawks Total (0.5)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "same_game_multi_available": true,
             "visible": true,
@@ -5917,10 +5935,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "1st Period Total (2.5)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "same_game_multi_available": true,
             "visible": true,
@@ -5937,10 +5955,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "3rd Period Line (-1.5)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "same_game_multi_available": true,
             "comments": "If the Line market results in a refund, the whole SGM bet will be refunded.",
@@ -5958,10 +5976,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Total (7)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "comments": "Includes Overtime. If the Total market results in a refund, the whole SGM bet will be refunded.",
             "visible": true,
@@ -5978,10 +5996,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "3rd Period Ottawa Senators Total (1)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "visible": true,
             "entrant_ids": [
@@ -5997,10 +6015,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Player Shots O/U - Teuvo Teravainen (1.5)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "visible": true,
             "entrant_ids": [
@@ -6016,10 +6034,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "1st Period Line (-1.5)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "same_game_multi_available": true,
             "comments": "If the Line market results in a refund, the whole SGM bet will be refunded.",
@@ -6037,10 +6055,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Player Assists O/U - Frank Nazar (0.5)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "visible": true,
             "entrant_ids": [
@@ -6056,10 +6074,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "First Team to Score in 1st Period",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "visible": true,
             "entrant_ids": [
@@ -6076,10 +6094,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Player Points O/U - Connor Bedard (0.5)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "visible": true,
             "entrant_ids": [
@@ -6095,10 +6113,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Player Powerplay Points O/U - Brady Tkachuk (0.5)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "visible": true,
             "entrant_ids": [
@@ -6114,10 +6132,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Player Assists O/U - Ryan Donato (0.5)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "visible": true,
             "entrant_ids": [
@@ -6133,10 +6151,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Total (8.5)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "same_game_multi_available": true,
             "comments": "Includes Overtime. If the Total market results in a refund, the whole SGM bet will be refunded.",
@@ -6154,10 +6172,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Player Points O/U - David Perron (0.5)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "visible": true,
             "entrant_ids": [
@@ -6173,10 +6191,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Total (9.5)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "same_game_multi_available": true,
             "comments": "Includes Overtime. If the Total market results in a refund, the whole SGM bet will be refunded.",
@@ -6194,10 +6212,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Both Teams To Score in 2nd Period",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "same_game_multi_available": true,
             "visible": true,
@@ -6214,10 +6232,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "2nd Period Total (1.5)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "same_game_multi_available": true,
             "visible": true,
@@ -6234,10 +6252,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "3rd Period Ottawa Senators Total (2.5)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "same_game_multi_available": true,
             "visible": true,
@@ -6254,10 +6272,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Both Teams To Score 2+ Goals",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "same_game_multi_available": true,
             "visible": true,
@@ -6274,10 +6292,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Player Blocked Shots O/U - Alex Vlasic (1.5)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "visible": true,
             "entrant_ids": [
@@ -6293,10 +6311,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Ottawa Senators Total (2)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "visible": true,
             "entrant_ids": [
@@ -6312,10 +6330,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Ottawa Senators Total (4.5)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "same_game_multi_available": true,
             "visible": true,
@@ -6332,10 +6350,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "1st Period Chicago Blackhawks Total (2.5)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "same_game_multi_available": true,
             "visible": true,
@@ -6352,10 +6370,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Match Betting (3-way)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "same_game_multi_available": true,
             "comments": "Does Not Include OT",
@@ -6374,10 +6392,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "1st Period Head To Head",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "same_game_multi_available": true,
             "visible": true,
@@ -6394,10 +6412,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "2nd Period Double Chance",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "same_game_multi_available": true,
             "is_multiple_outcome_market": true,
@@ -6416,10 +6434,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Player Assists O/U - Alex Vlasic (0.5)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "visible": true,
             "entrant_ids": [
@@ -6435,10 +6453,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "3rd Period Result and Over/Under 1.5",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "same_game_multi_available": true,
             "visible": true,
@@ -6459,10 +6477,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "3rd Period Line (+0.5)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "same_game_multi_available": true,
             "comments": "If the Line market results in a refund, the whole SGM bet will be refunded.",
@@ -6480,10 +6498,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Chicago Blackhawks Total (1.5)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "same_game_multi_available": true,
             "visible": true,
@@ -6500,10 +6518,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "2nd Period Result and Over/Under 2.5",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "same_game_multi_available": true,
             "visible": true,
@@ -6524,10 +6542,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Total (9)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "comments": "Includes Overtime. If the Total market results in a refund, the whole SGM bet will be refunded.",
             "visible": true,
@@ -6544,10 +6562,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Player Shots O/U - Tim Stutzle (2.5)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "visible": true,
             "entrant_ids": [
@@ -6563,10 +6581,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Anytime Goal Scorer",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "same_game_multi_available": true,
             "is_multiple_outcome_market": true,
@@ -6589,19 +6607,19 @@
                 "6d4211bc-05cb-4fcd-bef2-dabbe68458fc",
                 "453ef18d-899b-48bf-b1e1-adb5f8c43205",
                 "365edbbf-a73d-4ad2-b1a1-250f27f77f7f",
-                "08bdb153-cf65-43f5-995d-748b4790dd38",
                 "f68ecd22-7bdb-44e5-9a59-968cf10d63c4",
-                "4b3c1cfe-623f-4795-aba0-bd2a98b9651a",
+                "08bdb153-cf65-43f5-995d-748b4790dd38",
                 "8a49fbdc-b23e-4bc8-992a-ee8ac0b087d5",
+                "4b3c1cfe-623f-4795-aba0-bd2a98b9651a",
                 "c97a115b-feb4-472d-a682-ab4a5308ee52",
                 "c00425cf-1730-4a92-9de0-4e9b7c0fc128",
                 "fd826bff-8fd4-46d6-9d73-02ccd5016bdf",
+                "39d60a77-e42b-49c4-a221-022f473a95f2",
                 "f73fa151-d77b-44de-8f22-a84d2287bec1",
                 "b02920fd-1b7c-4fe4-8da7-c82eddf42627",
-                "39d60a77-e42b-49c4-a221-022f473a95f2",
                 "73543a0d-ced3-4447-86e2-b5e7429b5798",
-                "dc667c69-93fd-4d27-b1e0-bd6992161be6",
                 "dbf409a9-2872-4e31-ba16-44a3cd21e527",
+                "dc667c69-93fd-4d27-b1e0-bd6992161be6",
                 "89a04b1b-8c48-47b6-a545-4ffad4744f8c"
             ],
             "num_winners": 99
@@ -6613,10 +6631,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Total (6)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "comments": "Includes Overtime. If the Total market results in a refund, the whole SGM bet will be refunded.",
             "visible": true,
@@ -6633,10 +6651,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Player Points O/U - Ridly Greig (0.5)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "visible": true,
             "entrant_ids": [
@@ -6652,10 +6670,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Ottawa Senators Total (2.5)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "same_game_multi_available": true,
             "visible": true,
@@ -6672,10 +6690,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "2nd Period Ottawa Senators Total (1.5)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "same_game_multi_available": true,
             "visible": true,
@@ -6692,10 +6710,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Player Points O/U - Alex Vlasic (0.5)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "visible": true,
             "entrant_ids": [
@@ -6711,10 +6729,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Player Assists O/U - Thomas Chabot (0.5)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "visible": true,
             "entrant_ids": [
@@ -6730,10 +6748,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Match Result and Over/Under Goals (5.5)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "visible": true,
             "entrant_ids": [
@@ -6751,10 +6769,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Both Teams To Score 3+ Goals",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "same_game_multi_available": true,
             "visible": true,
@@ -6771,10 +6789,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "2nd Period Ottawa Senators Total (0.5)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "same_game_multi_available": true,
             "visible": true,
@@ -6791,10 +6809,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Line (+2.5)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "same_game_multi_available": true,
             "comments": "If the Line market results in a refund, the whole SGM bet will be refunded.",
@@ -6812,10 +6830,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "2nd Period Total (2.5)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "same_game_multi_available": true,
             "visible": true,
@@ -6832,10 +6850,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "1st Period Total Goals Exact",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "same_game_multi_available": true,
             "visible": true,
@@ -6853,10 +6871,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Chicago Blackhawks Total (2)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "visible": true,
             "entrant_ids": [
@@ -6872,10 +6890,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "2nd Period Chicago Blackhawks Total (2)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "visible": true,
             "entrant_ids": [
@@ -6891,10 +6909,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "3rd Period Chicago Blackhawks Total (2.5)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "same_game_multi_available": true,
             "visible": true,
@@ -6911,10 +6929,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "3rd Period Ottawa Senators Total (2)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "visible": true,
             "entrant_ids": [
@@ -6930,10 +6948,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "3rd Period Total (0.5)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "same_game_multi_available": true,
             "visible": true,
@@ -6950,10 +6968,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "2nd Period Chicago Blackhawks Total (1.5)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "same_game_multi_available": true,
             "visible": true,
@@ -6970,10 +6988,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Player Shots O/U - Frank Nazar (1.5)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "visible": true,
             "entrant_ids": [
@@ -6989,10 +7007,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Player Blocked Shots O/U - Connor Murphy (2.5)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "visible": true,
             "entrant_ids": [
@@ -7008,10 +7026,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Player Assists O/U - Connor Bedard (0.5)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "visible": true,
             "entrant_ids": [
@@ -7027,10 +7045,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "1st Period Result and Over/Under 1.5 Goals",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "same_game_multi_available": true,
             "visible": true,
@@ -7051,10 +7069,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "2nd Period Line (+1)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "visible": true,
             "entrant_ids": [
@@ -7070,10 +7088,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "2nd Period Result and Over/Under 1.5",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "same_game_multi_available": true,
             "visible": true,
@@ -7094,10 +7112,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Player Powerplay Points O/U - Alex Vlasic (0.5)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "visible": true,
             "entrant_ids": [
@@ -7113,10 +7131,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Line (+3.5)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "same_game_multi_available": true,
             "comments": "If the Line market results in a refund, the whole SGM bet will be refunded.",
@@ -7134,10 +7152,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "2nd Period Betting (3-way)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "same_game_multi_available": true,
             "comments": "Resulted off of period score only (20 minutes)",
@@ -7156,10 +7174,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Player Powerplay Points O/U - Teuvo Teravainen (0.5)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "visible": true,
             "entrant_ids": [
@@ -7175,10 +7193,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Player Shots O/U - Josh Norris (1.5)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "visible": true,
             "entrant_ids": [
@@ -7194,10 +7212,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Player Shots O/U - Ryan Donato (2.5)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "visible": true,
             "entrant_ids": [
@@ -7213,10 +7231,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Head To Head",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "is_primary": true,
             "same_game_multi_available": true,
@@ -7234,10 +7252,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "2nd Period Line (-1)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "visible": true,
             "entrant_ids": [
@@ -7253,10 +7271,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Player Points O/U - Thomas Chabot (0.5)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "visible": true,
             "entrant_ids": [
@@ -7272,10 +7290,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "1st Period Chicago Blackhawks Total (1)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "visible": true,
             "entrant_ids": [
@@ -7291,10 +7309,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Both Teams To Score in 3rd Period",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "same_game_multi_available": true,
             "visible": true,
@@ -7311,10 +7329,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Double Chance (Regular Time)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "same_game_multi_available": true,
             "is_multiple_outcome_market": true,
@@ -7333,10 +7351,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "2nd Period Total (1)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "visible": true,
             "entrant_ids": [
@@ -7352,10 +7370,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Chicago Blackhawks Total (4.5)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "same_game_multi_available": true,
             "visible": true,
@@ -7372,10 +7390,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "1st Period Ottawa Senators Total (1.5)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "same_game_multi_available": true,
             "visible": true,
@@ -7392,10 +7410,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "2nd Period Chicago Blackhawks Total (0.5)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "same_game_multi_available": true,
             "visible": true,
@@ -7412,10 +7430,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Player Points O/U - Brady Tkachuk (0.5)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "visible": true,
             "entrant_ids": [
@@ -7431,10 +7449,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Player Assists O/U - Brady Tkachuk (0.5)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "visible": true,
             "entrant_ids": [
@@ -7450,10 +7468,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "3rd Period Ottawa Senators Total (0.5)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "same_game_multi_available": true,
             "visible": true,
@@ -7470,10 +7488,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Player Points O/U - Frank Nazar (0.5)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "visible": true,
             "entrant_ids": [
@@ -7489,10 +7507,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "3rd Period Chicago Blackhawks Total (1.5)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "same_game_multi_available": true,
             "visible": true,
@@ -7509,10 +7527,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "2nd Period Total (2)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "visible": true,
             "entrant_ids": [
@@ -7528,10 +7546,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Line (+1.5)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "same_game_multi_available": true,
             "comments": "If the Line market results in a refund, the whole SGM bet will be refunded.",
@@ -7549,10 +7567,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "2nd Period Chicago Blackhawks Total (1)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "visible": true,
             "entrant_ids": [
@@ -7568,15 +7586,36 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Player Assists O/U - Ridly Greig (0.5)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "visible": true,
             "entrant_ids": [
                 "92b94cb4-c6d7-4b70-9fec-f452010ff0a3",
                 "f1901bb5-8d05-43e2-aa70-b65ae44cb7e6"
+            ],
+            "num_winners": 1
+        },
+        "8db1cce8-f123-46d0-81b9-dbdbcc3cb624": {
+            "id": "8db1cce8-f123-46d0-81b9-dbdbcc3cb624",
+            "event_id": "00a8389c-5e20-49f3-9a04-a232ff19a117",
+            "market_type_id": "4862183b-d20e-44aa-af4b-361acb56b765",
+            "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
+            "name": "Line (-3.5)",
+            "advertised_start": {
+                "seconds": 1741221720
+            },
+            "actual_start": {
+                "seconds": 1741221720
+            },
+            "same_game_multi_available": true,
+            "comments": "If the Line market results in a refund, the whole SGM bet will be refunded.",
+            "visible": true,
+            "entrant_ids": [
+                "ca2d934b-c258-4daa-974c-41295e8213dc",
+                "61fa64a4-8b7c-4cab-84fa-783449c7690e"
             ],
             "num_winners": 1
         },
@@ -7587,10 +7626,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "2nd Period Head To Head",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "same_game_multi_available": true,
             "visible": true,
@@ -7607,10 +7646,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Player Shots O/U - Tyler Bertuzzi (1.5)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "visible": true,
             "entrant_ids": [
@@ -7626,10 +7665,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Highest Scoring Period",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "same_game_multi_available": true,
             "visible": true,
@@ -7647,10 +7686,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "1st Period Result and Over/Under 2.5 Goals",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "same_game_multi_available": true,
             "visible": true,
@@ -7671,10 +7710,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Line (-1.5)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "same_game_multi_available": true,
             "comments": "If the Line market results in a refund, the whole SGM bet will be refunded.",
@@ -7692,10 +7731,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Total (5)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "comments": "Includes Overtime. If the Total market results in a refund, the whole SGM bet will be refunded.",
             "visible": true,
@@ -7712,10 +7751,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Chicago Blackhawks Total (3.5)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "same_game_multi_available": true,
             "visible": true,
@@ -7732,10 +7771,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "1st Period Total (0.5)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "same_game_multi_available": true,
             "visible": true,
@@ -7752,10 +7791,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "1st Period Ottawa Senators Total (0.5)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "same_game_multi_available": true,
             "visible": true,
@@ -7772,10 +7811,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Ottawa Senators Total (3.5)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "same_game_multi_available": true,
             "visible": true,
@@ -7792,10 +7831,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "1st Period Chicago Blackhawks Total (0.5)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "same_game_multi_available": true,
             "visible": true,
@@ -7812,10 +7851,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Player Points O/U - Drake Batherson (0.5)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "visible": true,
             "entrant_ids": [
@@ -7831,10 +7870,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "1st Period Total (1)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "visible": true,
             "entrant_ids": [
@@ -7850,10 +7889,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Thomas Chabot (Ott) : Plus minus (0.5)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "visible": true,
             "entrant_ids": [
@@ -7869,10 +7908,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Total (8)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "comments": "Includes Overtime. If the Total market results in a refund, the whole SGM bet will be refunded.",
             "visible": true,
@@ -7889,10 +7928,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "1st Period Chicago Blackhawks Total (2)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "visible": true,
             "entrant_ids": [
@@ -7908,10 +7947,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "3rd Period Result and Over/Under 2.5",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "same_game_multi_available": true,
             "visible": true,
@@ -7932,10 +7971,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Drake Batherson (Ott) : Plus minus (0.5)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "visible": true,
             "entrant_ids": [
@@ -7951,10 +7990,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "1st Period Line (+1)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "visible": true,
             "entrant_ids": [
@@ -7970,10 +8009,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "3rd Period Line (-1)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "visible": true,
             "entrant_ids": [
@@ -7989,10 +8028,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "2nd Period Chicago Blackhawks Total (2.5)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "same_game_multi_available": true,
             "visible": true,
@@ -8009,10 +8048,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "3rd Period Correct Score",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "same_game_multi_available": true,
             "visible": true,
@@ -8044,10 +8083,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Player Assists O/U - David Perron (0.5)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "visible": true,
             "entrant_ids": [
@@ -8063,10 +8102,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Total (3.5)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "same_game_multi_available": true,
             "comments": "Includes Overtime. If the Total market results in a refund, the whole SGM bet will be refunded.",
@@ -8084,10 +8123,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Chicago Blackhawks Total (1)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "visible": true,
             "entrant_ids": [
@@ -8103,10 +8142,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "3rd Period Chicago Blackhawks Total (2)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "visible": true,
             "entrant_ids": [
@@ -8122,10 +8161,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Time of first goal",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "visible": true,
             "entrant_ids": [
@@ -8142,10 +8181,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "3rd Period Head To Head",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "same_game_multi_available": true,
             "visible": true,
@@ -8162,10 +8201,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Player Powerplay Points O/U - Josh Norris (0.5)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "visible": true,
             "entrant_ids": [
@@ -8181,10 +8220,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Player Powerplay Points O/U - Tim Stutzle (0.5)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "visible": true,
             "entrant_ids": [
@@ -8200,10 +8239,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Player Powerplay Points O/U - Tyler Bertuzzi (0.5)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "visible": true,
             "entrant_ids": [
@@ -8219,10 +8258,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "1st Period Line (-0.5)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "same_game_multi_available": true,
             "comments": "If the Line market results in a refund, the whole SGM bet will be refunded.",
@@ -8240,10 +8279,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Player Points O/U - Josh Norris (0.5)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "visible": true,
             "entrant_ids": [
@@ -8259,10 +8298,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Player Points O/U - Tyler Bertuzzi (0.5)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "visible": true,
             "entrant_ids": [
@@ -8278,10 +8317,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "1st Period Ottawa Senators Total (1)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "visible": true,
             "entrant_ids": [
@@ -8297,10 +8336,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Player Goals Against O/U - Linus Ullmark (2.5)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "visible": true,
             "entrant_ids": [
@@ -8316,10 +8355,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Ottawa Senators Total (4)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "visible": true,
             "entrant_ids": [
@@ -8335,10 +8374,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Race to 3 Goals",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "visible": true,
             "entrant_ids": [
@@ -8355,10 +8394,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "1st Period Chicago Blackhawks Total (1.5)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "same_game_multi_available": true,
             "visible": true,
@@ -8375,10 +8414,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Total (5.5)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "same_game_multi_available": true,
             "comments": "Includes Overtime. If the Total market results in a refund, the whole SGM bet will be refunded.",
@@ -8396,10 +8435,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Ottawa Senators Total (0.5)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "same_game_multi_available": true,
             "visible": true,
@@ -8416,10 +8455,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Match Result and Over/Under Goals (4.5)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "visible": true,
             "entrant_ids": [
@@ -8437,10 +8476,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "1st Period Total (1.5)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "same_game_multi_available": true,
             "visible": true,
@@ -8457,10 +8496,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Total (6.5)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "same_game_multi_available": true,
             "comments": "Includes Overtime. If the Total market results in a refund, the whole SGM bet will be refunded.",
@@ -8478,10 +8517,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "1st Period Line (+0.5)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "same_game_multi_available": true,
             "comments": "If the Line market results in a refund, the whole SGM bet will be refunded.",
@@ -8499,10 +8538,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "3rd Period Double Chance",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "same_game_multi_available": true,
             "is_multiple_outcome_market": true,
@@ -8521,10 +8560,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "3rd Period Line (+1.5)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "same_game_multi_available": true,
             "comments": "If the Line market results in a refund, the whole SGM bet will be refunded.",
@@ -8542,10 +8581,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Player Blocked Shots O/U - Alec Martinez (2.5)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "visible": true,
             "entrant_ids": [
@@ -8561,10 +8600,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Player Assists O/U - Tim Stutzle (0.5)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "visible": true,
             "entrant_ids": [
@@ -8580,10 +8619,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Player Shots O/U - Connor Bedard (2.5)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "visible": true,
             "entrant_ids": [
@@ -8599,10 +8638,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Player Shots O/U - David Perron (1.5)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "visible": true,
             "entrant_ids": [
@@ -8618,10 +8657,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Player Assists O/U - Drake Batherson (0.5)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "visible": true,
             "entrant_ids": [
@@ -8637,10 +8676,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "1st Period Betting (3-way)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "same_game_multi_available": true,
             "comments": "Resulted off of period score only (20 minutes)",
@@ -8659,10 +8698,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Josh Norris (Ott) : Plus minus (0.5)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "visible": true,
             "entrant_ids": [
@@ -8678,10 +8717,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Total (4)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "comments": "Includes Overtime. If the Total market results in a refund, the whole SGM bet will be refunded.",
             "visible": true,
@@ -8698,10 +8737,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "1st Period Correct Score",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "same_game_multi_available": true,
             "visible": true,
@@ -8733,10 +8772,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Player Shots O/U - Drake Batherson (2.5)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "visible": true,
             "entrant_ids": [
@@ -8752,10 +8791,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "3rd Period Total Goals Exact",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "same_game_multi_available": true,
             "visible": true,
@@ -8773,10 +8812,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "2nd Period Ottawa Senators Total (2)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "visible": true,
             "entrant_ids": [
@@ -8792,10 +8831,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "1st Period Double Chance",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "same_game_multi_available": true,
             "is_multiple_outcome_market": true,
@@ -8814,10 +8853,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Player Assists O/U - Teuvo Teravainen (0.5)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "visible": true,
             "entrant_ids": [
@@ -8833,10 +8872,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "2nd Period Line (+1.5)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "same_game_multi_available": true,
             "comments": "If the Line market results in a refund, the whole SGM bet will be refunded.",
@@ -8854,10 +8893,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Player Powerplay Points O/U - David Perron (0.5)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "visible": true,
             "entrant_ids": [
@@ -8873,10 +8912,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Brady Tkachuk (Ott) : Plus minus (0.5)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "visible": true,
             "entrant_ids": [
@@ -8892,10 +8931,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "2nd Period Ottawa Senators Total (2.5)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "same_game_multi_available": true,
             "visible": true,
@@ -8912,10 +8951,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "2nd Period Line (+0.5)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "same_game_multi_available": true,
             "comments": "If the Line market results in a refund, the whole SGM bet will be refunded.",
@@ -8933,10 +8972,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Player Points O/U - Teuvo Teravainen (0.5)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "visible": true,
             "entrant_ids": [
@@ -8952,10 +8991,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Player Points O/U - Ryan Donato (0.5)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "visible": true,
             "entrant_ids": [
@@ -8971,10 +9010,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Total Goals Exact (Regular Time only)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "same_game_multi_available": true,
             "visible": true,
@@ -9000,10 +9039,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "3rd Period Line (-0.5)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "same_game_multi_available": true,
             "comments": "If the Line market results in a refund, the whole SGM bet will be refunded.",
@@ -9021,10 +9060,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Player Powerplay Points O/U - Thomas Chabot (0.5)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "visible": true,
             "entrant_ids": [
@@ -9040,10 +9079,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Player Shots O/U - Ilya Mikheyev (1.5)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "visible": true,
             "entrant_ids": [
@@ -9059,10 +9098,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "2nd Period Total Goals Exact",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "same_game_multi_available": true,
             "visible": true,
@@ -9080,10 +9119,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Ottawa Senators Total (3)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "visible": true,
             "entrant_ids": [
@@ -9099,10 +9138,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Player Powerplay Points O/U - Ryan Donato (0.5)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "visible": true,
             "entrant_ids": [
@@ -9118,10 +9157,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Line (-2.5)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "same_game_multi_available": true,
             "comments": "If the Line market results in a refund, the whole SGM bet will be refunded.",
@@ -9139,10 +9178,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "3rd Period Ottawa Senators Total (1.5)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "same_game_multi_available": true,
             "visible": true,
@@ -9159,10 +9198,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Match Result and Over/Under Goals (6.5)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "visible": true,
             "entrant_ids": [
@@ -9180,10 +9219,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Winning Margin (Regular Time Only)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "same_game_multi_available": true,
             "visible": true,
@@ -9209,10 +9248,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Player Powerplay Points O/U - Drake Batherson (0.5)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "visible": true,
             "entrant_ids": [
@@ -9228,10 +9267,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Chicago Blackhawks Total (2.5)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "same_game_multi_available": true,
             "visible": true,
@@ -9248,10 +9287,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Ottawa Senators Total (1.5)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "same_game_multi_available": true,
             "visible": true,
@@ -9268,10 +9307,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "3rd Period Betting (3-way)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "same_game_multi_available": true,
             "comments": "Resulted off of period score only (20 minutes)",
@@ -9290,10 +9329,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Player Powerplay Points O/U - Connor Bedard (0.5)",
             "advertised_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "actual_start": {
-                "seconds": 1741221480
+                "seconds": 1741221720
             },
             "visible": true,
             "entrant_ids": [
@@ -9427,6 +9466,7 @@
         "8b94a762-1836-4ce3-bb03-e1223af94ffd": false,
         "8bbbe2ae-b07c-468e-a9b0-5eab15b96a9a": false,
         "8bdb5d85-0648-4ab1-b004-d53309978c93": false,
+        "8db1cce8-f123-46d0-81b9-dbdbcc3cb624": false,
         "8dbed581-238e-4980-8915-f5d2a7eebacf": false,
         "90056a59-4d14-4663-8ca1-f6efa0052baa": false,
         "903f9906-bc7f-4127-8797-a56a7fac88b3": true,
@@ -9995,8 +10035,8 @@
         },
         "1fb7d285-eb7e-4d40-aac1-7f92bb9517cb:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 16,
-                "denominator": 25
+                "numerator": 13,
+                "denominator": 20
             }
         },
         "1fb825db-d076-4075-9f30-b0b763ae8e3c:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -10049,8 +10089,8 @@
         },
         "228ae965-7029-425e-afbb-d4358e41c940:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 11,
-                "denominator": 10
+                "numerator": 21,
+                "denominator": 20
             }
         },
         "2291f9bf-64c9-440b-a56a-17c4dd8e3e7f:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -10523,8 +10563,8 @@
         },
         "453ef18d-899b-48bf-b1e1-adb5f8c43205:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 4,
-                "denominator": 1
+                "numerator": 21,
+                "denominator": 5
             }
         },
         "455a9775-b24c-4378-a953-7f983fa70e49:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -10589,8 +10629,8 @@
         },
         "48dcd93a-5707-4d9f-a128-9ce8cbf58905:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 7,
-                "denominator": 100
+                "numerator": 3,
+                "denominator": 50
             }
         },
         "4920d7c6-05c3-4d4f-a308-a42f8288c0da:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -10625,7 +10665,7 @@
         },
         "4b3c1cfe-623f-4795-aba0-bd2a98b9651a:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 28,
+                "numerator": 29,
                 "denominator": 5
             }
         },
@@ -10715,8 +10755,8 @@
         },
         "53fe3947-2249-44ec-bbbf-432713633f6f:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 8,
-                "denominator": 5
+                "numerator": 33,
+                "denominator": 20
             }
         },
         "5422ba4e-bf93-4f3d-a63f-bf8d835531cb:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -10787,7 +10827,7 @@
         },
         "5791ce95-f3a7-4a25-9be9-3d242aba6c56:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 18,
+                "numerator": 17,
                 "denominator": 5
             }
         },
@@ -10875,6 +10915,12 @@
                 "denominator": 2
             }
         },
+        "61fa64a4-8b7c-4cab-84fa-783449c7690e:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 1,
+                "denominator": 100
+            }
+        },
         "6335af32-971d-41f2-bbfa-dec7fb30a170:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
                 "numerator": 21,
@@ -10901,8 +10947,8 @@
         },
         "64312151-1b04-4c57-b36a-cde1ecf7d921:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 11,
-                "denominator": 50
+                "numerator": 1,
+                "denominator": 5
             }
         },
         "647933ce-c01f-4c40-be5b-7541fee4e73a:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -11369,8 +11415,8 @@
         },
         "87160b8c-3165-4cc6-8c97-9e92542da57e:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 23,
-                "denominator": 10
+                "numerator": 9,
+                "denominator": 4
             }
         },
         "877057fd-58a1-4b54-ac02-b6a6519b7341:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -11405,7 +11451,7 @@
         },
         "89a04b1b-8c48-47b6-a545-4ffad4744f8c:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 12,
+                "numerator": 13,
                 "denominator": 1
             }
         },
@@ -11489,8 +11535,8 @@
         },
         "8f0c3706-49f7-4b25-8985-2929b4d5d8c1:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 8,
-                "denominator": 5
+                "numerator": 33,
+                "denominator": 20
             }
         },
         "8f589790-973a-4878-8af7-3fd56d2f91d1:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -11507,8 +11553,8 @@
         },
         "910bb3f1-ab9c-4248-b60c-708f8e2d97d2:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 1,
-                "denominator": 2
+                "numerator": 12,
+                "denominator": 25
             }
         },
         "92649c32-84c6-4f96-9b0a-1847bda9b12e:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -11747,8 +11793,8 @@
         },
         "a313a0cf-0efc-4b59-8138-6018242d2748:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 13,
-                "denominator": 25
+                "numerator": 53,
+                "denominator": 100
             }
         },
         "a39e29ce-5191-4ebd-8b59-59a13d50174b:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -11789,8 +11835,8 @@
         },
         "a78d24b4-2def-4efa-b98e-dbbd985e21b4:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 6,
-                "denominator": 1
+                "numerator": 25,
+                "denominator": 4
             }
         },
         "a7a18f0d-bf3f-49be-98ce-5ef818e8534b:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -11927,8 +11973,8 @@
         },
         "b02920fd-1b7c-4fe4-8da7-c82eddf42627:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 10,
-                "denominator": 1
+                "numerator": 21,
+                "denominator": 2
             }
         },
         "b0e781fb-f1f6-49c8-a0c3-5069d996c7f8:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -12125,8 +12171,8 @@
         },
         "c00425cf-1730-4a92-9de0-4e9b7c0fc128:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 15,
-                "denominator": 2
+                "numerator": 31,
+                "denominator": 4
             }
         },
         "c060f287-5c1f-40f4-84fe-39929c7f616c:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -12251,14 +12297,14 @@
         },
         "c92d665c-b525-450a-9a37-05c7a8be3ef1:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 7,
-                "denominator": 5
+                "numerator": 27,
+                "denominator": 20
             }
         },
         "c97a115b-feb4-472d-a682-ab4a5308ee52:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 25,
-                "denominator": 4
+                "numerator": 6,
+                "denominator": 1
             }
         },
         "c999789d-b05b-4fba-89dd-cc00b9ff577a:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -12276,6 +12322,12 @@
         "ca096dd6-e554-4be1-b357-07a6b31ddd38:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
                 "numerator": 4,
+                "denominator": 1
+            }
+        },
+        "ca2d934b-c258-4daa-974c-41295e8213dc:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 20,
                 "denominator": 1
             }
         },
@@ -12341,8 +12393,8 @@
         },
         "cf43515f-c118-4b10-bc51-13570743db14:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 3,
-                "denominator": 10
+                "numerator": 8,
+                "denominator": 25
             }
         },
         "cf45e2cc-345a-4515-811c-c575c325f4d9:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -12395,8 +12447,8 @@
         },
         "d31431e2-3f07-4c3f-ba3f-d45111b8777e:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 41,
-                "denominator": 20
+                "numerator": 2,
+                "denominator": 1
             }
         },
         "d32829ce-218a-4101-bed9-9ff40051ef0b:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -12527,8 +12579,8 @@
         },
         "dc667c69-93fd-4d27-b1e0-bd6992161be6:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 23,
-                "denominator": 2
+                "numerator": 12,
+                "denominator": 1
             }
         },
         "dc9d504e-b3e3-40fe-8fa4-b6a18c8e3e2b:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -12923,8 +12975,8 @@
         },
         "f68ecd22-7bdb-44e5-9a59-968cf10d63c4:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 11,
-                "denominator": 2
+                "numerator": 27,
+                "denominator": 5
             }
         },
         "f7321676-f13a-4319-8870-6909cbfb2752:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -12935,8 +12987,8 @@
         },
         "f73fa151-d77b-44de-8f22-a84d2287bec1:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 10,
-                "denominator": 1
+                "numerator": 21,
+                "denominator": 2
             }
         },
         "f74331d3-c0aa-4d5a-906a-a32162c9667b:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -13043,8 +13095,8 @@
         },
         "fe35e925-a6e4-4f06-badb-ae5b4457b3a7:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 67,
-                "denominator": 100
+                "numerator": 17,
+                "denominator": 25
             }
         },
         "fe8ec747-38c9-4dda-b19d-6238e40da2b9:940b8704-e497-4a76-b390-00918ff7d282:": {
