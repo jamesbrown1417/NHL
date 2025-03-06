@@ -1,12 +1,12 @@
 home_team,away_team,player_name,line,over_price,over_agency,under_price,under_agency,market_name,match,margin
 Los Angeles Kings,St. Louis Blues,Adrian Kempe,0.5,1.5699999999999998,Neds,2.5,Bet365,Player Points,Los Angeles Kings v St. Louis Blues,-3.6942675159235883
-Vancouver Canucks,Anaheim Ducks,Brock Boeser,0.5,1.724,Pinnacle,2.17,Pinnacle,Player Points,Vancouver Canucks v Anaheim Ducks,-4.087589679985459
+Vancouver Canucks,Anaheim Ducks,Brock Boeser,0.5,1.719,Pinnacle,2.18,Pinnacle,Player Points,Vancouver Canucks v Anaheim Ducks,-4.0449162357034885
 Los Angeles Kings,St. Louis Blues,Adrian Kempe,0.5,1.558,Pinnacle,2.5,Bet365,Player Points,Los Angeles Kings v St. Louis Blues,-4.184852374839543
 Los Angeles Kings,St. Louis Blues,Kevin Fiala,0.5,1.555,Pinnacle,2.5,Bet365,Player Points,Los Angeles Kings v St. Louis Blues,-4.308681672025738
 Los Angeles Kings,St. Louis Blues,Kevin Fiala,0.5,1.55,Neds,2.5,Bet365,Player Points,Los Angeles Kings v St. Louis Blues,-4.516129032258065
-Vancouver Canucks,Anaheim Ducks,Brock Boeser,0.5,1.724,Pinnacle,2.15,Bet365,Player Points,Vancouver Canucks v Anaheim Ducks,-4.516268278206437
 Vegas Golden Knights,Toronto Maple Leafs,Auston Matthews,1.5,2.85,Bet365,1.44,Neds,Player Points,Vegas Golden Knights v Toronto Maple Leafs,-4.532163742690054
-Vancouver Canucks,Anaheim Ducks,Filip Hronek,0.5,2.29,Pinnacle,1.64,Bet365,Player Points,Vancouver Canucks v Anaheim Ducks,-4.64373202683992
+Vancouver Canucks,Anaheim Ducks,Brock Boeser,0.5,1.719,Pinnacle,2.15,Bet365,Player Points,Vancouver Canucks v Anaheim Ducks,-4.684984509652712
+Vancouver Canucks,Anaheim Ducks,Filip Hronek,0.5,2.28,Pinnacle,1.64,Bet365,Player Points,Vancouver Canucks v Anaheim Ducks,-4.835258878904591
 Los Angeles Kings,St. Louis Blues,Warren Foegele,0.5,2.25,Bet365,1.65,Neds,Player Points,Los Angeles Kings v St. Louis Blues,-5.050505050505061
 Vegas Golden Knights,Toronto Maple Leafs,John Tavares,0.5,1.675,Pinnacle,2.2,Bet365,Player Points,Vegas Golden Knights v Toronto Maple Leafs,-5.156037991858886
 Vegas Golden Knights,Toronto Maple Leafs,Auston Matthews,1.5,2.8,Pinnacle,1.44,Neds,Player Points,Vegas Golden Knights v Toronto Maple Leafs,-5.158730158730163
@@ -15,6 +15,8 @@ Los Angeles Kings,St. Louis Blues,Trevor Moore,0.5,2.3,Bet365,1.62,Neds,Player P
 Vegas Golden Knights,Toronto Maple Leafs,John Tavares,0.5,1.67,Neds,2.2,Bet365,Player Points,Vegas Golden Knights v Toronto Maple Leafs,-5.334784975503548
 Vegas Golden Knights,Toronto Maple Leafs,Noah Hanifin,0.5,2.15,Bet365,1.7,Neds,Player Points,Vegas Golden Knights v Toronto Maple Leafs,-5.335157318741457
 Los Angeles Kings,St. Louis Blues,Drew Doughty,0.5,2.15,Bet365,1.7,Neds,Player Points,Los Angeles Kings v St. Louis Blues,-5.335157318741457
+Vancouver Canucks,Anaheim Ducks,Brock Boeser,0.5,1.68,Bet365,2.18,Pinnacle,Player Points,Vancouver Canucks v Anaheim Ducks,-5.395369156837049
+Vancouver Canucks,Anaheim Ducks,Brock Boeser,0.5,1.6800000000000002,Neds,2.18,Pinnacle,Player Points,Vancouver Canucks v Anaheim Ducks,-5.395369156837049
 Vancouver Canucks,Anaheim Ducks,Filip Hronek,0.5,2.25,Bet365,1.64,Bet365,Player Points,Vancouver Canucks v Anaheim Ducks,-5.4200542005419905
 Vancouver Canucks,Anaheim Ducks,Jackson LaCombe,0.5,2.25,Bet365,1.64,Bet365,Player Points,Vancouver Canucks v Anaheim Ducks,-5.4200542005419905
 Los Angeles Kings,St. Louis Blues,Warren Foegele,0.5,2.25,Bet365,1.64,Bet365,Player Points,Los Angeles Kings v St. Louis Blues,-5.4200542005419905
@@ -27,8 +29,6 @@ Los Angeles Kings,St. Louis Blues,Robert Thomas,0.5,1.62,Bet365,2.28,Bet365,Play
 Vegas Golden Knights,Toronto Maple Leafs,Morgan Rielly,0.5,2.32,Bet365,1.6,Neds,Player Points,Vegas Golden Knights v Toronto Maple Leafs,-5.603448275862077
 Vancouver Canucks,Anaheim Ducks,Pius Suter,0.5,2.32,Bet365,1.6,Neds,Player Points,Vancouver Canucks v Anaheim Ducks,-5.603448275862077
 Vancouver Canucks,Anaheim Ducks,Trevor Zegras,0.5,2.32,Bet365,1.6,Neds,Player Points,Vancouver Canucks v Anaheim Ducks,-5.603448275862077
-Vancouver Canucks,Anaheim Ducks,Brock Boeser,0.5,1.68,Bet365,2.17,Pinnacle,Player Points,Vancouver Canucks v Anaheim Ducks,-5.606758832565273
-Vancouver Canucks,Anaheim Ducks,Brock Boeser,0.5,1.6800000000000002,Neds,2.17,Pinnacle,Player Points,Vancouver Canucks v Anaheim Ducks,-5.606758832565273
 Vegas Golden Knights,Toronto Maple Leafs,John Tavares,0.5,1.66,Bet365,2.2,Bet365,Player Points,Vegas Golden Knights v Toronto Maple Leafs,-5.6955093099671394
 Vegas Golden Knights,Toronto Maple Leafs,Alex Pietrangelo,0.5,2.5,Bet365,1.52,Neds,Player Points,Vegas Golden Knights v Toronto Maple Leafs,-5.789473684210522
 Los Angeles Kings,St. Louis Blues,Dylan Holloway,0.5,2.1,Bet365,1.719,Pinnacle,Player Points,Los Angeles Kings v St. Louis Blues,-5.792404221723579
@@ -64,6 +64,7 @@ Vegas Golden Knights,Toronto Maple Leafs,Noah Hanifin,0.5,2.14,Pinnacle,1.68,Bet
 Vegas Golden Knights,Toronto Maple Leafs,Alex Pietrangelo,0.5,2.47,Pinnacle,1.52,Neds,Player Points,Vegas Golden Knights v Toronto Maple Leafs,-6.275303643724706
 Los Angeles Kings,St. Louis Blues,Brayden Schenn,0.5,2.3,Bet365,1.591,Pinnacle,Player Points,Los Angeles Kings v St. Louis Blues,-6.331812095209477
 Los Angeles Kings,St. Louis Blues,Justin Faulk,0.5,3.1,Pinnacle,1.35,Neds,Player Points,Los Angeles Kings v St. Louis Blues,-6.332138590203096
+Vancouver Canucks,Anaheim Ducks,Jonathan Lekkerimaki,0.5,2.44,Pinnacle,1.53,Neds,Player Points,Vancouver Canucks v Anaheim Ducks,-6.343083681560069
 Vegas Golden Knights,Toronto Maple Leafs,Morgan Rielly,0.5,2.32,Bet365,1.581,Pinnacle,Player Points,Vegas Golden Knights v Toronto Maple Leafs,-6.354555170232734
 Vancouver Canucks,Anaheim Ducks,Pius Suter,0.5,2.32,Bet365,1.581,Pinnacle,Player Points,Vancouver Canucks v Anaheim Ducks,-6.354555170232734
 Vegas Golden Knights,Toronto Maple Leafs,William Nylander,0.5,1.55,Bet365,2.39,Pinnacle,Player Points,Vegas Golden Knights v Toronto Maple Leafs,-6.357133216358468
@@ -102,6 +103,7 @@ Vancouver Canucks,Anaheim Ducks,Leo Carlsson,0.5,2.42,Pinnacle,1.53,Neds,Player 
 Los Angeles Kings,St. Louis Blues,Pavel Buchnevich,0.5,1.9,Bet365,1.85,Neds,Player Points,Los Angeles Kings v St. Louis Blues,-6.685633001422464
 Los Angeles Kings,St. Louis Blues,Quinton Byfield,0.5,1.85,Neds,1.9,Bet365,Player Points,Los Angeles Kings v St. Louis Blues,-6.685633001422464
 Vancouver Canucks,Anaheim Ducks,Trevor Zegras,0.5,2.32,Bet365,1.571,Pinnacle,Player Points,Vancouver Canucks v Anaheim Ducks,-6.75717201870103
+Vancouver Canucks,Anaheim Ducks,Jonathan Lekkerimaki,0.5,2.44,Pinnacle,1.52,Bet365,Player Points,Vancouver Canucks v Anaheim Ducks,-6.773080241587581
 Vancouver Canucks,Anaheim Ducks,Troy Terry,0.5,1.9,Bet365,1.847,Pinnacle,Player Points,Vancouver Canucks v Anaheim Ducks,-6.773430598694885
 Los Angeles Kings,St. Louis Blues,Jordan Kyrou,0.5,1.9,Bet365,1.847,Pinnacle,Player Points,Los Angeles Kings v St. Louis Blues,-6.773430598694885
 Vancouver Canucks,Anaheim Ducks,Mason McTavish,0.5,2.22,Pinnacle,1.62,Bet365,Player Points,Vancouver Canucks v Anaheim Ducks,-6.773440106773432
@@ -109,7 +111,6 @@ Edmonton Oilers,Anaheim Ducks,John Klingberg,0.5,3.11,Sportsbet,1.34,Sportsbet,P
 Vegas Golden Knights,Toronto Maple Leafs,Brandon Saad,0.5,2.55,Bet365,1.48,Neds,Player Points,Vegas Golden Knights v Toronto Maple Leafs,-6.783253842077386
 Vancouver Canucks,Anaheim Ducks,Alex Killorn,0.5,2.55,Bet365,1.48,Neds,Player Points,Vancouver Canucks v Anaheim Ducks,-6.783253842077386
 Vegas Golden Knights,Toronto Maple Leafs,Mark Stone,0.5,1.48,Neds,2.55,Bet365,Player Points,Vegas Golden Knights v Toronto Maple Leafs,-6.783253842077386
-Vancouver Canucks,Anaheim Ducks,Brock Boeser,0.5,1.724,Pinnacle,2.05,Neds,Player Points,Vancouver Canucks v Anaheim Ducks,-6.785128176107746
 Vegas Golden Knights,Toronto Maple Leafs,Bobby McMann,0.5,2.75,Bet365,1.42,Bet365,Player Points,Vegas Golden Knights v Toronto Maple Leafs,-6.786171574903976
 Vegas Golden Knights,Toronto Maple Leafs,Brett Howden,0.5,2.75,Bet365,1.42,Bet365,Player Points,Vegas Golden Knights v Toronto Maple Leafs,-6.786171574903976
 Vegas Golden Knights,Toronto Maple Leafs,Max Domi,0.5,2.75,Bet365,1.42,Bet365,Player Points,Vegas Golden Knights v Toronto Maple Leafs,-6.786171574903976
@@ -135,6 +136,7 @@ Edmonton Oilers,Anaheim Ducks,Mason McTavish,0.5,2.25,Sportsbet,1.6,Sportsbet,Pl
 Edmonton Oilers,Anaheim Ducks,Trevor Zegras,0.5,2.27,Sportsbet,1.59,Sportsbet,Player Points,Edmonton Oilers v Anaheim Ducks,-6.945945197129633
 Colorado Avalanche,Pittsburgh Penguins,Matt Grzelcyk,0.5,2.9,Sportsbet,1.38,Sportsbet,Player Points,Colorado Avalanche v Pittsburgh Penguins,-6.946526736631697
 Los Angeles Kings,St. Louis Blues,Dylan Holloway,0.5,2.05,Pinnacle,1.719,Pinnacle,Player Points,Los Angeles Kings v St. Louis Blues,-6.953844407554022
+Vancouver Canucks,Anaheim Ducks,Brock Boeser,0.5,1.719,Pinnacle,2.05,Neds,Player Points,Vancouver Canucks v Anaheim Ducks,-6.953844407554022
 Vancouver Canucks,Anaheim Ducks,Leo Carlsson,0.5,2.45,Bet365,1.512,Pinnacle,Player Points,Vancouver Canucks v Anaheim Ducks,-6.953892668178385
 Los Angeles Kings,St. Louis Blues,Alex Laferriere,0.5,1.961,Pinnacle,1.787,Pinnacle,Player Points,Los Angeles Kings v St. Louis Blues,-6.954099626545274
 Seattle Kraken,Minnesota Wild,Brock Faber,0.5,2.23,Sportsbet,1.61,Sportsbet,Player Points,Seattle Kraken v Minnesota Wild,-6.954850569590287
@@ -150,7 +152,6 @@ Edmonton Oilers,Anaheim Ducks,Ryan Strome,0.5,2.31,Sportsbet,1.57,Sportsbet,Play
 Seattle Kraken,Minnesota Wild,Gustav Nyquist,0.5,2.31,Sportsbet,1.57,Sportsbet,Player Points,Seattle Kraken v Minnesota Wild,-6.984310805966842
 Los Angeles Kings,St. Louis Blues,Jordan Kyrou,0.5,1.892,Pinnacle,1.847,Pinnacle,Player Points,Los Angeles Kings v St. Louis Blues,-6.995974272890959
 Chicago Blackhawks,Ottawa Senators,Drake Batherson,0.5,1.684,Pinnacle,2.1,Pinnacle,Player Points,Chicago Blackhawks v Ottawa Senators,-7.0014704218979595
-Vancouver Canucks,Anaheim Ducks,Filip Chytil,0.5,1.869,Pinnacle,1.869,Pinnacle,Player Points,Vancouver Canucks v Anaheim Ducks,-7.009095773140728
 Colorado Avalanche,Pittsburgh Penguins,Evgeni Malkin,0.5,2.19,Sportsbet,1.63,Sportsbet,Player Points,Colorado Avalanche v Pittsburgh Penguins,-7.0117937081547455
 Los Angeles Kings,St. Louis Blues,Quinton Byfield,0.5,1.854,Pinnacle,1.884,Pinnacle,Player Points,Los Angeles Kings v St. Louis Blues,-7.015988841478915
 Los Angeles Kings,St. Louis Blues,Anze Kopitar,0.5,1.746,Pinnacle,2.01,Pinnacle,Player Points,Los Angeles Kings v St. Louis Blues,-7.025012395069341
@@ -170,7 +171,6 @@ Seattle Kraken,Minnesota Wild,Marcus Johansson,0.5,2.69,Sportsbet,1.43,Sportsbet
 Los Angeles Kings,St. Louis Blues,Drew Doughty,0.5,2.08,Pinnacle,1.694,Pinnacle,Player Points,Los Angeles Kings v St. Louis Blues,-7.108800290618467
 Chicago Blackhawks,Ottawa Senators,Claude Giroux,0.5,1.606,Pinnacle,2.23,Pinnacle,Player Points,Chicago Blackhawks v Ottawa Senators,-7.109549950019267
 Vegas Golden Knights,Toronto Maple Leafs,Ivan Barbashev,0.5,2.23,Pinnacle,1.606,Pinnacle,Player Points,Vegas Golden Knights v Toronto Maple Leafs,-7.109549950019267
-Vancouver Canucks,Anaheim Ducks,Elias Pettersson,0.5,1.751,Pinnacle,2,Bet365,Player Points,Vancouver Canucks v Anaheim Ducks,-7.110222729868654
 Vancouver Canucks,Anaheim Ducks,Leo Carlsson,0.5,2.42,Pinnacle,1.52,Bet365,Player Points,Vancouver Canucks v Anaheim Ducks,-7.1117877337973034
 Vegas Golden Knights,Toronto Maple Leafs,Alex Pietrangelo,0.5,2.5,Bet365,1.49,Pinnacle,Player Points,Vegas Golden Knights v Toronto Maple Leafs,-7.114093959731549
 Los Angeles Kings,St. Louis Blues,Quinton Byfield,0.5,1.85,Neds,1.884,Pinnacle,Player Points,Los Angeles Kings v St. Louis Blues,-7.132610317323684
@@ -197,6 +197,7 @@ Seattle Kraken,Minnesota Wild,Brandon Montour,0.5,2.39,Sportsbet,1.53,Sportsbet,
 Vancouver Canucks,Anaheim Ducks,Jackson LaCombe,0.5,2.19,Pinnacle,1.625,Pinnacle,Player Points,Vancouver Canucks v Anaheim Ducks,-7.200561995082544
 Vancouver Canucks,Anaheim Ducks,Jake DeBrusk,0.5,1.892,Pinnacle,1.84,Pinnacle,Player Points,Vancouver Canucks v Anaheim Ducks,-7.201948708521
 Vancouver Canucks,Anaheim Ducks,Conor Garland,0.5,1.862,Pinnacle,1.869,Pinnacle,Player Points,Vancouver Canucks v Anaheim Ducks,-7.21024069000753
+Vancouver Canucks,Anaheim Ducks,Filip Chytil,0.5,1.862,Pinnacle,1.869,Pinnacle,Player Points,Vancouver Canucks v Anaheim Ducks,-7.21024069000753
 Vegas Golden Knights,Toronto Maple Leafs,Pavel Dorofeyev,0.5,1.869,Pinnacle,1.862,Pinnacle,Player Points,Vegas Golden Knights v Toronto Maple Leafs,-7.21024069000753
 Los Angeles Kings,St. Louis Blues,Pavel Buchnevich,0.5,1.877,Pinnacle,1.854,Pinnacle,Player Points,Los Angeles Kings v St. Louis Blues,-7.213937639477264
 New York Rangers,Washington Capitals,Tom Wilson,0.5,1.847,Pinnacle,1.884,Pinnacle,Player Points,New York Rangers v Washington Capitals,-7.220407914596105
@@ -219,10 +220,10 @@ Vancouver Canucks,Anaheim Ducks,Ryan Strome,0.5,2.05,Pinnacle,1.71,Bet365,Player
 Vegas Golden Knights,Toronto Maple Leafs,Matthew Knies,0.5,1.934,Pinnacle,1.8,Bet365,Player Points,Vegas Golden Knights v Toronto Maple Leafs,-7.261863725152251
 Vancouver Canucks,Anaheim Ducks,Conor Garland,0.5,1.86,Bet365,1.869,Pinnacle,Player Points,Vancouver Canucks v Anaheim Ducks,-7.267988746785425
 Vancouver Canucks,Anaheim Ducks,Filip Chytil,0.5,1.86,Bet365,1.869,Pinnacle,Player Points,Vancouver Canucks v Anaheim Ducks,-7.267988746785425
-Vancouver Canucks,Anaheim Ducks,Filip Chytil,0.5,1.869,Pinnacle,1.86,Bet365,Player Points,Vancouver Canucks v Anaheim Ducks,-7.267988746785425
 Vegas Golden Knights,Toronto Maple Leafs,Pavel Dorofeyev,0.5,1.869,Pinnacle,1.86,Bet365,Player Points,Vegas Golden Knights v Toronto Maple Leafs,-7.267988746785425
 Colorado Avalanche,Pittsburgh Penguins,Casey Mittelstadt,0.5,2.16,Sportsbet,1.64,Sportsbet,Player Points,Colorado Avalanche v Pittsburgh Penguins,-7.271906052393851
 Vegas Golden Knights,Toronto Maple Leafs,John Tavares,0.5,1.67,Neds,2.11,Pinnacle,Player Points,Vegas Golden Knights v Toronto Maple Leafs,-7.273604449868043
+Vancouver Canucks,Anaheim Ducks,Elias Pettersson,0.5,1.746,Pinnacle,2,Bet365,Player Points,Vancouver Canucks v Anaheim Ducks,-7.273768613974796
 Vancouver Canucks,Anaheim Ducks,Jake DeBrusk,0.5,1.9,Bet365,1.83,Bet365,Player Points,Vancouver Canucks v Anaheim Ducks,-7.276387690537822
 Vancouver Canucks,Anaheim Ducks,Troy Terry,0.5,1.9,Bet365,1.83,Bet365,Player Points,Vancouver Canucks v Anaheim Ducks,-7.276387690537822
 Los Angeles Kings,St. Louis Blues,Jordan Kyrou,0.5,1.9,Bet365,1.83,Bet365,Player Points,Los Angeles Kings v St. Louis Blues,-7.276387690537822
@@ -249,7 +250,6 @@ Vancouver Canucks,Anaheim Ducks,Mason McTavish,0.5,2.22,Pinnacle,1.606,Pinnacle,
 Chicago Blackhawks,Ottawa Senators,Alex Vlasic,0.5,2.46,Pinnacle,1.5,Pinnacle,Player Points,Chicago Blackhawks v Ottawa Senators,-7.317073170731714
 New York Rangers,Washington Capitals,Alex Ovechkin,0.5,1.5,Pinnacle,2.46,Pinnacle,Player Points,New York Rangers v Washington Capitals,-7.317073170731714
 Vegas Golden Knights,Toronto Maple Leafs,John Tavares,0.5,1.675,Pinnacle,2.1,Neds,Player Points,Vegas Golden Knights v Toronto Maple Leafs,-7.320540156361055
-Vancouver Canucks,Anaheim Ducks,Filip Hronek,0.5,2.29,Pinnacle,1.571,Pinnacle,Player Points,Vancouver Canucks v Anaheim Ducks,-7.3218460135813235
 Vegas Golden Knights,Toronto Maple Leafs,William Nylander,0.5,1.523,Pinnacle,2.4,Bet365,Player Points,Vegas Golden Knights v Toronto Maple Leafs,-7.326548478879413
 Los Angeles Kings,St. Louis Blues,Pavel Buchnevich,0.5,1.877,Pinnacle,1.85,Neds,Player Points,Los Angeles Kings v St. Louis Blues,-7.330559115322011
 Los Angeles Kings,St. Louis Blues,Jordan Kyrou,0.5,1.88,Neds,1.847,Pinnacle,Player Points,Los Angeles Kings v St. Louis Blues,-7.333341013028605
@@ -280,12 +280,15 @@ Colorado Avalanche,Pittsburgh Penguins,Bryan Rust,0.5,1.78,Sportsbet,1.95,Sports
 Seattle Kraken,Minnesota Wild,Mats Zuccarello,0.5,1.78,Sportsbet,1.95,Sportsbet,Player Points,Seattle Kraken v Minnesota Wild,-7.461826562950158
 Vegas Golden Knights,Toronto Maple Leafs,Pavel Dorofeyev,0.5,1.86,Bet365,1.862,Pinnacle,Player Points,Vegas Golden Knights v Toronto Maple Leafs,-7.469133663652228
 Vancouver Canucks,Anaheim Ducks,Conor Garland,0.5,1.862,Pinnacle,1.86,Bet365,Player Points,Vancouver Canucks v Anaheim Ducks,-7.469133663652228
+Vancouver Canucks,Anaheim Ducks,Filip Chytil,0.5,1.862,Pinnacle,1.86,Bet365,Player Points,Vancouver Canucks v Anaheim Ducks,-7.469133663652228
 Los Angeles Kings,St. Louis Blues,Colton Parayko,0.5,2.9,Pinnacle,1.37,Bet365,Player Points,Los Angeles Kings v St. Louis Blues,-7.4754593506166644
+Vancouver Canucks,Anaheim Ducks,Jonathan Lekkerimaki,0.5,2.45,Bet365,1.5,Pinnacle,Player Points,Vancouver Canucks v Anaheim Ducks,-7.482993197278898
 Vegas Golden Knights,Toronto Maple Leafs,Max Domi,0.5,2.75,Bet365,1.406,Pinnacle,Player Points,Vegas Golden Knights v Toronto Maple Leafs,-7.487391697918033
 Los Angeles Kings,St. Louis Blues,Jordan Kyrou,0.5,1.892,Pinnacle,1.83,Bet365,Player Points,Los Angeles Kings v St. Louis Blues,-7.498931364733874
 Vancouver Canucks,Anaheim Ducks,Jake DeBrusk,0.5,1.892,Pinnacle,1.83,Bet365,Player Points,Vancouver Canucks v Anaheim Ducks,-7.498931364733874
 Vegas Golden Knights,Toronto Maple Leafs,John Tavares,0.5,1.67,Neds,2.1,Neds,Player Points,Vegas Golden Knights v Toronto Maple Leafs,-7.499287140005695
 Vegas Golden Knights,Toronto Maple Leafs,William Nylander,0.5,1.523,Pinnacle,2.39,Pinnacle,Player Points,Vegas Golden Knights v Toronto Maple Leafs,-7.500885996313156
+Vancouver Canucks,Anaheim Ducks,Filip Hronek,0.5,2.28,Pinnacle,1.571,Pinnacle,Player Points,Vancouver Canucks v Anaheim Ducks,-7.513372865645973
 Vancouver Canucks,Anaheim Ducks,Trevor Zegras,0.5,2.28,Pinnacle,1.571,Pinnacle,Player Points,Vancouver Canucks v Anaheim Ducks,-7.513372865645973
 Los Angeles Kings,St. Louis Blues,Robert Thomas,0.5,1.606,Pinnacle,2.21,Pinnacle,Player Points,Los Angeles Kings v St. Louis Blues,-7.5153694009455485
 Chicago Blackhawks,Ottawa Senators,Josh Norris,0.5,2.14,Pinnacle,1.645,Pinnacle,Player Points,Chicago Blackhawks v Ottawa Senators,-7.519245518847817
@@ -301,7 +304,6 @@ Los Angeles Kings,St. Louis Blues,Anze Kopitar,0.5,1.73,Neds,2.01,Pinnacle,Playe
 Edmonton Oilers,Anaheim Ducks,Leon Draisaitl,1.5,1.83,Sportsbet,1.89,Sportsbet,Player Points,Edmonton Oilers v Anaheim Ducks,-7.5548616532223
 Vancouver Canucks,Anaheim Ducks,Conor Garland,0.5,1.85,Neds,1.869,Pinnacle,Player Points,Vancouver Canucks v Anaheim Ducks,-7.55860194062441
 Vancouver Canucks,Anaheim Ducks,Filip Chytil,0.5,1.85,Neds,1.869,Pinnacle,Player Points,Vancouver Canucks v Anaheim Ducks,-7.55860194062441
-Vancouver Canucks,Anaheim Ducks,Filip Chytil,0.5,1.869,Pinnacle,1.85,Neds,Player Points,Vancouver Canucks v Anaheim Ducks,-7.55860194062441
 Vegas Golden Knights,Toronto Maple Leafs,Pavel Dorofeyev,0.5,1.869,Pinnacle,1.85,Neds,Player Points,Vegas Golden Knights v Toronto Maple Leafs,-7.55860194062441
 Los Angeles Kings,St. Louis Blues,Warren Foegele,0.5,2.18,Pinnacle,1.621,Pinnacle,Player Points,Los Angeles Kings v St. Louis Blues,-7.561874253632084
 Vancouver Canucks,Anaheim Ducks,Alex Killorn,0.5,2.5,Neds,1.48,Neds,Player Points,Vancouver Canucks v Anaheim Ducks,-7.567567567567579
@@ -315,10 +317,10 @@ Los Angeles Kings,St. Louis Blues,Drew Doughty,0.5,2.05,Neds,1.7,Neds,Player Poi
 Vegas Golden Knights,Toronto Maple Leafs,Noah Hanifin,0.5,2.05,Neds,1.7,Neds,Player Points,Vegas Golden Knights v Toronto Maple Leafs,-7.604017216642767
 Los Angeles Kings,St. Louis Blues,Dylan Holloway,0.5,2.05,Pinnacle,1.7,Neds,Player Points,Los Angeles Kings v St. Louis Blues,-7.604017216642767
 Vancouver Canucks,Anaheim Ducks,Ryan Strome,0.5,2.05,Pinnacle,1.7,Neds,Player Points,Vancouver Canucks v Anaheim Ducks,-7.604017216642767
-Vancouver Canucks,Anaheim Ducks,Jonathan Lekkerimaki,0.5,2.45,Bet365,1.497,Pinnacle,Player Points,Vancouver Canucks v Anaheim Ducks,-7.616593731681043
 Vegas Golden Knights,Toronto Maple Leafs,John Tavares,0.5,1.66,Bet365,2.11,Pinnacle,Player Points,Vegas Golden Knights v Toronto Maple Leafs,-7.634328784331634
 Los Angeles Kings,St. Louis Blues,Alex Laferriere,0.5,1.92,Neds,1.8,Bet365,Player Points,Los Angeles Kings v St. Louis Blues,-7.638888888888884
 Vegas Golden Knights,Toronto Maple Leafs,Matthew Knies,0.5,1.92,Neds,1.8,Bet365,Player Points,Vegas Golden Knights v Toronto Maple Leafs,-7.638888888888884
+Vancouver Canucks,Anaheim Ducks,Jonathan Lekkerimaki,0.5,2.44,Pinnacle,1.5,Pinnacle,Player Points,Vancouver Canucks v Anaheim Ducks,-7.650273224043724
 Vegas Golden Knights,Toronto Maple Leafs,Jack Eichel,1.5,2.7,Bet365,1.416,Pinnacle,Player Points,Vegas Golden Knights v Toronto Maple Leafs,-7.6585059635907005
 New York Rangers,Washington Capitals,Jakob Chychrun,0.5,2.52,Pinnacle,1.471,Pinnacle,Player Points,New York Rangers v Washington Capitals,-7.663505012247351
 New York Rangers,Washington Capitals,J.T. Miller,0.5,1.54,Pinnacle,2.34,Pinnacle,Player Points,New York Rangers v Washington Capitals,-7.670107670107673
@@ -329,6 +331,7 @@ New York Rangers,Washington Capitals,Aliaksei Protas,0.5,2.13,Pinnacle,1.645,Pin
 Los Angeles Kings,St. Louis Blues,Jake Neighbours,0.5,2.5,Bet365,1.476,Pinnacle,Player Points,Los Angeles Kings v St. Louis Blues,-7.750677506775072
 Vegas Golden Knights,Toronto Maple Leafs,Pavel Dorofeyev,0.5,1.85,Neds,1.862,Pinnacle,Player Points,Vegas Golden Knights v Toronto Maple Leafs,-7.759746857491212
 Vancouver Canucks,Anaheim Ducks,Conor Garland,0.5,1.862,Pinnacle,1.85,Neds,Player Points,Vancouver Canucks v Anaheim Ducks,-7.759746857491212
+Vancouver Canucks,Anaheim Ducks,Filip Chytil,0.5,1.862,Pinnacle,1.85,Neds,Player Points,Vancouver Canucks v Anaheim Ducks,-7.759746857491212
 Los Angeles Kings,St. Louis Blues,Anze Kopitar,0.5,1.746,Pinnacle,1.98,Neds,Player Points,Los Angeles Kings v St. Louis Blues,-7.778819119025293
 Los Angeles Kings,St. Louis Blues,Kevin Fiala,0.5,1.555,Pinnacle,2.3,Neds,Player Points,Los Angeles Kings v St. Louis Blues,-7.7869425415909355
 Los Angeles Kings,St. Louis Blues,Cam Fowler,0.5,2.75,Neds,1.4,Bet365,Player Points,Los Angeles Kings v St. Louis Blues,-7.792207792207795
@@ -457,8 +460,8 @@ Vancouver Canucks,Anaheim Ducks,Trevor Zegras,0.5,2.2,Neds,1.571,Pinnacle,Player
 Vegas Golden Knights,Toronto Maple Leafs,William Nylander,0.5,1.523,Pinnacle,2.3,Neds,Player Points,Vegas Golden Knights v Toronto Maple Leafs,-9.13814268177795
 Vancouver Canucks,Anaheim Ducks,Jackson LaCombe,0.5,2.1,Neds,1.625,Pinnacle,Player Points,Vancouver Canucks v Anaheim Ducks,-9.15750915750917
 Los Angeles Kings,St. Louis Blues,Trevor Moore,0.5,2.15,Neds,1.595,Pinnacle,Player Points,Los Angeles Kings v St. Louis Blues,-9.207552671867036
+Vancouver Canucks,Anaheim Ducks,Jonathan Lekkerimaki,0.5,2.35,Neds,1.5,Pinnacle,Player Points,Vancouver Canucks v Anaheim Ducks,-9.219858156028371
 Los Angeles Kings,St. Louis Blues,Warren Foegele,0.5,2.1,Neds,1.621,Pinnacle,Player Points,Los Angeles Kings v St. Louis Blues,-9.309362239652197
-Vancouver Canucks,Anaheim Ducks,Jonathan Lekkerimaki,0.5,2.35,Neds,1.497,Pinnacle,Player Points,Vancouver Canucks v Anaheim Ducks,-9.353458690430493
 Los Angeles Kings,St. Louis Blues,Kevin Fiala,0.5,1.5,Bet365,2.34,Pinnacle,Player Points,Los Angeles Kings v St. Louis Blues,-9.401709401709413
 Los Angeles Kings,St. Louis Blues,Jake Neighbours,0.5,2.4,Neds,1.476,Pinnacle,Player Points,Los Angeles Kings v St. Louis Blues,-9.417344173441734
 Los Angeles Kings,St. Louis Blues,Justin Faulk,0.5,3,Neds,1.313,Pinnacle,Player Points,Los Angeles Kings v St. Louis Blues,-9.494795633409492
