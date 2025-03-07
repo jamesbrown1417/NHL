@@ -191,8 +191,8 @@ id,name,rot_num,line_id,price,handicap,selection,home_team,away_team
 1605655586,Under,25,4801088132,1.222,0.5,Juraj Slafkovsky (Goals),Edmonton Oilers,Montreal Canadiens
 1605655571,Under,25,4801070512,1.4,0.5,Cole Caufield (Goals),Edmonton Oilers,Montreal Canadiens
 1605655570,Over,24,4801070511,2.7,0.5,Cole Caufield (Goals),Edmonton Oilers,Montreal Canadiens
-1605655558,Over,24,4799547082,4.51,0.5,Evan Bouchard (Goals),Edmonton Oilers,Montreal Canadiens
-1605655559,Under,25,4799547083,1.146,0.5,Evan Bouchard (Goals),Edmonton Oilers,Montreal Canadiens
+1605655558,Over,24,4801136126,4.5,0.5,Evan Bouchard (Goals),Edmonton Oilers,Montreal Canadiens
+1605655559,Under,25,4801136127,1.173,0.5,Evan Bouchard (Goals),Edmonton Oilers,Montreal Canadiens
 1605655459,Over,24,4799653265,4.77,0.5,Brendan Gallagher (Goals),Edmonton Oilers,Montreal Canadiens
 1605655460,Under,25,4799653266,1.129,0.5,Brendan Gallagher (Goals),Edmonton Oilers,Montreal Canadiens
 1605655465,Over,24,4800359343,3.57,0.5,Ryan Nugent-Hopkins (Goals),Edmonton Oilers,Montreal Canadiens
@@ -201,14 +201,14 @@ id,name,rot_num,line_id,price,handicap,selection,home_team,away_team
 1605655451,Under,25,4801116285,1.434,0.5,Zach Hyman (Goals),Edmonton Oilers,Montreal Canadiens
 1605655546,Over,24,4799653279,3.24,0.5,Nick Suzuki (Goals),Edmonton Oilers,Montreal Canadiens
 1605655547,Under,25,4799653280,1.286,0.5,Nick Suzuki (Goals),Edmonton Oilers,Montreal Canadiens
-1605655522,Over,24,4801083735,2.26,0.5,Connor McDavid (Goals),Edmonton Oilers,Montreal Canadiens
-1605655523,Under,25,4801083736,1.588,0.5,Connor McDavid (Goals),Edmonton Oilers,Montreal Canadiens
+1605655522,Over,24,4801132390,2.25,0.5,Connor McDavid (Goals),Edmonton Oilers,Montreal Canadiens
+1605655523,Under,25,4801132391,1.588,0.5,Connor McDavid (Goals),Edmonton Oilers,Montreal Canadiens
 1605655534,Over,24,4801072513,3.6,0.5,Patrik Laine (Goals),Edmonton Oilers,Montreal Canadiens
 1605655535,Under,25,4801072515,1.256,0.5,Patrik Laine (Goals),Edmonton Oilers,Montreal Canadiens
-1605655510,Over,24,4801020204,4.4,0.5,Viktor Arvidsson (Goals),Edmonton Oilers,Montreal Canadiens
-1605655511,Under,25,4801020205,1.181,0.5,Viktor Arvidsson (Goals),Edmonton Oilers,Montreal Canadiens
-1605655498,Over,24,4801116167,1.847,0.5,Leon Draisaitl (Goals),Edmonton Oilers,Montreal Canadiens
-1605655499,Under,25,4801116168,1.877,0.5,Leon Draisaitl (Goals),Edmonton Oilers,Montreal Canadiens
+1605655510,Over,24,4801121630,4.3,0.5,Viktor Arvidsson (Goals),Edmonton Oilers,Montreal Canadiens
+1605655511,Under,25,4801121631,1.181,0.5,Viktor Arvidsson (Goals),Edmonton Oilers,Montreal Canadiens
+1605655498,Over,24,4801133039,1.833,0.5,Leon Draisaitl (Goals),Edmonton Oilers,Montreal Canadiens
+1605655499,Under,25,4801133040,1.9,0.5,Leon Draisaitl (Goals),Edmonton Oilers,Montreal Canadiens
 1605655741,Over,26,4801081917,4.6,0.5,William Eklund (Goals),Colorado Avalanche,San Jose Sharks
 1605655742,Under,27,4801081918,1.166,0.5,William Eklund (Goals),Colorado Avalanche,San Jose Sharks
 1605655714,Over,26,4801085799,3.0,0.5,Cale Makar (Goals),Colorado Avalanche,San Jose Sharks
@@ -223,10 +223,10 @@ id,name,rot_num,line_id,price,handicap,selection,home_team,away_team
 1605655766,Under,27,4801036191,1.287,0.5,Macklin Celebrini (Goals),Colorado Avalanche,San Jose Sharks
 1605655753,Over,26,4801024640,4.5,0.5,Will Smith (Goals),Colorado Avalanche,San Jose Sharks
 1605655754,Under,27,4801024641,1.146,0.5,Will Smith (Goals),Colorado Avalanche,San Jose Sharks
-1605655603,Over,26,4801086894,3.4,0.5,Tyler Toffoli (Goals),Colorado Avalanche,San Jose Sharks
-1605655604,Under,27,4801086895,1.277,0.5,Tyler Toffoli (Goals),Colorado Avalanche,San Jose Sharks
-1605655663,Over,26,4800780331,2.49,0.5,Artturi Lehkonen (Goals),Colorado Avalanche,San Jose Sharks
-1605655664,Under,27,4800780332,1.555,0.5,Artturi Lehkonen (Goals),Colorado Avalanche,San Jose Sharks
+1605655603,Over,26,4801167310,3.3,0.5,Tyler Toffoli (Goals),Colorado Avalanche,San Jose Sharks
+1605655604,Under,27,4801167311,1.285,0.5,Tyler Toffoli (Goals),Colorado Avalanche,San Jose Sharks
+1605655664,Under,27,4801168607,1.558,0.5,Artturi Lehkonen (Goals),Colorado Avalanche,San Jose Sharks
+1605655663,Over,26,4801168606,2.49,0.5,Artturi Lehkonen (Goals),Colorado Avalanche,San Jose Sharks
 1605655657,Over,26,4800635185,4.32,0.5,Ross Colton (Goals),Colorado Avalanche,San Jose Sharks
 1605655658,Under,27,4800635186,1.188,0.5,Ross Colton (Goals),Colorado Avalanche,San Jose Sharks
 1605655639,Over,26,4800885676,2.46,0.5,Valeri Nichushkin (Goals),Colorado Avalanche,San Jose Sharks
@@ -235,3 +235,83 @@ id,name,rot_num,line_id,price,handicap,selection,home_team,away_team
 1605655619,Under,27,4800897284,1.847,0.5,Nathan MacKinnon (Goals),Colorado Avalanche,San Jose Sharks
 1605655627,Over,26,4800565866,3.93,0.5,Jonathan Drouin (Goals),Colorado Avalanche,San Jose Sharks
 1605655628,Under,27,4800565867,1.266,0.5,Jonathan Drouin (Goals),Colorado Avalanche,San Jose Sharks
+1605713335,Over,38,4801131861,3.42,0.5,Dylan Holloway (Goals),Anaheim Ducks,St. Louis Blues
+1605713336,Under,39,4801131862,1.257,0.5,Dylan Holloway (Goals),Anaheim Ducks,St. Louis Blues
+1605713344,Over,38,4801131889,4.1,0.5,Jake Neighbours (Goals),Anaheim Ducks,St. Louis Blues
+1605713345,Under,39,4801131890,1.177,0.5,Jake Neighbours (Goals),Anaheim Ducks,St. Louis Blues
+1605713324,Under,39,4801131830,1.194,0.5,Trevor Zegras (Goals),Anaheim Ducks,St. Louis Blues
+1605713323,Over,38,4801131829,3.93,0.5,Trevor Zegras (Goals),Anaheim Ducks,St. Louis Blues
+1605713299,Over,38,4801131763,3.18,0.5,Robert Thomas (Goals),Anaheim Ducks,St. Louis Blues
+1605713300,Under,39,4801131764,1.297,0.5,Robert Thomas (Goals),Anaheim Ducks,St. Louis Blues
+1605713311,Over,38,4801131797,3.6,0.5,Troy Terry (Goals),Anaheim Ducks,St. Louis Blues
+1605713312,Under,39,4801131798,1.232,0.5,Troy Terry (Goals),Anaheim Ducks,St. Louis Blues
+1605713287,Over,38,4801131731,3.63,0.5,Pavel Buchnevich (Goals),Anaheim Ducks,St. Louis Blues
+1605713288,Under,39,4801131732,1.229,0.5,Pavel Buchnevich (Goals),Anaheim Ducks,St. Louis Blues
+1605713386,Over,38,4801131995,4.79,0.5,Leo Carlsson (Goals),Anaheim Ducks,St. Louis Blues
+1605713387,Under,39,4801131996,1.128,0.5,Leo Carlsson (Goals),Anaheim Ducks,St. Louis Blues
+1605713368,Over,38,4801131967,4.83,0.5,Zack Bolduc (Goals),Anaheim Ducks,St. Louis Blues
+1605713369,Under,39,4801131968,1.126,0.5,Zack Bolduc (Goals),Anaheim Ducks,St. Louis Blues
+1605712849,Over,40,4801129912,4.69,0.5,Evgeni Malkin (Goals),Vegas Golden Knights,Pittsburgh Penguins
+1605712850,Under,41,4801129913,1.134,0.5,Evgeni Malkin (Goals),Vegas Golden Knights,Pittsburgh Penguins
+1605713374,Over,38,4801131990,4.82,0.5,Cutter Gauthier (Goals),Anaheim Ducks,St. Louis Blues
+1605713375,Under,39,4801131992,1.126,0.5,Cutter Gauthier (Goals),Anaheim Ducks,St. Louis Blues
+1605712861,Over,40,4801129946,3.27,0.5,Sidney Crosby (Goals),Vegas Golden Knights,Pittsburgh Penguins
+1605712862,Under,41,4801129947,1.281,0.5,Sidney Crosby (Goals),Vegas Golden Knights,Pittsburgh Penguins
+1605713359,Over,38,4801131945,3.62,0.5,Mason McTavish (Goals),Anaheim Ducks,St. Louis Blues
+1605713360,Under,39,4801131946,1.23,0.5,Mason McTavish (Goals),Anaheim Ducks,St. Louis Blues
+1605713209,Over,38,4801131486,4.53,0.5,Alex Killorn (Goals),Anaheim Ducks,St. Louis Blues
+1605713210,Under,39,4801131487,1.144,0.5,Alex Killorn (Goals),Anaheim Ducks,St. Louis Blues
+1605713191,Over,36,4801130678,2.73,0.5,Matt Boldy (Goals),Vancouver Canucks,Minnesota Wild
+1605713192,Under,37,4801130679,1.404,0.5,Matt Boldy (Goals),Vancouver Canucks,Minnesota Wild
+1605713170,Over,36,4801130640,3.98,0.5,Marco Rossi (Goals),Vancouver Canucks,Minnesota Wild
+1605713171,Under,37,4801130641,1.189,0.5,Marco Rossi (Goals),Vancouver Canucks,Minnesota Wild
+1605713275,Over,38,4801131695,3.0,0.5,Jordan Kyrou (Goals),Anaheim Ducks,St. Louis Blues
+1605713276,Under,39,4801131696,1.333,0.5,Jordan Kyrou (Goals),Anaheim Ducks,St. Louis Blues
+1605713263,Over,38,4801131657,2.95,0.5,Frank Vatrano (Goals),Anaheim Ducks,St. Louis Blues
+1605713264,Under,39,4801131658,1.346,0.5,Frank Vatrano (Goals),Anaheim Ducks,St. Louis Blues
+1605713248,Over,38,4801131621,4.23,0.5,Ryan Strome (Goals),Anaheim Ducks,St. Louis Blues
+1605713249,Under,39,4801131622,1.167,0.5,Ryan Strome (Goals),Anaheim Ducks,St. Louis Blues
+1605713221,Over,38,4801131518,4.25,0.5,Brayden Schenn (Goals),Anaheim Ducks,St. Louis Blues
+1605713222,Under,39,4801131519,1.165,0.5,Brayden Schenn (Goals),Anaheim Ducks,St. Louis Blues
+1605713077,Over,36,4801130466,5.01,0.5,Ryan Hartman (Goals),Vancouver Canucks,Minnesota Wild
+1605713078,Under,37,4801130467,1.116,0.5,Ryan Hartman (Goals),Vancouver Canucks,Minnesota Wild
+1605713080,Over,36,4801130472,4.71,0.5,Frederick Gaudreau (Goals),Vancouver Canucks,Minnesota Wild
+1605713081,Under,37,4801130473,1.132,0.5,Frederick Gaudreau (Goals),Vancouver Canucks,Minnesota Wild
+1605713059,Over,36,4801130430,4.12,0.5,Mats Zuccarello (Goals),Vancouver Canucks,Minnesota Wild
+1605713060,Under,37,4801130431,1.176,0.5,Mats Zuccarello (Goals),Vancouver Canucks,Minnesota Wild
+1605713071,Over,36,4801130454,4.76,0.5,Vinnie Hinostroza (Goals),Vancouver Canucks,Minnesota Wild
+1605713072,Under,37,4801130455,1.13,0.5,Vinnie Hinostroza (Goals),Vancouver Canucks,Minnesota Wild
+1605713137,Over,36,4801130586,3.91,0.5,Filip Chytil (Goals),Vancouver Canucks,Minnesota Wild
+1605713138,Under,37,4801130587,1.196,0.5,Filip Chytil (Goals),Vancouver Canucks,Minnesota Wild
+1605713149,Over,36,4801130610,3.8,0.5,Elias Pettersson (Goals),Vancouver Canucks,Minnesota Wild
+1605713150,Under,37,4801130611,1.208,0.5,Elias Pettersson (Goals),Vancouver Canucks,Minnesota Wild
+1605713125,Over,36,4801130562,4.35,0.5,Pius Suter (Goals),Vancouver Canucks,Minnesota Wild
+1605713126,Under,37,4801130563,1.157,0.5,Pius Suter (Goals),Vancouver Canucks,Minnesota Wild
+1605713116,Over,36,4801130544,3.27,0.5,Brock Boeser (Goals),Vancouver Canucks,Minnesota Wild
+1605713117,Under,37,4801130545,1.282,0.5,Brock Boeser (Goals),Vancouver Canucks,Minnesota Wild
+1605713092,Over,36,4801130496,3.43,0.5,Jake DeBrusk (Goals),Vancouver Canucks,Minnesota Wild
+1605713093,Under,37,4801130497,1.256,0.5,Jake DeBrusk (Goals),Vancouver Canucks,Minnesota Wild
+1605713104,Over,36,4801130520,3.49,0.5,Conor Garland (Goals),Vancouver Canucks,Minnesota Wild
+1605713105,Under,37,4801130521,1.247,0.5,Conor Garland (Goals),Vancouver Canucks,Minnesota Wild
+1605712948,Over,40,4801130176,5.06,0.5,Tanner Pearson (Goals),Vegas Golden Knights,Pittsburgh Penguins
+1605712949,Under,41,4801130177,1.114,0.5,Tanner Pearson (Goals),Vegas Golden Knights,Pittsburgh Penguins
+1605712954,Over,40,4801130192,2.71,0.5,Tomas Hertl (Goals),Vegas Golden Knights,Pittsburgh Penguins
+1605712955,Under,41,4801130193,1.409,0.5,Tomas Hertl (Goals),Vegas Golden Knights,Pittsburgh Penguins
+1605712939,Over,40,4801130152,3.08,0.5,Rickard Rakell (Goals),Vegas Golden Knights,Pittsburgh Penguins
+1605712940,Under,41,4801130153,1.317,0.5,Rickard Rakell (Goals),Vegas Golden Knights,Pittsburgh Penguins
+1605712918,Over,40,4801130094,3.13,0.5,Mark Stone (Goals),Vegas Golden Knights,Pittsburgh Penguins
+1605712919,Under,41,4801130095,1.306,0.5,Mark Stone (Goals),Vegas Golden Knights,Pittsburgh Penguins
+1605712928,Under,41,4801130119,1.152,0.5,Brandon Saad (Goals),Vegas Golden Knights,Pittsburgh Penguins
+1605712927,Over,40,4801130118,4.42,0.5,Brandon Saad (Goals),Vegas Golden Knights,Pittsburgh Penguins
+1605712906,Over,40,4801130064,3.27,0.5,Bryan Rust (Goals),Vegas Golden Knights,Pittsburgh Penguins
+1605712907,Under,41,4801130065,1.282,0.5,Bryan Rust (Goals),Vegas Golden Knights,Pittsburgh Penguins
+1605713011,Over,40,4801130346,5.11,0.5,Brett Howden (Goals),Vegas Golden Knights,Pittsburgh Penguins
+1605713012,Under,41,4801130347,1.111,0.5,Brett Howden (Goals),Vegas Golden Knights,Pittsburgh Penguins
+1605713024,Under,41,4801130369,1.384,0.5,Pavel Dorofeyev (Goals),Vegas Golden Knights,Pittsburgh Penguins
+1605713023,Over,40,4801130368,2.79,0.5,Pavel Dorofeyev (Goals),Vegas Golden Knights,Pittsburgh Penguins
+1605713017,Over,40,4801130358,4.85,0.5,Victor Olofsson (Goals),Vegas Golden Knights,Pittsburgh Penguins
+1605713018,Under,41,4801130359,1.125,0.5,Victor Olofsson (Goals),Vegas Golden Knights,Pittsburgh Penguins
+1605712987,Over,40,4801130284,2.39,0.5,Jack Eichel (Goals),Vegas Golden Knights,Pittsburgh Penguins
+1605712988,Under,41,4801130285,1.523,0.5,Jack Eichel (Goals),Vegas Golden Knights,Pittsburgh Penguins
+1605712963,Over,40,4801130220,3.81,0.5,Ivan Barbashev (Goals),Vegas Golden Knights,Pittsburgh Penguins
+1605712964,Under,41,4801130221,1.207,0.5,Ivan Barbashev (Goals),Vegas Golden Knights,Pittsburgh Penguins
