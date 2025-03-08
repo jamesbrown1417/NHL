@@ -1,346 +1,181 @@
 home_team,away_team,player_name,line,over_price,over_agency,under_price,under_agency,market_name,match,margin
-Tampa Bay Lightning,Boston Bruins,Brayden Point,2.5,2.2,Bet365,1.847,Pinnacle,Player Shots on Goal,Tampa Bay Lightning v Boston Bruins,0.4036028941280634
-Colorado Avalanche,Toronto Maple Leafs,John Tavares,2.5,2.45,Bet365,1.675,Pinnacle,Player Shots on Goal,Colorado Avalanche v Toronto Maple Leafs,-0.5178190679256733
-Calgary Flames,Montreal Canadiens,Blake Coleman,2.5,2.4,Bet365,1.694,Pinnacle,Player Shots on Goal,Calgary Flames v Montreal Canadiens,-0.698543880362057
-Edmonton Oilers,Dallas Stars,Jason Robertson,2.5,1.917,Pinnacle,2.05,Bet365,Player Shots on Goal,Edmonton Oilers v Dallas Stars,-0.9453287021133239
-Philadelphia Flyers,Seattle Kraken,Travis Konecny,2.5,2.28,Bet365,1.746,Pinnacle,Player Shots on Goal,Philadelphia Flyers v Seattle Kraken,-1.1334177367818166
-Tampa Bay Lightning,Boston Bruins,Brayden Point,2.5,2.1,Neds,1.847,Pinnacle,Player Shots on Goal,Tampa Bay Lightning v Boston Bruins,-1.7608992703741055
-Philadelphia Flyers,Seattle Kraken,Eeli Tolvanen,1.5,1.917,Pinnacle,2,Bet365,Player Shots on Goal,Philadelphia Flyers v Seattle Kraken,-2.164840897235276
-Philadelphia Flyers,Seattle Kraken,Tyson Foerster,1.5,1.625,Pinnacle,2.45,Bet365,Player Shots on Goal,Philadelphia Flyers v Seattle Kraken,-2.3547880690737877
-Calgary Flames,Montreal Canadiens,Blake Coleman,2.5,2.3,Neds,1.694,Pinnacle,Player Shots on Goal,Calgary Flames v Montreal Canadiens,-2.5101380832606157
-Edmonton Oilers,Dallas Stars,Jason Robertson,2.5,1.917,Pinnacle,1.98,Neds,Player Shots on Goal,Edmonton Oilers v Dallas Stars,-2.6698914022857734
-Ottawa Senators,New York Rangers,Brady Tkachuk,3.5,1.87,Neds,2.03,Pinnacle,Player Shots on Goal,Ottawa Senators v New York Rangers,-2.737019572719368
-Tampa Bay Lightning,Boston Bruins,Mason Lohrei,1.5,1.943,Pinnacle,1.95,Bet365,Player Shots on Goal,Tampa Bay Lightning v Boston Bruins,-2.748855193528388
-Ottawa Senators,New York Rangers,Brady Tkachuk,3.5,1.86,Bet365,2.03,Pinnacle,Player Shots on Goal,Ottawa Senators v New York Rangers,-3.0245246040574214
-Philadelphia Flyers,Seattle Kraken,Matvei Michkov,2.5,2.04,Pinnacle,1.85,Neds,Player Shots on Goal,Philadelphia Flyers v Seattle Kraken,-3.0736618971912932
-Edmonton Oilers,Dallas Stars,Ryan Nugent-Hopkins,1.5,1.719,Pinnacle,2.2,Bet365,Player Shots on Goal,Edmonton Oilers v Dallas Stars,-3.6279020572214327
-Philadelphia Flyers,Seattle Kraken,Eeli Tolvanen,1.5,1.917,Pinnacle,1.94,Neds,Player Shots on Goal,Philadelphia Flyers v Seattle Kraken,-3.7112326498125903
-Philadelphia Flyers,Seattle Kraken,Travis Konecny,2.5,2.15,Neds,1.746,Pinnacle,Player Shots on Goal,Philadelphia Flyers v Seattle Kraken,-3.785396520951534
-Tampa Bay Lightning,Boston Bruins,Mason Lohrei,1.5,1.943,Pinnacle,1.91,Neds,Player Shots on Goal,Tampa Bay Lightning v Boston Bruins,-3.822824853885476
-Philadelphia Flyers,Seattle Kraken,Tyson Foerster,1.5,1.625,Pinnacle,2.35,Neds,Player Shots on Goal,Philadelphia Flyers v Seattle Kraken,-4.091653027823239
-San Jose Sharks,New York Islanders,William Eklund,1.5,1.671,Pinnacle,2.25,Bet365,Player Shots on Goal,San Jose Sharks v New York Islanders,-4.2888489926191875
-Philadelphia Flyers,Seattle Kraken,Bobby Brink,1.5,1.925,Pinnacle,1.9,Bet365,Player Shots on Goal,Philadelphia Flyers v Seattle Kraken,-4.579630895420372
-Ottawa Senators,New York Rangers,Vincent Trocheck,2.5,2.05,Bet365,1.787,Pinnacle,Player Shots on Goal,Ottawa Senators v New York Rangers,-4.7401968143911954
-Tampa Bay Lightning,Boston Bruins,Mason Lohrei,1.5,1.943,Pinnacle,1.869,Pinnacle,Player Shots on Goal,Tampa Bay Lightning v Boston Bruins,-4.971351798047463
-Ottawa Senators,New York Rangers,Vincent Trocheck,2.5,2.04,Pinnacle,1.787,Pinnacle,Player Shots on Goal,Ottawa Senators v New York Rangers,-4.979316852650406
-Edmonton Oilers,Dallas Stars,Jason Robertson,2.5,1.917,Pinnacle,1.892,Pinnacle,Player Shots on Goal,Edmonton Oilers v Dallas Stars,-5.018963518799735
-Florida Panthers,Buffalo Sabres,Jiri Kulich,1.5,1.735,Pinnacle,2.11,Pinnacle,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-5.030252536979107
-San Jose Sharks,New York Islanders,William Eklund,1.5,1.671,Pinnacle,2.21,Pinnacle,Player Shots on Goal,San Jose Sharks v New York Islanders,-5.093273326455283
-Philadelphia Flyers,Seattle Kraken,Bobby Brink,1.5,1.925,Pinnacle,1.88,Neds,Player Shots on Goal,Philadelphia Flyers v Seattle Kraken,-5.13954130975407
-Calgary Flames,Montreal Canadiens,Patrik Laine,1.5,1.62,Neds,2.3,Bet365,Player Shots on Goal,Calgary Flames v Montreal Canadiens,-5.206655931293613
+Colorado Avalanche,Toronto Maple Leafs,John Tavares,2.5,2.35,Neds,1.675,Pinnacle,Player Shots on Goal,Colorado Avalanche v Toronto Maple Leafs,-2.2546840266751245
+Edmonton Oilers,Dallas Stars,Jason Robertson,2.5,1.9,Pinnacle,2,Bet365,Player Shots on Goal,Edmonton Oilers v Dallas Stars,-2.631578947368407
+Colorado Avalanche,Toronto Maple Leafs,John Tavares,2.5,2.32,Bet365,1.675,Pinnacle,Player Shots on Goal,Colorado Avalanche v Toronto Maple Leafs,-2.804940813175505
+Colorado Avalanche,Toronto Maple Leafs,Valeri Nichushkin,2.5,2,Neds,1.884,Pinnacle,Player Shots on Goal,Colorado Avalanche v Toronto Maple Leafs,-3.0785562632696273
+Edmonton Oilers,Dallas Stars,Ryan Nugent-Hopkins,1.5,1.714,Pinnacle,2.2,Bet365,Player Shots on Goal,Edmonton Oilers v Dallas Stars,-3.7976026307414923
+San Jose Sharks,New York Islanders,William Eklund,1.5,1.684,Pinnacle,2.25,Bet365,Player Shots on Goal,San Jose Sharks v New York Islanders,-3.826867247294796
+Florida Panthers,Buffalo Sabres,Gustav Forsling,1.5,1.581,Pinnacle,2.45,Bet365,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-4.0674334249829025
+Colorado Avalanche,Toronto Maple Leafs,Valeri Nichushkin,2.5,2,Neds,1.83,Bet365,Player Shots on Goal,Colorado Avalanche v Toronto Maple Leafs,-4.644808743169393
+Calgary Flames,Montreal Canadiens,Blake Coleman,2.5,2.28,Bet365,1.645,Pinnacle,Player Shots on Goal,Calgary Flames v Montreal Canadiens,-4.64992267903801
+Nashville Predators,Chicago Blackhawks,Ryan O'Reilly,2.5,2.5,Bet365,1.54,Pinnacle,Player Shots on Goal,Nashville Predators v Chicago Blackhawks,-4.935064935064926
+San Jose Sharks,New York Islanders,William Eklund,1.5,1.684,Pinnacle,2.19,Pinnacle,Player Shots on Goal,San Jose Sharks v New York Islanders,-5.044523259471356
+San Jose Sharks,New York Islanders,Tony DeAngelo,1.5,1.649,Pinnacle,2.25,Bet365,Player Shots on Goal,San Jose Sharks v New York Islanders,-5.087258271005979
+Tampa Bay Lightning,Boston Bruins,Mason Lohrei,1.5,1.97,Pinnacle,1.84,Pinnacle,Player Shots on Goal,Tampa Bay Lightning v Boston Bruins,-5.10924740675347
+Colorado Avalanche,Toronto Maple Leafs,Cale Makar,2.5,1.62,Neds,2.3,Bet365,Player Shots on Goal,Colorado Avalanche v Toronto Maple Leafs,-5.206655931293613
 Los Angeles Kings,St. Louis Blues,Kevin Fiala,2.5,1.645,Pinnacle,2.25,Bet365,Player Shots on Goal,Los Angeles Kings v St. Louis Blues,-5.2347180006754535
-Florida Panthers,Buffalo Sabres,Jiri Kulich,1.5,1.735,Pinnacle,2.1,Bet365,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-5.255935227116781
-Ottawa Senators,New York Rangers,Alexis Lafreniere,1.5,1.769,Pinnacle,2.05,Bet365,Player Shots on Goal,Ottawa Senators v New York Rangers,-5.309600297811912
-Florida Panthers,Buffalo Sabres,Rasmus Dahlin,2.5,2.45,Bet365,1.55,Neds,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-5.332455562870297
-Tampa Bay Lightning,Boston Bruins,Brayden Point,2.5,2.2,Bet365,1.67,Neds,Player Shots on Goal,Tampa Bay Lightning v Boston Bruins,-5.334784975503548
-Edmonton Oilers,Dallas Stars,Ryan Nugent-Hopkins,1.5,1.67,Neds,2.2,Bet365,Player Shots on Goal,Edmonton Oilers v Dallas Stars,-5.334784975503548
-Los Angeles Kings,St. Louis Blues,Pavel Buchnevich,1.5,1.67,Neds,2.2,Bet365,Player Shots on Goal,Los Angeles Kings v St. Louis Blues,-5.334784975503548
-Calgary Flames,Montreal Canadiens,Cole Caufield,2.5,1.7,Neds,2.15,Bet365,Player Shots on Goal,Calgary Flames v Montreal Canadiens,-5.335157318741457
-Philadelphia Flyers,Seattle Kraken,Vince Dunn,1.5,1.7,Neds,2.15,Bet365,Player Shots on Goal,Philadelphia Flyers v Seattle Kraken,-5.335157318741457
-Florida Panthers,Buffalo Sabres,Aleksander Barkov,2.5,2.4,Bet365,1.5699999999999998,Neds,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-5.360934182590249
-Florida Panthers,Buffalo Sabres,Aaron Ekblad,1.5,1.5699999999999998,Neds,2.4,Bet365,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-5.360934182590249
 San Jose Sharks,New York Islanders,Bo Horvat,2.5,1.641,Pinnacle,2.25,Bet365,Player Shots on Goal,San Jose Sharks v New York Islanders,-5.382896607759502
-Edmonton Oilers,Dallas Stars,Jake Walman,1.5,1.578,Pinnacle,2.38,Pinnacle,Player Shots on Goal,Edmonton Oilers v Dallas Stars,-5.388162869710622
-Ottawa Senators,New York Rangers,Jake Sanderson,2.5,2.28,Bet365,1.625,Pinnacle,Player Shots on Goal,Ottawa Senators v New York Rangers,-5.3981106612685625
 Edmonton Oilers,Dallas Stars,Thomas Harley,1.5,1.625,Pinnacle,2.28,Bet365,Player Shots on Goal,Edmonton Oilers v Dallas Stars,-5.3981106612685625
-Ottawa Senators,New York Rangers,Mika Zibanejad,2.5,2.25,Bet365,1.64,Bet365,Player Shots on Goal,Ottawa Senators v New York Rangers,-5.4200542005419905
-San Jose Sharks,New York Islanders,Bo Horvat,2.5,1.64,Bet365,2.25,Bet365,Player Shots on Goal,San Jose Sharks v New York Islanders,-5.4200542005419905
-San Jose Sharks,New York Islanders,Macklin Celebrini,3.5,2.25,Bet365,1.64,Bet365,Player Shots on Goal,San Jose Sharks v New York Islanders,-5.4200542005419905
-San Jose Sharks,New York Islanders,Tony DeAngelo,1.5,1.64,Bet365,2.25,Bet365,Player Shots on Goal,San Jose Sharks v New York Islanders,-5.4200542005419905
-San Jose Sharks,New York Islanders,William Eklund,1.5,1.64,Bet365,2.25,Bet365,Player Shots on Goal,San Jose Sharks v New York Islanders,-5.4200542005419905
-Tampa Bay Lightning,Boston Bruins,David Pastrnak,4.5,2.25,Bet365,1.64,Bet365,Player Shots on Goal,Tampa Bay Lightning v Boston Bruins,-5.4200542005419905
 Calgary Flames,Montreal Canadiens,Jonathan Huberdeau,1.5,1.64,Bet365,2.25,Bet365,Player Shots on Goal,Calgary Flames v Montreal Canadiens,-5.4200542005419905
 Calgary Flames,Montreal Canadiens,MacKenzie Weegar,2.5,2.25,Bet365,1.64,Bet365,Player Shots on Goal,Calgary Flames v Montreal Canadiens,-5.4200542005419905
 Nashville Predators,Chicago Blackhawks,Connor Bedard,2.5,2.25,Bet365,1.64,Bet365,Player Shots on Goal,Nashville Predators v Chicago Blackhawks,-5.4200542005419905
 Nashville Predators,Chicago Blackhawks,Steven Stamkos,2.5,2.25,Bet365,1.64,Bet365,Player Shots on Goal,Nashville Predators v Chicago Blackhawks,-5.4200542005419905
 Los Angeles Kings,St. Louis Blues,Kevin Fiala,2.5,1.64,Bet365,2.25,Bet365,Player Shots on Goal,Los Angeles Kings v St. Louis Blues,-5.4200542005419905
 Edmonton Oilers,Dallas Stars,Connor McDavid,2.5,1.64,Bet365,2.25,Bet365,Player Shots on Goal,Edmonton Oilers v Dallas Stars,-5.4200542005419905
-Florida Panthers,Buffalo Sabres,Seth Jones,1.5,1.73,Neds,2.1,Bet365,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-5.422515827140106
-San Jose Sharks,New York Islanders,Macklin Celebrini,3.5,2.25,Bet365,1.636,Pinnacle,Player Shots on Goal,San Jose Sharks v New York Islanders,-5.569138820972563
+San Jose Sharks,New York Islanders,Bo Horvat,2.5,1.64,Bet365,2.25,Bet365,Player Shots on Goal,San Jose Sharks v New York Islanders,-5.4200542005419905
+San Jose Sharks,New York Islanders,Tony DeAngelo,1.5,1.64,Bet365,2.25,Bet365,Player Shots on Goal,San Jose Sharks v New York Islanders,-5.4200542005419905
+San Jose Sharks,New York Islanders,William Eklund,1.5,1.64,Bet365,2.25,Bet365,Player Shots on Goal,San Jose Sharks v New York Islanders,-5.4200542005419905
+Edmonton Oilers,Dallas Stars,Jake Walman,1.5,1.584,Pinnacle,2.36,Pinnacle,Player Shots on Goal,Edmonton Oilers v Dallas Stars,-5.504194487245329
+Florida Panthers,Buffalo Sabres,JJ Peterka,2.5,2.28,Bet365,1.621,Pinnacle,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-5.54996374341159
 Nashville Predators,Chicago Blackhawks,Connor Bedard,2.5,2.25,Bet365,1.636,Pinnacle,Player Shots on Goal,Nashville Predators v Chicago Blackhawks,-5.569138820972563
-Nashville Predators,Chicago Blackhawks,Steven Stamkos,2.5,2.25,Bet365,1.636,Pinnacle,Player Shots on Goal,Nashville Predators v Chicago Blackhawks,-5.569138820972563
 Calgary Flames,Montreal Canadiens,Jonathan Huberdeau,1.5,1.636,Pinnacle,2.25,Bet365,Player Shots on Goal,Calgary Flames v Montreal Canadiens,-5.569138820972563
-San Jose Sharks,New York Islanders,Tony DeAngelo,1.5,1.636,Pinnacle,2.25,Bet365,Player Shots on Goal,San Jose Sharks v New York Islanders,-5.569138820972563
-Ottawa Senators,New York Rangers,Artemi Panarin,3.5,2.28,Bet365,1.62,Bet365,Player Shots on Goal,Ottawa Senators v New York Rangers,-5.588044184535423
-Ottawa Senators,New York Rangers,Dylan Cozens,1.5,1.62,Bet365,2.28,Bet365,Player Shots on Goal,Ottawa Senators v New York Rangers,-5.588044184535423
-Ottawa Senators,New York Rangers,Jake Sanderson,2.5,2.28,Bet365,1.62,Bet365,Player Shots on Goal,Ottawa Senators v New York Rangers,-5.588044184535423
-Philadelphia Flyers,Seattle Kraken,Travis Konecny,2.5,2.28,Bet365,1.62,Bet365,Player Shots on Goal,Philadelphia Flyers v Seattle Kraken,-5.588044184535423
+Florida Panthers,Buffalo Sabres,JJ Peterka,2.5,2.28,Bet365,1.62,Bet365,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-5.588044184535423
+Calgary Flames,Montreal Canadiens,Blake Coleman,2.5,2.28,Bet365,1.62,Bet365,Player Shots on Goal,Calgary Flames v Montreal Canadiens,-5.588044184535423
 Los Angeles Kings,St. Louis Blues,Quinton Byfield,1.5,1.62,Bet365,2.28,Bet365,Player Shots on Goal,Los Angeles Kings v St. Louis Blues,-5.588044184535423
 Edmonton Oilers,Dallas Stars,Thomas Harley,1.5,1.62,Bet365,2.28,Bet365,Player Shots on Goal,Edmonton Oilers v Dallas Stars,-5.588044184535423
-Calgary Flames,Montreal Canadiens,Matt Coronato,2.5,2.32,Bet365,1.6,Neds,Player Shots on Goal,Calgary Flames v Montreal Canadiens,-5.603448275862077
-Los Angeles Kings,St. Louis Blues,Jordan Kyrou,2.5,2.32,Bet365,1.6,Neds,Player Shots on Goal,Los Angeles Kings v St. Louis Blues,-5.603448275862077
-Edmonton Oilers,Dallas Stars,Leon Draisaitl,2.5,1.6,Neds,2.32,Bet365,Player Shots on Goal,Edmonton Oilers v Dallas Stars,-5.603448275862077
-Edmonton Oilers,Dallas Stars,Roope Hintz,1.5,1.6,Neds,2.32,Bet365,Player Shots on Goal,Edmonton Oilers v Dallas Stars,-5.603448275862077
-Florida Panthers,Buffalo Sabres,Sam Bennett,2.5,1.6,Neds,2.32,Bet365,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-5.603448275862077
-Nashville Predators,Chicago Blackhawks,Luke Evangelista,1.5,1.6,Neds,2.32,Bet365,Player Shots on Goal,Nashville Predators v Chicago Blackhawks,-5.603448275862077
-Ottawa Senators,New York Rangers,J.T. Miller,1.5,1.6,Neds,2.32,Bet365,Player Shots on Goal,Ottawa Senators v New York Rangers,-5.603448275862077
-Tampa Bay Lightning,Boston Bruins,Nikita Kucherov,2.5,1.6,Neds,2.32,Bet365,Player Shots on Goal,Tampa Bay Lightning v Boston Bruins,-5.603448275862077
+San Jose Sharks,New York Islanders,Macklin Celebrini,3.5,2.28,Bet365,1.62,Bet365,Player Shots on Goal,San Jose Sharks v New York Islanders,-5.588044184535423
 Los Angeles Kings,St. Louis Blues,Pavel Buchnevich,1.5,1.662,Pinnacle,2.2,Bet365,Player Shots on Goal,Los Angeles Kings v St. Louis Blues,-5.623017175363754
-Tampa Bay Lightning,Boston Bruins,Brayden Point,2.5,2.2,Bet365,1.66,Bet365,Player Shots on Goal,Tampa Bay Lightning v Boston Bruins,-5.6955093099671394
-Tampa Bay Lightning,Boston Bruins,Jake Guentzel,2.5,2.2,Bet365,1.66,Bet365,Player Shots on Goal,Tampa Bay Lightning v Boston Bruins,-5.6955093099671394
+Edmonton Oilers,Dallas Stars,Jake Walman,1.5,1.584,Pinnacle,2.35,Bet365,Player Shots on Goal,Edmonton Oilers v Dallas Stars,-5.684504620674824
 Calgary Flames,Montreal Canadiens,Mike Matheson,1.5,1.66,Bet365,2.2,Bet365,Player Shots on Goal,Calgary Flames v Montreal Canadiens,-5.6955093099671394
 Los Angeles Kings,St. Louis Blues,Pavel Buchnevich,1.5,1.66,Bet365,2.2,Bet365,Player Shots on Goal,Los Angeles Kings v St. Louis Blues,-5.6955093099671394
 Edmonton Oilers,Dallas Stars,Ryan Nugent-Hopkins,1.5,1.66,Bet365,2.2,Bet365,Player Shots on Goal,Edmonton Oilers v Dallas Stars,-5.6955093099671394
-Edmonton Oilers,Dallas Stars,Jake Walman,1.5,1.57,Bet365,2.38,Pinnacle,Player Shots on Goal,Edmonton Oilers v Dallas Stars,-5.7110742386126345
-Edmonton Oilers,Dallas Stars,Jake Walman,1.5,1.5699999999999998,Neds,2.38,Pinnacle,Player Shots on Goal,Edmonton Oilers v Dallas Stars,-5.711074238612657
-Tampa Bay Lightning,Boston Bruins,David Pastrnak,4.5,2.25,Bet365,1.632,Pinnacle,Player Shots on Goal,Tampa Bay Lightning v Boston Bruins,-5.718954248366015
-Edmonton Oilers,Dallas Stars,Connor McDavid,2.5,1.632,Pinnacle,2.25,Bet365,Player Shots on Goal,Edmonton Oilers v Dallas Stars,-5.718954248366015
+Colorado Avalanche,Toronto Maple Leafs,Valeri Nichushkin,2.5,1.9,Bet365,1.884,Pinnacle,Player Shots on Goal,Colorado Avalanche v Toronto Maple Leafs,-5.7101352106380565
 Calgary Flames,Montreal Canadiens,Nazem Kadri,3.5,2.3,Bet365,1.606,Pinnacle,Player Shots on Goal,Calgary Flames v Montreal Canadiens,-5.7447614922302215
-Tampa Bay Lightning,Boston Bruins,Elias Lindholm,1.5,1.52,Neds,2.5,Bet365,Player Shots on Goal,Tampa Bay Lightning v Boston Bruins,-5.789473684210522
-Edmonton Oilers,Dallas Stars,Ryan Nugent-Hopkins,1.5,1.719,Pinnacle,2.1,Neds,Player Shots on Goal,Edmonton Oilers v Dallas Stars,-5.792404221723579
+Los Angeles Kings,St. Louis Blues,Warren Foegele,2.5,2.3,Bet365,1.606,Pinnacle,Player Shots on Goal,Los Angeles Kings v St. Louis Blues,-5.7447614922302215
 Florida Panthers,Buffalo Sabres,Seth Jones,1.5,1.719,Pinnacle,2.1,Bet365,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-5.792404221723579
-San Jose Sharks,New York Islanders,Kyle Palmieri,2.5,2.35,Bet365,1.58,Neds,Player Shots on Goal,San Jose Sharks v New York Islanders,-5.84433072986803
-Los Angeles Kings,St. Louis Blues,Robert Thomas,1.5,1.58,Neds,2.35,Bet365,Player Shots on Goal,Los Angeles Kings v St. Louis Blues,-5.84433072986803
-Nashville Predators,Chicago Blackhawks,Brady Skjei,1.5,1.58,Neds,2.35,Bet365,Player Shots on Goal,Nashville Predators v Chicago Blackhawks,-5.84433072986803
-Ottawa Senators,New York Rangers,Artemi Panarin,3.5,2.28,Bet365,1.613,Pinnacle,Player Shots on Goal,Ottawa Senators v New York Rangers,-5.855929345993616
-Ottawa Senators,New York Rangers,Mika Zibanejad,2.5,2.25,Bet365,1.628,Pinnacle,Player Shots on Goal,Ottawa Senators v New York Rangers,-5.8695058695058755
+Colorado Avalanche,Toronto Maple Leafs,Brock Nelson,2.5,2.35,Bet365,1.58,Neds,Player Shots on Goal,Colorado Avalanche v Toronto Maple Leafs,-5.84433072986803
+Colorado Avalanche,Toronto Maple Leafs,John Tavares,2.5,2.35,Neds,1.58,Bet365,Player Shots on Goal,Colorado Avalanche v Toronto Maple Leafs,-5.84433072986803
 Calgary Flames,Montreal Canadiens,MacKenzie Weegar,2.5,2.25,Bet365,1.628,Pinnacle,Player Shots on Goal,Calgary Flames v Montreal Canadiens,-5.8695058695058755
-Florida Panthers,Buffalo Sabres,Jiri Kulich,1.5,1.71,Bet365,2.11,Pinnacle,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-5.87289709265264
 Calgary Flames,Montreal Canadiens,Joel Armia,1.5,2.05,Bet365,1.751,Pinnacle,Player Shots on Goal,Calgary Flames v Montreal Canadiens,-5.8907105347467015
-Calgary Flames,Montreal Canadiens,Juraj Slafkovsky,1.5,1.751,Pinnacle,2.05,Bet365,Player Shots on Goal,Calgary Flames v Montreal Canadiens,-5.8907105347467015
-Philadelphia Flyers,Seattle Kraken,Owen Tippett,2.5,1.751,Pinnacle,2.05,Bet365,Player Shots on Goal,Philadelphia Flyers v Seattle Kraken,-5.8907105347467015
 Calgary Flames,Montreal Canadiens,Cole Caufield,2.5,1.684,Pinnacle,2.15,Bet365,Player Shots on Goal,Calgary Flames v Montreal Canadiens,-5.894050709827092
 Calgary Flames,Montreal Canadiens,Patrik Laine,1.5,1.602,Pinnacle,2.3,Bet365,Player Shots on Goal,Calgary Flames v Montreal Canadiens,-5.900233403897293
 Colorado Avalanche,Toronto Maple Leafs,Cale Makar,2.5,1.602,Pinnacle,2.3,Bet365,Player Shots on Goal,Colorado Avalanche v Toronto Maple Leafs,-5.900233403897293
-Edmonton Oilers,Dallas Stars,Jake Walman,1.5,1.578,Pinnacle,2.35,Bet365,Player Shots on Goal,Edmonton Oilers v Dallas Stars,-5.924547636383237
-Tampa Bay Lightning,Boston Bruins,Elias Lindholm,1.5,1.52,Neds,2.49,Pinnacle,Player Shots on Goal,Tampa Bay Lightning v Boston Bruins,-5.950116254491644
+San Jose Sharks,New York Islanders,Noah Dobson,2.5,2,Bet365,1.787,Pinnacle,Player Shots on Goal,San Jose Sharks v New York Islanders,-5.959709009513148
 Nashville Predators,Chicago Blackhawks,Frank Nazar,1.5,2.1,Bet365,1.714,Pinnacle,Player Shots on Goal,Nashville Predators v Chicago Blackhawks,-5.962104795243661
 Nashville Predators,Chicago Blackhawks,Tyler Bertuzzi,1.5,2.1,Bet365,1.714,Pinnacle,Player Shots on Goal,Nashville Predators v Chicago Blackhawks,-5.962104795243661
 Calgary Flames,Montreal Canadiens,Morgan Frost,1.5,1.714,Pinnacle,2.1,Bet365,Player Shots on Goal,Calgary Flames v Montreal Canadiens,-5.962104795243661
 Florida Panthers,Buffalo Sabres,Evan Rodrigues,2.5,2.4,Bet365,1.555,Pinnacle,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-5.975348338692399
-Ottawa Senators,New York Rangers,William Cuylle,1.5,1.6,Bet365,2.3,Bet365,Player Shots on Goal,Ottawa Senators v New York Rangers,-5.978260869565233
 Florida Panthers,Buffalo Sabres,Tage Thompson,2.5,1.6,Bet365,2.3,Bet365,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-5.978260869565233
 Calgary Flames,Montreal Canadiens,Nazem Kadri,3.5,2.3,Bet365,1.6,Bet365,Player Shots on Goal,Calgary Flames v Montreal Canadiens,-5.978260869565233
 Calgary Flames,Montreal Canadiens,Patrik Laine,1.5,1.6,Bet365,2.3,Bet365,Player Shots on Goal,Calgary Flames v Montreal Canadiens,-5.978260869565233
 Colorado Avalanche,Toronto Maple Leafs,Cale Makar,2.5,1.6,Bet365,2.3,Bet365,Player Shots on Goal,Colorado Avalanche v Toronto Maple Leafs,-5.978260869565233
 Los Angeles Kings,St. Louis Blues,Warren Foegele,2.5,2.3,Bet365,1.6,Bet365,Player Shots on Goal,Los Angeles Kings v St. Louis Blues,-5.978260869565233
-Edmonton Oilers,Dallas Stars,Viktor Arvidsson,1.5,1.53,Neds,2.46,Pinnacle,Player Shots on Goal,Edmonton Oilers v Dallas Stars,-6.009883628248058
-Florida Panthers,Buffalo Sabres,Mackie Samoskevich,1.5,1.53,Neds,2.46,Pinnacle,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-6.009883628248058
-Ottawa Senators,New York Rangers,Dylan Cozens,1.5,1.609,Pinnacle,2.28,Bet365,Player Shots on Goal,Ottawa Senators v New York Rangers,-6.010053100432877
-Philadelphia Flyers,Seattle Kraken,Vince Dunn,1.5,1.68,Bet365,2.15,Bet365,Player Shots on Goal,Philadelphia Flyers v Seattle Kraken,-6.035437430786272
+Nashville Predators,Chicago Blackhawks,Steven Stamkos,2.5,2.25,Bet365,1.625,Pinnacle,Player Shots on Goal,Nashville Predators v Chicago Blackhawks,-5.982905982905984
+Edmonton Oilers,Dallas Stars,Connor McDavid,2.5,1.625,Pinnacle,2.25,Bet365,Player Shots on Goal,Edmonton Oilers v Dallas Stars,-5.982905982905984
 Florida Panthers,Buffalo Sabres,Anton Lundell,1.5,1.68,Bet365,2.15,Bet365,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-6.035437430786272
 Calgary Flames,Montreal Canadiens,Cole Caufield,2.5,1.68,Bet365,2.15,Bet365,Player Shots on Goal,Calgary Flames v Montreal Canadiens,-6.035437430786272
 Edmonton Oilers,Dallas Stars,Mikael Granlund,1.5,2.15,Bet365,1.68,Bet365,Player Shots on Goal,Edmonton Oilers v Dallas Stars,-6.035437430786272
-Edmonton Oilers,Dallas Stars,Mikael Granlund,1.5,2.15,Bet365,1.6800000000000002,Neds,Player Shots on Goal,Edmonton Oilers v Dallas Stars,-6.035437430786272
-Tampa Bay Lightning,Boston Bruins,Brandon Hagel,2.5,2.05,Bet365,1.746,Pinnacle,Player Shots on Goal,Tampa Bay Lightning v Boston Bruins,-6.054256418852844
 Colorado Avalanche,Toronto Maple Leafs,William Nylander,2.5,1.746,Pinnacle,2.05,Bet365,Player Shots on Goal,Colorado Avalanche v Toronto Maple Leafs,-6.054256418852844
-Tampa Bay Lightning,Boston Bruins,Jake Guentzel,2.5,2.2,Bet365,1.65,Neds,Player Shots on Goal,Tampa Bay Lightning v Boston Bruins,-6.060606060606055
-Calgary Flames,Montreal Canadiens,Mike Matheson,1.5,1.65,Neds,2.2,Bet365,Player Shots on Goal,Calgary Flames v Montreal Canadiens,-6.060606060606055
-Ottawa Senators,New York Rangers,J.T. Miller,1.5,1.588,Pinnacle,2.32,Bet365,Player Shots on Goal,Ottawa Senators v New York Rangers,-6.075740467297841
-Tampa Bay Lightning,Boston Bruins,Jake Guentzel,2.5,2.2,Bet365,1.649,Pinnacle,Player Shots on Goal,Tampa Bay Lightning v Boston Bruins,-6.097359281106995
+Edmonton Oilers,Dallas Stars,Jake Walman,1.5,1.57,Bet365,2.36,Pinnacle,Player Shots on Goal,Edmonton Oilers v Dallas Stars,-6.0671488718557764
 Calgary Flames,Montreal Canadiens,Mike Matheson,1.5,1.649,Pinnacle,2.2,Bet365,Player Shots on Goal,Calgary Flames v Montreal Canadiens,-6.097359281106995
-Philadelphia Flyers,Seattle Kraken,Brandon Montour,2.5,2.1,Bet365,1.71,Bet365,Player Shots on Goal,Philadelphia Flyers v Seattle Kraken,-6.098579782790292
-Florida Panthers,Buffalo Sabres,Jiri Kulich,1.5,1.71,Bet365,2.1,Bet365,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-6.098579782790292
 Florida Panthers,Buffalo Sabres,Seth Jones,1.5,1.71,Bet365,2.1,Bet365,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-6.098579782790292
 Calgary Flames,Montreal Canadiens,Morgan Frost,1.5,1.71,Bet365,2.1,Bet365,Player Shots on Goal,Calgary Flames v Montreal Canadiens,-6.098579782790292
 Nashville Predators,Chicago Blackhawks,Frank Nazar,1.5,2.1,Bet365,1.71,Bet365,Player Shots on Goal,Nashville Predators v Chicago Blackhawks,-6.098579782790292
 Nashville Predators,Chicago Blackhawks,Tyler Bertuzzi,1.5,2.1,Bet365,1.71,Bet365,Player Shots on Goal,Nashville Predators v Chicago Blackhawks,-6.098579782790292
+San Jose Sharks,New York Islanders,Macklin Celebrini,3.5,2.28,Bet365,1.606,Pinnacle,Player Shots on Goal,San Jose Sharks v New York Islanders,-6.126149745472009
 Los Angeles Kings,St. Louis Blues,Quinton Byfield,1.5,1.606,Pinnacle,2.28,Bet365,Player Shots on Goal,Los Angeles Kings v St. Louis Blues,-6.126149745472009
-San Jose Sharks,New York Islanders,Noah Dobson,2.5,2,Bet365,1.781,Pinnacle,Player Shots on Goal,San Jose Sharks v New York Islanders,-6.148231330713072
 Edmonton Oilers,Dallas Stars,Mason Marchment,1.5,1.781,Pinnacle,2,Bet365,Player Shots on Goal,Edmonton Oilers v Dallas Stars,-6.148231330713072
-Edmonton Oilers,Dallas Stars,Roope Hintz,1.5,1.6,Neds,2.29,Pinnacle,Player Shots on Goal,Edmonton Oilers v Dallas Stars,-6.168122270742371
-Florida Panthers,Buffalo Sabres,Sam Bennett,2.5,1.6,Neds,2.29,Pinnacle,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-6.168122270742371
-Nashville Predators,Chicago Blackhawks,Luke Evangelista,1.5,1.6,Neds,2.29,Pinnacle,Player Shots on Goal,Nashville Predators v Chicago Blackhawks,-6.168122270742371
-Los Angeles Kings,St. Louis Blues,Warren Foegele,2.5,2.3,Bet365,1.595,Pinnacle,Player Shots on Goal,Los Angeles Kings v St. Louis Blues,-6.174185634455509
-Florida Panthers,Buffalo Sabres,Alex Tuch,2.5,2.45,Bet365,1.53,Neds,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-6.175803654795242
-Nashville Predators,Chicago Blackhawks,Ryan Donato,2.5,2.45,Bet365,1.53,Neds,Player Shots on Goal,Nashville Predators v Chicago Blackhawks,-6.175803654795242
-Los Angeles Kings,St. Louis Blues,Trevor Moore,2.5,2.45,Bet365,1.53,Neds,Player Shots on Goal,Los Angeles Kings v St. Louis Blues,-6.175803654795242
-Calgary Flames,Montreal Canadiens,Mikael Backlund,1.5,1.53,Neds,2.45,Bet365,Player Shots on Goal,Calgary Flames v Montreal Canadiens,-6.175803654795242
-Edmonton Oilers,Dallas Stars,Viktor Arvidsson,1.5,1.53,Neds,2.45,Bet365,Player Shots on Goal,Edmonton Oilers v Dallas Stars,-6.175803654795242
-Florida Panthers,Buffalo Sabres,Mackie Samoskevich,1.5,1.53,Neds,2.45,Bet365,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-6.175803654795242
-Ottawa Senators,New York Rangers,Drake Batherson,1.5,1.53,Neds,2.45,Bet365,Player Shots on Goal,Ottawa Senators v New York Rangers,-6.175803654795242
-Philadelphia Flyers,Seattle Kraken,Tyson Foerster,1.5,1.53,Neds,2.45,Bet365,Player Shots on Goal,Philadelphia Flyers v Seattle Kraken,-6.175803654795242
-Tampa Bay Lightning,Boston Bruins,Morgan Geekie,2.5,2.4,Bet365,1.55,Bet365,Player Shots on Goal,Tampa Bay Lightning v Boston Bruins,-6.182795698924726
 Florida Panthers,Buffalo Sabres,Aaron Ekblad,1.5,1.55,Bet365,2.4,Bet365,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-6.182795698924726
 Florida Panthers,Buffalo Sabres,Aleksander Barkov,2.5,2.4,Bet365,1.55,Bet365,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-6.182795698924726
 Florida Panthers,Buffalo Sabres,Evan Rodrigues,2.5,2.4,Bet365,1.55,Bet365,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-6.182795698924726
-Calgary Flames,Montreal Canadiens,Blake Coleman,2.5,2.4,Bet365,1.55,Bet365,Player Shots on Goal,Calgary Flames v Montreal Canadiens,-6.182795698924726
+Florida Panthers,Buffalo Sabres,Rasmus Dahlin,2.5,2.4,Bet365,1.55,Bet365,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-6.182795698924726
 Colorado Avalanche,Toronto Maple Leafs,Artturi Lehkonen,1.5,1.55,Bet365,2.4,Bet365,Player Shots on Goal,Colorado Avalanche v Toronto Maple Leafs,-6.182795698924726
 Los Angeles Kings,St. Louis Blues,Alex Laferriere,2.5,2.4,Bet365,1.55,Bet365,Player Shots on Goal,Los Angeles Kings v St. Louis Blues,-6.182795698924726
+San Jose Sharks,New York Islanders,Kyle Palmieri,2.5,2.35,Bet365,1.571,Pinnacle,Player Shots on Goal,San Jose Sharks v New York Islanders,-6.2069152322006715
 Florida Panthers,Buffalo Sabres,Anton Lundell,1.5,1.675,Pinnacle,2.15,Bet365,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-6.2131204442901655
-Florida Panthers,Buffalo Sabres,Jiri Kulich,1.5,1.7,Neds,2.11,Pinnacle,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-6.216894340674672
 Florida Panthers,Buffalo Sabres,Aaron Ekblad,1.5,1.549,Pinnacle,2.4,Bet365,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-6.2244458790617685
-San Jose Sharks,New York Islanders,William Eklund,1.5,1.64,Bet365,2.21,Pinnacle,Player Shots on Goal,San Jose Sharks v New York Islanders,-6.224478534378108
-Edmonton Oilers,Dallas Stars,Leon Draisaitl,2.5,1.584,Pinnacle,2.32,Bet365,Player Shots on Goal,Edmonton Oilers v Dallas Stars,-6.234761407175204
-San Jose Sharks,New York Islanders,Kyle Palmieri,2.5,2.35,Bet365,1.57,Bet365,Player Shots on Goal,San Jose Sharks v New York Islanders,-6.247459005285272
-Philadelphia Flyers,Seattle Kraken,Jared McCann,2.5,2.35,Bet365,1.57,Bet365,Player Shots on Goal,Philadelphia Flyers v Seattle Kraken,-6.247459005285272
-Philadelphia Flyers,Seattle Kraken,Jared McCann,2.5,2.35,Bet365,1.5699999999999998,Neds,Player Shots on Goal,Philadelphia Flyers v Seattle Kraken,-6.247459005285272
+Florida Panthers,Buffalo Sabres,Alex Tuch,2.5,2.35,Bet365,1.57,Bet365,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-6.247459005285272
 Colorado Avalanche,Toronto Maple Leafs,Brock Nelson,2.5,2.35,Bet365,1.57,Bet365,Player Shots on Goal,Colorado Avalanche v Toronto Maple Leafs,-6.247459005285272
 Nashville Predators,Chicago Blackhawks,Brady Skjei,1.5,1.57,Bet365,2.35,Bet365,Player Shots on Goal,Nashville Predators v Chicago Blackhawks,-6.247459005285272
 Los Angeles Kings,St. Louis Blues,Robert Thomas,1.5,1.57,Bet365,2.35,Bet365,Player Shots on Goal,Los Angeles Kings v St. Louis Blues,-6.247459005285272
 Edmonton Oilers,Dallas Stars,Jake Walman,1.5,1.57,Bet365,2.35,Bet365,Player Shots on Goal,Edmonton Oilers v Dallas Stars,-6.247459005285272
-Edmonton Oilers,Dallas Stars,Jake Walman,1.5,1.5699999999999998,Neds,2.35,Bet365,Player Shots on Goal,Edmonton Oilers v Dallas Stars,-6.247459005285272
-Ottawa Senators,New York Rangers,Alexis Lafreniere,1.5,1.74,Bet365,2.05,Bet365,Player Shots on Goal,Ottawa Senators v New York Rangers,-6.251752172694136
-Ottawa Senators,New York Rangers,Vincent Trocheck,2.5,2.05,Bet365,1.74,Bet365,Player Shots on Goal,Ottawa Senators v New York Rangers,-6.251752172694136
-San Jose Sharks,New York Islanders,Anders Lee,2.5,2.05,Bet365,1.74,Bet365,Player Shots on Goal,San Jose Sharks v New York Islanders,-6.251752172694136
-San Jose Sharks,New York Islanders,Tyler Toffoli,2.5,1.74,Bet365,2.05,Bet365,Player Shots on Goal,San Jose Sharks v New York Islanders,-6.251752172694136
-Philadelphia Flyers,Seattle Kraken,Owen Tippett,2.5,1.74,Bet365,2.05,Bet365,Player Shots on Goal,Philadelphia Flyers v Seattle Kraken,-6.251752172694136
-Tampa Bay Lightning,Boston Bruins,Brandon Hagel,2.5,2.05,Bet365,1.74,Bet365,Player Shots on Goal,Tampa Bay Lightning v Boston Bruins,-6.251752172694136
+San Jose Sharks,New York Islanders,Kyle Palmieri,2.5,2.35,Bet365,1.57,Bet365,Player Shots on Goal,San Jose Sharks v New York Islanders,-6.247459005285272
 Calgary Flames,Montreal Canadiens,Joel Armia,1.5,2.05,Bet365,1.74,Bet365,Player Shots on Goal,Calgary Flames v Montreal Canadiens,-6.251752172694136
 Calgary Flames,Montreal Canadiens,Juraj Slafkovsky,1.5,1.74,Bet365,2.05,Bet365,Player Shots on Goal,Calgary Flames v Montreal Canadiens,-6.251752172694136
 Colorado Avalanche,Toronto Maple Leafs,Martin Necas,2.5,2.05,Bet365,1.74,Bet365,Player Shots on Goal,Colorado Avalanche v Toronto Maple Leafs,-6.251752172694136
 Colorado Avalanche,Toronto Maple Leafs,William Nylander,2.5,1.74,Bet365,2.05,Bet365,Player Shots on Goal,Colorado Avalanche v Toronto Maple Leafs,-6.251752172694136
 Nashville Predators,Chicago Blackhawks,Ilya Mikheyev,1.5,2.05,Bet365,1.74,Bet365,Player Shots on Goal,Nashville Predators v Chicago Blackhawks,-6.251752172694136
-Edmonton Oilers,Dallas Stars,Jason Robertson,2.5,1.74,Bet365,2.05,Bet365,Player Shots on Goal,Edmonton Oilers v Dallas Stars,-6.251752172694136
-Philadelphia Flyers,Seattle Kraken,Sean Couturier,1.5,1.819,Pinnacle,1.95,Bet365,Player Shots on Goal,Philadelphia Flyers v Seattle Kraken,-6.25731241454166
-Philadelphia Flyers,Seattle Kraken,Brandon Montour,2.5,2.1,Bet365,1.704,Pinnacle,Player Shots on Goal,Philadelphia Flyers v Seattle Kraken,-6.30449362843728
+San Jose Sharks,New York Islanders,Anders Lee,2.5,2.05,Bet365,1.74,Bet365,Player Shots on Goal,San Jose Sharks v New York Islanders,-6.251752172694136
+San Jose Sharks,New York Islanders,Tyler Toffoli,2.5,1.74,Bet365,2.05,Bet365,Player Shots on Goal,San Jose Sharks v New York Islanders,-6.251752172694136
 Calgary Flames,Montreal Canadiens,Rasmus Andersson,1.5,1.775,Pinnacle,2,Bet365,Player Shots on Goal,Calgary Flames v Montreal Canadiens,-6.338028169014098
 Calgary Flames,Montreal Canadiens,Yegor Sharangovich,1.5,1.775,Pinnacle,2,Bet365,Player Shots on Goal,Calgary Flames v Montreal Canadiens,-6.338028169014098
 Los Angeles Kings,St. Louis Blues,Adrian Kempe,2.5,1.775,Pinnacle,2,Bet365,Player Shots on Goal,Los Angeles Kings v St. Louis Blues,-6.338028169014098
-Philadelphia Flyers,Seattle Kraken,Noah Cates,1.5,1.775,Pinnacle,2,Bet365,Player Shots on Goal,Philadelphia Flyers v Seattle Kraken,-6.338028169014098
 San Jose Sharks,New York Islanders,Adam Pelech,1.5,1.775,Pinnacle,2,Bet365,Player Shots on Goal,San Jose Sharks v New York Islanders,-6.338028169014098
-Los Angeles Kings,St. Louis Blues,Trevor Moore,2.5,2.44,Pinnacle,1.53,Neds,Player Shots on Goal,Los Angeles Kings v St. Louis Blues,-6.343083681560069
 Florida Panthers,Buffalo Sabres,Aleksander Barkov,2.5,2.4,Bet365,1.546,Pinnacle,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-6.349719706770163
-Florida Panthers,Buffalo Sabres,Gustav Forsling,1.5,1.581,Pinnacle,2.32,Bet365,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-6.354555170232734
-Florida Panthers,Buffalo Sabres,Rasmus Dahlin,2.5,2.39,Pinnacle,1.55,Neds,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-6.357133216358468
-Tampa Bay Lightning,Boston Bruins,Nikita Kucherov,2.5,1.6,Neds,2.28,Pinnacle,Player Shots on Goal,Tampa Bay Lightning v Boston Bruins,-6.359649122807021
-Calgary Flames,Montreal Canadiens,Matt Coronato,2.5,2.28,Pinnacle,1.6,Neds,Player Shots on Goal,Calgary Flames v Montreal Canadiens,-6.359649122807021
-Los Angeles Kings,St. Louis Blues,Jordan Kyrou,2.5,2.28,Pinnacle,1.6,Neds,Player Shots on Goal,Los Angeles Kings v St. Louis Blues,-6.359649122807021
-Florida Panthers,Buffalo Sabres,Anton Lundell,1.5,1.67,Neds,2.15,Bet365,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-6.3918674279348275
-Ottawa Senators,New York Rangers,J.T. Miller,1.5,1.58,Bet365,2.32,Bet365,Player Shots on Goal,Ottawa Senators v New York Rangers,-6.3945875163683885
-Tampa Bay Lightning,Boston Bruins,Nikita Kucherov,2.5,1.58,Bet365,2.32,Bet365,Player Shots on Goal,Tampa Bay Lightning v Boston Bruins,-6.3945875163683885
-Florida Panthers,Buffalo Sabres,Gustav Forsling,1.5,1.58,Bet365,2.32,Bet365,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-6.3945875163683885
-Florida Panthers,Buffalo Sabres,JJ Peterka,2.5,2.32,Bet365,1.58,Bet365,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-6.3945875163683885
+Nashville Predators,Chicago Blackhawks,Luke Evangelista,1.5,1.581,Pinnacle,2.32,Bet365,Player Shots on Goal,Nashville Predators v Chicago Blackhawks,-6.354555170232734
 Florida Panthers,Buffalo Sabres,Sam Bennett,2.5,1.58,Bet365,2.32,Bet365,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-6.3945875163683885
 Calgary Flames,Montreal Canadiens,Matt Coronato,2.5,2.32,Bet365,1.58,Bet365,Player Shots on Goal,Calgary Flames v Montreal Canadiens,-6.3945875163683885
+Colorado Avalanche,Toronto Maple Leafs,John Tavares,2.5,2.32,Bet365,1.58,Bet365,Player Shots on Goal,Colorado Avalanche v Toronto Maple Leafs,-6.3945875163683885
 Nashville Predators,Chicago Blackhawks,Luke Evangelista,1.5,1.58,Bet365,2.32,Bet365,Player Shots on Goal,Nashville Predators v Chicago Blackhawks,-6.3945875163683885
 Los Angeles Kings,St. Louis Blues,Jordan Kyrou,2.5,2.32,Bet365,1.58,Bet365,Player Shots on Goal,Los Angeles Kings v St. Louis Blues,-6.3945875163683885
 Edmonton Oilers,Dallas Stars,Leon Draisaitl,2.5,1.58,Bet365,2.32,Bet365,Player Shots on Goal,Edmonton Oilers v Dallas Stars,-6.3945875163683885
 Edmonton Oilers,Dallas Stars,Roope Hintz,1.5,1.58,Bet365,2.32,Bet365,Player Shots on Goal,Edmonton Oilers v Dallas Stars,-6.3945875163683885
-San Jose Sharks,New York Islanders,Anders Lee,2.5,2.05,Bet365,1.735,Pinnacle,Player Shots on Goal,San Jose Sharks v New York Islanders,-6.417375412947224
-Florida Panthers,Buffalo Sabres,Jiri Kulich,1.5,1.735,Pinnacle,2.05,Neds,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-6.417375412947224
+Colorado Avalanche,Toronto Maple Leafs,Martin Necas,2.5,2.05,Bet365,1.735,Pinnacle,Player Shots on Goal,Colorado Avalanche v Toronto Maple Leafs,-6.417375412947224
+Nashville Predators,Chicago Blackhawks,Ilya Mikheyev,1.5,2.05,Bet365,1.735,Pinnacle,Player Shots on Goal,Nashville Predators v Chicago Blackhawks,-6.417375412947224
 San Jose Sharks,New York Islanders,Tyler Toffoli,2.5,1.735,Pinnacle,2.05,Bet365,Player Shots on Goal,San Jose Sharks v New York Islanders,-6.417375412947224
-Florida Panthers,Buffalo Sabres,Aaron Ekblad,1.5,1.5699999999999998,Neds,2.34,Pinnacle,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-6.429310250966314
-Florida Panthers,Buffalo Sabres,Aleksander Barkov,2.5,2.34,Pinnacle,1.5699999999999998,Neds,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-6.429310250966314
+Nashville Predators,Chicago Blackhawks,Jonathan Marchessault,2.5,1.813,Pinnacle,1.95,Bet365,Player Shots on Goal,Nashville Predators v Chicago Blackhawks,-6.439249296392147
 Florida Panthers,Buffalo Sabres,Mackie Samoskevich,1.5,1.52,Bet365,2.46,Pinnacle,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-6.439880188275571
-Edmonton Oilers,Dallas Stars,Viktor Arvidsson,1.5,1.52,Bet365,2.46,Pinnacle,Player Shots on Goal,Edmonton Oilers v Dallas Stars,-6.439880188275571
-Nashville Predators,Chicago Blackhawks,Ryan O'Reilly,2.5,2.46,Pinnacle,1.52,Bet365,Player Shots on Goal,Nashville Predators v Chicago Blackhawks,-6.439880188275571
-Philadelphia Flyers,Seattle Kraken,Brandon Montour,2.5,2.1,Bet365,1.7,Neds,Player Shots on Goal,Philadelphia Flyers v Seattle Kraken,-6.442577030812324
-Nashville Predators,Chicago Blackhawks,Frank Nazar,1.5,2.1,Bet365,1.7,Neds,Player Shots on Goal,Nashville Predators v Chicago Blackhawks,-6.442577030812324
-Nashville Predators,Chicago Blackhawks,Tyler Bertuzzi,1.5,2.1,Bet365,1.7,Neds,Player Shots on Goal,Nashville Predators v Chicago Blackhawks,-6.442577030812324
-Calgary Flames,Montreal Canadiens,Morgan Frost,1.5,1.7,Neds,2.1,Bet365,Player Shots on Goal,Calgary Flames v Montreal Canadiens,-6.442577030812324
-Florida Panthers,Buffalo Sabres,Jiri Kulich,1.5,1.7,Neds,2.1,Bet365,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-6.442577030812324
-Philadelphia Flyers,Seattle Kraken,Vince Dunn,1.5,1.7,Neds,2.1,Pinnacle,Player Shots on Goal,Philadelphia Flyers v Seattle Kraken,-6.442577030812324
 Florida Panthers,Buffalo Sabres,Tage Thompson,2.5,1.588,Pinnacle,2.3,Bet365,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-6.450553061000974
-Ottawa Senators,New York Rangers,Vincent Trocheck,2.5,1.98,Neds,1.787,Pinnacle,Player Shots on Goal,Ottawa Senators v New York Rangers,-6.464759514563667
 Calgary Flames,Montreal Canadiens,Matt Coronato,2.5,2.32,Bet365,1.578,Pinnacle,Player Shots on Goal,Calgary Flames v Montreal Canadiens,-6.474804422883618
 Los Angeles Kings,St. Louis Blues,Jordan Kyrou,2.5,2.32,Bet365,1.578,Pinnacle,Player Shots on Goal,Los Angeles Kings v St. Louis Blues,-6.474804422883618
-Tampa Bay Lightning,Boston Bruins,Nikita Kucherov,2.5,1.578,Pinnacle,2.32,Bet365,Player Shots on Goal,Tampa Bay Lightning v Boston Bruins,-6.474804422883618
-Tampa Bay Lightning,Boston Bruins,Morgan Geekie,2.5,2.4,Bet365,1.543,Pinnacle,Player Shots on Goal,Tampa Bay Lightning v Boston Bruins,-6.475480665370492
-Florida Panthers,Buffalo Sabres,Rasmus Dahlin,2.5,2.45,Bet365,1.523,Pinnacle,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-6.476208342824985
-Ottawa Senators,New York Rangers,Vincent Trocheck,2.5,2.04,Pinnacle,1.74,Bet365,Player Shots on Goal,Ottawa Senators v New York Rangers,-6.490872210953347
-San Jose Sharks,New York Islanders,Kyle Palmieri,2.5,2.35,Bet365,1.564,Pinnacle,Player Shots on Goal,San Jose Sharks v New York Islanders,-6.491810415192911
 Colorado Avalanche,Toronto Maple Leafs,Brock Nelson,2.5,2.35,Bet365,1.564,Pinnacle,Player Shots on Goal,Colorado Avalanche v Toronto Maple Leafs,-6.491810415192911
-San Jose Sharks,New York Islanders,Noah Dobson,2.5,2,Bet365,1.77,Neds,Player Shots on Goal,San Jose Sharks v New York Islanders,-6.49717514124295
-Calgary Flames,Montreal Canadiens,Rasmus Andersson,1.5,1.77,Neds,2,Bet365,Player Shots on Goal,Calgary Flames v Montreal Canadiens,-6.49717514124295
-Calgary Flames,Montreal Canadiens,Yegor Sharangovich,1.5,1.77,Neds,2,Bet365,Player Shots on Goal,Calgary Flames v Montreal Canadiens,-6.49717514124295
-Edmonton Oilers,Dallas Stars,Mason Marchment,1.5,1.77,Neds,2,Bet365,Player Shots on Goal,Edmonton Oilers v Dallas Stars,-6.49717514124295
-Florida Panthers,Buffalo Sabres,Carter Verhaeghe,2.5,1.77,Neds,2,Bet365,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-6.49717514124295
-Los Angeles Kings,St. Louis Blues,Adrian Kempe,2.5,1.77,Neds,2,Bet365,Player Shots on Goal,Los Angeles Kings v St. Louis Blues,-6.49717514124295
-Philadelphia Flyers,Seattle Kraken,Eeli Tolvanen,1.5,1.77,Neds,2,Bet365,Player Shots on Goal,Philadelphia Flyers v Seattle Kraken,-6.49717514124295
-San Jose Sharks,New York Islanders,Adam Pelech,1.5,1.77,Neds,2,Bet365,Player Shots on Goal,San Jose Sharks v New York Islanders,-6.49717514124295
+Colorado Avalanche,Toronto Maple Leafs,Nathan MacKinnon,3.5,1.77,Neds,2,Bet365,Player Shots on Goal,Colorado Avalanche v Toronto Maple Leafs,-6.49717514124295
 Los Angeles Kings,St. Louis Blues,Dylan Holloway,1.5,1.5,Bet365,2.51,Pinnacle,Player Shots on Goal,Los Angeles Kings v St. Louis Blues,-6.507304116865864
 Edmonton Oilers,Dallas Stars,Darnell Nurse,1.5,1.5,Bet365,2.51,Pinnacle,Player Shots on Goal,Edmonton Oilers v Dallas Stars,-6.507304116865864
-Philadelphia Flyers,Seattle Kraken,Jaden Schwartz,2.5,2.51,Pinnacle,1.5,Bet365,Player Shots on Goal,Philadelphia Flyers v Seattle Kraken,-6.507304116865864
-Calgary Flames,Montreal Canadiens,Nick Suzuki,1.5,1.53,Neds,2.43,Pinnacle,Player Shots on Goal,Calgary Flames v Montreal Canadiens,-6.511740498668606
-Ottawa Senators,New York Rangers,Drake Batherson,1.5,1.53,Neds,2.43,Pinnacle,Player Shots on Goal,Ottawa Senators v New York Rangers,-6.511740498668606
 Colorado Avalanche,Toronto Maple Leafs,Nathan MacKinnon,3.5,1.769,Pinnacle,2,Bet365,Player Shots on Goal,Colorado Avalanche v Toronto Maple Leafs,-6.529112492933864
 Florida Panthers,Buffalo Sabres,Carter Verhaeghe,2.5,1.769,Pinnacle,2,Bet365,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-6.529112492933864
 Los Angeles Kings,St. Louis Blues,Alex Laferriere,2.5,2.38,Pinnacle,1.55,Bet365,Player Shots on Goal,Los Angeles Kings v St. Louis Blues,-6.532935754947133
-Edmonton Oilers,Dallas Stars,Leon Draisaitl,2.5,1.6,Neds,2.27,Pinnacle,Player Shots on Goal,Edmonton Oilers v Dallas Stars,-6.552863436123335
-San Jose Sharks,New York Islanders,Will Smith,1.5,1.6,Neds,2.27,Pinnacle,Player Shots on Goal,San Jose Sharks v New York Islanders,-6.552863436123335
-Colorado Avalanche,Toronto Maple Leafs,Auston Matthews,3.5,1.854,Pinnacle,1.9,Bet365,Player Shots on Goal,Colorado Avalanche v Toronto Maple Leafs,-6.569011525577695
-San Jose Sharks,New York Islanders,Simon Holmstrom,1.5,1.854,Pinnacle,1.9,Bet365,Player Shots on Goal,San Jose Sharks v New York Islanders,-6.569011525577695
-Calgary Flames,Montreal Canadiens,Patrik Laine,1.5,1.62,Neds,2.23,Pinnacle,Player Shots on Goal,Calgary Flames v Montreal Canadiens,-6.571444389082659
-Ottawa Senators,New York Rangers,Will Cuylle,1.5,1.62,Neds,2.23,Pinnacle,Player Shots on Goal,Ottawa Senators v New York Rangers,-6.571444389082659
-Los Angeles Kings,St. Louis Blues,Robert Thomas,1.5,1.58,Neds,2.31,Pinnacle,Player Shots on Goal,Los Angeles Kings v St. Louis Blues,-6.581182530549601
-Nashville Predators,Chicago Blackhawks,Brady Skjei,1.5,1.58,Neds,2.31,Pinnacle,Player Shots on Goal,Nashville Predators v Chicago Blackhawks,-6.581182530549601
-San Jose Sharks,New York Islanders,Kyle Palmieri,2.5,2.31,Pinnacle,1.58,Neds,Player Shots on Goal,San Jose Sharks v New York Islanders,-6.581182530549601
-Ottawa Senators,New York Rangers,Vincent Trocheck,2.5,2.05,Bet365,1.73,Neds,Player Shots on Goal,Ottawa Senators v New York Rangers,-6.583956012970549
-San Jose Sharks,New York Islanders,Anders Lee,2.5,2.05,Bet365,1.73,Neds,Player Shots on Goal,San Jose Sharks v New York Islanders,-6.583956012970549
-Tampa Bay Lightning,Boston Bruins,Brandon Hagel,2.5,2.05,Bet365,1.73,Neds,Player Shots on Goal,Tampa Bay Lightning v Boston Bruins,-6.583956012970549
-Calgary Flames,Montreal Canadiens,Joel Armia,1.5,2.05,Bet365,1.73,Neds,Player Shots on Goal,Calgary Flames v Montreal Canadiens,-6.583956012970549
-Nashville Predators,Chicago Blackhawks,Ilya Mikheyev,1.5,2.05,Bet365,1.73,Neds,Player Shots on Goal,Nashville Predators v Chicago Blackhawks,-6.583956012970549
-Edmonton Oilers,Dallas Stars,Jason Robertson,2.5,1.73,Neds,2.05,Bet365,Player Shots on Goal,Edmonton Oilers v Dallas Stars,-6.583956012970549
-Ottawa Senators,New York Rangers,Alexis Lafreniere,1.5,1.73,Neds,2.05,Bet365,Player Shots on Goal,Ottawa Senators v New York Rangers,-6.583956012970549
-Philadelphia Flyers,Seattle Kraken,Owen Tippett,2.5,1.73,Neds,2.05,Bet365,Player Shots on Goal,Philadelphia Flyers v Seattle Kraken,-6.583956012970549
-San Jose Sharks,New York Islanders,Tyler Toffoli,2.5,1.73,Neds,2.05,Bet365,Player Shots on Goal,San Jose Sharks v New York Islanders,-6.583956012970549
-Ottawa Senators,New York Rangers,Drake Batherson,1.5,1.52,Bet365,2.45,Bet365,Player Shots on Goal,Ottawa Senators v New York Rangers,-6.605800214822777
-Philadelphia Flyers,Seattle Kraken,Tyson Foerster,1.5,1.52,Bet365,2.45,Bet365,Player Shots on Goal,Philadelphia Flyers v Seattle Kraken,-6.605800214822777
-Florida Panthers,Buffalo Sabres,Alex Tuch,2.5,2.45,Bet365,1.52,Bet365,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-6.605800214822777
+Colorado Avalanche,Toronto Maple Leafs,Cale Makar,2.5,1.62,Neds,2.23,Pinnacle,Player Shots on Goal,Colorado Avalanche v Toronto Maple Leafs,-6.571444389082659
+Colorado Avalanche,Toronto Maple Leafs,Martin Necas,2.5,2.05,Bet365,1.73,Neds,Player Shots on Goal,Colorado Avalanche v Toronto Maple Leafs,-6.583956012970549
+Colorado Avalanche,Toronto Maple Leafs,William Nylander,2.5,1.73,Neds,2.05,Bet365,Player Shots on Goal,Colorado Avalanche v Toronto Maple Leafs,-6.583956012970549
+Florida Panthers,Buffalo Sabres,Gustav Forsling,1.5,1.52,Bet365,2.45,Bet365,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-6.605800214822777
 Florida Panthers,Buffalo Sabres,Mackie Samoskevich,1.5,1.52,Bet365,2.45,Bet365,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-6.605800214822777
-Florida Panthers,Buffalo Sabres,Rasmus Dahlin,2.5,2.45,Bet365,1.52,Bet365,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-6.605800214822777
 Calgary Flames,Montreal Canadiens,Mikael Backlund,1.5,1.52,Bet365,2.45,Bet365,Player Shots on Goal,Calgary Flames v Montreal Canadiens,-6.605800214822777
 Calgary Flames,Montreal Canadiens,Nicholas Suzuki,1.5,1.52,Bet365,2.45,Bet365,Player Shots on Goal,Calgary Flames v Montreal Canadiens,-6.605800214822777
-Colorado Avalanche,Toronto Maple Leafs,John Tavares,2.5,2.45,Bet365,1.52,Bet365,Player Shots on Goal,Colorado Avalanche v Toronto Maple Leafs,-6.605800214822777
 Nashville Predators,Chicago Blackhawks,Ryan Donato,2.5,2.45,Bet365,1.52,Bet365,Player Shots on Goal,Nashville Predators v Chicago Blackhawks,-6.605800214822777
-Nashville Predators,Chicago Blackhawks,Ryan O'Reilly,2.5,2.45,Bet365,1.52,Bet365,Player Shots on Goal,Nashville Predators v Chicago Blackhawks,-6.605800214822777
 Los Angeles Kings,St. Louis Blues,Trevor Moore,2.5,2.45,Bet365,1.52,Bet365,Player Shots on Goal,Los Angeles Kings v St. Louis Blues,-6.605800214822777
-Edmonton Oilers,Dallas Stars,Viktor Arvidsson,1.5,1.52,Bet365,2.45,Bet365,Player Shots on Goal,Edmonton Oilers v Dallas Stars,-6.605800214822777
-Philadelphia Flyers,Seattle Kraken,Jared McCann,2.5,2.33,Pinnacle,1.57,Bet365,Player Shots on Goal,Philadelphia Flyers v Seattle Kraken,-6.612722451545894
-Philadelphia Flyers,Seattle Kraken,Jared McCann,2.5,2.33,Pinnacle,1.5699999999999998,Neds,Player Shots on Goal,Philadelphia Flyers v Seattle Kraken,-6.612722451545894
+Florida Panthers,Buffalo Sabres,Alex Tuch,2.5,2.35,Bet365,1.561,Pinnacle,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-6.6146905284392155
 Nashville Predators,Chicago Blackhawks,Brady Skjei,1.5,1.561,Pinnacle,2.35,Bet365,Player Shots on Goal,Nashville Predators v Chicago Blackhawks,-6.6146905284392155
-Colorado Avalanche,Toronto Maple Leafs,Martin Necas,2.5,2.05,Bet365,1.729,Pinnacle,Player Shots on Goal,Colorado Avalanche v Toronto Maple Leafs,-6.617387747041148
-Nashville Predators,Chicago Blackhawks,Ilya Mikheyev,1.5,2.05,Bet365,1.729,Pinnacle,Player Shots on Goal,Nashville Predators v Chicago Blackhawks,-6.617387747041148
-Colorado Avalanche,Toronto Maple Leafs,Valeri Nichushkin,2.5,1.86,Bet365,1.892,Pinnacle,Player Shots on Goal,Colorado Avalanche v Toronto Maple Leafs,-6.6175634817795315
+San Jose Sharks,New York Islanders,Anders Lee,2.5,2.05,Bet365,1.729,Pinnacle,Player Shots on Goal,San Jose Sharks v New York Islanders,-6.617387747041148
+Calgary Flames,Montreal Canadiens,Juraj Slafkovsky,1.5,1.729,Pinnacle,2.05,Bet365,Player Shots on Goal,Calgary Flames v Montreal Canadiens,-6.617387747041148
+Florida Panthers,Buffalo Sabres,Sam Bennett,2.5,1.574,Pinnacle,2.32,Bet365,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-6.635849800639715
+Edmonton Oilers,Dallas Stars,Connor McDavid,2.5,1.64,Bet365,2.19,Pinnacle,Player Shots on Goal,Edmonton Oilers v Dallas Stars,-6.637710212718573
+San Jose Sharks,New York Islanders,William Eklund,1.5,1.64,Bet365,2.19,Pinnacle,Player Shots on Goal,San Jose Sharks v New York Islanders,-6.637710212718573
 Calgary Flames,Montreal Canadiens,MacKenzie Weegar,2.5,2.19,Pinnacle,1.64,Bet365,Player Shots on Goal,Calgary Flames v Montreal Canadiens,-6.637710212718573
+Nashville Predators,Chicago Blackhawks,Steven Stamkos,2.5,2.19,Pinnacle,1.64,Bet365,Player Shots on Goal,Nashville Predators v Chicago Blackhawks,-6.637710212718573
 Edmonton Oilers,Dallas Stars,Mikko Rantanen,2.5,1.95,Bet365,1.806,Pinnacle,Player Shots on Goal,Edmonton Oilers v Dallas Stars,-6.653036885595043
 Colorado Avalanche,Toronto Maple Leafs,Devon Toews,1.5,1.806,Pinnacle,1.95,Bet365,Player Shots on Goal,Colorado Avalanche v Toronto Maple Leafs,-6.653036885595043
 Edmonton Oilers,Dallas Stars,Matt Duchene,1.5,1.806,Pinnacle,1.95,Bet365,Player Shots on Goal,Edmonton Oilers v Dallas Stars,-6.653036885595043
-Nashville Predators,Chicago Blackhawks,Jonathan Marchessault,2.5,1.806,Pinnacle,1.95,Bet365,Player Shots on Goal,Nashville Predators v Chicago Blackhawks,-6.653036885595043
-Ottawa Senators,New York Rangers,Shane Pinto,1.5,1.5,Bet365,2.5,Bet365,Player Shots on Goal,Ottawa Senators v New York Rangers,-6.666666666666665
-Ottawa Senators,New York Rangers,Thomas Chabot,2.5,2.5,Bet365,1.5,Bet365,Player Shots on Goal,Ottawa Senators v New York Rangers,-6.666666666666665
-Ottawa Senators,New York Rangers,Tim Stutzle,1.5,1.5,Bet365,2.5,Bet365,Player Shots on Goal,Ottawa Senators v New York Rangers,-6.666666666666665
-Philadelphia Flyers,Seattle Kraken,Jaden Schwartz,2.5,2.5,Bet365,1.5,Bet365,Player Shots on Goal,Philadelphia Flyers v Seattle Kraken,-6.666666666666665
-Tampa Bay Lightning,Boston Bruins,Elias Lindholm,1.5,1.5,Bet365,2.5,Bet365,Player Shots on Goal,Tampa Bay Lightning v Boston Bruins,-6.666666666666665
 Colorado Avalanche,Toronto Maple Leafs,Mitchell Marner,1.5,1.5,Bet365,2.5,Bet365,Player Shots on Goal,Colorado Avalanche v Toronto Maple Leafs,-6.666666666666665
+Nashville Predators,Chicago Blackhawks,Ryan O'Reilly,2.5,2.5,Bet365,1.5,Bet365,Player Shots on Goal,Nashville Predators v Chicago Blackhawks,-6.666666666666665
 Los Angeles Kings,St. Louis Blues,Dylan Holloway,1.5,1.5,Bet365,2.5,Bet365,Player Shots on Goal,Los Angeles Kings v St. Louis Blues,-6.666666666666665
 Edmonton Oilers,Dallas Stars,Darnell Nurse,1.5,1.5,Bet365,2.5,Bet365,Player Shots on Goal,Edmonton Oilers v Dallas Stars,-6.666666666666665
-Calgary Flames,Montreal Canadiens,Cole Caufield,2.5,1.7,Neds,2.09,Pinnacle,Player Shots on Goal,Calgary Flames v Montreal Canadiens,-6.670419363917812
-Florida Panthers,Buffalo Sabres,Alex Tuch,2.5,2.42,Pinnacle,1.53,Neds,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-6.681791173769791
-Nashville Predators,Chicago Blackhawks,Ryan Donato,2.5,2.42,Pinnacle,1.53,Neds,Player Shots on Goal,Nashville Predators v Chicago Blackhawks,-6.681791173769791
-San Jose Sharks,New York Islanders,Simon Holmstrom,1.5,1.85,Neds,1.9,Bet365,Player Shots on Goal,San Jose Sharks v New York Islanders,-6.685633001422464
-Tampa Bay Lightning,Boston Bruins,Pavel Zacha,1.5,1.85,Neds,1.9,Bet365,Player Shots on Goal,Tampa Bay Lightning v Boston Bruins,-6.685633001422464
+Edmonton Oilers,Dallas Stars,Viktor Arvidsson,1.5,1.5,Bet365,2.5,Bet365,Player Shots on Goal,Edmonton Oilers v Dallas Stars,-6.666666666666665
+Colorado Avalanche,Toronto Maple Leafs,Mitch Marner,1.5,1.5,Neds,2.5,Pinnacle,Player Shots on Goal,Colorado Avalanche v Toronto Maple Leafs,-6.666666666666665
+Colorado Avalanche,Toronto Maple Leafs,Auston Matthews,3.5,1.85,Neds,1.9,Bet365,Player Shots on Goal,Colorado Avalanche v Toronto Maple Leafs,-6.685633001422464
 Colorado Avalanche,Toronto Maple Leafs,Artturi Lehkonen,1.5,1.55,Bet365,2.37,Pinnacle,Player Shots on Goal,Colorado Avalanche v Toronto Maple Leafs,-6.710221859262289
-Tampa Bay Lightning,Boston Bruins,Anthony Cirelli,1.5,1.763,Pinnacle,2,Bet365,Player Shots on Goal,Tampa Bay Lightning v Boston Bruins,-6.7214974475326095
-Colorado Avalanche,Toronto Maple Leafs,Martin Necas,2.5,2.03,Pinnacle,1.74,Bet365,Player Shots on Goal,Colorado Avalanche v Toronto Maple Leafs,-6.732348111658459
-Nashville Predators,Chicago Blackhawks,Ilya Mikheyev,1.5,2.03,Pinnacle,1.74,Bet365,Player Shots on Goal,Nashville Predators v Chicago Blackhawks,-6.732348111658459
+San Jose Sharks,New York Islanders,Anders Lee,2.5,2.03,Pinnacle,1.74,Bet365,Player Shots on Goal,San Jose Sharks v New York Islanders,-6.732348111658459
 Los Angeles Kings,St. Louis Blues,Robert Thomas,1.5,1.558,Pinnacle,2.35,Bet365,Player Shots on Goal,Los Angeles Kings v St. Louis Blues,-6.738043864201249
 Florida Panthers,Buffalo Sabres,Tage Thompson,2.5,1.6,Bet365,2.26,Pinnacle,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-6.747787610619471
-Ottawa Senators,New York Rangers,J.T. Miller,1.5,1.6,Neds,2.26,Pinnacle,Player Shots on Goal,Ottawa Senators v New York Rangers,-6.747787610619471
 Calgary Flames,Montreal Canadiens,Mike Matheson,1.5,1.66,Bet365,2.15,Pinnacle,Player Shots on Goal,Calgary Flames v Montreal Canadiens,-6.752591762398441
-Tampa Bay Lightning,Boston Bruins,Jake Guentzel,2.5,2.15,Pinnacle,1.66,Bet365,Player Shots on Goal,Tampa Bay Lightning v Boston Bruins,-6.752591762398441
+Edmonton Oilers,Dallas Stars,Leon Draisaitl,2.5,1.571,Pinnacle,2.32,Bet365,Player Shots on Goal,Edmonton Oilers v Dallas Stars,-6.75717201870103
 Edmonton Oilers,Dallas Stars,Roope Hintz,1.5,1.571,Pinnacle,2.32,Bet365,Player Shots on Goal,Edmonton Oilers v Dallas Stars,-6.75717201870103
-Florida Panthers,Buffalo Sabres,Sam Bennett,2.5,1.571,Pinnacle,2.32,Bet365,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-6.75717201870103
-Nashville Predators,Chicago Blackhawks,Luke Evangelista,1.5,1.571,Pinnacle,2.32,Bet365,Player Shots on Goal,Nashville Predators v Chicago Blackhawks,-6.75717201870103
-Florida Panthers,Buffalo Sabres,JJ Peterka,2.5,2.3,Pinnacle,1.58,Bet365,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-6.769400110071544
-Los Angeles Kings,St. Louis Blues,Trevor Moore,2.5,2.44,Pinnacle,1.52,Bet365,Player Shots on Goal,Los Angeles Kings v St. Louis Blues,-6.773080241587581
-Tampa Bay Lightning,Boston Bruins,Pavel Zacha,1.5,1.847,Pinnacle,1.9,Bet365,Player Shots on Goal,Tampa Bay Lightning v Boston Bruins,-6.773430598694885
-Ottawa Senators,New York Rangers,Dylan Cozens,1.5,1.62,Bet365,2.22,Pinnacle,Player Shots on Goal,Ottawa Senators v New York Rangers,-6.773440106773432
+Colorado Avalanche,Toronto Maple Leafs,Brock Nelson,2.5,2.3,Pinnacle,1.58,Neds,Player Shots on Goal,Colorado Avalanche v Toronto Maple Leafs,-6.769400110071544
+Colorado Avalanche,Toronto Maple Leafs,Auston Matthews,3.5,1.847,Pinnacle,1.9,Bet365,Player Shots on Goal,Colorado Avalanche v Toronto Maple Leafs,-6.773430598694885
 Los Angeles Kings,St. Louis Blues,Quinton Byfield,1.5,1.62,Bet365,2.22,Pinnacle,Player Shots on Goal,Los Angeles Kings v St. Louis Blues,-6.773440106773432
-Ottawa Senators,New York Rangers,Claude Giroux,1.5,1.8,Bet365,1.952,Pinnacle,Player Shots on Goal,Ottawa Senators v New York Rangers,-6.785063752276876
-San Jose Sharks,New York Islanders,Anthony Duclair,1.5,1.917,Pinnacle,1.83,Bet365,Player Shots on Goal,San Jose Sharks v New York Islanders,-6.809649640404647
-San Jose Sharks,New York Islanders,Adam Pelech,1.5,1.76,Bet365,2,Bet365,Player Shots on Goal,San Jose Sharks v New York Islanders,-6.818181818181834
-San Jose Sharks,New York Islanders,Noah Dobson,2.5,2,Bet365,1.76,Bet365,Player Shots on Goal,San Jose Sharks v New York Islanders,-6.818181818181834
-Philadelphia Flyers,Seattle Kraken,Eeli Tolvanen,1.5,1.76,Bet365,2,Bet365,Player Shots on Goal,Philadelphia Flyers v Seattle Kraken,-6.818181818181834
-Philadelphia Flyers,Seattle Kraken,Noah Cates,1.5,1.76,Bet365,2,Bet365,Player Shots on Goal,Philadelphia Flyers v Seattle Kraken,-6.818181818181834
-Tampa Bay Lightning,Boston Bruins,Anthony Cirelli,1.5,1.76,Bet365,2,Bet365,Player Shots on Goal,Tampa Bay Lightning v Boston Bruins,-6.818181818181834
+San Jose Sharks,New York Islanders,Macklin Celebrini,3.5,2.22,Pinnacle,1.62,Bet365,Player Shots on Goal,San Jose Sharks v New York Islanders,-6.773440106773432
+Florida Panthers,Buffalo Sabres,Sam Reinhart,2.5,1.83,Bet365,1.917,Pinnacle,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-6.809649640404647
 Florida Panthers,Buffalo Sabres,Carter Verhaeghe,2.5,1.76,Bet365,2,Bet365,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-6.818181818181834
 Calgary Flames,Montreal Canadiens,Rasmus Andersson,1.5,1.76,Bet365,2,Bet365,Player Shots on Goal,Calgary Flames v Montreal Canadiens,-6.818181818181834
 Calgary Flames,Montreal Canadiens,Yegor Sharangovich,1.5,1.76,Bet365,2,Bet365,Player Shots on Goal,Calgary Flames v Montreal Canadiens,-6.818181818181834
 Colorado Avalanche,Toronto Maple Leafs,Nathan MacKinnon,3.5,1.76,Bet365,2,Bet365,Player Shots on Goal,Colorado Avalanche v Toronto Maple Leafs,-6.818181818181834
 Los Angeles Kings,St. Louis Blues,Adrian Kempe,2.5,1.76,Bet365,2,Bet365,Player Shots on Goal,Los Angeles Kings v St. Louis Blues,-6.818181818181834
+Edmonton Oilers,Dallas Stars,Jason Robertson,2.5,1.76,Bet365,2,Bet365,Player Shots on Goal,Edmonton Oilers v Dallas Stars,-6.818181818181834
 Edmonton Oilers,Dallas Stars,Mason Marchment,1.5,1.76,Bet365,2,Bet365,Player Shots on Goal,Edmonton Oilers v Dallas Stars,-6.818181818181834
 Edmonton Oilers,Dallas Stars,Wyatt Johnston,2.5,2,Bet365,1.76,Bet365,Player Shots on Goal,Edmonton Oilers v Dallas Stars,-6.818181818181834
-Florida Panthers,Buffalo Sabres,Seth Jones,1.5,1.73,Neds,2.04,Pinnacle,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-6.823076051229737
-Ottawa Senators,New York Rangers,Vincent Trocheck,2.5,2.04,Pinnacle,1.73,Neds,Player Shots on Goal,Ottawa Senators v New York Rangers,-6.823076051229737
-Tampa Bay Lightning,Boston Bruins,Elias Lindholm,1.5,1.5,Bet365,2.49,Pinnacle,Player Shots on Goal,Tampa Bay Lightning v Boston Bruins,-6.827309236947787
-Ottawa Senators,New York Rangers,Thomas Chabot,2.5,2.49,Pinnacle,1.5,Bet365,Player Shots on Goal,Ottawa Senators v New York Rangers,-6.827309236947787
-Los Angeles Kings,St. Louis Blues,Pavel Buchnevich,1.5,1.67,Neds,2.13,Pinnacle,Player Shots on Goal,Los Angeles Kings v St. Louis Blues,-6.828596328469816
+San Jose Sharks,New York Islanders,Adam Pelech,1.5,1.76,Bet365,2,Bet365,Player Shots on Goal,San Jose Sharks v New York Islanders,-6.818181818181834
+San Jose Sharks,New York Islanders,Noah Dobson,2.5,2,Bet365,1.76,Bet365,Player Shots on Goal,San Jose Sharks v New York Islanders,-6.818181818181834
 Edmonton Oilers,Anaheim Ducks,Connor McDavid,3.5,2.34,Sportsbet,1.56,Sportsbet,Player Shots on Goal,Edmonton Oilers v Anaheim Ducks,-6.8376068376068355
-Ottawa Senators,New York Rangers,Claude Giroux,1.5,1.8,Bet365,1.95,Bet365,Player Shots on Goal,Ottawa Senators v New York Rangers,-6.837606837606858
-Philadelphia Flyers,Seattle Kraken,Sean Couturier,1.5,1.8,Bet365,1.95,Bet365,Player Shots on Goal,Philadelphia Flyers v Seattle Kraken,-6.837606837606858
-Tampa Bay Lightning,Boston Bruins,Mason Lohrei,1.5,1.8,Bet365,1.95,Bet365,Player Shots on Goal,Tampa Bay Lightning v Boston Bruins,-6.837606837606858
 Colorado Avalanche,Toronto Maple Leafs,Bobby McMann,1.5,1.95,Bet365,1.8,Bet365,Player Shots on Goal,Colorado Avalanche v Toronto Maple Leafs,-6.837606837606858
 Colorado Avalanche,Toronto Maple Leafs,Devon Toews,1.5,1.8,Bet365,1.95,Bet365,Player Shots on Goal,Colorado Avalanche v Toronto Maple Leafs,-6.837606837606858
 Nashville Predators,Chicago Blackhawks,Jonathan Marchessault,2.5,1.8,Bet365,1.95,Bet365,Player Shots on Goal,Nashville Predators v Chicago Blackhawks,-6.837606837606858
@@ -348,192 +183,153 @@ Edmonton Oilers,Dallas Stars,Matt Duchene,1.5,1.8,Bet365,1.95,Bet365,Player Shot
 Edmonton Oilers,Dallas Stars,Mikko Rantanen,2.5,1.95,Bet365,1.8,Bet365,Player Shots on Goal,Edmonton Oilers v Dallas Stars,-6.837606837606858
 Edmonton Oilers,Dallas Stars,Zach Hyman,2.5,1.8,Bet365,1.95,Bet365,Player Shots on Goal,Edmonton Oilers v Dallas Stars,-6.837606837606858
 Edmonton Oilers,Dallas Stars,Matt Duchene,1.5,1.806,Pinnacle,1.943,Pinnacle,Player Shots on Goal,Edmonton Oilers v Dallas Stars,-6.837789515020853
-Nashville Predators,Chicago Blackhawks,Jonathan Marchessault,2.5,1.806,Pinnacle,1.943,Pinnacle,Player Shots on Goal,Nashville Predators v Chicago Blackhawks,-6.837789515020853
+San Jose Sharks,New York Islanders,Simon Holmstrom,1.5,1.86,Bet365,1.884,Pinnacle,Player Shots on Goal,San Jose Sharks v New York Islanders,-6.841997123484678
 Calgary Flames,Montreal Canadiens,Rasmus Andersson,1.5,1.775,Pinnacle,1.98,Pinnacle,Player Shots on Goal,Calgary Flames v Montreal Canadiens,-6.8430786740645955
 Philadelphia Flyers,Seattle Kraken,Noah Cates,1.5,1.775,Pinnacle,1.98,Pinnacle,Player Shots on Goal,Philadelphia Flyers v Seattle Kraken,-6.8430786740645955
-Ottawa Senators,New York Rangers,Mika Zibanejad,2.5,2.18,Pinnacle,1.64,Bet365,Player Shots on Goal,Ottawa Senators v New York Rangers,-6.847169389125085
-Tampa Bay Lightning,Boston Bruins,David Pastrnak,4.5,2.18,Pinnacle,1.64,Bet365,Player Shots on Goal,Tampa Bay Lightning v Boston Bruins,-6.847169389125085
-Philadelphia Flyers,Seattle Kraken,Owen Tippett,2.5,1.751,Pinnacle,2.01,Pinnacle,Player Shots on Goal,Philadelphia Flyers v Seattle Kraken,-6.861466510963199
-Florida Panthers,Buffalo Sabres,JJ Peterka,2.5,2.32,Bet365,1.568,Pinnacle,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-6.878958479943709
+Florida Panthers,Buffalo Sabres,Rasmus Dahlin,2.5,2.4,Bet365,1.534,Pinnacle,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-6.85571490656236
 Calgary Flames,Montreal Canadiens,Morgan Frost,1.5,1.714,Pinnacle,2.06,Pinnacle,Player Shots on Goal,Calgary Flames v Montreal Canadiens,-6.886746496584384
-Ottawa Senators,New York Rangers,Shane Pinto,1.5,1.495,Pinnacle,2.5,Bet365,Player Shots on Goal,Ottawa Senators v New York Rangers,-6.889632107023402
+Florida Panthers,Buffalo Sabres,Rasmus Dahlin,2.5,2.36,Pinnacle,1.55,Bet365,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-6.889010388190275
+Edmonton Oilers,Dallas Stars,Viktor Arvidsson,1.5,1.495,Pinnacle,2.5,Bet365,Player Shots on Goal,Edmonton Oilers v Dallas Stars,-6.889632107023402
 Seattle Kraken,Minnesota Wild,Oliver Bjorkstrand,1.5,1.65,Sportsbet,2.16,Sportsbet,Player Shots on Goal,Seattle Kraken v Minnesota Wild,-6.902356902356899
-Tampa Bay Lightning,Boston Bruins,Pavel Zacha,1.5,1.85,Neds,1.892,Pinnacle,Player Shots on Goal,Tampa Bay Lightning v Boston Bruins,-6.908176675618538
 Edmonton Oilers,Dallas Stars,Wyatt Johnston,2.5,2,Bet365,1.757,Pinnacle,Player Shots on Goal,Edmonton Oilers v Dallas Stars,-6.915196357427433
+Ottawa Senators,New York Rangers,Claude Giroux,1.5,1.757,Pinnacle,2,Pinnacle,Player Shots on Goal,Ottawa Senators v New York Rangers,-6.915196357427433
 Florida Panthers,Buffalo Sabres,Anton Lundell,1.5,1.68,Bet365,2.11,Pinnacle,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-6.917174452719488
 Philadelphia Flyers,Seattle Kraken,Bobby Brink,1.5,1.925,Pinnacle,1.819,Pinnacle,Player Shots on Goal,Philadelphia Flyers v Seattle Kraken,-6.923313080542326
-Philadelphia Flyers,Seattle Kraken,Sean Couturier,1.5,1.819,Pinnacle,1.925,Pinnacle,Player Shots on Goal,Philadelphia Flyers v Seattle Kraken,-6.923313080542326
-Philadelphia Flyers,Seattle Kraken,Matty Beniers,1.5,1.826,Pinnacle,1.917,Pinnacle,Player Shots on Goal,Philadelphia Flyers v Seattle Kraken,-6.929353493073176
-San Jose Sharks,New York Islanders,Anthony Duclair,1.5,1.917,Pinnacle,1.826,Pinnacle,Player Shots on Goal,San Jose Sharks v New York Islanders,-6.929353493073176
-Ottawa Senators,New York Rangers,Drake Batherson,1.5,1.52,Bet365,2.43,Pinnacle,Player Shots on Goal,Ottawa Senators v New York Rangers,-6.941737058696118
-Florida Panthers,Buffalo Sabres,Alex Tuch,2.5,2.45,Bet365,1.512,Pinnacle,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-6.953892668178385
+Nashville Predators,Chicago Blackhawks,Filip Forsberg,3.5,1.833,Pinnacle,1.909,Pinnacle,Player Shots on Goal,Nashville Predators v Chicago Blackhawks,-6.938820535111345
+Los Angeles Kings,St. Louis Blues,Trevor Moore,2.5,2.43,Pinnacle,1.52,Bet365,Player Shots on Goal,Los Angeles Kings v St. Louis Blues,-6.941737058696118
+Los Angeles Kings,St. Louis Blues,Trevor Moore,2.5,2.45,Bet365,1.512,Pinnacle,Player Shots on Goal,Los Angeles Kings v St. Louis Blues,-6.953892668178385
+San Jose Sharks,New York Islanders,Noah Dobson,2.5,1.961,Pinnacle,1.787,Pinnacle,Player Shots on Goal,San Jose Sharks v New York Islanders,-6.954099626545274
 Edmonton Oilers,Anaheim Ducks,Troy Terry,1.5,1.61,Sportsbet,2.23,Sportsbet,Player Shots on Goal,Edmonton Oilers v Anaheim Ducks,-6.954850569590287
-Florida Panthers,Buffalo Sabres,Sam Bennett,2.5,1.58,Bet365,2.29,Pinnacle,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-6.959261511248682
-Nashville Predators,Chicago Blackhawks,Luke Evangelista,1.5,1.58,Bet365,2.29,Pinnacle,Player Shots on Goal,Nashville Predators v Chicago Blackhawks,-6.959261511248682
 Edmonton Oilers,Dallas Stars,Roope Hintz,1.5,1.58,Bet365,2.29,Pinnacle,Player Shots on Goal,Edmonton Oilers v Dallas Stars,-6.959261511248682
 Seattle Kraken,Minnesota Wild,Vince Dunn,1.5,1.58,Sportsbet,2.29,Sportsbet,Player Shots on Goal,Seattle Kraken v Minnesota Wild,-6.959261511248682
-Tampa Bay Lightning,Boston Bruins,Anthony Cirelli,1.5,1.763,Pinnacle,1.99,Pinnacle,Player Shots on Goal,Tampa Bay Lightning v Boston Bruins,-6.97275372893964
+Philadelphia Flyers,Seattle Kraken,Travis Konecny,2.5,1.99,Pinnacle,1.763,Pinnacle,Player Shots on Goal,Philadelphia Flyers v Seattle Kraken,-6.97275372893964
+Calgary Flames,Montreal Canadiens,Juraj Slafkovsky,1.5,1.74,Bet365,2.02,Pinnacle,Player Shots on Goal,Calgary Flames v Montreal Canadiens,-6.976214862865593
 San Jose Sharks,New York Islanders,Tyler Toffoli,2.5,1.74,Bet365,2.02,Pinnacle,Player Shots on Goal,San Jose Sharks v New York Islanders,-6.976214862865593
-San Jose Sharks,New York Islanders,Anders Lee,2.5,2.02,Pinnacle,1.74,Bet365,Player Shots on Goal,San Jose Sharks v New York Islanders,-6.976214862865593
-Ottawa Senators,New York Rangers,Artemi Panarin,3.5,2.21,Pinnacle,1.62,Bet365,Player Shots on Goal,Ottawa Senators v New York Rangers,-6.97726384000894
-Philadelphia Flyers,Seattle Kraken,Jordan Eberle,1.5,1.9,Bet365,1.84,Pinnacle,Player Shots on Goal,Philadelphia Flyers v Seattle Kraken,-6.979405034324948
-Philadelphia Flyers,Seattle Kraken,Kaapo Kakko,1.5,1.9,Bet365,1.84,Pinnacle,Player Shots on Goal,Philadelphia Flyers v Seattle Kraken,-6.979405034324948
-Edmonton Oilers,Dallas Stars,Evan Bouchard,2.5,1.9,Bet365,1.84,Pinnacle,Player Shots on Goal,Edmonton Oilers v Dallas Stars,-6.979405034324948
-Florida Panthers,Buffalo Sabres,Sam Reinhart,2.5,1.84,Pinnacle,1.9,Bet365,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-6.979405034324948
-Calgary Flames,Montreal Canadiens,Brendan Gallagher,1.5,1.87,Neds,1.869,Pinnacle,Player Shots on Goal,Calgary Flames v Montreal Canadiens,-6.980483715447372
-Tampa Bay Lightning,Boston Bruins,Oliver Bjorkstrand,1.5,1.87,Neds,1.869,Pinnacle,Player Shots on Goal,Tampa Bay Lightning v Boston Bruins,-6.980483715447372
-Philadelphia Flyers,Seattle Kraken,Rasmus Ristolainen,1.5,1.862,Pinnacle,1.877,Pinnacle,Player Shots on Goal,Philadelphia Flyers v Seattle Kraken,-6.982197864705153
+Colorado Avalanche,Toronto Maple Leafs,Martin Necas,2.5,2.02,Pinnacle,1.74,Bet365,Player Shots on Goal,Colorado Avalanche v Toronto Maple Leafs,-6.976214862865593
+Nashville Predators,Chicago Blackhawks,Ilya Mikheyev,1.5,2.02,Pinnacle,1.74,Bet365,Player Shots on Goal,Nashville Predators v Chicago Blackhawks,-6.976214862865593
+Tampa Bay Lightning,Boston Bruins,Brandon Hagel,2.5,2.02,Pinnacle,1.74,Pinnacle,Player Shots on Goal,Tampa Bay Lightning v Boston Bruins,-6.976214862865593
+Edmonton Oilers,Dallas Stars,Evan Bouchard,2.5,1.862,Pinnacle,1.877,Pinnacle,Player Shots on Goal,Edmonton Oilers v Dallas Stars,-6.982197864705153
+Ottawa Senators,New York Rangers,David Perron,1.5,1.877,Pinnacle,1.862,Pinnacle,Player Shots on Goal,Ottawa Senators v New York Rangers,-6.982197864705153
 San Jose Sharks,New York Islanders,Jean-Gabriel Pageau,1.5,1.862,Pinnacle,1.877,Pinnacle,Player Shots on Goal,San Jose Sharks v New York Islanders,-6.982197864705153
 Los Angeles Kings,St. Louis Blues,Alex Laferriere,2.5,2.4,Bet365,1.531,Pinnacle,Player Shots on Goal,Los Angeles Kings v St. Louis Blues,-6.983453080775104
 Colorado Avalanche,Toronto Maple Leafs,Artturi Lehkonen,1.5,1.531,Pinnacle,2.4,Bet365,Player Shots on Goal,Colorado Avalanche v Toronto Maple Leafs,-6.983453080775104
 Nashville Predators,Chicago Blackhawks,Brady Skjei,1.5,1.57,Bet365,2.31,Pinnacle,Player Shots on Goal,Nashville Predators v Chicago Blackhawks,-6.984310805966842
 Los Angeles Kings,St. Louis Blues,Robert Thomas,1.5,1.57,Bet365,2.31,Pinnacle,Player Shots on Goal,Los Angeles Kings v St. Louis Blues,-6.984310805966842
-San Jose Sharks,New York Islanders,Kyle Palmieri,2.5,2.31,Pinnacle,1.57,Bet365,Player Shots on Goal,San Jose Sharks v New York Islanders,-6.984310805966842
-Philadelphia Flyers,Seattle Kraken,Jared McCann,2.5,2.35,Bet365,1.552,Pinnacle,Player Shots on Goal,Philadelphia Flyers v Seattle Kraken,-6.9861811800833395
-Tampa Bay Lightning,Boston Bruins,Pavel Zacha,1.5,1.847,Pinnacle,1.892,Pinnacle,Player Shots on Goal,Tampa Bay Lightning v Boston Bruins,-6.995974272890959
-Calgary Flames,Montreal Canadiens,Rasmus Andersson,1.5,1.77,Neds,1.98,Pinnacle,Player Shots on Goal,Calgary Flames v Montreal Canadiens,-7.002225646293447
-Florida Panthers,Buffalo Sabres,Carter Verhaeghe,2.5,1.77,Neds,1.98,Pinnacle,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-7.002225646293447
+Colorado Avalanche,Toronto Maple Leafs,Nathan MacKinnon,3.5,1.77,Neds,1.98,Pinnacle,Player Shots on Goal,Colorado Avalanche v Toronto Maple Leafs,-7.002225646293447
 Calgary Flames,Montreal Canadiens,Brendan Gallagher,1.5,1.869,Pinnacle,1.869,Pinnacle,Player Shots on Goal,Calgary Flames v Montreal Canadiens,-7.009095773140728
-Tampa Bay Lightning,Boston Bruins,Oliver Bjorkstrand,1.5,1.869,Pinnacle,1.869,Pinnacle,Player Shots on Goal,Tampa Bay Lightning v Boston Bruins,-7.009095773140728
 Seattle Kraken,Minnesota Wild,Kaapo Kakko,1.5,1.63,Sportsbet,2.19,Sportsbet,Player Shots on Goal,Seattle Kraken v Minnesota Wild,-7.0117937081547455
-Colorado Avalanche,Toronto Maple Leafs,Auston Matthews,3.5,1.854,Pinnacle,1.884,Pinnacle,Player Shots on Goal,Colorado Avalanche v Toronto Maple Leafs,-7.015988841478915
-San Jose Sharks,New York Islanders,Simon Holmstrom,1.5,1.854,Pinnacle,1.884,Pinnacle,Player Shots on Goal,San Jose Sharks v New York Islanders,-7.015988841478915
+Philadelphia Flyers,Seattle Kraken,Rasmus Ristolainen,1.5,1.854,Pinnacle,1.884,Pinnacle,Player Shots on Goal,Philadelphia Flyers v Seattle Kraken,-7.015988841478915
+Tampa Bay Lightning,Boston Bruins,Pavel Zacha,1.5,1.854,Pinnacle,1.884,Pinnacle,Player Shots on Goal,Tampa Bay Lightning v Boston Bruins,-7.015988841478915
 Edmonton Oilers,Anaheim Ducks,Alex Killorn,1.5,2.09,Sportsbet,1.69,Sportsbet,Player Shots on Goal,Edmonton Oilers v Anaheim Ducks,-7.018487585289224
-Nashville Predators,Chicago Blackhawks,Jonathan Marchessault,2.5,1.8,Bet365,1.943,Pinnacle,Player Shots on Goal,Nashville Predators v Chicago Blackhawks,-7.022359467032668
 Edmonton Oilers,Dallas Stars,Matt Duchene,1.5,1.8,Bet365,1.943,Pinnacle,Player Shots on Goal,Edmonton Oilers v Dallas Stars,-7.022359467032668
 Edmonton Oilers,Dallas Stars,Zach Hyman,2.5,1.8,Bet365,1.943,Pinnacle,Player Shots on Goal,Edmonton Oilers v Dallas Stars,-7.022359467032668
 Colorado Avalanche,Toronto Maple Leafs,Bobby McMann,1.5,1.943,Pinnacle,1.8,Bet365,Player Shots on Goal,Colorado Avalanche v Toronto Maple Leafs,-7.022359467032668
+Philadelphia Flyers,Seattle Kraken,Sean Couturier,1.5,1.8,Pinnacle,1.943,Pinnacle,Player Shots on Goal,Philadelphia Flyers v Seattle Kraken,-7.022359467032668
 Calgary Flames,Montreal Canadiens,Morgan Frost,1.5,1.71,Bet365,2.06,Pinnacle,Player Shots on Goal,Calgary Flames v Montreal Canadiens,-7.023221484131037
-Philadelphia Flyers,Seattle Kraken,Brandon Montour,2.5,2.06,Pinnacle,1.71,Bet365,Player Shots on Goal,Philadelphia Flyers v Seattle Kraken,-7.023221484131037
+Philadelphia Flyers,Seattle Kraken,Owen Tippett,2.5,1.724,Pinnacle,2.04,Pinnacle,Player Shots on Goal,Philadelphia Flyers v Seattle Kraken,-7.024248214366957
 Colorado Avalanche,Toronto Maple Leafs,William Nylander,2.5,1.746,Pinnacle,2.01,Pinnacle,Player Shots on Goal,Colorado Avalanche v Toronto Maple Leafs,-7.025012395069341
-Philadelphia Flyers,Seattle Kraken,Travis Konecny,2.5,2.01,Pinnacle,1.746,Pinnacle,Player Shots on Goal,Philadelphia Flyers v Seattle Kraken,-7.025012395069341
-Tampa Bay Lightning,Boston Bruins,Brandon Hagel,2.5,2.01,Pinnacle,1.746,Pinnacle,Player Shots on Goal,Tampa Bay Lightning v Boston Bruins,-7.025012395069341
 Nashville Predators,Chicago Blackhawks,Filip Forsberg,3.5,1.83,Bet365,1.909,Pinnacle,Player Shots on Goal,Nashville Predators v Chicago Blackhawks,-7.028255573970865
+San Jose Sharks,New York Islanders,Anthony Duclair,1.5,1.909,Pinnacle,1.83,Bet365,Player Shots on Goal,San Jose Sharks v New York Islanders,-7.028255573970865
 Colorado Avalanche,Toronto Maple Leafs,Nathan MacKinnon,3.5,1.769,Pinnacle,1.98,Pinnacle,Player Shots on Goal,Colorado Avalanche v Toronto Maple Leafs,-7.034162997984383
 Florida Panthers,Buffalo Sabres,Carter Verhaeghe,2.5,1.769,Pinnacle,1.98,Pinnacle,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-7.034162997984383
-Ottawa Senators,New York Rangers,Alexis Lafreniere,1.5,1.769,Pinnacle,1.98,Neds,Player Shots on Goal,Ottawa Senators v New York Rangers,-7.034162997984383
+Edmonton Oilers,Dallas Stars,Evan Bouchard,2.5,1.86,Bet365,1.877,Pinnacle,Player Shots on Goal,Edmonton Oilers v Dallas Stars,-7.039945921483026
 San Jose Sharks,New York Islanders,Jean-Gabriel Pageau,1.5,1.86,Bet365,1.877,Pinnacle,Player Shots on Goal,San Jose Sharks v New York Islanders,-7.039945921483026
-Philadelphia Flyers,Seattle Kraken,Rasmus Ristolainen,1.5,1.86,Bet365,1.877,Pinnacle,Player Shots on Goal,Philadelphia Flyers v Seattle Kraken,-7.039945921483026
 Nashville Predators,Chicago Blackhawks,Ryan Donato,2.5,2.45,Bet365,1.51,Pinnacle,Player Shots on Goal,Nashville Predators v Chicago Blackhawks,-7.041492093526158
-Ottawa Senators,New York Rangers,Drake Batherson,1.5,1.51,Pinnacle,2.45,Bet365,Player Shots on Goal,Ottawa Senators v New York Rangers,-7.041492093526158
 Seattle Kraken,Minnesota Wild,Mats Zuccarello,1.5,1.51,Sportsbet,2.45,Sportsbet,Player Shots on Goal,Seattle Kraken v Minnesota Wild,-7.041492093526158
-San Jose Sharks,New York Islanders,Tony DeAngelo,1.5,1.64,Bet365,2.17,Pinnacle,Player Shots on Goal,San Jose Sharks v New York Islanders,-7.058559064853309
 Calgary Flames,Montreal Canadiens,Jonathan Huberdeau,1.5,1.64,Bet365,2.17,Pinnacle,Player Shots on Goal,Calgary Flames v Montreal Canadiens,-7.058559064853309
-Edmonton Oilers,Dallas Stars,Connor McDavid,2.5,1.64,Bet365,2.17,Pinnacle,Player Shots on Goal,Edmonton Oilers v Dallas Stars,-7.058559064853309
 Nashville Predators,Chicago Blackhawks,Connor Bedard,2.5,2.17,Pinnacle,1.64,Bet365,Player Shots on Goal,Nashville Predators v Chicago Blackhawks,-7.058559064853309
-Nashville Predators,Chicago Blackhawks,Steven Stamkos,2.5,2.17,Pinnacle,1.64,Bet365,Player Shots on Goal,Nashville Predators v Chicago Blackhawks,-7.058559064853309
-San Jose Sharks,New York Islanders,Macklin Celebrini,3.5,2.17,Pinnacle,1.64,Bet365,Player Shots on Goal,San Jose Sharks v New York Islanders,-7.058559064853309
-Nashville Predators,Chicago Blackhawks,Ilya Mikheyev,1.5,2.03,Pinnacle,1.73,Neds,Player Shots on Goal,Nashville Predators v Chicago Blackhawks,-7.064551951934872
-Tampa Bay Lightning,Boston Bruins,Morgan Geekie,2.5,2.35,Pinnacle,1.55,Bet365,Player Shots on Goal,Tampa Bay Lightning v Boston Bruins,-7.069320521619771
-Tampa Bay Lightning,Boston Bruins,Anthony Cirelli,1.5,1.76,Bet365,1.99,Pinnacle,Player Shots on Goal,Tampa Bay Lightning v Boston Bruins,-7.069438099588865
+Edmonton Oilers,Dallas Stars,Wyatt Johnston,2.5,1.99,Pinnacle,1.76,Bet365,Player Shots on Goal,Edmonton Oilers v Dallas Stars,-7.069438099588865
 Colorado Avalanche,Toronto Maple Leafs,Devon Toews,1.5,1.806,Pinnacle,1.934,Pinnacle,Player Shots on Goal,Colorado Avalanche v Toronto Maple Leafs,-7.077293773140436
 Edmonton Oilers,Dallas Stars,Mikko Rantanen,2.5,1.934,Pinnacle,1.806,Pinnacle,Player Shots on Goal,Edmonton Oilers v Dallas Stars,-7.077293773140436
 Los Angeles Kings,St. Louis Blues,Kevin Fiala,2.5,1.645,Pinnacle,2.16,Pinnacle,Player Shots on Goal,Los Angeles Kings v St. Louis Blues,-7.086569852527291
 Calgary Flames,Montreal Canadiens,MacKenzie Weegar,2.5,2.19,Pinnacle,1.628,Pinnacle,Player Shots on Goal,Calgary Flames v Montreal Canadiens,-7.0871618816824355
 Colorado Avalanche,Toronto Maple Leafs,John Tavares,2.5,2.11,Pinnacle,1.675,Pinnacle,Player Shots on Goal,Colorado Avalanche v Toronto Maple Leafs,-7.094857466223381
 Florida Panthers,Buffalo Sabres,Anton Lundell,1.5,1.675,Pinnacle,2.11,Pinnacle,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-7.094857466223381
-Colorado Avalanche,Toronto Maple Leafs,Martin Necas,2.5,2.03,Pinnacle,1.729,Pinnacle,Player Shots on Goal,Colorado Avalanche v Toronto Maple Leafs,-7.097983686005471
-Nashville Predators,Chicago Blackhawks,Ilya Mikheyev,1.5,2.03,Pinnacle,1.729,Pinnacle,Player Shots on Goal,Nashville Predators v Chicago Blackhawks,-7.097983686005471
+San Jose Sharks,New York Islanders,Anders Lee,2.5,2.03,Pinnacle,1.729,Pinnacle,Player Shots on Goal,San Jose Sharks v New York Islanders,-7.097983686005471
 Calgary Flames,Montreal Canadiens,Yegor Sharangovich,1.5,1.775,Pinnacle,1.97,Pinnacle,Player Shots on Goal,Calgary Flames v Montreal Canadiens,-7.099449488811027
 Los Angeles Kings,St. Louis Blues,Adrian Kempe,2.5,1.775,Pinnacle,1.97,Pinnacle,Player Shots on Goal,Los Angeles Kings v St. Louis Blues,-7.099449488811027
 San Jose Sharks,New York Islanders,Adam Pelech,1.5,1.775,Pinnacle,1.97,Pinnacle,Player Shots on Goal,San Jose Sharks v New York Islanders,-7.099449488811027
-Calgary Flames,Montreal Canadiens,Blake Coleman,2.5,2.08,Pinnacle,1.694,Pinnacle,Player Shots on Goal,Calgary Flames v Montreal Canadiens,-7.108800290618467
+Nashville Predators,Chicago Blackhawks,Jonathan Marchessault,2.5,1.813,Pinnacle,1.925,Pinnacle,Player Shots on Goal,Nashville Predators v Chicago Blackhawks,-7.105249962392812
 Calgary Flames,Montreal Canadiens,Nazem Kadri,3.5,2.23,Pinnacle,1.606,Pinnacle,Player Shots on Goal,Calgary Flames v Montreal Canadiens,-7.109549950019267
-Philadelphia Flyers,Seattle Kraken,Matty Beniers,1.5,1.82,Neds,1.917,Pinnacle,Player Shots on Goal,Philadelphia Flyers v Seattle Kraken,-7.109895842290204
-San Jose Sharks,New York Islanders,Anthony Duclair,1.5,1.917,Pinnacle,1.82,Neds,Player Shots on Goal,San Jose Sharks v New York Islanders,-7.109895842290204
+Los Angeles Kings,St. Louis Blues,Warren Foegele,2.5,2.23,Pinnacle,1.606,Pinnacle,Player Shots on Goal,Los Angeles Kings v St. Louis Blues,-7.109549950019267
 Calgary Flames,Montreal Canadiens,Joel Armia,1.5,2,Pinnacle,1.751,Pinnacle,Player Shots on Goal,Calgary Flames v Montreal Canadiens,-7.110222729868654
-Calgary Flames,Montreal Canadiens,Juraj Slafkovsky,1.5,1.751,Pinnacle,2,Pinnacle,Player Shots on Goal,Calgary Flames v Montreal Canadiens,-7.110222729868654
-Florida Panthers,Buffalo Sabres,Alex Tuch,2.5,2.42,Pinnacle,1.52,Bet365,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-7.1117877337973034
 Nashville Predators,Chicago Blackhawks,Ryan Donato,2.5,2.42,Pinnacle,1.52,Bet365,Player Shots on Goal,Nashville Predators v Chicago Blackhawks,-7.1117877337973034
 Edmonton Oilers,Anaheim Ducks,Viktor Arvidsson,2.5,2.42,Sportsbet,1.52,Sportsbet,Player Shots on Goal,Edmonton Oilers v Anaheim Ducks,-7.1117877337973034
 Los Angeles Kings,St. Louis Blues,Pavel Buchnevich,1.5,1.662,Pinnacle,2.13,Pinnacle,Player Shots on Goal,Los Angeles Kings v St. Louis Blues,-7.116828528330021
-Calgary Flames,Montreal Canadiens,Mike Matheson,1.5,1.65,Neds,2.15,Pinnacle,Player Shots on Goal,Calgary Flames v Montreal Canadiens,-7.117688513037357
-Tampa Bay Lightning,Boston Bruins,Jake Guentzel,2.5,2.15,Pinnacle,1.65,Neds,Player Shots on Goal,Tampa Bay Lightning v Boston Bruins,-7.117688513037357
 Edmonton Oilers,Anaheim Ducks,Leon Draisaitl,3.5,2.15,Sportsbet,1.65,Sportsbet,Player Shots on Goal,Edmonton Oilers v Anaheim Ducks,-7.117688513037357
+Edmonton Oilers,Dallas Stars,Ryan Nugent-Hopkins,1.5,1.714,Pinnacle,2.05,Pinnacle,Player Shots on Goal,Edmonton Oilers v Dallas Stars,-7.123544981074081
 Nashville Predators,Chicago Blackhawks,Frank Nazar,1.5,2.05,Pinnacle,1.714,Pinnacle,Player Shots on Goal,Nashville Predators v Chicago Blackhawks,-7.123544981074081
 Nashville Predators,Chicago Blackhawks,Tyler Bertuzzi,1.5,2.05,Pinnacle,1.714,Pinnacle,Player Shots on Goal,Nashville Predators v Chicago Blackhawks,-7.123544981074081
 Colorado Avalanche,Pittsburgh Penguins,Bryan Rust,2.5,2.37,Sportsbet,1.54,Sportsbet,Player Shots on Goal,Colorado Avalanche v Pittsburgh Penguins,-7.129157762069149
-San Jose Sharks,New York Islanders,Simon Holmstrom,1.5,1.85,Neds,1.884,Pinnacle,Player Shots on Goal,San Jose Sharks v New York Islanders,-7.132610317323684
-Philadelphia Flyers,Seattle Kraken,Eeli Tolvanen,1.5,1.917,Pinnacle,1.819,Pinnacle,Player Shots on Goal,Philadelphia Flyers v Seattle Kraken,-7.140102029725659
-San Jose Sharks,New York Islanders,Anders Lee,2.5,2.02,Pinnacle,1.735,Pinnacle,Player Shots on Goal,San Jose Sharks v New York Islanders,-7.141838103118658
+San Jose Sharks,New York Islanders,Kyle Palmieri,2.5,2.3,Pinnacle,1.571,Pinnacle,Player Shots on Goal,San Jose Sharks v New York Islanders,-7.131984612404185
+Colorado Avalanche,Toronto Maple Leafs,Auston Matthews,3.5,1.85,Neds,1.884,Pinnacle,Player Shots on Goal,Colorado Avalanche v Toronto Maple Leafs,-7.132610317323684
+Philadelphia Flyers,Seattle Kraken,Matty Beniers,1.5,1.819,Pinnacle,1.917,Pinnacle,Player Shots on Goal,Philadelphia Flyers v Seattle Kraken,-7.140102029725659
+Tampa Bay Lightning,Boston Bruins,Oliver Bjorkstrand,1.5,1.819,Pinnacle,1.917,Pinnacle,Player Shots on Goal,Tampa Bay Lightning v Boston Bruins,-7.140102029725659
+Colorado Avalanche,Toronto Maple Leafs,Martin Necas,2.5,2.02,Pinnacle,1.735,Pinnacle,Player Shots on Goal,Colorado Avalanche v Toronto Maple Leafs,-7.141838103118658
+Nashville Predators,Chicago Blackhawks,Ilya Mikheyev,1.5,2.02,Pinnacle,1.735,Pinnacle,Player Shots on Goal,Nashville Predators v Chicago Blackhawks,-7.141838103118658
 San Jose Sharks,New York Islanders,Tyler Toffoli,2.5,1.735,Pinnacle,2.02,Pinnacle,Player Shots on Goal,San Jose Sharks v New York Islanders,-7.141838103118658
+Tampa Bay Lightning,Boston Bruins,Anthony Cirelli,1.5,1.735,Pinnacle,2.02,Pinnacle,Player Shots on Goal,Tampa Bay Lightning v Boston Bruins,-7.141838103118658
 Edmonton Oilers,Dallas Stars,Mason Marchment,1.5,1.781,Pinnacle,1.961,Pinnacle,Player Shots on Goal,Edmonton Oilers v Dallas Stars,-7.142621947745198
-San Jose Sharks,New York Islanders,Noah Dobson,2.5,1.961,Pinnacle,1.781,Pinnacle,Player Shots on Goal,San Jose Sharks v New York Islanders,-7.142621947745198
-Philadelphia Flyers,Seattle Kraken,Vince Dunn,1.5,1.68,Bet365,2.1,Pinnacle,Player Shots on Goal,Philadelphia Flyers v Seattle Kraken,-7.14285714285714
-Florida Panthers,Buffalo Sabres,Anton Lundell,1.5,1.68,Bet365,2.1,Neds,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-7.14285714285714
-Tampa Bay Lightning,Boston Bruins,Anthony Cirelli,1.5,1.75,Neds,2,Bet365,Player Shots on Goal,Tampa Bay Lightning v Boston Bruins,-7.14285714285714
+Tampa Bay Lightning,Boston Bruins,Jake Guentzel,2.5,1.961,Pinnacle,1.781,Pinnacle,Player Shots on Goal,Tampa Bay Lightning v Boston Bruins,-7.142621947745198
 Edmonton Oilers,Dallas Stars,Mikael Granlund,1.5,2.1,Pinnacle,1.68,Bet365,Player Shots on Goal,Edmonton Oilers v Dallas Stars,-7.14285714285714
-Edmonton Oilers,Dallas Stars,Mikael Granlund,1.5,2.1,Pinnacle,1.6800000000000002,Neds,Player Shots on Goal,Edmonton Oilers v Dallas Stars,-7.14285714285714
-Los Angeles Kings,St. Louis Blues,Warren Foegele,2.5,2.24,Pinnacle,1.6,Bet365,Player Shots on Goal,Los Angeles Kings v St. Louis Blues,-7.14285714285714
+Philadelphia Flyers,Seattle Kraken,Vince Dunn,1.5,1.68,Pinnacle,2.1,Pinnacle,Player Shots on Goal,Philadelphia Flyers v Seattle Kraken,-7.14285714285714
 Colorado Avalanche,Pittsburgh Penguins,Kris Letang,1.5,1.68,Sportsbet,2.1,Sportsbet,Player Shots on Goal,Colorado Avalanche v Pittsburgh Penguins,-7.14285714285714
 Edmonton Oilers,Anaheim Ducks,Evan Bouchard,2.5,1.75,Sportsbet,2,Sportsbet,Player Shots on Goal,Edmonton Oilers v Anaheim Ducks,-7.14285714285714
 Seattle Kraken,Minnesota Wild,Matt Boldy,3.5,2.1,Sportsbet,1.68,Sportsbet,Player Shots on Goal,Seattle Kraken v Minnesota Wild,-7.14285714285714
-Tampa Bay Lightning,Boston Bruins,David Pastrnak,4.5,2.18,Pinnacle,1.632,Pinnacle,Player Shots on Goal,Tampa Bay Lightning v Boston Bruins,-7.146069436949087
-Nashville Predators,Chicago Blackhawks,Filip Forsberg,3.5,1.826,Pinnacle,1.909,Pinnacle,Player Shots on Goal,Nashville Predators v Chicago Blackhawks,-7.14795942663935
+Florida Panthers,Buffalo Sabres,JJ Peterka,2.5,2.2,Pinnacle,1.621,Pinnacle,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-7.144860075150028
+Tampa Bay Lightning,Boston Bruins,David Pastrnak,4.5,2.2,Pinnacle,1.621,Pinnacle,Player Shots on Goal,Tampa Bay Lightning v Boston Bruins,-7.144860075150028
+San Jose Sharks,New York Islanders,Anthony Duclair,1.5,1.909,Pinnacle,1.826,Pinnacle,Player Shots on Goal,San Jose Sharks v New York Islanders,-7.14795942663935
 Edmonton Oilers,Anaheim Ducks,Frank Vatrano,2.5,1.79,Sportsbet,1.95,Sportsbet,Player Shots on Goal,Edmonton Oilers v Anaheim Ducks,-7.147973069760782
-Tampa Bay Lightning,Boston Bruins,Nikita Kucherov,2.5,1.58,Bet365,2.28,Pinnacle,Player Shots on Goal,Tampa Bay Lightning v Boston Bruins,-7.150788363313332
+Florida Panthers,Buffalo Sabres,Sam Bennett,2.5,1.58,Bet365,2.28,Pinnacle,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-7.150788363313332
+Edmonton Oilers,Dallas Stars,Leon Draisaitl,2.5,1.58,Bet365,2.28,Pinnacle,Player Shots on Goal,Edmonton Oilers v Dallas Stars,-7.150788363313332
 Calgary Flames,Montreal Canadiens,Matt Coronato,2.5,2.28,Pinnacle,1.58,Bet365,Player Shots on Goal,Calgary Flames v Montreal Canadiens,-7.150788363313332
 Los Angeles Kings,St. Louis Blues,Jordan Kyrou,2.5,2.28,Pinnacle,1.58,Bet365,Player Shots on Goal,Los Angeles Kings v St. Louis Blues,-7.150788363313332
 Colorado Avalanche,Pittsburgh Penguins,Artturi Lehkonen,2.5,2.47,Sportsbet,1.5,Sportsbet,Player Shots on Goal,Colorado Avalanche v Pittsburgh Penguins,-7.1524966261808265
 Calgary Flames,Montreal Canadiens,Mike Matheson,1.5,1.649,Pinnacle,2.15,Pinnacle,Player Shots on Goal,Calgary Flames v Montreal Canadiens,-7.154441733538297
-Tampa Bay Lightning,Boston Bruins,Jake Guentzel,2.5,2.15,Pinnacle,1.649,Pinnacle,Player Shots on Goal,Tampa Bay Lightning v Boston Bruins,-7.154441733538297
+San Jose Sharks,New York Islanders,Tony DeAngelo,1.5,1.649,Pinnacle,2.15,Pinnacle,Player Shots on Goal,San Jose Sharks v New York Islanders,-7.154441733538297
 Edmonton Oilers,Anaheim Ducks,Jackson LaCombe,1.5,1.72,Sportsbet,2.04,Sportsbet,Player Shots on Goal,Edmonton Oilers v Anaheim Ducks,-7.159142726858181
 Edmonton Oilers,Anaheim Ducks,Trevor Zegras,1.5,1.72,Sportsbet,2.04,Sportsbet,Player Shots on Goal,Edmonton Oilers v Anaheim Ducks,-7.159142726858181
+Edmonton Oilers,Dallas Stars,Wyatt Johnston,2.5,1.99,Pinnacle,1.757,Pinnacle,Player Shots on Goal,Edmonton Oilers v Dallas Stars,-7.166452638834464
 Colorado Avalanche,Toronto Maple Leafs,Brock Nelson,2.5,2.3,Pinnacle,1.57,Bet365,Player Shots on Goal,Colorado Avalanche v Toronto Maple Leafs,-7.172528385488786
+Florida Panthers,Buffalo Sabres,Alex Tuch,2.5,2.3,Pinnacle,1.57,Bet365,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-7.172528385488786
+San Jose Sharks,New York Islanders,Kyle Palmieri,2.5,2.3,Pinnacle,1.57,Bet365,Player Shots on Goal,San Jose Sharks v New York Islanders,-7.172528385488786
 Colorado Avalanche,Pittsburgh Penguins,Rickard Rakell,2.5,2.3,Sportsbet,1.57,Sportsbet,Player Shots on Goal,Colorado Avalanche v Pittsburgh Penguins,-7.172528385488786
-San Jose Sharks,New York Islanders,Jean-Gabriel Pageau,1.5,1.862,Pinnacle,1.87,Neds,Player Shots on Goal,San Jose Sharks v New York Islanders,-7.181628632314174
-Edmonton Oilers,Dallas Stars,Leon Draisaitl,2.5,1.584,Pinnacle,2.27,Pinnacle,Player Shots on Goal,Edmonton Oilers v Dallas Stars,-7.184176567436484
-Ottawa Senators,New York Rangers,Claude Giroux,1.5,1.787,Pinnacle,1.952,Pinnacle,Player Shots on Goal,Ottawa Senators v New York Rangers,-7.189217206234444
+Florida Panthers,Buffalo Sabres,JJ Peterka,2.5,2.2,Pinnacle,1.62,Bet365,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-7.182940516273839
+Edmonton Oilers,Dallas Stars,Jason Robertson,2.5,1.9,Pinnacle,1.833,Pinnacle,Player Shots on Goal,Edmonton Oilers v Dallas Stars,-7.186952651678302
+Nashville Predators,Chicago Blackhawks,Filip Forsberg,3.5,1.833,Pinnacle,1.9,Bet365,Player Shots on Goal,Nashville Predators v Chicago Blackhawks,-7.186952651678302
 Los Angeles Kings,St. Louis Blues,Pavel Buchnevich,1.5,1.66,Bet365,2.13,Pinnacle,Player Shots on Goal,Los Angeles Kings v St. Louis Blues,-7.189320662933429
 Seattle Kraken,Minnesota Wild,Marcus Johansson,1.5,2.13,Sportsbet,1.66,Sportsbet,Player Shots on Goal,Seattle Kraken v Minnesota Wild,-7.189320662933429
-Edmonton Oilers,Dallas Stars,Ryan Nugent-Hopkins,1.5,1.719,Pinnacle,2.04,Pinnacle,Player Shots on Goal,Edmonton Oilers v Dallas Stars,-7.1929644458132325
 Florida Panthers,Buffalo Sabres,Seth Jones,1.5,1.719,Pinnacle,2.04,Pinnacle,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-7.1929644458132325
-Philadelphia Flyers,Seattle Kraken,Matvei Michkov,2.5,2.04,Pinnacle,1.719,Pinnacle,Player Shots on Goal,Philadelphia Flyers v Seattle Kraken,-7.1929644458132325
 Ottawa Senators,New York Rangers,Dylan Cozens,1.5,1.609,Pinnacle,2.22,Pinnacle,Player Shots on Goal,Ottawa Senators v New York Rangers,-7.195449022670886
+Ottawa Senators,New York Rangers,Mika Zibanejad,2.5,2.22,Pinnacle,1.609,Pinnacle,Player Shots on Goal,Ottawa Senators v New York Rangers,-7.195449022670886
 Edmonton Oilers,Anaheim Ducks,Ryan Nugent-Hopkins,1.5,1.53,Sportsbet,2.39,Sportsbet,Player Shots on Goal,Edmonton Oilers v Anaheim Ducks,-7.200481308283413
-Ottawa Senators,New York Rangers,Jake Sanderson,2.5,2.19,Pinnacle,1.625,Pinnacle,Player Shots on Goal,Ottawa Senators v New York Rangers,-7.200561995082544
-Colorado Avalanche,Toronto Maple Leafs,Valeri Nichushkin,2.5,1.84,Pinnacle,1.892,Pinnacle,Player Shots on Goal,Colorado Avalanche v Toronto Maple Leafs,-7.201948708521
+Edmonton Oilers,Dallas Stars,Connor McDavid,2.5,1.625,Pinnacle,2.19,Pinnacle,Player Shots on Goal,Edmonton Oilers v Dallas Stars,-7.200561995082544
+Nashville Predators,Chicago Blackhawks,Steven Stamkos,2.5,2.19,Pinnacle,1.625,Pinnacle,Player Shots on Goal,Nashville Predators v Chicago Blackhawks,-7.200561995082544
 Philadelphia Flyers,Seattle Kraken,Jordan Eberle,1.5,1.892,Pinnacle,1.84,Pinnacle,Player Shots on Goal,Philadelphia Flyers v Seattle Kraken,-7.201948708521
 Philadelphia Flyers,Seattle Kraken,Kaapo Kakko,1.5,1.892,Pinnacle,1.84,Pinnacle,Player Shots on Goal,Philadelphia Flyers v Seattle Kraken,-7.201948708521
 Colorado Avalanche,Pittsburgh Penguins,Cale Makar,2.5,1.56,Sportsbet,2.32,Sportsbet,Player Shots on Goal,Colorado Avalanche v Pittsburgh Penguins,-7.206012378426174
 Seattle Kraken,Minnesota Wild,Jaden Schwartz,2.5,2.32,Sportsbet,1.56,Sportsbet,Player Shots on Goal,Seattle Kraken v Minnesota Wild,-7.206012378426174
 Calgary Flames,Montreal Canadiens,Jonathan Huberdeau,1.5,1.636,Pinnacle,2.17,Pinnacle,Player Shots on Goal,Calgary Flames v Montreal Canadiens,-7.207643685283882
 Nashville Predators,Chicago Blackhawks,Connor Bedard,2.5,2.17,Pinnacle,1.636,Pinnacle,Player Shots on Goal,Nashville Predators v Chicago Blackhawks,-7.207643685283882
-Nashville Predators,Chicago Blackhawks,Steven Stamkos,2.5,2.17,Pinnacle,1.636,Pinnacle,Player Shots on Goal,Nashville Predators v Chicago Blackhawks,-7.207643685283882
-San Jose Sharks,New York Islanders,Macklin Celebrini,3.5,2.17,Pinnacle,1.636,Pinnacle,Player Shots on Goal,San Jose Sharks v New York Islanders,-7.207643685283882
-San Jose Sharks,New York Islanders,Tony DeAngelo,1.5,1.636,Pinnacle,2.17,Pinnacle,Player Shots on Goal,San Jose Sharks v New York Islanders,-7.207643685283882
 Edmonton Oilers,Anaheim Ducks,Mattias Ekholm,1.5,1.51,Sportsbet,2.44,Sportsbet,Player Shots on Goal,Edmonton Oilers v Anaheim Ducks,-7.208772120290963
 Florida Panthers,Buffalo Sabres,Tage Thompson,2.5,1.588,Pinnacle,2.26,Pinnacle,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-7.220079802055235
-Ottawa Senators,New York Rangers,J.T. Miller,1.5,1.588,Pinnacle,2.26,Pinnacle,Player Shots on Goal,Ottawa Senators v New York Rangers,-7.220079802055235
+Colorado Avalanche,Toronto Maple Leafs,Auston Matthews,3.5,1.847,Pinnacle,1.884,Pinnacle,Player Shots on Goal,Colorado Avalanche v Toronto Maple Leafs,-7.220407914596105
+Colorado Avalanche,Toronto Maple Leafs,Valeri Nichushkin,2.5,1.847,Pinnacle,1.884,Pinnacle,Player Shots on Goal,Colorado Avalanche v Toronto Maple Leafs,-7.220407914596105
+San Jose Sharks,New York Islanders,Simon Holmstrom,1.5,1.847,Pinnacle,1.884,Pinnacle,Player Shots on Goal,San Jose Sharks v New York Islanders,-7.220407914596105
 Tampa Bay Lightning,Boston Bruins,Brayden Point,2.5,1.884,Pinnacle,1.847,Pinnacle,Player Shots on Goal,Tampa Bay Lightning v Boston Bruins,-7.220407914596105
 Colorado Avalanche,Pittsburgh Penguins,Nathan MacKinnon,3.5,1.63,Sportsbet,2.18,Sportsbet,Player Shots on Goal,Colorado Avalanche v Pittsburgh Penguins,-7.221252884561258
 Seattle Kraken,Minnesota Wild,Jared McCann,2.5,2.18,Sportsbet,1.63,Sportsbet,Player Shots on Goal,Seattle Kraken v Minnesota Wild,-7.221252884561258
-Philadelphia Flyers,Seattle Kraken,Owen Tippett,2.5,1.74,Bet365,2.01,Pinnacle,Player Shots on Goal,Philadelphia Flyers v Seattle Kraken,-7.222508148910611
 Colorado Avalanche,Toronto Maple Leafs,William Nylander,2.5,1.74,Bet365,2.01,Pinnacle,Player Shots on Goal,Colorado Avalanche v Toronto Maple Leafs,-7.222508148910611
-Tampa Bay Lightning,Boston Bruins,Brandon Hagel,2.5,2.01,Pinnacle,1.74,Bet365,Player Shots on Goal,Tampa Bay Lightning v Boston Bruins,-7.222508148910611
 Seattle Kraken,Minnesota Wild,Brandon Montour,2.5,2.01,Sportsbet,1.74,Sportsbet,Player Shots on Goal,Seattle Kraken v Minnesota Wild,-7.222508148910611
-Florida Panthers,Buffalo Sabres,Evan Rodrigues,2.5,2.33,Pinnacle,1.555,Pinnacle,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-7.227136607648044
-San Jose Sharks,New York Islanders,Kyle Palmieri,2.5,2.31,Pinnacle,1.564,Pinnacle,Player Shots on Goal,San Jose Sharks v New York Islanders,-7.228662215874504
+Tampa Bay Lightning,Boston Bruins,Nikita Kucherov,2.5,1.555,Pinnacle,2.33,Pinnacle,Player Shots on Goal,Tampa Bay Lightning v Boston Bruins,-7.227136607648044
 Philadelphia Flyers,Seattle Kraken,Brandon Montour,2.5,2.06,Pinnacle,1.704,Pinnacle,Player Shots on Goal,Philadelphia Flyers v Seattle Kraken,-7.229135329778025
 Calgary Flames,Montreal Canadiens,Cole Caufield,2.5,1.684,Pinnacle,2.09,Pinnacle,Player Shots on Goal,Calgary Flames v Montreal Canadiens,-7.22931275500347
 Calgary Flames,Montreal Canadiens,Matt Coronato,2.5,2.28,Pinnacle,1.578,Pinnacle,Player Shots on Goal,Calgary Flames v Montreal Canadiens,-7.231005269828561
 Los Angeles Kings,St. Louis Blues,Jordan Kyrou,2.5,2.28,Pinnacle,1.578,Pinnacle,Player Shots on Goal,Los Angeles Kings v St. Louis Blues,-7.231005269828561
-Tampa Bay Lightning,Boston Bruins,Nikita Kucherov,2.5,1.578,Pinnacle,2.28,Pinnacle,Player Shots on Goal,Tampa Bay Lightning v Boston Bruins,-7.231005269828561
 San Jose Sharks,New York Islanders,Bo Horvat,2.5,1.641,Pinnacle,2.16,Pinnacle,Player Shots on Goal,San Jose Sharks v New York Islanders,-7.23474845961134
-San Jose Sharks,New York Islanders,Jean-Gabriel Pageau,1.5,1.86,Bet365,1.87,Neds,Player Shots on Goal,San Jose Sharks v New York Islanders,-7.2393766890920475
-Calgary Flames,Montreal Canadiens,Brendan Gallagher,1.5,1.87,Neds,1.86,Bet365,Player Shots on Goal,Calgary Flames v Montreal Canadiens,-7.2393766890920475
-Ottawa Senators,New York Rangers,Brady Tkachuk,3.5,1.87,Neds,1.86,Bet365,Player Shots on Goal,Ottawa Senators v New York Rangers,-7.2393766890920475
-Tampa Bay Lightning,Boston Bruins,Oliver Bjorkstrand,1.5,1.87,Neds,1.86,Bet365,Player Shots on Goal,Tampa Bay Lightning v Boston Bruins,-7.2393766890920475
-Ottawa Senators,New York Rangers,Claude Giroux,1.5,1.787,Pinnacle,1.95,Bet365,Player Shots on Goal,Ottawa Senators v New York Rangers,-7.241760291564425
 Colorado Avalanche,Pittsburgh Penguins,Erik Karlsson,2.5,2.55,Sportsbet,1.47,Sportsbet,Player Shots on Goal,Colorado Avalanche v Pittsburgh Penguins,-7.242897158863548
-Ottawa Senators,New York Rangers,Artemi Panarin,3.5,2.21,Pinnacle,1.613,Pinnacle,Player Shots on Goal,Ottawa Senators v New York Rangers,-7.245149001467155
 Florida Panthers,Buffalo Sabres,Aaron Ekblad,1.5,1.55,Bet365,2.34,Pinnacle,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-7.2511717673008125
 Florida Panthers,Buffalo Sabres,Aleksander Barkov,2.5,2.34,Pinnacle,1.55,Bet365,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-7.2511717673008125
-Florida Panthers,Buffalo Sabres,JJ Peterka,2.5,2.3,Pinnacle,1.568,Pinnacle,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-7.253771073646842
-Calgary Flames,Montreal Canadiens,Yegor Sharangovich,1.5,1.77,Neds,1.97,Pinnacle,Player Shots on Goal,Calgary Flames v Montreal Canadiens,-7.258596461039879
-Los Angeles Kings,St. Louis Blues,Adrian Kempe,2.5,1.77,Neds,1.97,Pinnacle,Player Shots on Goal,Los Angeles Kings v St. Louis Blues,-7.258596461039879
-San Jose Sharks,New York Islanders,Adam Pelech,1.5,1.77,Neds,1.97,Pinnacle,Player Shots on Goal,San Jose Sharks v New York Islanders,-7.258596461039879
-Florida Panthers,Buffalo Sabres,Jiri Kulich,1.5,1.71,Bet365,2.05,Neds,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-7.2600199686207345
 Nashville Predators,Chicago Blackhawks,Frank Nazar,1.5,2.05,Pinnacle,1.71,Bet365,Player Shots on Goal,Nashville Predators v Chicago Blackhawks,-7.2600199686207345
 Nashville Predators,Chicago Blackhawks,Tyler Bertuzzi,1.5,2.05,Pinnacle,1.71,Bet365,Player Shots on Goal,Nashville Predators v Chicago Blackhawks,-7.2600199686207345
 Colorado Avalanche,Pittsburgh Penguins,Devon Toews,1.5,1.71,Sportsbet,2.05,Sportsbet,Player Shots on Goal,Colorado Avalanche v Pittsburgh Penguins,-7.2600199686207345
@@ -542,437 +338,149 @@ Edmonton Oilers,Dallas Stars,Mikko Rantanen,2.5,1.934,Pinnacle,1.8,Bet365,Player
 Calgary Flames,Montreal Canadiens,Patrik Laine,1.5,1.602,Pinnacle,2.23,Pinnacle,Player Shots on Goal,Calgary Flames v Montreal Canadiens,-7.265021861686338
 Colorado Avalanche,Toronto Maple Leafs,Cale Makar,2.5,1.602,Pinnacle,2.23,Pinnacle,Player Shots on Goal,Colorado Avalanche v Toronto Maple Leafs,-7.265021861686338
 Ottawa Senators,New York Rangers,Will Cuylle,1.5,1.602,Pinnacle,2.23,Pinnacle,Player Shots on Goal,Ottawa Senators v New York Rangers,-7.265021861686338
-Ottawa Senators,New York Rangers,Brady Tkachuk,3.5,1.724,Pinnacle,2.03,Pinnacle,Player Shots on Goal,Ottawa Senators v New York Rangers,-7.26572411507207
-Tampa Bay Lightning,Boston Bruins,Oliver Bjorkstrand,1.5,1.86,Bet365,1.869,Pinnacle,Player Shots on Goal,Tampa Bay Lightning v Boston Bruins,-7.267988746785425
+Tampa Bay Lightning,Boston Bruins,Elias Lindholm,1.5,1.602,Pinnacle,2.23,Pinnacle,Player Shots on Goal,Tampa Bay Lightning v Boston Bruins,-7.265021861686338
 Calgary Flames,Montreal Canadiens,Brendan Gallagher,1.5,1.86,Bet365,1.869,Pinnacle,Player Shots on Goal,Calgary Flames v Montreal Canadiens,-7.267988746785425
 Calgary Flames,Montreal Canadiens,Brendan Gallagher,1.5,1.869,Pinnacle,1.86,Bet365,Player Shots on Goal,Calgary Flames v Montreal Canadiens,-7.267988746785425
-Tampa Bay Lightning,Boston Bruins,Oliver Bjorkstrand,1.5,1.869,Pinnacle,1.86,Bet365,Player Shots on Goal,Tampa Bay Lightning v Boston Bruins,-7.267988746785425
-San Jose Sharks,New York Islanders,Bo Horvat,2.5,1.64,Bet365,2.16,Pinnacle,Player Shots on Goal,San Jose Sharks v New York Islanders,-7.271906052393851
 Los Angeles Kings,St. Louis Blues,Kevin Fiala,2.5,1.64,Bet365,2.16,Pinnacle,Player Shots on Goal,Los Angeles Kings v St. Louis Blues,-7.271906052393851
+San Jose Sharks,New York Islanders,Bo Horvat,2.5,1.64,Bet365,2.16,Pinnacle,Player Shots on Goal,San Jose Sharks v New York Islanders,-7.271906052393851
 Colorado Avalanche,Pittsburgh Penguins,Evgeni Malkin,1.5,2.16,Sportsbet,1.64,Sportsbet,Player Shots on Goal,Colorado Avalanche v Pittsburgh Penguins,-7.271906052393851
 Seattle Kraken,Minnesota Wild,Matty Beniers,1.5,1.64,Sportsbet,2.16,Sportsbet,Player Shots on Goal,Seattle Kraken v Minnesota Wild,-7.271906052393851
-Florida Panthers,Buffalo Sabres,Anton Lundell,1.5,1.67,Neds,2.11,Pinnacle,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-7.273604449868043
 Edmonton Oilers,Anaheim Ducks,Mason McTavish,1.5,1.67,Sportsbet,2.11,Sportsbet,Player Shots on Goal,Edmonton Oilers v Anaheim Ducks,-7.273604449868043
-San Jose Sharks,New York Islanders,Anthony Duclair,1.5,1.9,Bet365,1.83,Bet365,Player Shots on Goal,San Jose Sharks v New York Islanders,-7.276387690537822
-San Jose Sharks,New York Islanders,Simon Holmstrom,1.5,1.83,Bet365,1.9,Bet365,Player Shots on Goal,San Jose Sharks v New York Islanders,-7.276387690537822
-Philadelphia Flyers,Seattle Kraken,Bobby Brink,1.5,1.83,Bet365,1.9,Bet365,Player Shots on Goal,Philadelphia Flyers v Seattle Kraken,-7.276387690537822
-Philadelphia Flyers,Seattle Kraken,Jordan Eberle,1.5,1.9,Bet365,1.83,Bet365,Player Shots on Goal,Philadelphia Flyers v Seattle Kraken,-7.276387690537822
-Philadelphia Flyers,Seattle Kraken,Kaapo Kakko,1.5,1.9,Bet365,1.83,Bet365,Player Shots on Goal,Philadelphia Flyers v Seattle Kraken,-7.276387690537822
-Philadelphia Flyers,Seattle Kraken,Matthew Beniers,1.5,1.83,Bet365,1.9,Bet365,Player Shots on Goal,Philadelphia Flyers v Seattle Kraken,-7.276387690537822
-Tampa Bay Lightning,Boston Bruins,Pavel Zacha,1.5,1.83,Bet365,1.9,Bet365,Player Shots on Goal,Tampa Bay Lightning v Boston Bruins,-7.276387690537822
 Florida Panthers,Buffalo Sabres,Sam Reinhart,2.5,1.83,Bet365,1.9,Bet365,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-7.276387690537822
 Colorado Avalanche,Toronto Maple Leafs,Auston Matthews,3.5,1.83,Bet365,1.9,Bet365,Player Shots on Goal,Colorado Avalanche v Toronto Maple Leafs,-7.276387690537822
+Colorado Avalanche,Toronto Maple Leafs,Valeri Nichushkin,2.5,1.9,Bet365,1.83,Bet365,Player Shots on Goal,Colorado Avalanche v Toronto Maple Leafs,-7.276387690537822
 Nashville Predators,Chicago Blackhawks,Filip Forsberg,3.5,1.83,Bet365,1.9,Bet365,Player Shots on Goal,Nashville Predators v Chicago Blackhawks,-7.276387690537822
-Edmonton Oilers,Dallas Stars,Evan Bouchard,2.5,1.9,Bet365,1.83,Bet365,Player Shots on Goal,Edmonton Oilers v Dallas Stars,-7.276387690537822
+San Jose Sharks,New York Islanders,Anthony Duclair,1.5,1.9,Bet365,1.83,Bet365,Player Shots on Goal,San Jose Sharks v New York Islanders,-7.276387690537822
 Colorado Avalanche,Pittsburgh Penguins,Ross Colton,1.5,1.9,Sportsbet,1.83,Sportsbet,Player Shots on Goal,Colorado Avalanche v Pittsburgh Penguins,-7.276387690537822
 Seattle Kraken,Minnesota Wild,Vinnie Hinostroza,1.5,1.9,Sportsbet,1.83,Sportsbet,Player Shots on Goal,Seattle Kraken v Minnesota Wild,-7.276387690537822
-Ottawa Senators,New York Rangers,Alexis Lafreniere,1.5,1.769,Pinnacle,1.97,Pinnacle,Player Shots on Goal,Ottawa Senators v New York Rangers,-7.290533812730815
+Los Angeles Kings,St. Louis Blues,Trevor Moore,2.5,2.43,Pinnacle,1.512,Pinnacle,Player Shots on Goal,Los Angeles Kings v St. Louis Blues,-7.2898295120517265
 Florida Panthers,Buffalo Sabres,Aaron Ekblad,1.5,1.549,Pinnacle,2.34,Pinnacle,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-7.292821947437833
-Ottawa Senators,New York Rangers,Mika Zibanejad,2.5,2.18,Pinnacle,1.628,Pinnacle,Player Shots on Goal,Ottawa Senators v New York Rangers,-7.296621058088948
+San Jose Sharks,New York Islanders,Will Smith,1.5,1.591,Pinnacle,2.25,Pinnacle,Player Shots on Goal,San Jose Sharks v New York Islanders,-7.297995670088708
 Colorado Avalanche,Pittsburgh Penguins,Anthony Beauvillier,1.5,1.82,Sportsbet,1.91,Sportsbet,Player Shots on Goal,Colorado Avalanche v Pittsburgh Penguins,-7.301075887463315
 Florida Panthers,Buffalo Sabres,Gustav Forsling,1.5,1.581,Pinnacle,2.27,Pinnacle,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-7.303970330494014
-San Jose Sharks,New York Islanders,Tyler Toffoli,2.5,1.73,Neds,2.02,Pinnacle,Player Shots on Goal,San Jose Sharks v New York Islanders,-7.308418703141983
-San Jose Sharks,New York Islanders,Anders Lee,2.5,2.02,Pinnacle,1.73,Neds,Player Shots on Goal,San Jose Sharks v New York Islanders,-7.308418703141983
+Nashville Predators,Chicago Blackhawks,Luke Evangelista,1.5,1.581,Pinnacle,2.27,Pinnacle,Player Shots on Goal,Nashville Predators v Chicago Blackhawks,-7.303970330494014
+Colorado Avalanche,Toronto Maple Leafs,Martin Necas,2.5,2.02,Pinnacle,1.73,Neds,Player Shots on Goal,Colorado Avalanche v Toronto Maple Leafs,-7.308418703141983
 Los Angeles Kings,St. Louis Blues,Quinton Byfield,1.5,1.606,Pinnacle,2.22,Pinnacle,Player Shots on Goal,Los Angeles Kings v St. Louis Blues,-7.31154566771004
-Ottawa Senators,New York Rangers,Shane Pinto,1.5,1.5,Bet365,2.46,Pinnacle,Player Shots on Goal,Ottawa Senators v New York Rangers,-7.317073170731714
-Florida Panthers,Buffalo Sabres,Anton Lundell,1.5,1.675,Pinnacle,2.1,Neds,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-7.320540156361055
+San Jose Sharks,New York Islanders,Macklin Celebrini,3.5,2.22,Pinnacle,1.606,Pinnacle,Player Shots on Goal,San Jose Sharks v New York Islanders,-7.31154566771004
+Edmonton Oilers,Dallas Stars,Viktor Arvidsson,1.5,1.5,Bet365,2.46,Pinnacle,Player Shots on Goal,Edmonton Oilers v Dallas Stars,-7.317073170731714
+Ottawa Senators,New York Rangers,Brady Tkachuk,3.5,1.675,Pinnacle,2.1,Pinnacle,Player Shots on Goal,Ottawa Senators v New York Rangers,-7.320540156361055
 Edmonton Oilers,Dallas Stars,Roope Hintz,1.5,1.571,Pinnacle,2.29,Pinnacle,Player Shots on Goal,Edmonton Oilers v Dallas Stars,-7.3218460135813235
-Florida Panthers,Buffalo Sabres,Sam Bennett,2.5,1.571,Pinnacle,2.29,Pinnacle,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-7.3218460135813235
-Nashville Predators,Chicago Blackhawks,Luke Evangelista,1.5,1.571,Pinnacle,2.29,Pinnacle,Player Shots on Goal,Nashville Predators v Chicago Blackhawks,-7.3218460135813235
-Philadelphia Flyers,Seattle Kraken,Noah Cates,1.5,1.76,Bet365,1.98,Pinnacle,Player Shots on Goal,Philadelphia Flyers v Seattle Kraken,-7.3232323232323315
+Florida Panthers,Buffalo Sabres,Sam Reinhart,2.5,1.813,Pinnacle,1.917,Pinnacle,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-7.322038911576145
+Ottawa Senators,New York Rangers,Alexis Lafreniere,1.5,1.813,Pinnacle,1.917,Pinnacle,Player Shots on Goal,Ottawa Senators v New York Rangers,-7.322038911576145
+Philadelphia Flyers,Seattle Kraken,Eeli Tolvanen,1.5,1.917,Pinnacle,1.813,Pinnacle,Player Shots on Goal,Philadelphia Flyers v Seattle Kraken,-7.322038911576145
 Florida Panthers,Buffalo Sabres,Carter Verhaeghe,2.5,1.76,Bet365,1.98,Pinnacle,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-7.3232323232323315
 Calgary Flames,Montreal Canadiens,Rasmus Andersson,1.5,1.76,Bet365,1.98,Pinnacle,Player Shots on Goal,Calgary Flames v Montreal Canadiens,-7.3232323232323315
 Colorado Avalanche,Toronto Maple Leafs,Nathan MacKinnon,3.5,1.76,Bet365,1.98,Pinnacle,Player Shots on Goal,Colorado Avalanche v Toronto Maple Leafs,-7.3232323232323315
-Nashville Predators,Chicago Blackhawks,Filip Forsberg,3.5,1.82,Neds,1.909,Pinnacle,Player Shots on Goal,Nashville Predators v Chicago Blackhawks,-7.3285017758564
-San Jose Sharks,New York Islanders,Jean-Gabriel Pageau,1.5,1.85,Neds,1.877,Pinnacle,Player Shots on Goal,San Jose Sharks v New York Islanders,-7.330559115322011
-Philadelphia Flyers,Seattle Kraken,Sean Couturier,1.5,1.819,Pinnacle,1.91,Neds,Player Shots on Goal,Philadelphia Flyers v Seattle Kraken,-7.331282074898748
 Colorado Avalanche,Pittsburgh Penguins,Kevin Hayes,1.5,1.81,Sportsbet,1.92,Sportsbet,Player Shots on Goal,Colorado Avalanche v Pittsburgh Penguins,-7.331952117863727
 Colorado Avalanche,Pittsburgh Penguins,Sidney Crosby,2.5,1.92,Sportsbet,1.81,Sportsbet,Player Shots on Goal,Colorado Avalanche v Pittsburgh Penguins,-7.331952117863727
 Edmonton Oilers,Anaheim Ducks,Cutter Gauthier,1.5,1.81,Sportsbet,1.92,Sportsbet,Player Shots on Goal,Edmonton Oilers v Anaheim Ducks,-7.331952117863727
 Los Angeles Kings,St. Louis Blues,Alex Laferriere,2.5,2.38,Pinnacle,1.531,Pinnacle,Player Shots on Goal,Los Angeles Kings v St. Louis Blues,-7.333593136797512
 Edmonton Oilers,Anaheim Ducks,Zach Hyman,2.5,1.65,Sportsbet,2.14,Sportsbet,Player Shots on Goal,Edmonton Oilers v Anaheim Ducks,-7.335032568677424
-Los Angeles Kings,St. Louis Blues,Warren Foegele,2.5,2.24,Pinnacle,1.595,Pinnacle,Player Shots on Goal,Los Angeles Kings v St. Louis Blues,-7.338781907747416
-Ottawa Senators,New York Rangers,Thomas Chabot,2.5,2.5,Bet365,1.485,Pinnacle,Player Shots on Goal,Ottawa Senators v New York Rangers,-7.3400673400673355
+Philadelphia Flyers,Seattle Kraken,Tyson Foerster,1.5,1.662,Pinnacle,2.12,Pinnacle,Player Shots on Goal,Philadelphia Flyers v Seattle Kraken,-7.338283041573002
+Ottawa Senators,New York Rangers,Vincent Trocheck,2.5,2.07,Pinnacle,1.694,Pinnacle,Player Shots on Goal,Ottawa Senators v New York Rangers,-7.34105595765675
+Calgary Flames,Montreal Canadiens,Juraj Slafkovsky,1.5,1.729,Pinnacle,2.02,Pinnacle,Player Shots on Goal,Calgary Flames v Montreal Canadiens,-7.341850437212605
 Calgary Flames,Montreal Canadiens,Patrik Laine,1.5,1.6,Bet365,2.23,Pinnacle,Player Shots on Goal,Calgary Flames v Montreal Canadiens,-7.343049327354256
 Colorado Avalanche,Toronto Maple Leafs,Cale Makar,2.5,1.6,Bet365,2.23,Pinnacle,Player Shots on Goal,Colorado Avalanche v Toronto Maple Leafs,-7.343049327354256
 Calgary Flames,Montreal Canadiens,Nazem Kadri,3.5,2.23,Pinnacle,1.6,Bet365,Player Shots on Goal,Calgary Flames v Montreal Canadiens,-7.343049327354256
-Florida Panthers,Buffalo Sabres,Gustav Forsling,1.5,1.58,Bet365,2.27,Pinnacle,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-7.344002676629668
-Edmonton Oilers,Dallas Stars,Leon Draisaitl,2.5,1.58,Bet365,2.27,Pinnacle,Player Shots on Goal,Edmonton Oilers v Dallas Stars,-7.344002676629668
-Philadelphia Flyers,Seattle Kraken,Jared McCann,2.5,2.33,Pinnacle,1.552,Pinnacle,Player Shots on Goal,Philadelphia Flyers v Seattle Kraken,-7.3514446263439615
+Los Angeles Kings,St. Louis Blues,Warren Foegele,2.5,2.23,Pinnacle,1.6,Bet365,Player Shots on Goal,Los Angeles Kings v St. Louis Blues,-7.343049327354256
+Nashville Predators,Chicago Blackhawks,Luke Evangelista,1.5,1.58,Bet365,2.27,Pinnacle,Player Shots on Goal,Nashville Predators v Chicago Blackhawks,-7.344002676629668
 Nashville Predators,Chicago Blackhawks,Brady Skjei,1.5,1.561,Pinnacle,2.31,Pinnacle,Player Shots on Goal,Nashville Predators v Chicago Blackhawks,-7.351542329120808
-Edmonton Oilers,Dallas Stars,Connor McDavid,2.5,1.632,Pinnacle,2.17,Pinnacle,Player Shots on Goal,Edmonton Oilers v Dallas Stars,-7.357459112677334
-Tampa Bay Lightning,Boston Bruins,Morgan Geekie,2.5,2.35,Pinnacle,1.543,Pinnacle,Player Shots on Goal,Tampa Bay Lightning v Boston Bruins,-7.362005488065537
-Calgary Flames,Montreal Canadiens,Morgan Frost,1.5,1.7,Neds,2.06,Pinnacle,Player Shots on Goal,Calgary Flames v Montreal Canadiens,-7.367218732153047
-Philadelphia Flyers,Seattle Kraken,Brandon Montour,2.5,2.06,Pinnacle,1.7,Neds,Player Shots on Goal,Philadelphia Flyers v Seattle Kraken,-7.367218732153047
+Ottawa Senators,New York Rangers,Jake Sanderson,2.5,2.17,Pinnacle,1.632,Pinnacle,Player Shots on Goal,Ottawa Senators v New York Rangers,-7.357459112677334
 Calgary Flames,Montreal Canadiens,Cole Caufield,2.5,1.68,Bet365,2.09,Pinnacle,Player Shots on Goal,Calgary Flames v Montreal Canadiens,-7.370699475962628
-Ottawa Senators,New York Rangers,Drake Batherson,1.5,1.51,Pinnacle,2.43,Pinnacle,Player Shots on Goal,Ottawa Senators v New York Rangers,-7.3774289373994995
-Ottawa Senators,New York Rangers,Jake Sanderson,2.5,2.19,Pinnacle,1.62,Bet365,Player Shots on Goal,Ottawa Senators v New York Rangers,-7.390495518349405
-Tampa Bay Lightning,Boston Bruins,Anthony Cirelli,1.5,1.75,Neds,1.99,Pinnacle,Player Shots on Goal,Tampa Bay Lightning v Boston Bruins,-7.39411342426417
+Philadelphia Flyers,Seattle Kraken,Matvei Michkov,2.5,1.952,Pinnacle,1.781,Pinnacle,Player Shots on Goal,Philadelphia Flyers v Seattle Kraken,-7.37773952743439
+Florida Panthers,Buffalo Sabres,Sam Bennett,2.5,1.574,Pinnacle,2.28,Pinnacle,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-7.392050647584658
 Colorado Avalanche,Pittsburgh Penguins,Martin Necas,2.5,1.75,Sportsbet,1.99,Sportsbet,Player Shots on Goal,Colorado Avalanche v Pittsburgh Penguins,-7.39411342426417
-Los Angeles Kings,St. Louis Blues,Trevor Moore,2.5,2.45,Bet365,1.502,Pinnacle,Player Shots on Goal,Los Angeles Kings v St. Louis Blues,-7.394222669094264
 San Jose Sharks,New York Islanders,Anthony Duclair,1.5,1.9,Bet365,1.826,Pinnacle,Player Shots on Goal,San Jose Sharks v New York Islanders,-7.396091543206307
-Nashville Predators,Chicago Blackhawks,Filip Forsberg,3.5,1.826,Pinnacle,1.9,Bet365,Player Shots on Goal,Nashville Predators v Chicago Blackhawks,-7.396091543206307
 Edmonton Oilers,Dallas Stars,Thomas Harley,1.5,1.625,Pinnacle,2.18,Pinnacle,Player Shots on Goal,Edmonton Oilers v Dallas Stars,-7.410021171489056
-Philadelphia Flyers,Seattle Kraken,Tyson Foerster,1.5,1.625,Pinnacle,2.18,Pinnacle,Player Shots on Goal,Philadelphia Flyers v Seattle Kraken,-7.410021171489056
-San Jose Sharks,New York Islanders,Simon Holmstrom,1.5,1.854,Pinnacle,1.87,Neds,Player Shots on Goal,San Jose Sharks v New York Islanders,-7.413368407086285
+Florida Panthers,Buffalo Sabres,Evan Rodrigues,2.5,2.32,Pinnacle,1.555,Pinnacle,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-7.412129947887802
+Ottawa Senators,New York Rangers,Artemi Panarin,3.5,2.32,Pinnacle,1.555,Pinnacle,Player Shots on Goal,Ottawa Senators v New York Rangers,-7.412129947887802
+Philadelphia Flyers,Seattle Kraken,Jared McCann,2.5,2.32,Pinnacle,1.555,Pinnacle,Player Shots on Goal,Philadelphia Flyers v Seattle Kraken,-7.412129947887802
 Colorado Avalanche,Toronto Maple Leafs,Brock Nelson,2.5,2.3,Pinnacle,1.564,Pinnacle,Player Shots on Goal,Colorado Avalanche v Toronto Maple Leafs,-7.416879795396425
 Florida Panthers,Buffalo Sabres,Aleksander Barkov,2.5,2.34,Pinnacle,1.546,Pinnacle,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-7.418095775146227
-San Jose Sharks,New York Islanders,Will Smith,1.5,1.578,Pinnacle,2.27,Pinnacle,Player Shots on Goal,San Jose Sharks v New York Islanders,-7.424219583144875
-Florida Panthers,Buffalo Sabres,Evan Rodrigues,2.5,2.33,Pinnacle,1.55,Bet365,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-7.434583967880393
+Ottawa Senators,New York Rangers,Chris Kreider,1.5,1.546,Pinnacle,2.34,Pinnacle,Player Shots on Goal,Ottawa Senators v New York Rangers,-7.418095775146227
 Florida Panthers,Buffalo Sabres,Mackie Samoskevich,1.5,1.497,Pinnacle,2.46,Pinnacle,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-7.450673705133837
-Nashville Predators,Chicago Blackhawks,Ryan O'Reilly,2.5,2.46,Pinnacle,1.497,Pinnacle,Player Shots on Goal,Nashville Predators v Chicago Blackhawks,-7.450673705133837
-Tampa Bay Lightning,Boston Bruins,Elias Lindholm,1.5,1.52,Neds,2.4,Neds,Player Shots on Goal,Tampa Bay Lightning v Boston Bruins,-7.456140350877205
-Florida Panthers,Buffalo Sabres,Alex Tuch,2.5,2.42,Pinnacle,1.512,Pinnacle,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-7.459880187152912
-San Jose Sharks,New York Islanders,William Eklund,1.5,1.671,Pinnacle,2.1,Neds,Player Shots on Goal,San Jose Sharks v New York Islanders,-7.463452167222373
-Philadelphia Flyers,Seattle Kraken,Rasmus Ristolainen,1.5,1.862,Pinnacle,1.86,Bet365,Player Shots on Goal,Philadelphia Flyers v Seattle Kraken,-7.469133663652228
+Edmonton Oilers,Dallas Stars,Evan Bouchard,2.5,1.862,Pinnacle,1.86,Bet365,Player Shots on Goal,Edmonton Oilers v Dallas Stars,-7.469133663652228
 San Jose Sharks,New York Islanders,Jean-Gabriel Pageau,1.5,1.862,Pinnacle,1.86,Bet365,Player Shots on Goal,San Jose Sharks v New York Islanders,-7.469133663652228
-Calgary Flames,Montreal Canadiens,Juraj Slafkovsky,1.5,1.74,Bet365,2,Pinnacle,Player Shots on Goal,Calgary Flames v Montreal Canadiens,-7.471264367816088
-Nashville Predators,Chicago Blackhawks,Ilya Mikheyev,1.5,2,Neds,1.74,Bet365,Player Shots on Goal,Nashville Predators v Chicago Blackhawks,-7.471264367816088
+Colorado Avalanche,Toronto Maple Leafs,Martin Necas,2.5,2,Neds,1.74,Bet365,Player Shots on Goal,Colorado Avalanche v Toronto Maple Leafs,-7.471264367816088
 Calgary Flames,Montreal Canadiens,Joel Armia,1.5,2,Pinnacle,1.74,Bet365,Player Shots on Goal,Calgary Flames v Montreal Canadiens,-7.471264367816088
 Colorado Avalanche,Pittsburgh Penguins,Valeri Nichushkin,2.5,1.74,Sportsbet,2,Sportsbet,Player Shots on Goal,Colorado Avalanche v Pittsburgh Penguins,-7.471264367816088
 Los Angeles Kings,St. Louis Blues,Robert Thomas,1.5,1.558,Pinnacle,2.31,Pinnacle,Player Shots on Goal,Los Angeles Kings v St. Louis Blues,-7.474895664882819
 Calgary Flames,Montreal Canadiens,Mikael Backlund,1.5,1.5,Pinnacle,2.45,Bet365,Player Shots on Goal,Calgary Flames v Montreal Canadiens,-7.482993197278898
-Edmonton Oilers,Dallas Stars,Mason Marchment,1.5,1.77,Neds,1.961,Pinnacle,Player Shots on Goal,Edmonton Oilers v Dallas Stars,-7.491565758275076
-San Jose Sharks,New York Islanders,Noah Dobson,2.5,1.961,Pinnacle,1.77,Neds,Player Shots on Goal,San Jose Sharks v New York Islanders,-7.491565758275076
-Tampa Bay Lightning,Boston Bruins,Pavel Zacha,1.5,1.83,Bet365,1.892,Pinnacle,Player Shots on Goal,Tampa Bay Lightning v Boston Bruins,-7.498931364733874
-Philadelphia Flyers,Seattle Kraken,Jordan Eberle,1.5,1.892,Pinnacle,1.83,Bet365,Player Shots on Goal,Philadelphia Flyers v Seattle Kraken,-7.498931364733874
-Philadelphia Flyers,Seattle Kraken,Kaapo Kakko,1.5,1.892,Pinnacle,1.83,Bet365,Player Shots on Goal,Philadelphia Flyers v Seattle Kraken,-7.498931364733874
+San Jose Sharks,New York Islanders,Tony DeAngelo,1.5,1.64,Bet365,2.15,Pinnacle,Player Shots on Goal,San Jose Sharks v New York Islanders,-7.487237663074309
+Nashville Predators,Chicago Blackhawks,Ryan O'Reilly,2.5,2.35,Pinnacle,1.54,Pinnacle,Player Shots on Goal,Nashville Predators v Chicago Blackhawks,-7.488256424426631
 Florida Panthers,Buffalo Sabres,Seth Jones,1.5,1.71,Bet365,2.04,Pinnacle,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-7.499140006879945
-Edmonton Oilers,Dallas Stars,Ryan Nugent-Hopkins,1.5,1.67,Neds,2.1,Neds,Player Shots on Goal,Edmonton Oilers v Dallas Stars,-7.499287140005695
-Florida Panthers,Buffalo Sabres,Anton Lundell,1.5,1.67,Neds,2.1,Neds,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-7.499287140005695
-Los Angeles Kings,St. Louis Blues,Pavel Buchnevich,1.5,1.67,Neds,2.1,Neds,Player Shots on Goal,Los Angeles Kings v St. Louis Blues,-7.499287140005695
-Tampa Bay Lightning,Boston Bruins,Brayden Point,2.5,2.1,Neds,1.67,Neds,Player Shots on Goal,Tampa Bay Lightning v Boston Bruins,-7.499287140005695
-Ottawa Senators,New York Rangers,Thomas Chabot,2.5,2.49,Pinnacle,1.485,Pinnacle,Player Shots on Goal,Ottawa Senators v New York Rangers,-7.500709910348458
-Florida Panthers,Buffalo Sabres,Rasmus Dahlin,2.5,2.39,Pinnacle,1.523,Pinnacle,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-7.500885996313156
-Philadelphia Flyers,Seattle Kraken,Sean Couturier,1.5,1.8,Bet365,1.925,Pinnacle,Player Shots on Goal,Philadelphia Flyers v Seattle Kraken,-7.503607503607501
+Nashville Predators,Chicago Blackhawks,Jonathan Marchessault,2.5,1.8,Bet365,1.925,Pinnacle,Player Shots on Goal,Nashville Predators v Chicago Blackhawks,-7.503607503607501
 Colorado Avalanche,Toronto Maple Leafs,Artturi Lehkonen,1.5,1.531,Pinnacle,2.37,Pinnacle,Player Shots on Goal,Colorado Avalanche v Toronto Maple Leafs,-7.510879241112645
-Ottawa Senators,New York Rangers,Brady Tkachuk,3.5,1.86,Bet365,1.86,Bet365,Player Shots on Goal,Ottawa Senators v New York Rangers,-7.526881720430101
-San Jose Sharks,New York Islanders,Jean-Gabriel Pageau,1.5,1.86,Bet365,1.86,Bet365,Player Shots on Goal,San Jose Sharks v New York Islanders,-7.526881720430101
-Philadelphia Flyers,Seattle Kraken,Rasmus Ristolainen,1.5,1.86,Bet365,1.86,Bet365,Player Shots on Goal,Philadelphia Flyers v Seattle Kraken,-7.526881720430101
-Tampa Bay Lightning,Boston Bruins,Oliver Bjorkstrand,1.5,1.86,Bet365,1.86,Bet365,Player Shots on Goal,Tampa Bay Lightning v Boston Bruins,-7.526881720430101
+Tampa Bay Lightning,Boston Bruins,Morgan Geekie,2.5,2.37,Pinnacle,1.531,Pinnacle,Player Shots on Goal,Tampa Bay Lightning v Boston Bruins,-7.510879241112645
+Edmonton Oilers,Dallas Stars,Leon Draisaitl,2.5,1.571,Pinnacle,2.28,Pinnacle,Player Shots on Goal,Edmonton Oilers v Dallas Stars,-7.513372865645973
 Calgary Flames,Montreal Canadiens,Brendan Gallagher,1.5,1.86,Bet365,1.86,Bet365,Player Shots on Goal,Calgary Flames v Montreal Canadiens,-7.526881720430101
-Colorado Avalanche,Toronto Maple Leafs,Valeri Nichushkin,2.5,1.86,Bet365,1.86,Bet365,Player Shots on Goal,Colorado Avalanche v Toronto Maple Leafs,-7.526881720430101
-Calgary Flames,Montreal Canadiens,Brendan Gallagher,1.5,1.87,Neds,1.85,Neds,Player Shots on Goal,Calgary Flames v Montreal Canadiens,-7.529989882931032
-Ottawa Senators,New York Rangers,Brady Tkachuk,3.5,1.87,Neds,1.85,Neds,Player Shots on Goal,Ottawa Senators v New York Rangers,-7.529989882931032
-Philadelphia Flyers,Seattle Kraken,Matvei Michkov,2.5,1.87,Neds,1.85,Neds,Player Shots on Goal,Philadelphia Flyers v Seattle Kraken,-7.529989882931032
-San Jose Sharks,New York Islanders,Jean-Gabriel Pageau,1.5,1.85,Neds,1.87,Neds,Player Shots on Goal,San Jose Sharks v New York Islanders,-7.529989882931032
-San Jose Sharks,New York Islanders,Simon Holmstrom,1.5,1.85,Neds,1.87,Neds,Player Shots on Goal,San Jose Sharks v New York Islanders,-7.529989882931032
-Tampa Bay Lightning,Boston Bruins,Oliver Bjorkstrand,1.5,1.87,Neds,1.85,Neds,Player Shots on Goal,Tampa Bay Lightning v Boston Bruins,-7.529989882931032
-Tampa Bay Lightning,Boston Bruins,Pavel Zacha,1.5,1.85,Neds,1.87,Neds,Player Shots on Goal,Tampa Bay Lightning v Boston Bruins,-7.529989882931032
-Ottawa Senators,New York Rangers,J.T. Miller,1.5,1.58,Bet365,2.26,Pinnacle,Player Shots on Goal,Ottawa Senators v New York Rangers,-7.5389268511258045
-Edmonton Oilers,Dallas Stars,Evan Bouchard,2.5,1.88,Neds,1.84,Pinnacle,Player Shots on Goal,Edmonton Oilers v Dallas Stars,-7.539315448658646
-Philadelphia Flyers,Seattle Kraken,Jordan Eberle,1.5,1.88,Neds,1.84,Pinnacle,Player Shots on Goal,Philadelphia Flyers v Seattle Kraken,-7.539315448658646
-Florida Panthers,Buffalo Sabres,Sam Reinhart,2.5,1.84,Pinnacle,1.88,Neds,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-7.539315448658646
+Edmonton Oilers,Dallas Stars,Evan Bouchard,2.5,1.86,Bet365,1.86,Bet365,Player Shots on Goal,Edmonton Oilers v Dallas Stars,-7.526881720430101
+San Jose Sharks,New York Islanders,Jean-Gabriel Pageau,1.5,1.86,Bet365,1.86,Bet365,Player Shots on Goal,San Jose Sharks v New York Islanders,-7.526881720430101
+San Jose Sharks,New York Islanders,Simon Holmstrom,1.5,1.86,Bet365,1.86,Bet365,Player Shots on Goal,San Jose Sharks v New York Islanders,-7.526881720430101
+Colorado Avalanche,Toronto Maple Leafs,Auston Matthews,3.5,1.85,Neds,1.87,Neds,Player Shots on Goal,Colorado Avalanche v Toronto Maple Leafs,-7.529989882931032
+Florida Panthers,Buffalo Sabres,Alex Tuch,2.5,2.3,Pinnacle,1.561,Pinnacle,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-7.539759908642729
 Edmonton Oilers,Dallas Stars,Viktor Arvidsson,1.5,1.495,Pinnacle,2.46,Pinnacle,Player Shots on Goal,Edmonton Oilers v Dallas Stars,-7.540038611088451
 Ottawa Senators,New York Rangers,Shane Pinto,1.5,1.495,Pinnacle,2.46,Pinnacle,Player Shots on Goal,Ottawa Senators v New York Rangers,-7.540038611088451
+Ottawa Senators,New York Rangers,Tim Stutzle,2.5,2.46,Pinnacle,1.495,Pinnacle,Player Shots on Goal,Ottawa Senators v New York Rangers,-7.540038611088451
 Nashville Predators,Chicago Blackhawks,Ryan Donato,2.5,2.42,Pinnacle,1.51,Pinnacle,Player Shots on Goal,Nashville Predators v Chicago Blackhawks,-7.547479612500685
-Philadelphia Flyers,Seattle Kraken,Owen Tippett,2.5,1.73,Neds,2.01,Pinnacle,Player Shots on Goal,Philadelphia Flyers v Seattle Kraken,-7.554711989187024
-Tampa Bay Lightning,Boston Bruins,Brandon Hagel,2.5,2.01,Pinnacle,1.73,Neds,Player Shots on Goal,Tampa Bay Lightning v Boston Bruins,-7.554711989187024
+Colorado Avalanche,Toronto Maple Leafs,William Nylander,2.5,1.73,Neds,2.01,Pinnacle,Player Shots on Goal,Colorado Avalanche v Toronto Maple Leafs,-7.554711989187024
 Edmonton Oilers,Anaheim Ducks,Ryan Strome,1.5,1.83,Sportsbet,1.89,Sportsbet,Player Shots on Goal,Edmonton Oilers v Anaheim Ducks,-7.5548616532223
 Seattle Kraken,Minnesota Wild,Marco Rossi,1.5,1.83,Sportsbet,1.89,Sportsbet,Player Shots on Goal,Seattle Kraken v Minnesota Wild,-7.5548616532223
-Calgary Flames,Montreal Canadiens,Brendan Gallagher,1.5,1.869,Pinnacle,1.85,Neds,Player Shots on Goal,Calgary Flames v Montreal Canadiens,-7.55860194062441
-Tampa Bay Lightning,Boston Bruins,Oliver Bjorkstrand,1.5,1.869,Pinnacle,1.85,Neds,Player Shots on Goal,Tampa Bay Lightning v Boston Bruins,-7.55860194062441
-Los Angeles Kings,St. Louis Blues,Trevor Moore,2.5,2.44,Pinnacle,1.502,Pinnacle,Player Shots on Goal,Los Angeles Kings v St. Louis Blues,-7.56150269585909
+Florida Panthers,Buffalo Sabres,Rasmus Dahlin,2.5,2.36,Pinnacle,1.534,Pinnacle,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-7.56192959582791
 Colorado Avalanche,Toronto Maple Leafs,Mitch Marner,1.5,1.48,Pinnacle,2.5,Pinnacle,Player Shots on Goal,Colorado Avalanche v Toronto Maple Leafs,-7.567567567567579
-Ottawa Senators,New York Rangers,Tim Stutzle,1.5,1.48,Pinnacle,2.5,Bet365,Player Shots on Goal,Ottawa Senators v New York Rangers,-7.567567567567579
-San Jose Sharks,New York Islanders,Anthony Duclair,1.5,1.9,Bet365,1.82,Neds,Player Shots on Goal,San Jose Sharks v New York Islanders,-7.576633892423357
-Philadelphia Flyers,Seattle Kraken,Jordan Eberle,1.5,1.9,Bet365,1.82,Neds,Player Shots on Goal,Philadelphia Flyers v Seattle Kraken,-7.576633892423357
-Edmonton Oilers,Dallas Stars,Evan Bouchard,2.5,1.9,Bet365,1.82,Neds,Player Shots on Goal,Edmonton Oilers v Dallas Stars,-7.576633892423357
-Florida Panthers,Buffalo Sabres,Sam Reinhart,2.5,1.82,Neds,1.9,Bet365,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-7.576633892423357
-Nashville Predators,Chicago Blackhawks,Filip Forsberg,3.5,1.82,Neds,1.9,Bet365,Player Shots on Goal,Nashville Predators v Chicago Blackhawks,-7.576633892423357
-Philadelphia Flyers,Seattle Kraken,Bobby Brink,1.5,1.82,Neds,1.9,Bet365,Player Shots on Goal,Philadelphia Flyers v Seattle Kraken,-7.576633892423357
-San Jose Sharks,New York Islanders,Adam Pelech,1.5,1.76,Bet365,1.97,Pinnacle,Player Shots on Goal,San Jose Sharks v New York Islanders,-7.579603137978763
 Calgary Flames,Montreal Canadiens,Yegor Sharangovich,1.5,1.76,Bet365,1.97,Pinnacle,Player Shots on Goal,Calgary Flames v Montreal Canadiens,-7.579603137978763
 Los Angeles Kings,St. Louis Blues,Adrian Kempe,2.5,1.76,Bet365,1.97,Pinnacle,Player Shots on Goal,Los Angeles Kings v St. Louis Blues,-7.579603137978763
+San Jose Sharks,New York Islanders,Adam Pelech,1.5,1.76,Bet365,1.97,Pinnacle,Player Shots on Goal,San Jose Sharks v New York Islanders,-7.579603137978763
 Edmonton Oilers,Dallas Stars,Darnell Nurse,1.5,1.476,Pinnacle,2.51,Pinnacle,Player Shots on Goal,Edmonton Oilers v Dallas Stars,-7.591314956974271
-Philadelphia Flyers,Seattle Kraken,Jaden Schwartz,2.5,2.51,Pinnacle,1.476,Pinnacle,Player Shots on Goal,Philadelphia Flyers v Seattle Kraken,-7.591314956974271
 Calgary Flames,Montreal Canadiens,Nick Suzuki,1.5,1.505,Pinnacle,2.43,Pinnacle,Player Shots on Goal,Calgary Flames v Montreal Canadiens,-7.597446098738092
 Edmonton Oilers,Dallas Stars,Thomas Harley,1.5,1.62,Bet365,2.18,Pinnacle,Player Shots on Goal,Edmonton Oilers v Dallas Stars,-7.599954694755917
-Calgary Flames,Montreal Canadiens,Cole Caufield,2.5,1.7,Neds,2.05,Neds,Player Shots on Goal,Calgary Flames v Montreal Canadiens,-7.604017216642767
-Florida Panthers,Buffalo Sabres,Jiri Kulich,1.5,1.7,Neds,2.05,Neds,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-7.604017216642767
-Philadelphia Flyers,Seattle Kraken,Vince Dunn,1.5,1.7,Neds,2.05,Neds,Player Shots on Goal,Philadelphia Flyers v Seattle Kraken,-7.604017216642767
-Nashville Predators,Chicago Blackhawks,Frank Nazar,1.5,2.05,Pinnacle,1.7,Neds,Player Shots on Goal,Nashville Predators v Chicago Blackhawks,-7.604017216642767
-Nashville Predators,Chicago Blackhawks,Tyler Bertuzzi,1.5,2.05,Pinnacle,1.7,Neds,Player Shots on Goal,Nashville Predators v Chicago Blackhawks,-7.604017216642767
-Calgary Flames,Montreal Canadiens,Joel Armia,1.5,1.98,Neds,1.751,Pinnacle,Player Shots on Goal,Calgary Flames v Montreal Canadiens,-7.615273234919151
-Philadelphia Flyers,Seattle Kraken,Owen Tippett,2.5,1.751,Pinnacle,1.98,Neds,Player Shots on Goal,Philadelphia Flyers v Seattle Kraken,-7.615273234919151
-Nashville Predators,Chicago Blackhawks,Ryan O'Reilly,2.5,2.45,Bet365,1.497,Pinnacle,Player Shots on Goal,Nashville Predators v Chicago Blackhawks,-7.616593731681043
 Florida Panthers,Buffalo Sabres,Mackie Samoskevich,1.5,1.497,Pinnacle,2.45,Bet365,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-7.616593731681043
-Tampa Bay Lightning,Boston Bruins,Pavel Zacha,1.5,1.847,Pinnacle,1.87,Neds,Player Shots on Goal,Tampa Bay Lightning v Boston Bruins,-7.617787480203475
-Florida Panthers,Buffalo Sabres,Rasmus Dahlin,2.5,2.39,Pinnacle,1.52,Bet365,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-7.6304778683109475
-San Jose Sharks,New York Islanders,Noah Dobson,2.5,1.94,Neds,1.781,Pinnacle,Player Shots on Goal,San Jose Sharks v New York Islanders,-7.694623083290408
-Edmonton Oilers,Dallas Stars,Mason Marchment,1.5,1.781,Pinnacle,1.94,Neds,Player Shots on Goal,Edmonton Oilers v Dallas Stars,-7.694623083290408
-Edmonton Oilers,Dallas Stars,Viktor Arvidsson,1.5,1.495,Pinnacle,2.45,Bet365,Player Shots on Goal,Edmonton Oilers v Dallas Stars,-7.705958637635657
-San Jose Sharks,New York Islanders,Simon Holmstrom,1.5,1.83,Bet365,1.884,Pinnacle,Player Shots on Goal,San Jose Sharks v New York Islanders,-7.7233650064390424
+Colorado Avalanche,Toronto Maple Leafs,Auston Matthews,3.5,1.847,Pinnacle,1.87,Neds,Player Shots on Goal,Colorado Avalanche v Toronto Maple Leafs,-7.617787480203475
+Florida Panthers,Buffalo Sabres,Evan Rodrigues,2.5,2.32,Pinnacle,1.55,Bet365,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-7.619577308120129
+Colorado Avalanche,Toronto Maple Leafs,Martin Necas,2.5,2,Neds,1.735,Pinnacle,Player Shots on Goal,Colorado Avalanche v Toronto Maple Leafs,-7.636887608069154
+Ottawa Senators,New York Rangers,Drake Batherson,2.5,2.5,Pinnacle,1.478,Pinnacle,Player Shots on Goal,Ottawa Senators v New York Rangers,-7.6589986468200255
+Ottawa Senators,New York Rangers,J.T. Miller,1.5,1.571,Pinnacle,2.27,Pinnacle,Player Shots on Goal,Ottawa Senators v New York Rangers,-7.70658717896231
 Colorado Avalanche,Toronto Maple Leafs,Auston Matthews,3.5,1.83,Bet365,1.884,Pinnacle,Player Shots on Goal,Colorado Avalanche v Toronto Maple Leafs,-7.7233650064390424
-Edmonton Oilers,Dallas Stars,Mikko Rantanen,2.5,1.91,Neds,1.806,Pinnacle,Player Shots on Goal,Edmonton Oilers v Dallas Stars,-7.727006545952131
-Edmonton Oilers,Dallas Stars,Matt Duchene,1.5,1.806,Pinnacle,1.91,Neds,Player Shots on Goal,Edmonton Oilers v Dallas Stars,-7.727006545952131
-Nashville Predators,Chicago Blackhawks,Jonathan Marchessault,2.5,1.806,Pinnacle,1.91,Neds,Player Shots on Goal,Nashville Predators v Chicago Blackhawks,-7.727006545952131
+Colorado Avalanche,Toronto Maple Leafs,Devon Toews,1.5,1.806,Pinnacle,1.91,Neds,Player Shots on Goal,Colorado Avalanche v Toronto Maple Leafs,-7.727006545952131
 Los Angeles Kings,St. Louis Blues,Dylan Holloway,1.5,1.473,Pinnacle,2.51,Pinnacle,Player Shots on Goal,Los Angeles Kings v St. Louis Blues,-7.729300043546106
-Florida Panthers,Buffalo Sabres,JJ Peterka,2.5,2.25,Neds,1.58,Bet365,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-7.735583684950775
-Los Angeles Kings,St. Louis Blues,Robert Thomas,1.5,1.58,Neds,2.25,Neds,Player Shots on Goal,Los Angeles Kings v St. Louis Blues,-7.735583684950775
-Nashville Predators,Chicago Blackhawks,Brady Skjei,1.5,1.58,Neds,2.25,Neds,Player Shots on Goal,Nashville Predators v Chicago Blackhawks,-7.735583684950775
-San Jose Sharks,New York Islanders,Kyle Palmieri,2.5,2.25,Neds,1.58,Neds,Player Shots on Goal,San Jose Sharks v New York Islanders,-7.735583684950775
-Tampa Bay Lightning,Boston Bruins,Anthony Cirelli,1.5,1.763,Pinnacle,1.96,Neds,Player Shots on Goal,Tampa Bay Lightning v Boston Bruins,-7.741905610797928
-Philadelphia Flyers,Seattle Kraken,Jaden Schwartz,2.5,2.5,Bet365,1.476,Pinnacle,Player Shots on Goal,Philadelphia Flyers v Seattle Kraken,-7.750677506775072
+Colorado Avalanche,Toronto Maple Leafs,Brock Nelson,2.5,2.25,Neds,1.58,Neds,Player Shots on Goal,Colorado Avalanche v Toronto Maple Leafs,-7.735583684950775
+Calgary Flames,Montreal Canadiens,Blake Coleman,2.5,2.13,Pinnacle,1.645,Pinnacle,Player Shots on Goal,Calgary Flames v Montreal Canadiens,-7.738630363742738
 Edmonton Oilers,Dallas Stars,Darnell Nurse,1.5,1.476,Pinnacle,2.5,Bet365,Player Shots on Goal,Edmonton Oilers v Dallas Stars,-7.750677506775072
-Tampa Bay Lightning,Boston Bruins,Elias Lindholm,1.5,1.476,Pinnacle,2.5,Bet365,Player Shots on Goal,Tampa Bay Lightning v Boston Bruins,-7.750677506775072
-Tampa Bay Lightning,Boston Bruins,Brandon Hagel,2.5,1.98,Neds,1.746,Pinnacle,Player Shots on Goal,Tampa Bay Lightning v Boston Bruins,-7.778819119025293
-Florida Panthers,Buffalo Sabres,Evan Rodrigues,2.5,2.3,Neds,1.555,Pinnacle,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-7.7869425415909355
-Los Angeles Kings,St. Louis Blues,Pavel Buchnevich,1.5,1.662,Pinnacle,2.1,Neds,Player Shots on Goal,Los Angeles Kings v St. Louis Blues,-7.7875193398659
-Philadelphia Flyers,Seattle Kraken,Jordan Eberle,1.5,1.892,Pinnacle,1.82,Neds,Player Shots on Goal,Philadelphia Flyers v Seattle Kraken,-7.799177566619431
-Florida Panthers,Buffalo Sabres,Seth Jones,1.5,1.73,Neds,2,Neds,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-7.803468208092479
-Nashville Predators,Chicago Blackhawks,Ilya Mikheyev,1.5,2,Neds,1.73,Neds,Player Shots on Goal,Nashville Predators v Chicago Blackhawks,-7.803468208092479
-Calgary Flames,Montreal Canadiens,Joel Armia,1.5,2,Pinnacle,1.73,Neds,Player Shots on Goal,Calgary Flames v Montreal Canadiens,-7.803468208092479
+Philadelphia Flyers,Seattle Kraken,Jaden Schwartz,2.5,2.5,Pinnacle,1.476,Pinnacle,Player Shots on Goal,Philadelphia Flyers v Seattle Kraken,-7.750677506775072
+Colorado Avalanche,Toronto Maple Leafs,William Nylander,2.5,1.746,Pinnacle,1.98,Neds,Player Shots on Goal,Colorado Avalanche v Toronto Maple Leafs,-7.778819119025293
+Florida Panthers,Buffalo Sabres,Sam Reinhart,2.5,1.813,Pinnacle,1.9,Bet365,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-7.788776961709276
+Colorado Avalanche,Toronto Maple Leafs,Martin Necas,2.5,2,Neds,1.73,Neds,Player Shots on Goal,Colorado Avalanche v Toronto Maple Leafs,-7.803468208092479
+Colorado Avalanche,Toronto Maple Leafs,Valeri Nichushkin,2.5,2,Neds,1.73,Neds,Player Shots on Goal,Colorado Avalanche v Toronto Maple Leafs,-7.803468208092479
 Edmonton Oilers,Dallas Stars,Mason Marchment,1.5,1.76,Bet365,1.961,Pinnacle,Player Shots on Goal,Edmonton Oilers v Dallas Stars,-7.81257243521396
 San Jose Sharks,New York Islanders,Noah Dobson,2.5,1.961,Pinnacle,1.76,Bet365,Player Shots on Goal,San Jose Sharks v New York Islanders,-7.81257243521396
-Edmonton Oilers,Dallas Stars,Jake Walman,1.5,1.578,Pinnacle,2.25,Neds,Player Shots on Goal,Edmonton Oilers v Dallas Stars,-7.815800591465982
-Ottawa Senators,New York Rangers,Brady Tkachuk,3.5,1.86,Bet365,1.85,Neds,Player Shots on Goal,Ottawa Senators v New York Rangers,-7.817494914269085
-Tampa Bay Lightning,Boston Bruins,Oliver Bjorkstrand,1.5,1.86,Bet365,1.85,Neds,Player Shots on Goal,Tampa Bay Lightning v Boston Bruins,-7.817494914269085
-Calgary Flames,Montreal Canadiens,Brendan Gallagher,1.5,1.86,Bet365,1.85,Neds,Player Shots on Goal,Calgary Flames v Montreal Canadiens,-7.817494914269085
-San Jose Sharks,New York Islanders,Jean-Gabriel Pageau,1.5,1.85,Neds,1.86,Bet365,Player Shots on Goal,San Jose Sharks v New York Islanders,-7.817494914269085
-Philadelphia Flyers,Seattle Kraken,Kaapo Kakko,1.5,1.87,Neds,1.84,Pinnacle,Player Shots on Goal,Philadelphia Flyers v Seattle Kraken,-7.823761915833516
-Philadelphia Flyers,Seattle Kraken,Bobby Brink,1.5,1.83,Bet365,1.88,Neds,Player Shots on Goal,Philadelphia Flyers v Seattle Kraken,-7.83629810487152
-Florida Panthers,Buffalo Sabres,Sam Reinhart,2.5,1.83,Bet365,1.88,Neds,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-7.83629810487152
-Nashville Predators,Chicago Blackhawks,Filip Forsberg,3.5,1.83,Bet365,1.88,Neds,Player Shots on Goal,Nashville Predators v Chicago Blackhawks,-7.83629810487152
-Edmonton Oilers,Dallas Stars,Evan Bouchard,2.5,1.88,Neds,1.83,Bet365,Player Shots on Goal,Edmonton Oilers v Dallas Stars,-7.83629810487152
-Philadelphia Flyers,Seattle Kraken,Jordan Eberle,1.5,1.88,Neds,1.83,Bet365,Player Shots on Goal,Philadelphia Flyers v Seattle Kraken,-7.83629810487152
-San Jose Sharks,New York Islanders,Anthony Duclair,1.5,1.88,Neds,1.83,Bet365,Player Shots on Goal,San Jose Sharks v New York Islanders,-7.83629810487152
-Nashville Predators,Chicago Blackhawks,Ilya Mikheyev,1.5,2,Neds,1.729,Pinnacle,Player Shots on Goal,Nashville Predators v Chicago Blackhawks,-7.8368999421631
-Tampa Bay Lightning,Boston Bruins,Anthony Cirelli,1.5,1.76,Bet365,1.96,Neds,Player Shots on Goal,Tampa Bay Lightning v Boston Bruins,-7.8385899814471305
-Nashville Predators,Chicago Blackhawks,Frank Nazar,1.5,2.02,Neds,1.714,Pinnacle,Player Shots on Goal,Nashville Predators v Chicago Blackhawks,-7.848007671245538
-Nashville Predators,Chicago Blackhawks,Tyler Bertuzzi,1.5,2.02,Neds,1.714,Pinnacle,Player Shots on Goal,Nashville Predators v Chicago Blackhawks,-7.848007671245538
-Calgary Flames,Montreal Canadiens,Morgan Frost,1.5,1.714,Pinnacle,2.02,Neds,Player Shots on Goal,Calgary Flames v Montreal Canadiens,-7.848007671245538
-Calgary Flames,Montreal Canadiens,Mike Matheson,1.5,1.66,Bet365,2.1,Neds,Player Shots on Goal,Calgary Flames v Montreal Canadiens,-7.860011474469308
-Los Angeles Kings,St. Louis Blues,Pavel Buchnevich,1.5,1.66,Bet365,2.1,Neds,Player Shots on Goal,Los Angeles Kings v St. Louis Blues,-7.860011474469308
-Edmonton Oilers,Dallas Stars,Ryan Nugent-Hopkins,1.5,1.66,Bet365,2.1,Neds,Player Shots on Goal,Edmonton Oilers v Dallas Stars,-7.860011474469308
-Tampa Bay Lightning,Boston Bruins,Brayden Point,2.5,2.1,Neds,1.66,Bet365,Player Shots on Goal,Tampa Bay Lightning v Boston Bruins,-7.860011474469308
-Tampa Bay Lightning,Boston Bruins,Jake Guentzel,2.5,2.1,Neds,1.66,Bet365,Player Shots on Goal,Tampa Bay Lightning v Boston Bruins,-7.860011474469308
-Calgary Flames,Montreal Canadiens,Rasmus Andersson,1.5,1.775,Pinnacle,1.94,Neds,Player Shots on Goal,Calgary Flames v Montreal Canadiens,-7.884419921591412
-Calgary Flames,Montreal Canadiens,Yegor Sharangovich,1.5,1.775,Pinnacle,1.94,Neds,Player Shots on Goal,Calgary Flames v Montreal Canadiens,-7.884419921591412
-Los Angeles Kings,St. Louis Blues,Adrian Kempe,2.5,1.775,Pinnacle,1.94,Neds,Player Shots on Goal,Los Angeles Kings v St. Louis Blues,-7.884419921591412
-San Jose Sharks,New York Islanders,Adam Pelech,1.5,1.775,Pinnacle,1.94,Neds,Player Shots on Goal,San Jose Sharks v New York Islanders,-7.884419921591412
 Los Angeles Kings,St. Louis Blues,Dylan Holloway,1.5,1.473,Pinnacle,2.5,Bet365,Player Shots on Goal,Los Angeles Kings v St. Louis Blues,-7.888662593346907
-Tampa Bay Lightning,Boston Bruins,Elias Lindholm,1.5,1.476,Pinnacle,2.49,Pinnacle,Player Shots on Goal,Tampa Bay Lightning v Boston Bruins,-7.911320077056194
-Philadelphia Flyers,Seattle Kraken,Sean Couturier,1.5,1.8,Bet365,1.91,Neds,Player Shots on Goal,Philadelphia Flyers v Seattle Kraken,-7.911576497963946
-Tampa Bay Lightning,Boston Bruins,Mason Lohrei,1.5,1.8,Bet365,1.91,Neds,Player Shots on Goal,Tampa Bay Lightning v Boston Bruins,-7.911576497963946
-Nashville Predators,Chicago Blackhawks,Jonathan Marchessault,2.5,1.8,Bet365,1.91,Neds,Player Shots on Goal,Nashville Predators v Chicago Blackhawks,-7.911576497963946
-Edmonton Oilers,Dallas Stars,Matt Duchene,1.5,1.8,Bet365,1.91,Neds,Player Shots on Goal,Edmonton Oilers v Dallas Stars,-7.911576497963946
-Edmonton Oilers,Dallas Stars,Zach Hyman,2.5,1.8,Bet365,1.91,Neds,Player Shots on Goal,Edmonton Oilers v Dallas Stars,-7.911576497963946
-Edmonton Oilers,Dallas Stars,Mikko Rantanen,2.5,1.91,Neds,1.8,Bet365,Player Shots on Goal,Edmonton Oilers v Dallas Stars,-7.911576497963946
-Calgary Flames,Montreal Canadiens,Mikael Backlund,1.5,1.53,Neds,2.35,Neds,Player Shots on Goal,Calgary Flames v Montreal Canadiens,-7.9126686135447155
-Calgary Flames,Montreal Canadiens,Nick Suzuki,1.5,1.53,Neds,2.35,Neds,Player Shots on Goal,Calgary Flames v Montreal Canadiens,-7.9126686135447155
-Edmonton Oilers,Dallas Stars,Viktor Arvidsson,1.5,1.53,Neds,2.35,Neds,Player Shots on Goal,Edmonton Oilers v Dallas Stars,-7.9126686135447155
-Florida Panthers,Buffalo Sabres,Alex Tuch,2.5,2.35,Neds,1.53,Neds,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-7.9126686135447155
-Florida Panthers,Buffalo Sabres,Mackie Samoskevich,1.5,1.53,Neds,2.35,Neds,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-7.9126686135447155
-Los Angeles Kings,St. Louis Blues,Trevor Moore,2.5,2.35,Neds,1.53,Neds,Player Shots on Goal,Los Angeles Kings v St. Louis Blues,-7.9126686135447155
-Nashville Predators,Chicago Blackhawks,Ryan Donato,2.5,2.35,Neds,1.53,Neds,Player Shots on Goal,Nashville Predators v Chicago Blackhawks,-7.9126686135447155
-Nashville Predators,Chicago Blackhawks,Ryan O’Reilly,2.5,2.35,Neds,1.53,Neds,Player Shots on Goal,Nashville Predators v Chicago Blackhawks,-7.9126686135447155
-Ottawa Senators,New York Rangers,Drake Batherson,1.5,1.53,Neds,2.35,Neds,Player Shots on Goal,Ottawa Senators v New York Rangers,-7.9126686135447155
-Philadelphia Flyers,Seattle Kraken,Tyson Foerster,1.5,1.53,Neds,2.35,Neds,Player Shots on Goal,Philadelphia Flyers v Seattle Kraken,-7.9126686135447155
-Florida Panthers,Buffalo Sabres,Tage Thompson,2.5,1.6,Bet365,2.2,Neds,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-7.954545454545459
-Calgary Flames,Montreal Canadiens,Matt Coronato,2.5,2.2,Neds,1.6,Neds,Player Shots on Goal,Calgary Flames v Montreal Canadiens,-7.954545454545459
-Edmonton Oilers,Dallas Stars,Leon Draisaitl,2.5,1.6,Neds,2.2,Neds,Player Shots on Goal,Edmonton Oilers v Dallas Stars,-7.954545454545459
-Edmonton Oilers,Dallas Stars,Roope Hintz,1.5,1.6,Neds,2.2,Neds,Player Shots on Goal,Edmonton Oilers v Dallas Stars,-7.954545454545459
-Florida Panthers,Buffalo Sabres,Sam Bennett,2.5,1.6,Neds,2.2,Neds,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-7.954545454545459
-Los Angeles Kings,St. Louis Blues,Jordan Kyrou,2.5,2.2,Neds,1.6,Neds,Player Shots on Goal,Los Angeles Kings v St. Louis Blues,-7.954545454545459
-Los Angeles Kings,St. Louis Blues,Warren Foegele,2.5,2.2,Neds,1.6,Bet365,Player Shots on Goal,Los Angeles Kings v St. Louis Blues,-7.954545454545459
-Nashville Predators,Chicago Blackhawks,Luke Evangelista,1.5,1.6,Neds,2.2,Neds,Player Shots on Goal,Nashville Predators v Chicago Blackhawks,-7.954545454545459
-Ottawa Senators,New York Rangers,J.T. Miller,1.5,1.6,Neds,2.2,Neds,Player Shots on Goal,Ottawa Senators v New York Rangers,-7.954545454545459
-San Jose Sharks,New York Islanders,Will Smith,1.5,1.6,Neds,2.2,Neds,Player Shots on Goal,San Jose Sharks v New York Islanders,-7.954545454545459
-Tampa Bay Lightning,Boston Bruins,Nikita Kucherov,2.5,1.6,Neds,2.2,Neds,Player Shots on Goal,Tampa Bay Lightning v Boston Bruins,-7.954545454545459
-San Jose Sharks,New York Islanders,Anthony Duclair,1.5,1.88,Neds,1.826,Pinnacle,Player Shots on Goal,San Jose Sharks v New York Islanders,-7.9560019575400265
-Nashville Predators,Chicago Blackhawks,Filip Forsberg,3.5,1.826,Pinnacle,1.88,Neds,Player Shots on Goal,Nashville Predators v Chicago Blackhawks,-7.9560019575400265
-Philadelphia Flyers,Seattle Kraken,Matty Beniers,1.5,1.826,Pinnacle,1.88,Neds,Player Shots on Goal,Philadelphia Flyers v Seattle Kraken,-7.9560019575400265
-Ottawa Senators,New York Rangers,Alexis Lafreniere,1.5,1.74,Bet365,1.98,Neds,Player Shots on Goal,Ottawa Senators v New York Rangers,-7.976314872866608
-San Jose Sharks,New York Islanders,Tyler Toffoli,2.5,1.74,Bet365,1.98,Neds,Player Shots on Goal,San Jose Sharks v New York Islanders,-7.976314872866608
-Philadelphia Flyers,Seattle Kraken,Owen Tippett,2.5,1.74,Bet365,1.98,Neds,Player Shots on Goal,Philadelphia Flyers v Seattle Kraken,-7.976314872866608
-Edmonton Oilers,Dallas Stars,Jason Robertson,2.5,1.74,Bet365,1.98,Neds,Player Shots on Goal,Edmonton Oilers v Dallas Stars,-7.976314872866608
-Calgary Flames,Montreal Canadiens,Joel Armia,1.5,1.98,Neds,1.74,Bet365,Player Shots on Goal,Calgary Flames v Montreal Canadiens,-7.976314872866608
-Ottawa Senators,New York Rangers,Vincent Trocheck,2.5,1.98,Neds,1.74,Bet365,Player Shots on Goal,Ottawa Senators v New York Rangers,-7.976314872866608
-San Jose Sharks,New York Islanders,Anders Lee,2.5,1.98,Neds,1.74,Bet365,Player Shots on Goal,San Jose Sharks v New York Islanders,-7.976314872866608
-Tampa Bay Lightning,Boston Bruins,Brandon Hagel,2.5,1.98,Neds,1.74,Bet365,Player Shots on Goal,Tampa Bay Lightning v Boston Bruins,-7.976314872866608
-Calgary Flames,Montreal Canadiens,Morgan Frost,1.5,1.71,Bet365,2.02,Neds,Player Shots on Goal,Calgary Flames v Montreal Canadiens,-7.984482658792191
-Nashville Predators,Chicago Blackhawks,Frank Nazar,1.5,2.02,Neds,1.71,Bet365,Player Shots on Goal,Nashville Predators v Chicago Blackhawks,-7.984482658792191
-Nashville Predators,Chicago Blackhawks,Tyler Bertuzzi,1.5,2.02,Neds,1.71,Bet365,Player Shots on Goal,Nashville Predators v Chicago Blackhawks,-7.984482658792191
-Philadelphia Flyers,Seattle Kraken,Brandon Montour,2.5,2.02,Neds,1.71,Bet365,Player Shots on Goal,Philadelphia Flyers v Seattle Kraken,-7.984482658792191
-Calgary Flames,Montreal Canadiens,Blake Coleman,2.5,2.3,Neds,1.55,Bet365,Player Shots on Goal,Calgary Flames v Montreal Canadiens,-7.9943899018232845
-Florida Panthers,Buffalo Sabres,Evan Rodrigues,2.5,2.3,Neds,1.55,Bet365,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-7.9943899018232845
-Florida Panthers,Buffalo Sabres,Rasmus Dahlin,2.5,2.3,Neds,1.55,Neds,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-7.9943899018232845
-Los Angeles Kings,St. Louis Blues,Alex Laferriere,2.5,2.3,Neds,1.55,Bet365,Player Shots on Goal,Los Angeles Kings v St. Louis Blues,-7.9943899018232845
-Tampa Bay Lightning,Boston Bruins,Morgan Geekie,2.5,2.3,Neds,1.55,Bet365,Player Shots on Goal,Tampa Bay Lightning v Boston Bruins,-7.9943899018232845
-Calgary Flames,Montreal Canadiens,Rasmus Andersson,1.5,1.77,Neds,1.94,Neds,Player Shots on Goal,Calgary Flames v Montreal Canadiens,-8.043566893820264
-Calgary Flames,Montreal Canadiens,Yegor Sharangovich,1.5,1.77,Neds,1.94,Neds,Player Shots on Goal,Calgary Flames v Montreal Canadiens,-8.043566893820264
-Edmonton Oilers,Dallas Stars,Mason Marchment,1.5,1.77,Neds,1.94,Neds,Player Shots on Goal,Edmonton Oilers v Dallas Stars,-8.043566893820264
-Florida Panthers,Buffalo Sabres,Carter Verhaeghe,2.5,1.77,Neds,1.94,Neds,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-8.043566893820264
-Los Angeles Kings,St. Louis Blues,Adrian Kempe,2.5,1.77,Neds,1.94,Neds,Player Shots on Goal,Los Angeles Kings v St. Louis Blues,-8.043566893820264
-Philadelphia Flyers,Seattle Kraken,Eeli Tolvanen,1.5,1.77,Neds,1.94,Neds,Player Shots on Goal,Philadelphia Flyers v Seattle Kraken,-8.043566893820264
-San Jose Sharks,New York Islanders,Adam Pelech,1.5,1.77,Neds,1.94,Neds,Player Shots on Goal,San Jose Sharks v New York Islanders,-8.043566893820264
-San Jose Sharks,New York Islanders,Noah Dobson,2.5,1.94,Neds,1.77,Neds,Player Shots on Goal,San Jose Sharks v New York Islanders,-8.043566893820264
-Edmonton Oilers,Dallas Stars,Thomas Harley,1.5,1.625,Pinnacle,2.15,Neds,Player Shots on Goal,Edmonton Oilers v Dallas Stars,-8.05008944543828
-Florida Panthers,Buffalo Sabres,Carter Verhaeghe,2.5,1.769,Pinnacle,1.94,Neds,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-8.075504245511178
-Colorado Avalanche,Toronto Maple Leafs,Valeri Nichushkin,2.5,1.84,Pinnacle,1.86,Bet365,Player Shots on Goal,Colorado Avalanche v Toronto Maple Leafs,-8.111266947171568
-San Jose Sharks,New York Islanders,Simon Holmstrom,1.5,1.83,Bet365,1.87,Neds,Player Shots on Goal,San Jose Sharks v New York Islanders,-8.1207445720463909
-Tampa Bay Lightning,Boston Bruins,Pavel Zacha,1.5,1.83,Bet365,1.87,Neds,Player Shots on Goal,Tampa Bay Lightning v Boston Bruins,-8.1207445720463909
-Philadelphia Flyers,Seattle Kraken,Kaapo Kakko,1.5,1.87,Neds,1.83,Bet365,Player Shots on Goal,Philadelphia Flyers v Seattle Kraken,-8.1207445720463909
-Edmonton Oilers,Dallas Stars,Evan Bouchard,2.5,1.88,Neds,1.82,Neds,Player Shots on Goal,Edmonton Oilers v Dallas Stars,-8.136544306757054
-Florida Panthers,Buffalo Sabres,Sam Reinhart,2.5,1.82,Neds,1.88,Neds,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-8.136544306757054
-Nashville Predators,Chicago Blackhawks,Filip Forsberg,3.5,1.82,Neds,1.88,Neds,Player Shots on Goal,Nashville Predators v Chicago Blackhawks,-8.136544306757054
-Philadelphia Flyers,Seattle Kraken,Bobby Brink,1.5,1.82,Neds,1.88,Neds,Player Shots on Goal,Philadelphia Flyers v Seattle Kraken,-8.136544306757054
-Philadelphia Flyers,Seattle Kraken,Jordan Eberle,1.5,1.88,Neds,1.82,Neds,Player Shots on Goal,Philadelphia Flyers v Seattle Kraken,-8.136544306757054
-Philadelphia Flyers,Seattle Kraken,Matty Beniers,1.5,1.82,Neds,1.88,Neds,Player Shots on Goal,Philadelphia Flyers v Seattle Kraken,-8.136544306757054
-San Jose Sharks,New York Islanders,Anthony Duclair,1.5,1.88,Neds,1.82,Neds,Player Shots on Goal,San Jose Sharks v New York Islanders,-8.136544306757054
-Nashville Predators,Chicago Blackhawks,Brady Skjei,1.5,1.57,Bet365,2.25,Neds,Player Shots on Goal,Nashville Predators v Chicago Blackhawks,-8.138711960368017
-Los Angeles Kings,St. Louis Blues,Robert Thomas,1.5,1.57,Bet365,2.25,Neds,Player Shots on Goal,Los Angeles Kings v St. Louis Blues,-8.138711960368017
-Edmonton Oilers,Dallas Stars,Jake Walman,1.5,1.57,Bet365,2.25,Neds,Player Shots on Goal,Edmonton Oilers v Dallas Stars,-8.138711960368017
-Edmonton Oilers,Dallas Stars,Jake Walman,1.5,1.5699999999999998,Neds,2.25,Neds,Player Shots on Goal,Edmonton Oilers v Dallas Stars,-8.138711960368017
-Florida Panthers,Buffalo Sabres,Aaron Ekblad,1.5,1.5699999999999998,Neds,2.25,Neds,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-8.138711960368017
-Florida Panthers,Buffalo Sabres,Aleksander Barkov,2.5,2.25,Neds,1.5699999999999998,Neds,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-8.138711960368017
-Philadelphia Flyers,Seattle Kraken,Jared McCann,2.5,2.25,Neds,1.57,Bet365,Player Shots on Goal,Philadelphia Flyers v Seattle Kraken,-8.138711960368017
-Philadelphia Flyers,Seattle Kraken,Jared McCann,2.5,2.25,Neds,1.5699999999999998,Neds,Player Shots on Goal,Philadelphia Flyers v Seattle Kraken,-8.138711960368017
-San Jose Sharks,New York Islanders,Kyle Palmieri,2.5,2.25,Neds,1.57,Bet365,Player Shots on Goal,San Jose Sharks v New York Islanders,-8.138711960368017
-San Jose Sharks,New York Islanders,Anders Lee,2.5,1.98,Neds,1.735,Pinnacle,Player Shots on Goal,San Jose Sharks v New York Islanders,-8.141938113119673
-San Jose Sharks,New York Islanders,Tyler Toffoli,2.5,1.735,Pinnacle,1.98,Neds,Player Shots on Goal,San Jose Sharks v New York Islanders,-8.141938113119673
-Los Angeles Kings,St. Louis Blues,Warren Foegele,2.5,2.2,Neds,1.595,Pinnacle,Player Shots on Goal,Los Angeles Kings v St. Louis Blues,-8.150470219435736
-Calgary Flames,Montreal Canadiens,Cole Caufield,2.5,1.684,Pinnacle,2.05,Neds,Player Shots on Goal,Calgary Flames v Montreal Canadiens,-8.162910607728403
-Tampa Bay Lightning,Boston Bruins,Anthony Cirelli,1.5,1.75,Neds,1.96,Neds,Player Shots on Goal,Tampa Bay Lightning v Boston Bruins,-8.163265306122458
-Florida Panthers,Buffalo Sabres,Seth Jones,1.5,1.719,Pinnacle,2,Neds,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-8.173356602675973
-Philadelphia Flyers,Seattle Kraken,Brandon Montour,2.5,2.02,Neds,1.704,Pinnacle,Player Shots on Goal,Philadelphia Flyers v Seattle Kraken,-8.190396504439178
-Florida Panthers,Buffalo Sabres,JJ Peterka,2.5,2.25,Neds,1.568,Pinnacle,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-8.219954648526073
-Calgary Flames,Montreal Canadiens,Mike Matheson,1.5,1.65,Neds,2.1,Neds,Player Shots on Goal,Calgary Flames v Montreal Canadiens,-8.225108225108224
-Tampa Bay Lightning,Boston Bruins,Jake Guentzel,2.5,2.1,Neds,1.65,Neds,Player Shots on Goal,Tampa Bay Lightning v Boston Bruins,-8.225108225108224
-Ottawa Senators,New York Rangers,Alexis Lafreniere,1.5,1.74,Bet365,1.97,Pinnacle,Player Shots on Goal,Ottawa Senators v New York Rangers,-8.232685687613039
-Ottawa Senators,New York Rangers,Dylan Cozens,1.5,1.62,Bet365,2.15,Neds,Player Shots on Goal,Ottawa Senators v New York Rangers,-8.24002296870514
-Los Angeles Kings,St. Louis Blues,Quinton Byfield,1.5,1.62,Bet365,2.15,Neds,Player Shots on Goal,Los Angeles Kings v St. Louis Blues,-8.24002296870514
-Edmonton Oilers,Dallas Stars,Thomas Harley,1.5,1.62,Bet365,2.15,Neds,Player Shots on Goal,Edmonton Oilers v Dallas Stars,-8.24002296870514
-Calgary Flames,Montreal Canadiens,Patrik Laine,1.5,1.62,Neds,2.15,Neds,Player Shots on Goal,Calgary Flames v Montreal Canadiens,-8.24002296870514
-Ottawa Senators,New York Rangers,Artemi Panarin,3.5,2.15,Neds,1.62,Bet365,Player Shots on Goal,Ottawa Senators v New York Rangers,-8.24002296870514
-Ottawa Senators,New York Rangers,Will Cuylle,1.5,1.62,Neds,2.15,Neds,Player Shots on Goal,Ottawa Senators v New York Rangers,-8.24002296870514
-Philadelphia Flyers,Seattle Kraken,Travis Konecny,2.5,2.15,Neds,1.62,Bet365,Player Shots on Goal,Philadelphia Flyers v Seattle Kraken,-8.24002296870514
-Tampa Bay Lightning,Boston Bruins,Jake Guentzel,2.5,2.1,Neds,1.649,Pinnacle,Player Shots on Goal,Tampa Bay Lightning v Boston Bruins,-8.261861445609163
-Calgary Flames,Montreal Canadiens,Mike Matheson,1.5,1.649,Pinnacle,2.1,Neds,Player Shots on Goal,Calgary Flames v Montreal Canadiens,-8.261861445609163
-Tampa Bay Lightning,Boston Bruins,Morgan Geekie,2.5,2.3,Neds,1.543,Pinnacle,Player Shots on Goal,Tampa Bay Lightning v Boston Bruins,-8.287074868269052
-Philadelphia Flyers,Seattle Kraken,Vince Dunn,1.5,1.68,Bet365,2.05,Neds,Player Shots on Goal,Philadelphia Flyers v Seattle Kraken,-8.304297328687582
-Calgary Flames,Montreal Canadiens,Cole Caufield,2.5,1.68,Bet365,2.05,Neds,Player Shots on Goal,Calgary Flames v Montreal Canadiens,-8.304297328687582
-Edmonton Oilers,Dallas Stars,Mikael Granlund,1.5,2.05,Neds,1.68,Bet365,Player Shots on Goal,Edmonton Oilers v Dallas Stars,-8.304297328687582
-Edmonton Oilers,Dallas Stars,Mikael Granlund,1.5,2.05,Neds,1.6800000000000002,Neds,Player Shots on Goal,Edmonton Oilers v Dallas Stars,-8.304297328687582
-Calgary Flames,Montreal Canadiens,Joel Armia,1.5,1.98,Neds,1.73,Neds,Player Shots on Goal,Calgary Flames v Montreal Canadiens,-8.308518713142998
-Edmonton Oilers,Dallas Stars,Jason Robertson,2.5,1.73,Neds,1.98,Neds,Player Shots on Goal,Edmonton Oilers v Dallas Stars,-8.308518713142998
-Ottawa Senators,New York Rangers,Alexis Lafreniere,1.5,1.73,Neds,1.98,Neds,Player Shots on Goal,Ottawa Senators v New York Rangers,-8.308518713142998
-Ottawa Senators,New York Rangers,Vincent Trocheck,2.5,1.98,Neds,1.73,Neds,Player Shots on Goal,Ottawa Senators v New York Rangers,-8.308518713142998
-Philadelphia Flyers,Seattle Kraken,Owen Tippett,2.5,1.73,Neds,1.98,Neds,Player Shots on Goal,Philadelphia Flyers v Seattle Kraken,-8.308518713142998
-San Jose Sharks,New York Islanders,Anders Lee,2.5,1.98,Neds,1.73,Neds,Player Shots on Goal,San Jose Sharks v New York Islanders,-8.308518713142998
-San Jose Sharks,New York Islanders,Tyler Toffoli,2.5,1.73,Neds,1.98,Neds,Player Shots on Goal,San Jose Sharks v New York Islanders,-8.308518713142998
-Tampa Bay Lightning,Boston Bruins,Brandon Hagel,2.5,1.98,Neds,1.73,Neds,Player Shots on Goal,Tampa Bay Lightning v Boston Bruins,-8.308518713142998
-Calgary Flames,Montreal Canadiens,Morgan Frost,1.5,1.7,Neds,2.02,Neds,Player Shots on Goal,Calgary Flames v Montreal Canadiens,-8.328479906814223
-Nashville Predators,Chicago Blackhawks,Frank Nazar,1.5,2.02,Neds,1.7,Neds,Player Shots on Goal,Nashville Predators v Chicago Blackhawks,-8.328479906814223
-Nashville Predators,Chicago Blackhawks,Tyler Bertuzzi,1.5,2.02,Neds,1.7,Neds,Player Shots on Goal,Nashville Predators v Chicago Blackhawks,-8.328479906814223
-Philadelphia Flyers,Seattle Kraken,Brandon Montour,2.5,2.02,Neds,1.7,Neds,Player Shots on Goal,Philadelphia Flyers v Seattle Kraken,-8.328479906814223
-Ottawa Senators,New York Rangers,Tim Stutzle,1.5,1.5,Bet365,2.4,Neds,Player Shots on Goal,Ottawa Senators v New York Rangers,-8.333333333333325
-Tampa Bay Lightning,Boston Bruins,Elias Lindholm,1.5,1.5,Bet365,2.4,Neds,Player Shots on Goal,Tampa Bay Lightning v Boston Bruins,-8.333333333333325
-Los Angeles Kings,St. Louis Blues,Dylan Holloway,1.5,1.5,Bet365,2.4,Neds,Player Shots on Goal,Los Angeles Kings v St. Louis Blues,-8.333333333333325
-Edmonton Oilers,Dallas Stars,Darnell Nurse,1.5,1.5,Bet365,2.4,Neds,Player Shots on Goal,Edmonton Oilers v Dallas Stars,-8.333333333333325
-Ottawa Senators,New York Rangers,Thomas Chabot,2.5,2.4,Neds,1.5,Bet365,Player Shots on Goal,Ottawa Senators v New York Rangers,-8.333333333333325
-Philadelphia Flyers,Seattle Kraken,Jaden Schwartz,2.5,2.4,Neds,1.5,Bet365,Player Shots on Goal,Philadelphia Flyers v Seattle Kraken,-8.333333333333325
-Ottawa Senators,New York Rangers,Drake Batherson,1.5,1.52,Bet365,2.35,Neds,Player Shots on Goal,Ottawa Senators v New York Rangers,-8.342665173572229
-Philadelphia Flyers,Seattle Kraken,Tyson Foerster,1.5,1.52,Bet365,2.35,Neds,Player Shots on Goal,Philadelphia Flyers v Seattle Kraken,-8.342665173572229
-Florida Panthers,Buffalo Sabres,Mackie Samoskevich,1.5,1.52,Bet365,2.35,Neds,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-8.342665173572229
-Calgary Flames,Montreal Canadiens,Mikael Backlund,1.5,1.52,Bet365,2.35,Neds,Player Shots on Goal,Calgary Flames v Montreal Canadiens,-8.342665173572229
-Edmonton Oilers,Dallas Stars,Viktor Arvidsson,1.5,1.52,Bet365,2.35,Neds,Player Shots on Goal,Edmonton Oilers v Dallas Stars,-8.342665173572229
-Florida Panthers,Buffalo Sabres,Alex Tuch,2.5,2.35,Neds,1.52,Bet365,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-8.342665173572229
-Los Angeles Kings,St. Louis Blues,Trevor Moore,2.5,2.35,Neds,1.52,Bet365,Player Shots on Goal,Los Angeles Kings v St. Louis Blues,-8.342665173572229
-Nashville Predators,Chicago Blackhawks,Ryan Donato,2.5,2.35,Neds,1.52,Bet365,Player Shots on Goal,Nashville Predators v Chicago Blackhawks,-8.342665173572229
-San Jose Sharks,New York Islanders,Adam Pelech,1.5,1.76,Bet365,1.94,Neds,Player Shots on Goal,San Jose Sharks v New York Islanders,-8.364573570759148
-Philadelphia Flyers,Seattle Kraken,Eeli Tolvanen,1.5,1.76,Bet365,1.94,Neds,Player Shots on Goal,Philadelphia Flyers v Seattle Kraken,-8.364573570759148
-Florida Panthers,Buffalo Sabres,Carter Verhaeghe,2.5,1.76,Bet365,1.94,Neds,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-8.364573570759148
-Calgary Flames,Montreal Canadiens,Rasmus Andersson,1.5,1.76,Bet365,1.94,Neds,Player Shots on Goal,Calgary Flames v Montreal Canadiens,-8.364573570759148
-Calgary Flames,Montreal Canadiens,Yegor Sharangovich,1.5,1.76,Bet365,1.94,Neds,Player Shots on Goal,Calgary Flames v Montreal Canadiens,-8.364573570759148
-Los Angeles Kings,St. Louis Blues,Adrian Kempe,2.5,1.76,Bet365,1.94,Neds,Player Shots on Goal,Los Angeles Kings v St. Louis Blues,-8.364573570759148
-Edmonton Oilers,Dallas Stars,Mason Marchment,1.5,1.76,Bet365,1.94,Neds,Player Shots on Goal,Edmonton Oilers v Dallas Stars,-8.364573570759148
-San Jose Sharks,New York Islanders,Noah Dobson,2.5,1.94,Neds,1.76,Bet365,Player Shots on Goal,San Jose Sharks v New York Islanders,-8.364573570759148
-San Jose Sharks,New York Islanders,Kyle Palmieri,2.5,2.25,Neds,1.564,Pinnacle,Player Shots on Goal,San Jose Sharks v New York Islanders,-8.383063370275634
-Los Angeles Kings,St. Louis Blues,Kevin Fiala,2.5,1.645,Pinnacle,2.1,Neds,Player Shots on Goal,Los Angeles Kings v St. Louis Blues,-8.409321175278617
-Florida Panthers,Buffalo Sabres,Tage Thompson,2.5,1.588,Pinnacle,2.2,Neds,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-8.426837645981223
-Ottawa Senators,New York Rangers,J.T. Miller,1.5,1.588,Pinnacle,2.2,Neds,Player Shots on Goal,Ottawa Senators v New York Rangers,-8.426837645981223
-Florida Panthers,Buffalo Sabres,Seth Jones,1.5,1.71,Bet365,2,Neds,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-8.479532163742686
-Nashville Predators,Chicago Blackhawks,Brady Skjei,1.5,1.561,Pinnacle,2.25,Neds,Player Shots on Goal,Nashville Predators v Chicago Blackhawks,-8.50594348352196
-Ottawa Senators,New York Rangers,Artemi Panarin,3.5,2.15,Neds,1.613,Pinnacle,Player Shots on Goal,Ottawa Senators v New York Rangers,-8.507908130163354
-Ottawa Senators,New York Rangers,Alexis Lafreniere,1.5,1.73,Neds,1.97,Pinnacle,Player Shots on Goal,Ottawa Senators v New York Rangers,-8.564889527889452
-Edmonton Oilers,Dallas Stars,Leon Draisaitl,2.5,1.584,Pinnacle,2.2,Neds,Player Shots on Goal,Edmonton Oilers v Dallas Stars,-8.585858585858585
-San Jose Sharks,New York Islanders,Tony DeAngelo,1.5,1.64,Bet365,2.1,Neds,Player Shots on Goal,San Jose Sharks v New York Islanders,-8.594657375145175
-San Jose Sharks,New York Islanders,William Eklund,1.5,1.64,Bet365,2.1,Neds,Player Shots on Goal,San Jose Sharks v New York Islanders,-8.594657375145175
-Los Angeles Kings,St. Louis Blues,Kevin Fiala,2.5,1.64,Bet365,2.1,Neds,Player Shots on Goal,Los Angeles Kings v St. Louis Blues,-8.594657375145175
-Edmonton Oilers,Dallas Stars,Connor McDavid,2.5,1.64,Bet365,2.1,Neds,Player Shots on Goal,Edmonton Oilers v Dallas Stars,-8.594657375145175
-Nashville Predators,Chicago Blackhawks,Connor Bedard,2.5,2.1,Neds,1.64,Bet365,Player Shots on Goal,Nashville Predators v Chicago Blackhawks,-8.594657375145175
-Nashville Predators,Chicago Blackhawks,Steven Stamkos,2.5,2.1,Neds,1.64,Bet365,Player Shots on Goal,Nashville Predators v Chicago Blackhawks,-8.594657375145175
-Ottawa Senators,New York Rangers,Mika Zibanejad,2.5,2.1,Neds,1.64,Bet365,Player Shots on Goal,Ottawa Senators v New York Rangers,-8.594657375145175
-San Jose Sharks,New York Islanders,Macklin Celebrini,3.5,2.1,Neds,1.64,Bet365,Player Shots on Goal,San Jose Sharks v New York Islanders,-8.594657375145175
-Tampa Bay Lightning,Boston Bruins,David Pastrnak,4.5,2.1,Neds,1.64,Bet365,Player Shots on Goal,Tampa Bay Lightning v Boston Bruins,-8.594657375145175
-Los Angeles Kings,St. Louis Blues,Robert Thomas,1.5,1.558,Pinnacle,2.25,Neds,Player Shots on Goal,Los Angeles Kings v St. Louis Blues,-8.629296819283994
-Ottawa Senators,New York Rangers,Dylan Cozens,1.5,1.609,Pinnacle,2.15,Neds,Player Shots on Goal,Ottawa Senators v New York Rangers,-8.662031884602595
-Florida Panthers,Buffalo Sabres,Alex Tuch,2.5,2.35,Neds,1.512,Pinnacle,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-8.690757626927837
-Nashville Predators,Chicago Blackhawks,Connor Bedard,2.5,2.1,Neds,1.636,Pinnacle,Player Shots on Goal,Nashville Predators v Chicago Blackhawks,-8.743741995575727
-Nashville Predators,Chicago Blackhawks,Steven Stamkos,2.5,2.1,Neds,1.636,Pinnacle,Player Shots on Goal,Nashville Predators v Chicago Blackhawks,-8.743741995575727
-San Jose Sharks,New York Islanders,Macklin Celebrini,3.5,2.1,Neds,1.636,Pinnacle,Player Shots on Goal,San Jose Sharks v New York Islanders,-8.743741995575727
-San Jose Sharks,New York Islanders,Tony DeAngelo,1.5,1.636,Pinnacle,2.1,Neds,Player Shots on Goal,San Jose Sharks v New York Islanders,-8.743741995575727
-Ottawa Senators,New York Rangers,J.T. Miller,1.5,1.58,Bet365,2.2,Neds,Player Shots on Goal,Ottawa Senators v New York Rangers,-8.74568469505177
-Tampa Bay Lightning,Boston Bruins,Nikita Kucherov,2.5,1.58,Bet365,2.2,Neds,Player Shots on Goal,Tampa Bay Lightning v Boston Bruins,-8.74568469505177
-Florida Panthers,Buffalo Sabres,Sam Bennett,2.5,1.58,Bet365,2.2,Neds,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-8.74568469505177
-Nashville Predators,Chicago Blackhawks,Luke Evangelista,1.5,1.58,Bet365,2.2,Neds,Player Shots on Goal,Nashville Predators v Chicago Blackhawks,-8.74568469505177
-Edmonton Oilers,Dallas Stars,Leon Draisaitl,2.5,1.58,Bet365,2.2,Neds,Player Shots on Goal,Edmonton Oilers v Dallas Stars,-8.74568469505177
-Edmonton Oilers,Dallas Stars,Roope Hintz,1.5,1.58,Bet365,2.2,Neds,Player Shots on Goal,Edmonton Oilers v Dallas Stars,-8.74568469505177
-Calgary Flames,Montreal Canadiens,Matt Coronato,2.5,2.2,Neds,1.58,Bet365,Player Shots on Goal,Calgary Flames v Montreal Canadiens,-8.74568469505177
-Los Angeles Kings,St. Louis Blues,Jordan Kyrou,2.5,2.2,Neds,1.58,Bet365,Player Shots on Goal,Los Angeles Kings v St. Louis Blues,-8.74568469505177
-Los Angeles Kings,St. Louis Blues,Quinton Byfield,1.5,1.606,Pinnacle,2.15,Neds,Player Shots on Goal,Los Angeles Kings v St. Louis Blues,-8.778128529641748
-Nashville Predators,Chicago Blackhawks,Ryan Donato,2.5,2.35,Neds,1.51,Pinnacle,Player Shots on Goal,Nashville Predators v Chicago Blackhawks,-8.77835705227561
-Ottawa Senators,New York Rangers,Drake Batherson,1.5,1.51,Pinnacle,2.35,Neds,Player Shots on Goal,Ottawa Senators v New York Rangers,-8.77835705227561
-Los Angeles Kings,St. Louis Blues,Alex Laferriere,2.5,2.3,Neds,1.531,Pinnacle,Player Shots on Goal,Los Angeles Kings v St. Louis Blues,-8.795047283673663
-Calgary Flames,Montreal Canadiens,Matt Coronato,2.5,2.2,Neds,1.578,Pinnacle,Player Shots on Goal,Calgary Flames v Montreal Canadiens,-8.825901601566999
-Los Angeles Kings,St. Louis Blues,Jordan Kyrou,2.5,2.2,Neds,1.578,Pinnacle,Player Shots on Goal,Los Angeles Kings v St. Louis Blues,-8.825901601566999
-San Jose Sharks,New York Islanders,Will Smith,1.5,1.578,Pinnacle,2.2,Neds,Player Shots on Goal,San Jose Sharks v New York Islanders,-8.825901601566999
-Tampa Bay Lightning,Boston Bruins,Nikita Kucherov,2.5,1.578,Pinnacle,2.2,Neds,Player Shots on Goal,Tampa Bay Lightning v Boston Bruins,-8.825901601566999
-Philadelphia Flyers,Seattle Kraken,Jared McCann,2.5,2.25,Neds,1.552,Pinnacle,Player Shots on Goal,Philadelphia Flyers v Seattle Kraken,-8.877434135166084
-Tampa Bay Lightning,Boston Bruins,David Pastrnak,4.5,2.1,Neds,1.632,Pinnacle,Player Shots on Goal,Tampa Bay Lightning v Boston Bruins,-8.8935574229692
-Edmonton Oilers,Dallas Stars,Connor McDavid,2.5,1.632,Pinnacle,2.1,Neds,Player Shots on Goal,Edmonton Oilers v Dallas Stars,-8.8935574229692
-Edmonton Oilers,Dallas Stars,Ryan Nugent-Hopkins,1.5,1.67,Neds,2.04,Pinnacle,Player Shots on Goal,Edmonton Oilers v Dallas Stars,-8.899847364095347
-Calgary Flames,Montreal Canadiens,Patrik Laine,1.5,1.602,Pinnacle,2.15,Neds,Player Shots on Goal,Calgary Flames v Montreal Canadiens,-8.933600441308819
-Ottawa Senators,New York Rangers,Will Cuylle,1.5,1.602,Pinnacle,2.15,Neds,Player Shots on Goal,Ottawa Senators v New York Rangers,-8.933600441308819
-Florida Panthers,Buffalo Sabres,Aaron Ekblad,1.5,1.55,Bet365,2.25,Neds,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-8.960573476702516
-Florida Panthers,Buffalo Sabres,Aleksander Barkov,2.5,2.25,Neds,1.55,Bet365,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-8.960573476702516
-Calgary Flames,Montreal Canadiens,Nick Suzuki,1.5,1.505,Pinnacle,2.35,Neds,Player Shots on Goal,Calgary Flames v Montreal Canadiens,-8.998374213614202
-Florida Panthers,Buffalo Sabres,Aaron Ekblad,1.5,1.549,Pinnacle,2.25,Neds,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-9.002223656839536
-Ottawa Senators,New York Rangers,Thomas Chabot,2.5,2.4,Neds,1.485,Pinnacle,Player Shots on Goal,Ottawa Senators v New York Rangers,-9.006734006733996
-Calgary Flames,Montreal Canadiens,Patrik Laine,1.5,1.6,Bet365,2.15,Neds,Player Shots on Goal,Calgary Flames v Montreal Canadiens,-9.011627906976738
-Ottawa Senators,New York Rangers,Mika Zibanejad,2.5,2.1,Neds,1.628,Pinnacle,Player Shots on Goal,Ottawa Senators v New York Rangers,-9.044109044109039
-Tampa Bay Lightning,Boston Bruins,Mason Lohrei,1.5,1.8,Bet365,1.869,Pinnacle,Player Shots on Goal,Tampa Bay Lightning v Boston Bruins,-9.06010344212591
-Edmonton Oilers,Dallas Stars,Roope Hintz,1.5,1.571,Pinnacle,2.2,Neds,Player Shots on Goal,Edmonton Oilers v Dallas Stars,-9.108269197384411
-Florida Panthers,Buffalo Sabres,Sam Bennett,2.5,1.571,Pinnacle,2.2,Neds,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-9.108269197384411
-Nashville Predators,Chicago Blackhawks,Luke Evangelista,1.5,1.571,Pinnacle,2.2,Neds,Player Shots on Goal,Nashville Predators v Chicago Blackhawks,-9.108269197384411
-Florida Panthers,Buffalo Sabres,Aleksander Barkov,2.5,2.25,Neds,1.546,Pinnacle,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-9.12749748454793
-Los Angeles Kings,St. Louis Blues,Trevor Moore,2.5,2.35,Neds,1.502,Pinnacle,Player Shots on Goal,Los Angeles Kings v St. Louis Blues,-9.131087627843737
-Florida Panthers,Buffalo Sabres,Rasmus Dahlin,2.5,2.3,Neds,1.523,Pinnacle,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-9.13814268177795
-Calgary Flames,Montreal Canadiens,Mikael Backlund,1.5,1.5,Pinnacle,2.35,Neds,Player Shots on Goal,Calgary Flames v Montreal Canadiens,-9.219858156028371
-Ottawa Senators,New York Rangers,Tim Stutzle,1.5,1.48,Pinnacle,2.4,Neds,Player Shots on Goal,Ottawa Senators v New York Rangers,-9.23423423423424
-Edmonton Oilers,Dallas Stars,Ryan Nugent-Hopkins,1.5,1.66,Bet365,2.04,Pinnacle,Player Shots on Goal,Edmonton Oilers v Dallas Stars,-9.26057169855894
-Florida Panthers,Buffalo Sabres,Rasmus Dahlin,2.5,2.3,Neds,1.52,Bet365,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-9.267734553775764
-Florida Panthers,Buffalo Sabres,Mackie Samoskevich,1.5,1.497,Pinnacle,2.35,Neds,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-9.353458690430493
-Philadelphia Flyers,Seattle Kraken,Jaden Schwartz,2.5,2.4,Neds,1.476,Pinnacle,Player Shots on Goal,Philadelphia Flyers v Seattle Kraken,-9.417344173441734
-Edmonton Oilers,Dallas Stars,Darnell Nurse,1.5,1.476,Pinnacle,2.4,Neds,Player Shots on Goal,Edmonton Oilers v Dallas Stars,-9.417344173441734
-Tampa Bay Lightning,Boston Bruins,Elias Lindholm,1.5,1.476,Pinnacle,2.4,Neds,Player Shots on Goal,Tampa Bay Lightning v Boston Bruins,-9.417344173441734
-Edmonton Oilers,Dallas Stars,Viktor Arvidsson,1.5,1.495,Pinnacle,2.35,Neds,Player Shots on Goal,Edmonton Oilers v Dallas Stars,-9.442823596385107
-Los Angeles Kings,St. Louis Blues,Dylan Holloway,1.5,1.473,Pinnacle,2.4,Neds,Player Shots on Goal,Los Angeles Kings v St. Louis Blues,-9.555329260013568
-Philadelphia Flyers,Seattle Kraken,Bobby Brink,1.5,1.83,Bet365,1.819,Pinnacle,Player Shots on Goal,Philadelphia Flyers v Seattle Kraken,-9.620069875659777
-Philadelphia Flyers,Seattle Kraken,Bobby Brink,1.5,1.82,Neds,1.819,Pinnacle,Player Shots on Goal,Philadelphia Flyers v Seattle Kraken,-9.92031607754531
-Edmonton Oilers,Dallas Stars,Jason Robertson,2.5,1.74,Bet365,1.892,Pinnacle,Player Shots on Goal,Edmonton Oilers v Dallas Stars,-10.325386989380569
-Edmonton Oilers,Dallas Stars,Jason Robertson,2.5,1.73,Neds,1.892,Pinnacle,Player Shots on Goal,Edmonton Oilers v Dallas Stars,-10.657590829656982
-Philadelphia Flyers,Seattle Kraken,Tyson Foerster,1.5,1.53,Neds,2.18,Pinnacle,Player Shots on Goal,Philadelphia Flyers v Seattle Kraken,-11.231036757210532
-Philadelphia Flyers,Seattle Kraken,Eeli Tolvanen,1.5,1.77,Neds,1.819,Pinnacle,Player Shots on Goal,Philadelphia Flyers v Seattle Kraken,-11.472436273733333
-Philadelphia Flyers,Seattle Kraken,Travis Konecny,2.5,2.01,Pinnacle,1.62,Bet365,Player Shots on Goal,Philadelphia Flyers v Seattle Kraken,-11.479638842822926
-Philadelphia Flyers,Seattle Kraken,Matvei Michkov,2.5,1.87,Neds,1.719,Pinnacle,Player Shots on Goal,Philadelphia Flyers v Seattle Kraken,-11.649292431552972
-Philadelphia Flyers,Seattle Kraken,Tyson Foerster,1.5,1.52,Bet365,2.18,Pinnacle,Player Shots on Goal,Philadelphia Flyers v Seattle Kraken,-11.661033317238045
-Ottawa Senators,New York Rangers,Brady Tkachuk,3.5,1.724,Pinnacle,1.86,Bet365,Player Shots on Goal,Ottawa Senators v New York Rangers,-11.76808123144475
-Philadelphia Flyers,Seattle Kraken,Eeli Tolvanen,1.5,1.76,Bet365,1.819,Pinnacle,Player Shots on Goal,Philadelphia Flyers v Seattle Kraken,-11.793442950672217
-Ottawa Senators,New York Rangers,Brady Tkachuk,3.5,1.724,Pinnacle,1.85,Neds,Player Shots on Goal,Ottawa Senators v New York Rangers,-12.058694425283756
-Calgary Flames,Montreal Canadiens,Blake Coleman,2.5,2.08,Pinnacle,1.55,Bet365,Player Shots on Goal,Calgary Flames v Montreal Canadiens,-12.593052109181135
-Tampa Bay Lightning,Boston Bruins,Brayden Point,2.5,1.884,Pinnacle,1.67,Neds,Player Shots on Goal,Tampa Bay Lightning v Boston Bruins,-12.958795784227739
-Colorado Avalanche,Toronto Maple Leafs,John Tavares,2.5,2.11,Pinnacle,1.52,Bet365,Player Shots on Goal,Colorado Avalanche v Toronto Maple Leafs,-13.182838613120484
-Tampa Bay Lightning,Boston Bruins,Brayden Point,2.5,1.884,Pinnacle,1.66,Bet365,Player Shots on Goal,Tampa Bay Lightning v Boston Bruins,-13.31952011869133
+San Jose Sharks,New York Islanders,Simon Holmstrom,1.5,1.847,Pinnacle,1.86,Bet365,Player Shots on Goal,San Jose Sharks v New York Islanders,-7.9052925115415285
+Colorado Avalanche,Toronto Maple Leafs,Devon Toews,1.5,1.8,Bet365,1.91,Neds,Player Shots on Goal,Colorado Avalanche v Toronto Maple Leafs,-7.911576497963946
+Colorado Avalanche,Toronto Maple Leafs,John Tavares,2.5,2.35,Neds,1.53,Neds,Player Shots on Goal,Colorado Avalanche v Toronto Maple Leafs,-7.9126686135447155
+Colorado Avalanche,Toronto Maple Leafs,William Nylander,2.5,1.74,Bet365,1.98,Neds,Player Shots on Goal,Colorado Avalanche v Toronto Maple Leafs,-7.976314872866608
+Colorado Avalanche,Toronto Maple Leafs,Artturi Lehkonen,1.5,1.55,Bet365,2.3,Neds,Player Shots on Goal,Colorado Avalanche v Toronto Maple Leafs,-7.9943899018232845
+Ottawa Senators,New York Rangers,Thomas Chabot,2.5,2.43,Pinnacle,1.495,Pinnacle,Player Shots on Goal,Ottawa Senators v New York Rangers,-8.041895481508998
+Colorado Avalanche,Toronto Maple Leafs,Nathan MacKinnon,3.5,1.77,Neds,1.94,Neds,Player Shots on Goal,Colorado Avalanche v Toronto Maple Leafs,-8.043566893820264
+Colorado Avalanche,Toronto Maple Leafs,Nathan MacKinnon,3.5,1.769,Pinnacle,1.94,Neds,Player Shots on Goal,Colorado Avalanche v Toronto Maple Leafs,-8.075504245511178
+Colorado Avalanche,Toronto Maple Leafs,Auston Matthews,3.5,1.83,Bet365,1.87,Neds,Player Shots on Goal,Colorado Avalanche v Toronto Maple Leafs,-8.1207445720463909
+Colorado Avalanche,Toronto Maple Leafs,Brock Nelson,2.5,2.25,Neds,1.57,Bet365,Player Shots on Goal,Colorado Avalanche v Toronto Maple Leafs,-8.138711960368017
+Colorado Avalanche,Toronto Maple Leafs,Cale Makar,2.5,1.62,Neds,2.15,Neds,Player Shots on Goal,Colorado Avalanche v Toronto Maple Leafs,-8.24002296870514
+Colorado Avalanche,Toronto Maple Leafs,William Nylander,2.5,1.73,Neds,1.98,Neds,Player Shots on Goal,Colorado Avalanche v Toronto Maple Leafs,-8.308518713142998
+Colorado Avalanche,Toronto Maple Leafs,Mitch Marner,1.5,1.5,Neds,2.4,Neds,Player Shots on Goal,Colorado Avalanche v Toronto Maple Leafs,-8.333333333333325
+Colorado Avalanche,Toronto Maple Leafs,Nathan MacKinnon,3.5,1.76,Bet365,1.94,Neds,Player Shots on Goal,Colorado Avalanche v Toronto Maple Leafs,-8.364573570759148
+Colorado Avalanche,Toronto Maple Leafs,Brock Nelson,2.5,2.25,Neds,1.564,Pinnacle,Player Shots on Goal,Colorado Avalanche v Toronto Maple Leafs,-8.383063370275634
+Colorado Avalanche,Toronto Maple Leafs,John Tavares,2.5,2.32,Bet365,1.53,Neds,Player Shots on Goal,Colorado Avalanche v Toronto Maple Leafs,-8.462925400045073
+Calgary Flames,Montreal Canadiens,Blake Coleman,2.5,2.13,Pinnacle,1.62,Bet365,Player Shots on Goal,Calgary Flames v Montreal Canadiens,-8.676751869240128
+Colorado Avalanche,Toronto Maple Leafs,Valeri Nichushkin,2.5,1.847,Pinnacle,1.83,Bet365,Player Shots on Goal,Colorado Avalanche v Toronto Maple Leafs,-8.786660394495872
+Colorado Avalanche,Toronto Maple Leafs,Artturi Lehkonen,1.5,1.531,Pinnacle,2.3,Neds,Player Shots on Goal,Colorado Avalanche v Toronto Maple Leafs,-8.795047283673663
+Colorado Avalanche,Toronto Maple Leafs,Cale Makar,2.5,1.602,Pinnacle,2.15,Neds,Player Shots on Goal,Colorado Avalanche v Toronto Maple Leafs,-8.933600441308819
+Colorado Avalanche,Toronto Maple Leafs,Cale Makar,2.5,1.6,Bet365,2.15,Neds,Player Shots on Goal,Colorado Avalanche v Toronto Maple Leafs,-9.011627906976738
+Edmonton Oilers,Dallas Stars,Ryan Nugent-Hopkins,1.5,1.66,Bet365,2.05,Pinnacle,Player Shots on Goal,Edmonton Oilers v Dallas Stars,-9.02145166029975
+Nashville Predators,Chicago Blackhawks,Ryan O'Reilly,2.5,2.35,Pinnacle,1.5,Bet365,Player Shots on Goal,Nashville Predators v Chicago Blackhawks,-9.219858156028371
+Colorado Avalanche,Toronto Maple Leafs,Mitch Marner,1.5,1.48,Pinnacle,2.4,Neds,Player Shots on Goal,Colorado Avalanche v Toronto Maple Leafs,-9.23423423423424
+Florida Panthers,Buffalo Sabres,Gustav Forsling,1.5,1.52,Bet365,2.27,Pinnacle,Player Shots on Goal,Florida Panthers v Buffalo Sabres,-9.842337120333866
+Colorado Avalanche,Toronto Maple Leafs,Valeri Nichushkin,2.5,1.9,Bet365,1.73,Neds,Player Shots on Goal,Colorado Avalanche v Toronto Maple Leafs,-10.435047155460907
+Colorado Avalanche,Toronto Maple Leafs,John Tavares,2.5,2.11,Pinnacle,1.58,Bet365,Player Shots on Goal,Colorado Avalanche v Toronto Maple Leafs,-10.684504169416265
+Edmonton Oilers,Dallas Stars,Jason Robertson,2.5,1.76,Bet365,1.833,Pinnacle,Player Shots on Goal,Edmonton Oilers v Dallas Stars,-11.373555522491685
+Colorado Avalanche,Toronto Maple Leafs,Valeri Nichushkin,2.5,1.847,Pinnacle,1.73,Neds,Player Shots on Goal,Colorado Avalanche v Toronto Maple Leafs,-11.945319859418957
+Colorado Avalanche,Toronto Maple Leafs,John Tavares,2.5,2.11,Pinnacle,1.53,Neds,Player Shots on Goal,Colorado Avalanche v Toronto Maple Leafs,-12.75284205309295
