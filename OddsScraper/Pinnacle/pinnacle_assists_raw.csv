@@ -97,8 +97,8 @@ id,name,rot_num,line_id,price,handicap,selection,home_team,away_team
 1606184060,Under,7,4827037028,1.588,0.5,Alex Ovechkin (Assists),San Jose Sharks,Washington Capitals
 1606187406,Over,16,4822696544,2.66,0.5,Adam Fantilli (Assists),Columbus Blue Jackets,New York Rangers
 1606187407,Under,17,4822696545,1.423,0.5,Adam Fantilli (Assists),Columbus Blue Jackets,New York Rangers
-1606187393,Over,16,4825349708,3.59,0.5,Dmitri Voronkov (Assists),Columbus Blue Jackets,New York Rangers
-1606187394,Under,17,4825349709,1.309,0.5,Dmitri Voronkov (Assists),Columbus Blue Jackets,New York Rangers
+1606187393,Over,16,4827252739,3.5,0.5,Dmitri Voronkov (Assists),Columbus Blue Jackets,New York Rangers
+1606187394,Under,17,4827252740,1.263,0.5,Dmitri Voronkov (Assists),Columbus Blue Jackets,New York Rangers
 1606187002,Over,8,4822874417,3.88,0.5,Evan Rodrigues (Assists),Montreal Canadiens,Florida Panthers
 1606187003,Under,9,4822874418,1.2,0.5,Evan Rodrigues (Assists),Montreal Canadiens,Florida Panthers
 1606186990,Over,8,4825128325,2.55,0.5,Sam Bennett (Assists),Montreal Canadiens,Florida Panthers
@@ -111,8 +111,8 @@ id,name,rot_num,line_id,price,handicap,selection,home_team,away_team
 1606186958,Under,9,4822695076,2.01,0.5,Aleksander Barkov (Assists),Montreal Canadiens,Florida Panthers
 1606186945,Over,8,4826891170,2.58,0.5,Mike Matheson (Assists),Montreal Canadiens,Florida Panthers
 1606186946,Under,9,4826891171,1.452,0.5,Mike Matheson (Assists),Montreal Canadiens,Florida Panthers
-1606187328,Under,17,4825706230,1.313,0.5,Alexis Lafreniere (Assists),Columbus Blue Jackets,New York Rangers
-1606187327,Over,16,4825706229,3.1,0.5,Alexis Lafreniere (Assists),Columbus Blue Jackets,New York Rangers
+1606187328,Under,17,4827252741,1.333,0.5,Alexis Lafreniere (Assists),Columbus Blue Jackets,New York Rangers
+1606187327,Over,16,4827252738,3.0,0.5,Alexis Lafreniere (Assists),Columbus Blue Jackets,New York Rangers
 1606187303,Over,16,4822732805,1.793,0.5,Zach Werenski (Assists),Columbus Blue Jackets,New York Rangers
 1606187304,Under,17,4822732806,1.952,0.5,Zach Werenski (Assists),Columbus Blue Jackets,New York Rangers
 1606187285,Over,16,4822874648,3.42,0.5,Ivan Provorov (Assists),Columbus Blue Jackets,New York Rangers
@@ -129,8 +129,8 @@ id,name,rot_num,line_id,price,handicap,selection,home_team,away_team
 1606187263,Over,16,4825706063,2.09,0.5,J.T. Miller (Assists),Columbus Blue Jackets,New York Rangers
 1606187250,Over,16,4825706055,2.22,0.5,Mika Zibanejad (Assists),Columbus Blue Jackets,New York Rangers
 1606187251,Under,17,4825706056,1.609,0.5,Mika Zibanejad (Assists),Columbus Blue Jackets,New York Rangers
-1606187235,Over,16,4822874638,3.15,0.5,Boone Jenner (Assists),Columbus Blue Jackets,New York Rangers
-1606187236,Under,17,4822874639,1.304,0.5,Boone Jenner (Assists),Columbus Blue Jackets,New York Rangers
+1606187235,Over,16,4827252730,3.1,0.5,Boone Jenner (Assists),Columbus Blue Jackets,New York Rangers
+1606187236,Under,17,4827252731,1.322,0.5,Boone Jenner (Assists),Columbus Blue Jackets,New York Rangers
 1606187222,Over,16,4827155102,2.59,0.5,Vincent Trocheck (Assists),Columbus Blue Jackets,New York Rangers
 1606187223,Under,17,4827155103,1.446,0.5,Vincent Trocheck (Assists),Columbus Blue Jackets,New York Rangers
 1606187206,Over,16,4825706036,3.68,0.5,Chris Kreider (Assists),Columbus Blue Jackets,New York Rangers
@@ -175,8 +175,8 @@ id,name,rot_num,line_id,price,handicap,selection,home_team,away_team
 1606187972,Under,11,4824423298,1.343,0.5,Brady Tkachuk (Assists),Toronto Maple Leafs,Ottawa Senators
 1606188085,Over,10,4825466410,2.0,0.5,Auston Matthews (Assists),Toronto Maple Leafs,Ottawa Senators
 1606188086,Under,11,4825466411,1.757,0.5,Auston Matthews (Assists),Toronto Maple Leafs,Ottawa Senators
-1606188073,Over,10,4825466404,2.34,0.5,William Nylander (Assists),Toronto Maple Leafs,Ottawa Senators
-1606188074,Under,11,4825466405,1.546,0.5,William Nylander (Assists),Toronto Maple Leafs,Ottawa Senators
+1606188073,Over,10,4827204868,2.33,0.5,William Nylander (Assists),Toronto Maple Leafs,Ottawa Senators
+1606188074,Under,11,4827204869,1.555,0.5,William Nylander (Assists),Toronto Maple Leafs,Ottawa Senators
 1606188061,Over,10,4825533718,3.0,0.5,Max Domi (Assists),Toronto Maple Leafs,Ottawa Senators
 1606188062,Under,11,4825533719,1.333,0.5,Max Domi (Assists),Toronto Maple Leafs,Ottawa Senators
 1606188049,Over,10,4824423351,2.53,0.5,Morgan Rielly (Assists),Toronto Maple Leafs,Ottawa Senators
@@ -245,26 +245,28 @@ id,name,rot_num,line_id,price,handicap,selection,home_team,away_team
 1606189314,Under,15,4824426226,1.307,0.5,Casey Mittelstadt (Assists),Boston Bruins,Tampa Bay Lightning
 1606222176,Over,10,4826374508,3.91,0.5,Ridly Greig (Assists),Toronto Maple Leafs,Ottawa Senators
 1606222177,Under,11,4826374509,1.196,0.5,Ridly Greig (Assists),Toronto Maple Leafs,Ottawa Senators
+1606242888,Over,14,4827275990,1.54,0.5,Nikita Kucherov (Assists),Boston Bruins,Tampa Bay Lightning
+1606242889,Under,15,4827275991,2.35,0.5,Nikita Kucherov (Assists),Boston Bruins,Tampa Bay Lightning
 1606188853,Over,20,4825988745,2.57,0.5,Brock Faber (Assists),Minnesota Wild,St. Louis Blues
 1606188854,Under,21,4825988746,1.454,0.5,Brock Faber (Assists),Minnesota Wild,St. Louis Blues
-1606188844,Over,20,4822876097,3.12,0.5,Dylan Holloway (Assists),Minnesota Wild,St. Louis Blues
-1606188845,Under,21,4822876098,1.308,0.5,Dylan Holloway (Assists),Minnesota Wild,St. Louis Blues
-1606188829,Over,20,4823150350,2.67,0.5,Pavel Buchnevich (Assists),Minnesota Wild,St. Louis Blues
-1606188830,Under,21,4823150351,1.421,0.5,Pavel Buchnevich (Assists),Minnesota Wild,St. Louis Blues
+1606188844,Over,20,4827261710,3.1,0.5,Dylan Holloway (Assists),Minnesota Wild,St. Louis Blues
+1606188845,Under,21,4827261711,1.333,0.5,Dylan Holloway (Assists),Minnesota Wild,St. Louis Blues
+1606188829,Over,20,4827261712,2.65,0.5,Pavel Buchnevich (Assists),Minnesota Wild,St. Louis Blues
+1606188830,Under,21,4827261713,1.434,0.5,Pavel Buchnevich (Assists),Minnesota Wild,St. Louis Blues
 1606188817,Over,20,4825988737,3.71,0.5,Frederick Gaudreau (Assists),Minnesota Wild,St. Louis Blues
 1606188818,Under,21,4825988738,1.218,0.5,Frederick Gaudreau (Assists),Minnesota Wild,St. Louis Blues
 1606188808,Over,20,4825988725,3.76,0.5,Ryan Hartman (Assists),Minnesota Wild,St. Louis Blues
 1606188809,Under,21,4825988726,1.212,0.5,Ryan Hartman (Assists),Minnesota Wild,St. Louis Blues
 1606188800,Under,21,4822876090,1.271,0.5,Justin Faulk (Assists),Minnesota Wild,St. Louis Blues
 1606188799,Over,20,4822876089,3.33,0.5,Justin Faulk (Assists),Minnesota Wild,St. Louis Blues
-1606188793,Over,20,4825988644,2.25,0.5,Mats Zuccarello (Assists),Minnesota Wild,St. Louis Blues
-1606188794,Under,21,4825988645,1.595,0.5,Mats Zuccarello (Assists),Minnesota Wild,St. Louis Blues
+1606188793,Over,20,4827261708,2.23,0.5,Mats Zuccarello (Assists),Minnesota Wild,St. Louis Blues
+1606188794,Under,21,4827261709,1.588,0.5,Mats Zuccarello (Assists),Minnesota Wild,St. Louis Blues
 1606188781,Over,20,4822733148,3.36,0.5,Brayden Schenn (Assists),Minnesota Wild,St. Louis Blues
 1606188782,Under,21,4822733149,1.265,0.5,Brayden Schenn (Assists),Minnesota Wild,St. Louis Blues
 1606188865,Over,20,4825988749,2.08,0.5,Matt Boldy (Assists),Minnesota Wild,St. Louis Blues
 1606188866,Under,21,4825988750,1.694,0.5,Matt Boldy (Assists),Minnesota Wild,St. Louis Blues
-1606194088,Over,20,4825988640,3.79,0.5,Marcus Johansson (Assists),Minnesota Wild,St. Louis Blues
-1606194089,Under,21,4825988641,1.209,0.5,Marcus Johansson (Assists),Minnesota Wild,St. Louis Blues
+1606194088,Over,20,4827261714,3.7,0.5,Marcus Johansson (Assists),Minnesota Wild,St. Louis Blues
+1606194089,Under,21,4827261715,1.235,0.5,Marcus Johansson (Assists),Minnesota Wild,St. Louis Blues
 1606200621,Over,18,4826323445,3.06,0.5,Andrei Kuzmenko (Assists),Los Angeles Kings,Nashville Predators
 1606200622,Under,19,4826323446,1.32,0.5,Andrei Kuzmenko (Assists),Los Angeles Kings,Nashville Predators
 1606200609,Over,18,4824429796,3.94,0.5,Alex Laferriere (Assists),Los Angeles Kings,Nashville Predators
@@ -301,8 +303,8 @@ id,name,rot_num,line_id,price,handicap,selection,home_team,away_team
 1606187697,Under,23,4826903960,2.19,0.5,Quinn Hughes (Assists),Vancouver Canucks,Chicago Blackhawks
 1606187678,Over,22,4823858564,2.12,0.5,Elias Pettersson (40) (Assists),Vancouver Canucks,Chicago Blackhawks
 1606187679,Under,23,4823858565,1.666,0.5,Elias Pettersson (40) (Assists),Vancouver Canucks,Chicago Blackhawks
-1606187666,Over,22,4826511261,2.86,0.5,Ryan Donato (Assists),Vancouver Canucks,Chicago Blackhawks
-1606187667,Under,23,4826511262,1.364,0.5,Ryan Donato (Assists),Vancouver Canucks,Chicago Blackhawks
+1606187666,Over,22,4827262760,2.85,0.5,Ryan Donato (Assists),Vancouver Canucks,Chicago Blackhawks
+1606187667,Under,23,4827262761,1.384,0.5,Ryan Donato (Assists),Vancouver Canucks,Chicago Blackhawks
 1606187654,Over,22,4823135909,3.26,0.5,Filip Chytil (Assists),Vancouver Canucks,Chicago Blackhawks
 1606187655,Under,23,4823135910,1.284,0.5,Filip Chytil (Assists),Vancouver Canucks,Chicago Blackhawks
 1606187738,Over,22,4822697702,2.39,0.5,Connor Bedard (Assists),Vancouver Canucks,Chicago Blackhawks
