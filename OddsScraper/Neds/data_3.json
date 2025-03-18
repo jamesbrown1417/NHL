@@ -89,6 +89,13 @@
             "sort_order": 20,
             "market_id": "9959998c-7823-4280-afe4-796d242dffac"
         },
+        "0525327e-e6c9-4095-a7a2-a8d61e09a5c9": {
+            "id": "0525327e-e6c9-4095-a7a2-a8d61e09a5c9",
+            "name": "Over (0.5)",
+            "visible": true,
+            "sort_order": 10,
+            "market_id": "145f07eb-ffeb-4e93-99fc-41c5b48855ea"
+        },
         "05f62cb0-6a33-48f6-b4d4-82e3c057d729": {
             "id": "05f62cb0-6a33-48f6-b4d4-82e3c057d729",
             "name": "No goal",
@@ -3816,6 +3823,13 @@
             "sort_order": 10,
             "market_id": "f357f7c0-5576-40d1-969d-07e1f13cf973"
         },
+        "fc7743bd-edb4-47b1-b248-28a240c0788b": {
+            "id": "fc7743bd-edb4-47b1-b248-28a240c0788b",
+            "name": "Under (0.5)",
+            "visible": true,
+            "sort_order": 20,
+            "market_id": "145f07eb-ffeb-4e93-99fc-41c5b48855ea"
+        },
         "fce891ba-af45-4b2e-b52b-828794c17532": {
             "id": "fce891ba-af45-4b2e-b52b-828794c17532",
             "name": "Any Other Score",
@@ -4226,11 +4240,12 @@
                         "66f2f1cf-3f17-471d-98c1-1e76cb824fc2",
                         "7fa71cca-63fc-4c89-9ae4-f499f466cc7a",
                         "817a7964-43dc-4dc3-8b23-9fcbbf6966a1",
-                        "745860b9-ddaa-48e1-81e3-aee8d3c9a52e"
+                        "745860b9-ddaa-48e1-81e3-aee8d3c9a52e",
+                        "145f07eb-ffeb-4e93-99fc-41c5b48855ea"
                     ]
                 }
             ],
-            "market_count": 193,
+            "market_count": 194,
             "main_markets": [
                 "7cbe1c2e-36ff-4e1f-ac17-89012be17692"
             ],
@@ -4427,7 +4442,8 @@
                 "66f2f1cf-3f17-471d-98c1-1e76cb824fc2",
                 "7fa71cca-63fc-4c89-9ae4-f499f466cc7a",
                 "817a7964-43dc-4dc3-8b23-9fcbbf6966a1",
-                "745860b9-ddaa-48e1-81e3-aee8d3c9a52e"
+                "745860b9-ddaa-48e1-81e3-aee8d3c9a52e",
+                "145f07eb-ffeb-4e93-99fc-41c5b48855ea"
             ],
             "category_id": "b7c1f944-d02b-4d9b-b6f3-cb31389cfe36",
             "comments": "Overtime (including any subsequent shootout), counts for all markets unless stated otherwise. In the event of a shoot out, the winning team are credited with one goal and this counts for all markets where applicable.",
@@ -4713,6 +4729,25 @@
             "entrant_ids": [
                 "863f3195-8714-4324-b2d3-dadd8fa018a1",
                 "fbb970b2-8482-4307-9311-068ac7571b6f"
+            ],
+            "num_winners": 1
+        },
+        "145f07eb-ffeb-4e93-99fc-41c5b48855ea": {
+            "id": "145f07eb-ffeb-4e93-99fc-41c5b48855ea",
+            "event_id": "38da99d9-2bb5-469b-9494-40db800d0964",
+            "market_type_id": "613197ca-2558-4feb-afe2-ec31e81c75bc",
+            "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
+            "name": "Vladislav Namestnikov : Plus minus (0.5)",
+            "advertised_start": {
+                "seconds": 1742350080
+            },
+            "actual_start": {
+                "seconds": 1742350080
+            },
+            "visible": true,
+            "entrant_ids": [
+                "0525327e-e6c9-4095-a7a2-a8d61e09a5c9",
+                "fc7743bd-edb4-47b1-b248-28a240c0788b"
             ],
             "num_winners": 1
         },
@@ -8516,6 +8551,7 @@
         "0aba2f5c-e13b-4795-a1ab-29a9a62578b6": false,
         "0d7c2425-ca71-49fb-9bf7-9ae4d403e3b3": false,
         "1002e0e6-b8f7-4c57-ae26-b7a7610fc842": false,
+        "145f07eb-ffeb-4e93-99fc-41c5b48855ea": false,
         "14a98a2d-a09d-467e-8832-6491b2fa9a85": false,
         "167a9b43-2056-4dbb-9a95-326c88d7e4b5": false,
         "16b1f901-9d03-41aa-a1dd-4c4f979d2546": false,
@@ -8773,6 +8809,12 @@
             "odds": {
                 "numerator": 9,
                 "denominator": 25
+            }
+        },
+        "0525327e-e6c9-4095-a7a2-a8d61e09a5c9:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 31,
+                "denominator": 20
             }
         },
         "05f62cb0-6a33-48f6-b4d4-82e3c057d729:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -11851,6 +11893,12 @@
             "odds": {
                 "numerator": 21,
                 "denominator": 10
+            }
+        },
+        "fc7743bd-edb4-47b1-b248-28a240c0788b:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 9,
+                "denominator": 20
             }
         },
         "fce891ba-af45-4b2e-b52b-828794c17532:940b8704-e497-4a76-b390-00918ff7d282:": {
