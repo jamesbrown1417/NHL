@@ -1,206 +1,393 @@
 home_team,away_team,player_name,line,over_price,over_agency,under_price,under_agency,market_name,match,margin
-Los Angeles Kings,Boston Bruins,Andrei Kuzmenko,0.5,2.1,Bet365,1.892,Pinnacle,Player Points,Los Angeles Kings v Boston Bruins,-0.47317024061208635
-Anaheim Ducks,Carolina Hurricanes,Alex Killorn,0.5,2.59,Pinnacle,1.529,Pinnacle,Player Points,Anaheim Ducks v Carolina Hurricanes,-4.012262285643597
-Winnipeg Jets,Buffalo Sabres,Ryan McLeod,0.5,2.33,Pinnacle,1.625,Pinnacle,Player Points,Winnipeg Jets v Buffalo Sabres,-4.456916474083861
-Los Angeles Kings,Boston Bruins,Quinton Byfield,0.5,1.95,Bet365,1.877,Pinnacle,Player Points,Los Angeles Kings v Boston Bruins,-4.558556343319253
-Anaheim Ducks,Carolina Hurricanes,Jesperi Kotkaniemi,0.5,2.55,Pinnacle,1.526,Pinnacle,Player Points,Anaheim Ducks v Carolina Hurricanes,-4.746485750263396
-Los Angeles Kings,Boston Bruins,Casey Mittelstadt,0.5,2.45,Bet365,1.558,Pinnacle,Player Points,Los Angeles Kings v Boston Bruins,-5.001178905451775
-Los Angeles Kings,Boston Bruins,Phillip Danault,0.5,2.25,Bet365,1.649,Pinnacle,Player Points,Los Angeles Kings v Boston Bruins,-5.087258271005979
-Los Angeles Kings,Boston Bruins,Warren Foegele,0.5,2.28,Bet365,1.625,Pinnacle,Player Points,Los Angeles Kings v Boston Bruins,-5.3981106612685625
-Los Angeles Kings,Boston Bruins,Elias Lindholm,0.5,2.25,Bet365,1.64,Bet365,Player Points,Los Angeles Kings v Boston Bruins,-5.4200542005419905
-Los Angeles Kings,Boston Bruins,Phillip Danault,0.5,2.25,Bet365,1.64,Bet365,Player Points,Los Angeles Kings v Boston Bruins,-5.4200542005419905
-Los Angeles Kings,Boston Bruins,Warren Foegele,0.5,2.28,Bet365,1.62,Bet365,Player Points,Los Angeles Kings v Boston Bruins,-5.588044184535423
-Los Angeles Kings,Boston Bruins,Drew Doughty,0.5,2.1,Bet365,1.719,Pinnacle,Player Points,Los Angeles Kings v Boston Bruins,-5.792404221723579
-Los Angeles Kings,Boston Bruins,Morgan Geekie,0.5,2.1,Bet365,1.719,Pinnacle,Player Points,Los Angeles Kings v Boston Bruins,-5.792404221723579
-Los Angeles Kings,Boston Bruins,Elias Lindholm,0.5,2.23,Pinnacle,1.64,Bet365,Player Points,Los Angeles Kings v Boston Bruins,-5.818659083451827
-Los Angeles Kings,Boston Bruins,Adrian Kempe,0.5,1.6,Bet365,2.3,Bet365,Player Points,Los Angeles Kings v Boston Bruins,-5.978260869565233
-Los Angeles Kings,Boston Bruins,Kevin Fiala,0.5,1.6,Bet365,2.3,Bet365,Player Points,Los Angeles Kings v Boston Bruins,-5.978260869565233
-Los Angeles Kings,Boston Bruins,Pavel Zacha,0.5,2.15,Bet365,1.68,Bet365,Player Points,Los Angeles Kings v Boston Bruins,-6.035437430786272
-Los Angeles Kings,Boston Bruins,Andrei Kuzmenko,0.5,2.1,Bet365,1.71,Bet365,Player Points,Los Angeles Kings v Boston Bruins,-6.098579782790292
-Los Angeles Kings,Boston Bruins,Anze Kopitar,0.5,1.71,Bet365,2.1,Bet365,Player Points,Los Angeles Kings v Boston Bruins,-6.098579782790292
-Los Angeles Kings,Boston Bruins,Drew Doughty,0.5,2.1,Bet365,1.71,Bet365,Player Points,Los Angeles Kings v Boston Bruins,-6.098579782790292
-Los Angeles Kings,Boston Bruins,Morgan Geekie,0.5,2.1,Bet365,1.71,Bet365,Player Points,Los Angeles Kings v Boston Bruins,-6.098579782790292
-Los Angeles Kings,Boston Bruins,Alex Laferriere,0.5,2.52,Pinnacle,1.5,Bet365,Player Points,Los Angeles Kings v Boston Bruins,-6.349206349206349
-Los Angeles Kings,Boston Bruins,Kevin Fiala,0.5,1.588,Pinnacle,2.3,Bet365,Player Points,Los Angeles Kings v Boston Bruins,-6.450553061000974
-Los Angeles Kings,Boston Bruins,Anze Kopitar,0.5,1.699,Pinnacle,2.1,Bet365,Player Points,Los Angeles Kings v Boston Bruins,-6.477199473079409
-Los Angeles Kings,Boston Bruins,Casey Mittelstadt,0.5,2.45,Bet365,1.52,Bet365,Player Points,Los Angeles Kings v Boston Bruins,-6.605800214822777
-Los Angeles Kings,Boston Bruins,David Pastrnak,0.5,1.41,Bet365,2.8,Bet365,Player Points,Los Angeles Kings v Boston Bruins,-6.636271529888549
-Los Angeles Kings,Boston Bruins,Alex Laferriere,0.5,2.5,Bet365,1.5,Bet365,Player Points,Los Angeles Kings v Boston Bruins,-6.666666666666665
-Los Angeles Kings,Boston Bruins,Elias Lindholm,0.5,2.25,Bet365,1.606,Pinnacle,Player Points,Los Angeles Kings v Boston Bruins,-6.710945067109453
-Los Angeles Kings,Boston Bruins,Adrian Kempe,0.5,1.581,Pinnacle,2.3,Bet365,Player Points,Los Angeles Kings v Boston Bruins,-6.729367763935867
+Utah Hockey Club,Detroit Red Wings,Logan Cooley,0.5,1.751,Pinnacle,2.13,Pinnacle,Player Points,Utah Hockey Club v Detroit Red Wings,-4.05857953738038
+Dallas Stars,Minnesota Wild,Jason Robertson,0.5,1.55,Bet365,2.5,Pinnacle,Player Points,Dallas Stars v Minnesota Wild,-4.516129032258065
+Dallas Stars,Minnesota Wild,Ryan Hartman,0.5,2.28,Bet365,1.64,Neds,Player Points,Dallas Stars v Minnesota Wild,-4.835258878904591
+Dallas Stars,Minnesota Wild,Jason Robertson,0.5,1.54,Pinnacle,2.5,Pinnacle,Player Points,Dallas Stars v Minnesota Wild,-4.935064935064926
+New York Islanders,Columbus Blue Jackets,Jean-Gabriel Pageau,0.5,2.35,Bet365,1.6,Neds,Player Points,New York Islanders v Columbus Blue Jackets,-5.053191489361697
+Dallas Stars,Minnesota Wild,Jamie Benn,0.5,2.45,Bet365,1.55,Neds,Player Points,Dallas Stars v Minnesota Wild,-5.332455562870297
+New York Islanders,Columbus Blue Jackets,Dmitri Voronkov,0.5,2.2,Bet365,1.67,Neds,Player Points,New York Islanders v Columbus Blue Jackets,-5.334784975503548
+New Jersey Devils,Vancouver Canucks,Conor Garland,0.5,2.2,Bet365,1.67,Neds,Player Points,New Jersey Devils v Vancouver Canucks,-5.334784975503548
+New York Islanders,Columbus Blue Jackets,Tony DeAngelo,0.5,2.15,Bet365,1.7,Neds,Player Points,New York Islanders v Columbus Blue Jackets,-5.335157318741457
+Dallas Stars,Minnesota Wild,Roope Hintz,0.5,1.7,Neds,2.15,Bet365,Player Points,Dallas Stars v Minnesota Wild,-5.335157318741457
+New York Islanders,Columbus Blue Jackets,Sean Monahan,0.5,1.641,Pinnacle,2.25,Bet365,Player Points,New York Islanders v Columbus Blue Jackets,-5.382896607759502
+Dallas Stars,Minnesota Wild,Ryan Hartman,0.5,2.28,Bet365,1.625,Pinnacle,Player Points,Dallas Stars v Minnesota Wild,-5.3981106612685625
+New York Islanders,Columbus Blue Jackets,Sean Monahan,0.5,1.64,Bet365,2.25,Bet365,Player Points,New York Islanders v Columbus Blue Jackets,-5.4200542005419905
+Dallas Stars,Minnesota Wild,Wyatt Johnston,0.5,1.64,Bet365,2.25,Bet365,Player Points,Dallas Stars v Minnesota Wild,-5.4200542005419905
+New York Islanders,Columbus Blue Jackets,Jean-Gabriel Pageau,0.5,2.35,Bet365,1.588,Pinnacle,Player Points,New York Islanders v Columbus Blue Jackets,-5.5254836807974606
+New York Islanders,Columbus Blue Jackets,Tony DeAngelo,0.5,2.15,Bet365,1.694,Pinnacle,Player Points,New York Islanders v Columbus Blue Jackets,-5.543505120672143
+Dallas Stars,Minnesota Wild,Roope Hintz,0.5,1.694,Pinnacle,2.15,Bet365,Player Points,Dallas Stars v Minnesota Wild,-5.543505120672143
+Dallas Stars,Minnesota Wild,Thomas Harley,0.5,1.8,Bet365,2,Pinnacle,Player Points,Dallas Stars v Minnesota Wild,-5.555555555555558
+Dallas Stars,Minnesota Wild,Wyatt Johnston,0.5,1.636,Pinnacle,2.25,Bet365,Player Points,Dallas Stars v Minnesota Wild,-5.569138820972563
+New Jersey Devils,Vancouver Canucks,Stefan Noesen,0.5,2.28,Bet365,1.62,Bet365,Player Points,New Jersey Devils v Vancouver Canucks,-5.588044184535423
+Dallas Stars,Minnesota Wild,Ryan Hartman,0.5,2.28,Bet365,1.62,Bet365,Player Points,Dallas Stars v Minnesota Wild,-5.588044184535423
+New Jersey Devils,Vancouver Canucks,Dawson Mercer,0.5,2.32,Bet365,1.6,Neds,Player Points,New Jersey Devils v Vancouver Canucks,-5.603448275862077
+New York Islanders,Columbus Blue Jackets,Zach Werenski,0.5,1.6,Neds,2.32,Bet365,Player Points,New York Islanders v Columbus Blue Jackets,-5.603448275862077
+New York Islanders,Columbus Blue Jackets,Dmitri Voronkov,0.5,2.2,Bet365,1.662,Pinnacle,Player Points,New York Islanders v Columbus Blue Jackets,-5.623017175363754
+New York Islanders,Columbus Blue Jackets,Dmitri Voronkov,0.5,2.2,Bet365,1.66,Bet365,Player Points,New York Islanders v Columbus Blue Jackets,-5.6955093099671394
+New Jersey Devils,Vancouver Canucks,Conor Garland,0.5,2.2,Bet365,1.66,Bet365,Player Points,New Jersey Devils v Vancouver Canucks,-5.6955093099671394
+UTA Hockey Club,Detroit Red Wings,Barrett Hayton,0.5,2.2,Bet365,1.66,Bet365,Player Points,UTA Hockey Club v Detroit Red Wings,-5.6955093099671394
+UTA Hockey Club,Detroit Red Wings,Patrick Kane,0.5,1.66,Bet365,2.2,Bet365,Player Points,UTA Hockey Club v Detroit Red Wings,-5.6955093099671394
+Utah Hockey Club,Detroit Red Wings,Logan Cooley,0.5,1.7,Neds,2.13,Pinnacle,Player Points,Utah Hockey Club v Detroit Red Wings,-5.771886219276445
+New York Islanders,Columbus Blue Jackets,Boone Jenner,0.5,2.1,Bet365,1.719,Pinnacle,Player Points,New York Islanders v Columbus Blue Jackets,-5.792404221723579
+Dallas Stars,Minnesota Wild,Mikael Granlund,0.5,2.1,Bet365,1.719,Pinnacle,Player Points,Dallas Stars v Minnesota Wild,-5.792404221723579
+New Jersey Devils,Vancouver Canucks,Timo Meier,0.5,1.58,Neds,2.35,Bet365,Player Points,New Jersey Devils v Vancouver Canucks,-5.84433072986803
+Utah Hockey Club,Detroit Red Wings,Vladimir Tarasenko,0.5,2.61,Pinnacle,1.48,Neds,Player Points,Utah Hockey Club v Detroit Red Wings,-5.881743812778284
+New Jersey Devils,Vancouver Canucks,Filip Hronek,0.5,2.55,Bet365,1.5,Neds,Player Points,New Jersey Devils v Vancouver Canucks,-5.882352941176472
+Dallas Stars,Minnesota Wild,Marco Rossi,0.5,2.05,Bet365,1.751,Pinnacle,Player Points,Dallas Stars v Minnesota Wild,-5.8907105347467015
+Dallas Stars,Minnesota Wild,Mason Marchment,0.5,2.3,Bet365,1.6,Bet365,Player Points,Dallas Stars v Minnesota Wild,-5.978260869565233
+Dallas Stars,Minnesota Wild,Matthew Boldy,0.5,1.6,Bet365,2.3,Bet365,Player Points,Dallas Stars v Minnesota Wild,-5.978260869565233
+New York Islanders,Columbus Blue Jackets,Zach Werenski,0.5,1.6,Neds,2.3,Pinnacle,Player Points,New York Islanders v Columbus Blue Jackets,-5.978260869565233
+New York Islanders,Columbus Blue Jackets,Tony DeAngelo,0.5,2.15,Bet365,1.68,Bet365,Player Points,New York Islanders v Columbus Blue Jackets,-6.035437430786272
+Dallas Stars,Minnesota Wild,Roope Hintz,0.5,1.68,Bet365,2.15,Bet365,Player Points,Dallas Stars v Minnesota Wild,-6.035437430786272
+UTA Hockey Club,Detroit Red Wings,Dylan Guenther,0.5,1.68,Bet365,2.15,Bet365,Player Points,UTA Hockey Club v Detroit Red Wings,-6.035437430786272
+New York Islanders,Columbus Blue Jackets,Boone Jenner,0.5,2.1,Bet365,1.71,Bet365,Player Points,New York Islanders v Columbus Blue Jackets,-6.098579782790292
+New York Islanders,Columbus Blue Jackets,Kyle Palmieri,0.5,1.71,Bet365,2.1,Bet365,Player Points,New York Islanders v Columbus Blue Jackets,-6.098579782790292
+Dallas Stars,Minnesota Wild,Mikael Granlund,0.5,2.1,Bet365,1.71,Bet365,Player Points,Dallas Stars v Minnesota Wild,-6.098579782790292
+UTA Hockey Club,Detroit Red Wings,Logan Cooley,0.5,1.71,Bet365,2.1,Bet365,Player Points,UTA Hockey Club v Detroit Red Wings,-6.098579782790292
+UTA Hockey Club,Detroit Red Wings,Moritz Seider,0.5,2.1,Bet365,1.71,Bet365,Player Points,UTA Hockey Club v Detroit Red Wings,-6.098579782790292
+New Jersey Devils,Vancouver Canucks,Jesper Bratt,1.5,2.8,Bet365,1.42,Neds,Player Points,New Jersey Devils v Vancouver Canucks,-6.136820925553321
+New York Islanders,Columbus Blue Jackets,Noah Dobson,0.5,1.781,Pinnacle,2,Bet365,Player Points,New York Islanders v Columbus Blue Jackets,-6.148231330713072
+Dallas Stars,Minnesota Wild,Mikko Rantanen,0.5,1.53,Neds,2.45,Bet365,Player Points,Dallas Stars v Minnesota Wild,-6.175803654795242
+Dallas Stars,Minnesota Wild,Thomas Harley,0.5,1.78,Neds,2,Pinnacle,Player Points,Dallas Stars v Minnesota Wild,-6.17977528089888
+New York Islanders,Columbus Blue Jackets,Bo Horvat,0.5,1.55,Bet365,2.4,Bet365,Player Points,New York Islanders v Columbus Blue Jackets,-6.182795698924726
+Dallas Stars,Minnesota Wild,Jason Robertson,0.5,1.55,Bet365,2.4,Bet365,Player Points,Dallas Stars v Minnesota Wild,-6.182795698924726
+Dallas Stars,Minnesota Wild,Jamie Benn,0.5,2.4,Pinnacle,1.55,Neds,Player Points,Dallas Stars v Minnesota Wild,-6.182795698924726
+Utah Hockey Club,Detroit Red Wings,Marco Kasper,0.5,2.53,Pinnacle,1.5,Neds,Player Points,Utah Hockey Club v Detroit Red Wings,-6.192358366271411
+New Jersey Devils,Vancouver Canucks,Brock Boeser,0.5,1.82,Neds,1.95,Bet365,Player Points,New Jersey Devils v Vancouver Canucks,-6.227106227106227
+New York Islanders,Columbus Blue Jackets,Jean-Gabriel Pageau,0.5,2.35,Bet365,1.57,Bet365,Player Points,New York Islanders v Columbus Blue Jackets,-6.247459005285272
+New Jersey Devils,Vancouver Canucks,Timo Meier,0.5,1.57,Bet365,2.35,Bet365,Player Points,New Jersey Devils v Vancouver Canucks,-6.247459005285272
+UTA Hockey Club,Detroit Red Wings,Nick Schmaltz,0.5,1.57,Bet365,2.35,Bet365,Player Points,UTA Hockey Club v Detroit Red Wings,-6.247459005285272
+New York Islanders,Columbus Blue Jackets,Adam Fantilli,0.5,2.05,Bet365,1.74,Bet365,Player Points,New York Islanders v Columbus Blue Jackets,-6.251752172694136
+New Jersey Devils,Vancouver Canucks,Jake DeBrusk,0.5,2.05,Bet365,1.74,Bet365,Player Points,New Jersey Devils v Vancouver Canucks,-6.251752172694136
+Dallas Stars,Minnesota Wild,Marco Rossi,0.5,2.05,Bet365,1.74,Bet365,Player Points,Dallas Stars v Minnesota Wild,-6.251752172694136
+New York Islanders,Columbus Blue Jackets,Kyle Palmieri,0.5,1.704,Pinnacle,2.1,Bet365,Player Points,New York Islanders v Columbus Blue Jackets,-6.30449362843728
+Dallas Stars,Minnesota Wild,Gustav Nyquist,0.5,3,Bet365,1.37,Pinnacle,Player Points,Dallas Stars v Minnesota Wild,-6.326034063260333
+Dallas Stars,Minnesota Wild,Mason Marchment,0.5,2.3,Bet365,1.591,Pinnacle,Player Points,Dallas Stars v Minnesota Wild,-6.331812095209477
+Dallas Stars,Minnesota Wild,Matt Boldy,0.5,1.62,Neds,2.24,Pinnacle,Player Points,Dallas Stars v Minnesota Wild,-6.37125220458552
+Dallas Stars,Minnesota Wild,Jared Spurgeon,0.5,2.86,Pinnacle,1.4,Bet365,Player Points,Dallas Stars v Minnesota Wild,-6.393606393606399
+New York Islanders,Columbus Blue Jackets,Zach Werenski,0.5,1.58,Bet365,2.32,Bet365,Player Points,New York Islanders v Columbus Blue Jackets,-6.3945875163683885
+New Jersey Devils,Vancouver Canucks,Dawson Mercer,0.5,2.32,Bet365,1.58,Bet365,Player Points,New Jersey Devils v Vancouver Canucks,-6.3945875163683885
+UTA Hockey Club,Detroit Red Wings,Alex DeBrincat,0.5,1.58,Bet365,2.32,Bet365,Player Points,UTA Hockey Club v Detroit Red Wings,-6.3945875163683885
+New York Islanders,Columbus Blue Jackets,Kent Johnson,0.5,1.813,Pinnacle,1.95,Bet365,Player Points,New York Islanders v Columbus Blue Jackets,-6.439249296392147
+New York Islanders,Columbus Blue Jackets,Boone Jenner,0.5,2.1,Bet365,1.7,Neds,Player Points,New York Islanders v Columbus Blue Jackets,-6.442577030812324
+Dallas Stars,Minnesota Wild,Mikael Granlund,0.5,2.1,Bet365,1.7,Neds,Player Points,Dallas Stars v Minnesota Wild,-6.442577030812324
+New York Islanders,Columbus Blue Jackets,Kyle Palmieri,0.5,1.7,Neds,2.1,Bet365,Player Points,New York Islanders v Columbus Blue Jackets,-6.442577030812324
+New York Islanders,Columbus Blue Jackets,Kirill Marchenko,0.5,1.77,Neds,2,Bet365,Player Points,New York Islanders v Columbus Blue Jackets,-6.49717514124295
+New York Islanders,Columbus Blue Jackets,Noah Dobson,0.5,1.77,Neds,2,Bet365,Player Points,New York Islanders v Columbus Blue Jackets,-6.49717514124295
+Dallas Stars,Minnesota Wild,Jared Spurgeon,0.5,2.85,Bet365,1.4,Bet365,Player Points,Dallas Stars v Minnesota Wild,-6.516290726817031
+Dallas Stars,Minnesota Wild,Marcus Johansson,0.5,2.85,Bet365,1.4,Bet365,Player Points,Dallas Stars v Minnesota Wild,-6.516290726817031
+New York Islanders,Columbus Blue Jackets,Kirill Marchenko,0.5,1.769,Pinnacle,2,Bet365,Player Points,New York Islanders v Columbus Blue Jackets,-6.529112492933864
+New York Islanders,Columbus Blue Jackets,Adam Fantilli,0.5,2.05,Bet365,1.73,Neds,Player Points,New York Islanders v Columbus Blue Jackets,-6.583956012970549
+New Jersey Devils,Vancouver Canucks,Jake DeBrusk,0.5,2.05,Bet365,1.73,Neds,Player Points,New Jersey Devils v Vancouver Canucks,-6.583956012970549
+Dallas Stars,Minnesota Wild,Marco Rossi,0.5,2.05,Bet365,1.73,Neds,Player Points,Dallas Stars v Minnesota Wild,-6.583956012970549
+Dallas Stars,Minnesota Wild,Jason Robertson,0.5,1.54,Pinnacle,2.4,Bet365,Player Points,Dallas Stars v Minnesota Wild,-6.6017316017316086
+New York Islanders,Columbus Blue Jackets,Bo Horvat,0.5,1.54,Pinnacle,2.4,Bet365,Player Points,New York Islanders v Columbus Blue Jackets,-6.6017316017316086
+Dallas Stars,Minnesota Wild,Jamie Benn,0.5,2.45,Bet365,1.52,Bet365,Player Points,Dallas Stars v Minnesota Wild,-6.605800214822777
+Dallas Stars,Minnesota Wild,Mikko Rantanen,0.5,1.52,Bet365,2.45,Bet365,Player Points,Dallas Stars v Minnesota Wild,-6.605800214822777
+UTA Hockey Club,Detroit Red Wings,Dylan Larkin,0.5,1.52,Bet365,2.45,Bet365,Player Points,UTA Hockey Club v Detroit Red Wings,-6.605800214822777
+UTA Hockey Club,Detroit Red Wings,Lucas Raymond,0.5,1.52,Bet365,2.45,Bet365,Player Points,UTA Hockey Club v Detroit Red Wings,-6.605800214822777
+Utah Hockey Club,Detroit Red Wings,Nick Schmaltz,0.5,1.5699999999999998,Neds,2.33,Pinnacle,Player Points,Utah Hockey Club v Detroit Red Wings,-6.612722451545894
+Utah Hockey Club,Detroit Red Wings,Logan Cooley,0.5,1.751,Pinnacle,2.02,Neds,Player Points,Utah Hockey Club v Detroit Red Wings,-6.615173224918158
+New York Islanders,Columbus Blue Jackets,Adam Fantilli,0.5,2.05,Bet365,1.729,Pinnacle,Player Points,New York Islanders v Columbus Blue Jackets,-6.617387747041148
+New Jersey Devils,Vancouver Canucks,Jesper Bratt,1.5,2.8,Bet365,1.41,Bet365,Player Points,New Jersey Devils v Vancouver Canucks,-6.636271529888549
+UTA Hockey Club,Detroit Red Wings,Clayton Keller,0.5,1.41,Bet365,2.8,Bet365,Player Points,UTA Hockey Club v Detroit Red Wings,-6.636271529888549
+Dallas Stars,Minnesota Wild,Ryan Hartman,0.5,2.19,Pinnacle,1.64,Neds,Player Points,Dallas Stars v Minnesota Wild,-6.637710212718573
+New York Islanders,Columbus Blue Jackets,Simon Holmstrom,0.5,1.806,Pinnacle,1.95,Bet365,Player Points,New York Islanders v Columbus Blue Jackets,-6.653036885595043
+New York Islanders,Columbus Blue Jackets,Anthony Duclair,0.5,2.5,Bet365,1.5,Bet365,Player Points,New York Islanders v Columbus Blue Jackets,-6.666666666666665
+Dallas Stars,Minnesota Wild,Mikko Rantanen,0.5,1.53,Neds,2.42,Pinnacle,Player Points,Dallas Stars v Minnesota Wild,-6.681791173769791
+Utah Hockey Club,Detroit Red Wings,Lucas Raymond,0.5,1.53,Neds,2.42,Pinnacle,Player Points,Utah Hockey Club v Detroit Red Wings,-6.681791173769791
+New York Islanders,Columbus Blue Jackets,Bo Horvat,0.5,1.55,Bet365,2.37,Pinnacle,Player Points,New York Islanders v Columbus Blue Jackets,-6.710221859262289
+Dallas Stars,Minnesota Wild,Matt Duchene,0.5,1.763,Pinnacle,2,Bet365,Player Points,Dallas Stars v Minnesota Wild,-6.7214974475326095
+New York Islanders,Columbus Blue Jackets,Adam Fantilli,0.5,2.03,Pinnacle,1.74,Bet365,Player Points,New York Islanders v Columbus Blue Jackets,-6.732348111658459
+New York Islanders,Columbus Blue Jackets,Jean-Gabriel Pageau,0.5,2.26,Pinnacle,1.6,Neds,Player Points,New York Islanders v Columbus Blue Jackets,-6.747787610619471
+New York Islanders,Columbus Blue Jackets,Zach Werenski,0.5,1.58,Bet365,2.3,Pinnacle,Player Points,New York Islanders v Columbus Blue Jackets,-6.769400110071544
+Dallas Stars,Minnesota Wild,Frederick Gaudreau,0.5,2.96,Pinnacle,1.37,Bet365,Player Points,Dallas Stars v Minnesota Wild,-6.776484513710779
 Edmonton Oilers,Anaheim Ducks,John Klingberg,0.5,3.11,Sportsbet,1.34,Sportsbet,Player Points,Edmonton Oilers v Anaheim Ducks,-6.781206507654636
+New Jersey Devils,Vancouver Canucks,Nico Hischier,0.5,1.48,Neds,2.55,Bet365,Player Points,New Jersey Devils v Vancouver Canucks,-6.783253842077386
+New Jersey Devils,Vancouver Canucks,Quinn Hughes,0.5,1.48,Neds,2.55,Bet365,Player Points,New Jersey Devils v Vancouver Canucks,-6.783253842077386
+Utah Hockey Club,Detroit Red Wings,Clayton Keller,0.5,1.42,Neds,2.75,Pinnacle,Player Points,Utah Hockey Club v Detroit Red Wings,-6.786171574903976
 Edmonton Oilers,Anaheim Ducks,Leo Carlsson,0.5,2.61,Sportsbet,1.46,Sportsbet,Player Points,Edmonton Oilers v Anaheim Ducks,-6.807326930142232
-Los Angeles Kings,Boston Bruins,Mason Lohrei,0.5,2.71,Pinnacle,1.43,Bet365,Player Points,Los Angeles Kings v Boston Bruins,-6.830438933759986
+New York Islanders,Columbus Blue Jackets,Kirill Marchenko,0.5,1.76,Bet365,2,Bet365,Player Points,New York Islanders v Columbus Blue Jackets,-6.818181818181834
+New York Islanders,Columbus Blue Jackets,Noah Dobson,0.5,1.76,Bet365,2,Bet365,Player Points,New York Islanders v Columbus Blue Jackets,-6.818181818181834
+Dallas Stars,Minnesota Wild,Matt Duchene,0.5,1.76,Bet365,2,Bet365,Player Points,Dallas Stars v Minnesota Wild,-6.818181818181834
+New York Islanders,Columbus Blue Jackets,Anthony Duclair,0.5,2.49,Pinnacle,1.5,Bet365,Player Points,New York Islanders v Columbus Blue Jackets,-6.827309236947787
+New York Islanders,Columbus Blue Jackets,Dmitri Voronkov,0.5,2.13,Pinnacle,1.67,Neds,Player Points,New York Islanders v Columbus Blue Jackets,-6.828596328469816
 Seattle Kraken,Minnesota Wild,Matt Boldy,0.5,1.56,Sportsbet,2.34,Sportsbet,Player Points,Seattle Kraken v Minnesota Wild,-6.8376068376068355
 Seattle Kraken,Minnesota Wild,Oliver Bjorkstrand,0.5,2.34,Sportsbet,1.56,Sportsbet,Player Points,Seattle Kraken v Minnesota Wild,-6.8376068376068355
-Los Angeles Kings,Boston Bruins,Quinton Byfield,0.5,1.95,Bet365,1.8,Bet365,Player Points,Los Angeles Kings v Boston Bruins,-6.837606837606858
+New York Islanders,Columbus Blue Jackets,Kent Johnson,0.5,1.8,Bet365,1.95,Bet365,Player Points,New York Islanders v Columbus Blue Jackets,-6.837606837606858
+New York Islanders,Columbus Blue Jackets,Simon Holmstrom,0.5,1.8,Bet365,1.95,Bet365,Player Points,New York Islanders v Columbus Blue Jackets,-6.837606837606858
+New Jersey Devils,Vancouver Canucks,Brock Boeser,0.5,1.8,Bet365,1.95,Bet365,Player Points,New Jersey Devils v Vancouver Canucks,-6.837606837606858
+Dallas Stars,Minnesota Wild,Thomas Harley,0.5,1.8,Bet365,1.95,Bet365,Player Points,Dallas Stars v Minnesota Wild,-6.837606837606858
+Dallas Stars,Minnesota Wild,Gustav Nyquist,0.5,3,Bet365,1.36,Bet365,Player Points,Dallas Stars v Minnesota Wild,-6.8627450980392135
+Dallas Stars,Minnesota Wild,Vinnie Hinostroza,0.5,3,Bet365,1.36,Bet365,Player Points,Dallas Stars v Minnesota Wild,-6.8627450980392135
+New York Islanders,Columbus Blue Jackets,Zach Werenski,0.5,1.568,Pinnacle,2.32,Bet365,Player Points,New York Islanders v Columbus Blue Jackets,-6.878958479943709
+Dallas Stars,Minnesota Wild,Frederick Gaudreau,0.5,2.95,Bet365,1.37,Bet365,Player Points,Dallas Stars v Minnesota Wild,-6.891005814672768
+Dallas Stars,Minnesota Wild,Brock Faber,0.5,2.67,Pinnacle,1.44,Bet365,Player Points,Dallas Stars v Minnesota Wild,-6.897627965043696
+Dallas Stars,Minnesota Wild,Roope Hintz,0.5,1.7,Neds,2.08,Pinnacle,Player Points,Dallas Stars v Minnesota Wild,-6.9004524886877805
+Utah Hockey Club,Detroit Red Wings,Dylan Guenther,0.5,1.7,Neds,2.08,Pinnacle,Player Points,Utah Hockey Club v Detroit Red Wings,-6.9004524886877805
+New York Islanders,Columbus Blue Jackets,Tony DeAngelo,0.5,2.08,Pinnacle,1.7,Neds,Player Points,New York Islanders v Columbus Blue Jackets,-6.9004524886877805
 Seattle Kraken,Minnesota Wild,Jared Spurgeon,0.5,2.74,Sportsbet,1.42,Sportsbet,Player Points,Seattle Kraken v Minnesota Wild,-6.918885576231126
-Vegas Golden Knights,Tampa Bay Lightning,Pavel Dorofeyev,0.5,1.909,Pinnacle,1.833,Pinnacle,Player Points,Vegas Golden Knights v Tampa Bay Lightning,-6.938820535111345
-Los Angeles Kings,Boston Bruins,Kevin Fiala,0.5,1.6,Bet365,2.25,Pinnacle,Player Points,Los Angeles Kings v Boston Bruins,-6.944444444444442
+Dallas Stars,Minnesota Wild,Mason Marchment,0.5,2.25,Pinnacle,1.6,Bet365,Player Points,Dallas Stars v Minnesota Wild,-6.944444444444442
 Edmonton Oilers,Anaheim Ducks,Mason McTavish,0.5,2.25,Sportsbet,1.6,Sportsbet,Player Points,Edmonton Oilers v Anaheim Ducks,-6.944444444444442
 Edmonton Oilers,Anaheim Ducks,Trevor Zegras,0.5,2.27,Sportsbet,1.59,Sportsbet,Player Points,Edmonton Oilers v Anaheim Ducks,-6.945945197129633
 Colorado Avalanche,Pittsburgh Penguins,Matt Grzelcyk,0.5,2.9,Sportsbet,1.38,Sportsbet,Player Points,Colorado Avalanche v Pittsburgh Penguins,-6.946526736631697
-Los Angeles Kings,Boston Bruins,Drew Doughty,0.5,2.05,Pinnacle,1.719,Pinnacle,Player Points,Los Angeles Kings v Boston Bruins,-6.953844407554022
+Dallas Stars,Minnesota Wild,Mikael Granlund,0.5,2.05,Pinnacle,1.719,Pinnacle,Player Points,Dallas Stars v Minnesota Wild,-6.953844407554022
+New York Islanders,Columbus Blue Jackets,Boone Jenner,0.5,2.05,Pinnacle,1.719,Pinnacle,Player Points,New York Islanders v Columbus Blue Jackets,-6.953844407554022
+Dallas Stars,Minnesota Wild,Mikko Rantanen,0.5,1.512,Pinnacle,2.45,Bet365,Player Points,Dallas Stars v Minnesota Wild,-6.953892668178385
 Seattle Kraken,Minnesota Wild,Brock Faber,0.5,2.23,Sportsbet,1.61,Sportsbet,Player Points,Seattle Kraken v Minnesota Wild,-6.954850569590287
 Colorado Avalanche,Pittsburgh Penguins,Valeri Nichushkin,0.5,1.58,Sportsbet,2.29,Sportsbet,Player Points,Colorado Avalanche v Pittsburgh Penguins,-6.959261511248682
-Los Angeles Kings,Boston Bruins,Mason Lohrei,0.5,2.7,Bet365,1.43,Bet365,Player Points,Los Angeles Kings v Boston Bruins,-6.967106967106984
-Chicago Blackhawks,Philadelphia Flyers,Tyson Foerster,0.5,2.13,Pinnacle,1.666,Pinnacle,Player Points,Chicago Blackhawks v Philadelphia Flyers,-6.972366411353281
+Dallas Stars,Minnesota Wild,Matt Duchene,0.5,1.763,Pinnacle,1.99,Pinnacle,Player Points,Dallas Stars v Minnesota Wild,-6.97275372893964
+Dallas Stars,Minnesota Wild,Vinnie Hinostroza,0.5,2.99,Pinnacle,1.36,Bet365,Player Points,Dallas Stars v Minnesota Wild,-6.974227818217571
 Colorado Avalanche,Pittsburgh Penguins,Jonathan Drouin,0.5,1.62,Sportsbet,2.21,Sportsbet,Player Points,Colorado Avalanche v Pittsburgh Penguins,-6.97726384000894
 Edmonton Oilers,Anaheim Ducks,Mattias Ekholm,0.5,2.21,Sportsbet,1.62,Sportsbet,Player Points,Edmonton Oilers v Anaheim Ducks,-6.97726384000894
 Seattle Kraken,Minnesota Wild,Shane Wright,0.5,2.21,Sportsbet,1.62,Sportsbet,Player Points,Seattle Kraken v Minnesota Wild,-6.97726384000894
+New York Islanders,Columbus Blue Jackets,Anders Lee,0.5,1.9,Bet365,1.84,Pinnacle,Player Points,New York Islanders v Columbus Blue Jackets,-6.979405034324948
 Edmonton Oilers,Anaheim Ducks,Ryan Strome,0.5,2.31,Sportsbet,1.57,Sportsbet,Player Points,Edmonton Oilers v Anaheim Ducks,-6.984310805966842
 Seattle Kraken,Minnesota Wild,Gustav Nyquist,0.5,2.31,Sportsbet,1.57,Sportsbet,Player Points,Seattle Kraken v Minnesota Wild,-6.984310805966842
-Anaheim Ducks,Carolina Hurricanes,Taylor Hall,0.5,1.847,Pinnacle,1.892,Pinnacle,Player Points,Anaheim Ducks v Carolina Hurricanes,-6.995974272890959
+Utah Hockey Club,Detroit Red Wings,Mikhail Sergachev,0.5,1.892,Pinnacle,1.847,Pinnacle,Player Points,Utah Hockey Club v Detroit Red Wings,-6.995974272890959
+New York Islanders,Columbus Blue Jackets,Kirill Marchenko,0.5,1.77,Neds,1.98,Pinnacle,Player Points,New York Islanders v Columbus Blue Jackets,-7.002225646293447
 Colorado Avalanche,Pittsburgh Penguins,Evgeni Malkin,0.5,2.19,Sportsbet,1.63,Sportsbet,Player Points,Colorado Avalanche v Pittsburgh Penguins,-7.0117937081547455
-Los Angeles Kings,Boston Bruins,David Pastrnak,0.5,1.41,Bet365,2.77,Pinnacle,Player Points,Los Angeles Kings v Boston Bruins,-7.023068848093805
-Los Angeles Kings,Boston Bruins,Anze Kopitar,0.5,1.71,Bet365,2.06,Pinnacle,Player Points,Los Angeles Kings v Boston Bruins,-7.023221484131037
+Utah Hockey Club,Detroit Red Wings,Barrett Hayton,0.5,2.12,Pinnacle,1.671,Pinnacle,Player Points,Utah Hockey Club v Detroit Red Wings,-7.014215868929452
+New York Islanders,Columbus Blue Jackets,Kyle Palmieri,0.5,1.71,Bet365,2.06,Pinnacle,Player Points,New York Islanders v Columbus Blue Jackets,-7.023221484131037
 Edmonton Oilers,Anaheim Ducks,Ryan Nugent-Hopkins,0.5,1.53,Sportsbet,2.4,Sportsbet,Player Points,Edmonton Oilers v Anaheim Ducks,-7.0261437908496704
-Vegas Golden Knights,Tampa Bay Lightning,Victor Hedman,0.5,1.769,Pinnacle,1.98,Pinnacle,Player Points,Vegas Golden Knights v Tampa Bay Lightning,-7.034162997984383
+New York Islanders,Columbus Blue Jackets,Kirill Marchenko,0.5,1.769,Pinnacle,1.98,Pinnacle,Player Points,New York Islanders v Columbus Blue Jackets,-7.034162997984383
+Utah Hockey Club,Detroit Red Wings,Patrick Kane,0.5,1.67,Neds,2.12,Pinnacle,Player Points,Utah Hockey Club v Detroit Red Wings,-7.050050841712796
+Utah Hockey Club,Detroit Red Wings,Barrett Hayton,0.5,2.12,Pinnacle,1.67,Neds,Player Points,Utah Hockey Club v Detroit Red Wings,-7.050050841712796
 Seattle Kraken,Minnesota Wild,Jaden Schwartz,0.5,2.12,Sportsbet,1.67,Sportsbet,Player Points,Seattle Kraken v Minnesota Wild,-7.050050841712796
+Utah Hockey Club,Detroit Red Wings,Moritz Seider,0.5,2.06,Pinnacle,1.709,Pinnacle,Player Points,Utah Hockey Club v Detroit Red Wings,-7.057440051810238
+Dallas Stars,Minnesota Wild,Wyatt Johnston,0.5,1.64,Bet365,2.17,Pinnacle,Player Points,Dallas Stars v Minnesota Wild,-7.058559064853309
 Seattle Kraken,Minnesota Wild,Jared McCann,0.5,1.93,Sportsbet,1.81,Sportsbet,Player Points,Seattle Kraken v Minnesota Wild,-7.062090287121059
-Florida Panthers,Pittsburgh Penguins,Evgeni Malkin,0.5,2.16,Pinnacle,1.645,Pinnacle,Player Points,Florida Panthers v Pittsburgh Penguins,-7.086569852527291
-Anaheim Ducks,Carolina Hurricanes,Seth Jarvis,0.5,1.617,Pinnacle,2.21,Pinnacle,Player Points,Anaheim Ducks v Carolina Hurricanes,-7.091787764056678
-Winnipeg Jets,Buffalo Sabres,Josh Morrissey,0.5,1.617,Pinnacle,2.21,Pinnacle,Player Points,Winnipeg Jets v Buffalo Sabres,-7.091787764056678
+New York Islanders,Columbus Blue Jackets,Adam Fantilli,0.5,2.03,Pinnacle,1.73,Neds,Player Points,New York Islanders v Columbus Blue Jackets,-7.064551951934872
+Dallas Stars,Minnesota Wild,Matt Duchene,0.5,1.76,Bet365,1.99,Pinnacle,Player Points,Dallas Stars v Minnesota Wild,-7.069438099588865
+New York Islanders,Columbus Blue Jackets,Simon Holmstrom,0.5,1.806,Pinnacle,1.934,Pinnacle,Player Points,New York Islanders v Columbus Blue Jackets,-7.077293773140436
 Colorado Avalanche,Pittsburgh Penguins,Martin Necas,1.5,2.53,Sportsbet,1.48,Sportsbet,Player Points,Colorado Avalanche v Pittsburgh Penguins,-7.093259267172325
-Vegas Golden Knights,Tampa Bay Lightning,Noah Hanifin,0.5,2.11,Pinnacle,1.675,Pinnacle,Player Points,Vegas Golden Knights v Tampa Bay Lightning,-7.094857466223381
-Chicago Blackhawks,Philadelphia Flyers,Ryan Donato,0.5,1.729,Pinnacle,2.03,Pinnacle,Player Points,Chicago Blackhawks v Philadelphia Flyers,-7.097983686005471
-Florida Panthers,Pittsburgh Penguins,Mackie Samoskevich,0.5,1.729,Pinnacle,2.03,Pinnacle,Player Points,Florida Panthers v Pittsburgh Penguins,-7.097983686005471
-Anaheim Ducks,Carolina Hurricanes,Mason McTavish,0.5,1.97,Pinnacle,1.775,Pinnacle,Player Points,Anaheim Ducks v Carolina Hurricanes,-7.099449488811027
+New York Islanders,Columbus Blue Jackets,Adam Fantilli,0.5,2.03,Pinnacle,1.729,Pinnacle,Player Points,New York Islanders v Columbus Blue Jackets,-7.097983686005471
 Seattle Kraken,Minnesota Wild,Marcus Johansson,0.5,2.69,Sportsbet,1.43,Sportsbet,Player Points,Seattle Kraken v Minnesota Wild,-7.104791119661025
-Los Angeles Kings,Boston Bruins,Elias Lindholm,0.5,2.23,Pinnacle,1.606,Pinnacle,Player Points,Los Angeles Kings v Boston Bruins,-7.109549950019267
-Anaheim Ducks,Carolina Hurricanes,Shayne Gostisbehere,0.5,2,Pinnacle,1.751,Pinnacle,Player Points,Anaheim Ducks v Carolina Hurricanes,-7.110222729868654
+New York Islanders,Columbus Blue Jackets,Kent Johnson,0.5,1.813,Pinnacle,1.925,Pinnacle,Player Points,New York Islanders v Columbus Blue Jackets,-7.105249962392812
+Dallas Stars,Minnesota Wild,Roope Hintz,0.5,1.694,Pinnacle,2.08,Pinnacle,Player Points,Dallas Stars v Minnesota Wild,-7.108800290618467
+New York Islanders,Columbus Blue Jackets,Tony DeAngelo,0.5,2.08,Pinnacle,1.694,Pinnacle,Player Points,New York Islanders v Columbus Blue Jackets,-7.108800290618467
+Dallas Stars,Minnesota Wild,Marco Rossi,0.5,2,Pinnacle,1.751,Pinnacle,Player Points,Dallas Stars v Minnesota Wild,-7.110222729868654
+Dallas Stars,Minnesota Wild,Thomas Harley,0.5,1.751,Pinnacle,2,Pinnacle,Player Points,Dallas Stars v Minnesota Wild,-7.110222729868654
+Dallas Stars,Minnesota Wild,Mikko Rantanen,0.5,1.52,Bet365,2.42,Pinnacle,Player Points,Dallas Stars v Minnesota Wild,-7.1117877337973034
 Edmonton Oilers,Anaheim Ducks,Alex Killorn,0.5,2.5,Sportsbet,1.49,Sportsbet,Player Points,Edmonton Oilers v Anaheim Ducks,-7.114093959731549
-Anaheim Ducks,Carolina Hurricanes,Frank Vatrano,0.5,2.13,Pinnacle,1.662,Pinnacle,Player Points,Anaheim Ducks v Carolina Hurricanes,-7.116828528330021
-Anaheim Ducks,Carolina Hurricanes,Jackson Blake,0.5,2.13,Pinnacle,1.662,Pinnacle,Player Points,Anaheim Ducks v Carolina Hurricanes,-7.116828528330021
-Vegas Golden Knights,Tampa Bay Lightning,Brandon Hagel,0.5,1.662,Pinnacle,2.13,Pinnacle,Player Points,Vegas Golden Knights v Tampa Bay Lightning,-7.116828528330021
-Winnipeg Jets,Buffalo Sabres,Cole Perfetti,0.5,2.13,Pinnacle,1.662,Pinnacle,Player Points,Winnipeg Jets v Buffalo Sabres,-7.116828528330021
+New York Islanders,Columbus Blue Jackets,Dmitri Voronkov,0.5,2.13,Pinnacle,1.662,Pinnacle,Player Points,New York Islanders v Columbus Blue Jackets,-7.116828528330021
+New York Islanders,Columbus Blue Jackets,Bo Horvat,0.5,1.54,Pinnacle,2.37,Pinnacle,Player Points,New York Islanders v Columbus Blue Jackets,-7.129157762069149
 Colorado Avalanche,Pittsburgh Penguins,Erik Karlsson,0.5,2.07,Sportsbet,1.7,Sportsbet,Player Points,Colorado Avalanche v Pittsburgh Penguins,-7.132708155726064
 Seattle Kraken,Minnesota Wild,Chandler Stephenson,0.5,2.07,Sportsbet,1.7,Sportsbet,Player Points,Seattle Kraken v Minnesota Wild,-7.132708155726064
 Seattle Kraken,Minnesota Wild,Matty Beniers,0.5,2.07,Sportsbet,1.7,Sportsbet,Player Points,Seattle Kraken v Minnesota Wild,-7.132708155726064
-Chicago Blackhawks,Philadelphia Flyers,Sean Couturier,0.5,1.961,Pinnacle,1.781,Pinnacle,Player Points,Chicago Blackhawks v Philadelphia Flyers,-7.142621947745198
-Los Angeles Kings,Boston Bruins,Adrian Kempe,0.5,1.6,Bet365,2.24,Pinnacle,Player Points,Los Angeles Kings v Boston Bruins,-7.14285714285714
-Los Angeles Kings,Boston Bruins,Pavel Zacha,0.5,2.1,Pinnacle,1.68,Bet365,Player Points,Los Angeles Kings v Boston Bruins,-7.14285714285714
+New York Islanders,Columbus Blue Jackets,Noah Dobson,0.5,1.781,Pinnacle,1.961,Pinnacle,Player Points,New York Islanders v Columbus Blue Jackets,-7.142621947745198
+Dallas Stars,Minnesota Wild,Matt Duchene,0.5,1.75,Neds,2,Bet365,Player Points,Dallas Stars v Minnesota Wild,-7.14285714285714
 Colorado Avalanche,Pittsburgh Penguins,Kris Letang,0.5,2.8,Sportsbet,1.4,Sportsbet,Player Points,Colorado Avalanche v Pittsburgh Penguins,-7.14285714285714
 Seattle Kraken,Minnesota Wild,Vince Dunn,0.5,2.1,Sportsbet,1.68,Sportsbet,Player Points,Seattle Kraken v Minnesota Wild,-7.14285714285714
-Winnipeg Jets,Buffalo Sabres,Rasmus Dahlin,0.5,1.909,Pinnacle,1.826,Pinnacle,Player Points,Winnipeg Jets v Buffalo Sabres,-7.14795942663935
-Los Angeles Kings,Boston Bruins,Phillip Danault,0.5,2.15,Pinnacle,1.649,Pinnacle,Player Points,Los Angeles Kings v Boston Bruins,-7.154441733538297
-Winnipeg Jets,Buffalo Sabres,Vladislav Namestnikov,0.5,2.34,Pinnacle,1.552,Pinnacle,Player Points,Winnipeg Jets v Buffalo Sabres,-7.168032425764381
 Edmonton Oilers,Anaheim Ducks,Jackson LaCombe,0.5,2.3,Sportsbet,1.57,Sportsbet,Player Points,Edmonton Oilers v Anaheim Ducks,-7.172528385488786
-Florida Panthers,Pittsburgh Penguins,Seth Jones,0.5,1.9,Pinnacle,1.833,Pinnacle,Player Points,Florida Panthers v Pittsburgh Penguins,-7.186952651678302
-Winnipeg Jets,Buffalo Sabres,Alex Tuch,0.5,1.833,Pinnacle,1.9,Pinnacle,Player Points,Winnipeg Jets v Buffalo Sabres,-7.186952651678302
-Los Angeles Kings,Boston Bruins,Morgan Geekie,0.5,2.04,Pinnacle,1.719,Pinnacle,Player Points,Los Angeles Kings v Boston Bruins,-7.1929644458132325
+Dallas Stars,Minnesota Wild,Brock Faber,0.5,2.65,Bet365,1.44,Bet365,Player Points,Dallas Stars v Minnesota Wild,-7.180293501048229
+Dallas Stars,Minnesota Wild,Mats Zuccarello,0.5,1.833,Pinnacle,1.9,Bet365,Player Points,Dallas Stars v Minnesota Wild,-7.186952651678302
+New York Islanders,Columbus Blue Jackets,Dmitri Voronkov,0.5,2.13,Pinnacle,1.66,Bet365,Player Points,New York Islanders v Columbus Blue Jackets,-7.189320662933429
+Utah Hockey Club,Detroit Red Wings,Patrick Kane,0.5,1.666,Pinnacle,2.12,Pinnacle,Player Points,Utah Hockey Club v Detroit Red Wings,-7.193820924596261
 Colorado Avalanche,Pittsburgh Penguins,Sidney Crosby,0.5,1.53,Sportsbet,2.39,Sportsbet,Player Points,Colorado Avalanche v Pittsburgh Penguins,-7.200481308283413
 Seattle Kraken,Minnesota Wild,Brandon Montour,0.5,2.39,Sportsbet,1.53,Sportsbet,Player Points,Seattle Kraken v Minnesota Wild,-7.200481308283413
-Chicago Blackhawks,Philadelphia Flyers,Tyler Bertuzzi,0.5,2.19,Pinnacle,1.625,Pinnacle,Player Points,Chicago Blackhawks v Philadelphia Flyers,-7.200561995082544
-Los Angeles Kings,Boston Bruins,Warren Foegele,0.5,2.19,Pinnacle,1.625,Pinnacle,Player Points,Los Angeles Kings v Boston Bruins,-7.200561995082544
-Los Angeles Kings,Boston Bruins,Andrei Kuzmenko,0.5,1.84,Pinnacle,1.892,Pinnacle,Player Points,Los Angeles Kings v Boston Bruins,-7.201948708521
-Vegas Golden Knights,Tampa Bay Lightning,Mark Stone,0.5,1.636,Pinnacle,2.17,Pinnacle,Player Points,Vegas Golden Knights v Tampa Bay Lightning,-7.207643685283882
-St. Louis Blues,Nashville Predators,Brayden Schenn,0.5,1.869,Pinnacle,1.862,Pinnacle,Player Points,St. Louis Blues v Nashville Predators,-7.21024069000753
-Los Angeles Kings,Boston Bruins,Quinton Byfield,0.5,1.854,Pinnacle,1.877,Pinnacle,Player Points,Los Angeles Kings v Boston Bruins,-7.213937639477264
-St. Louis Blues,Nashville Predators,Steven Stamkos,0.5,1.877,Pinnacle,1.854,Pinnacle,Player Points,St. Louis Blues v Nashville Predators,-7.213937639477264
-Chicago Blackhawks,Philadelphia Flyers,Matvei Michkov,0.5,1.74,Pinnacle,2.01,Pinnacle,Player Points,Chicago Blackhawks v Philadelphia Flyers,-7.222508148910611
-St. Louis Blues,Nashville Predators,Zack Bolduc,0.5,2.14,Pinnacle,1.653,Pinnacle,Player Points,St. Louis Blues v Nashville Predators,-7.225039718212711
-Florida Panthers,Pittsburgh Penguins,Carter Verhaeghe,0.5,1.763,Pinnacle,1.98,Pinnacle,Player Points,Florida Panthers v Pittsburgh Penguins,-7.226547952583129
-Chicago Blackhawks,Philadelphia Flyers,Connor Bedard,0.5,1.704,Pinnacle,2.06,Pinnacle,Player Points,Chicago Blackhawks v Philadelphia Flyers,-7.229135329778025
-Anaheim Ducks,Carolina Hurricanes,Brent Burns,0.5,2.28,Pinnacle,1.578,Pinnacle,Player Points,Anaheim Ducks v Carolina Hurricanes,-7.231005269828561
-Winnipeg Jets,Buffalo Sabres,Jason Zucker,0.5,2.28,Pinnacle,1.578,Pinnacle,Player Points,Winnipeg Jets v Buffalo Sabres,-7.231005269828561
+Dallas Stars,Minnesota Wild,Ryan Hartman,0.5,2.19,Pinnacle,1.625,Pinnacle,Player Points,Dallas Stars v Minnesota Wild,-7.200561995082544
+Dallas Stars,Minnesota Wild,Wyatt Johnston,0.5,1.636,Pinnacle,2.17,Pinnacle,Player Points,Dallas Stars v Minnesota Wild,-7.207643685283882
+New York Islanders,Columbus Blue Jackets,Jean-Gabriel Pageau,0.5,2.26,Pinnacle,1.588,Pinnacle,Player Points,New York Islanders v Columbus Blue Jackets,-7.220079802055235
+Dallas Stars,Minnesota Wild,Matt Boldy,0.5,1.598,Pinnacle,2.24,Pinnacle,Player Points,Dallas Stars v Minnesota Wild,-7.221079921330231
+New York Islanders,Columbus Blue Jackets,Kyle Palmieri,0.5,1.704,Pinnacle,2.06,Pinnacle,Player Points,New York Islanders v Columbus Blue Jackets,-7.229135329778025
+New York Islanders,Columbus Blue Jackets,Sean Monahan,0.5,1.641,Pinnacle,2.16,Pinnacle,Player Points,New York Islanders v Columbus Blue Jackets,-7.23474845961134
+New Jersey Devils,Vancouver Canucks,Filip Hronek,0.5,2.55,Bet365,1.47,Bet365,Player Points,New Jersey Devils v Vancouver Canucks,-7.242897158863548
+New Jersey Devils,Vancouver Canucks,Nico Hischier,0.5,1.47,Bet365,2.55,Bet365,Player Points,New Jersey Devils v Vancouver Canucks,-7.242897158863548
+New Jersey Devils,Vancouver Canucks,Quinn Hughes,0.5,1.47,Bet365,2.55,Bet365,Player Points,New Jersey Devils v Vancouver Canucks,-7.242897158863548
 Seattle Kraken,Minnesota Wild,Frederick Gaudreau,0.5,2.68,Sportsbet,1.43,Sportsbet,Player Points,Seattle Kraken v Minnesota Wild,-7.24350276589083
 Edmonton Oilers,Anaheim Ducks,Zach Hyman,0.5,1.55,Sportsbet,2.34,Sportsbet,Player Points,Edmonton Oilers v Anaheim Ducks,-7.2511717673008125
+New York Islanders,Columbus Blue Jackets,Zach Werenski,0.5,1.568,Pinnacle,2.3,Pinnacle,Player Points,New York Islanders v Columbus Blue Jackets,-7.253771073646842
+Utah Hockey Club,Detroit Red Wings,Alex DeBrincat,0.5,1.568,Pinnacle,2.3,Pinnacle,Player Points,Utah Hockey Club v Detroit Red Wings,-7.253771073646842
 Edmonton Oilers,Anaheim Ducks,Connor McDavid,1.5,1.77,Sportsbet,1.97,Sportsbet,Player Points,Edmonton Oilers v Anaheim Ducks,-7.258596461039879
-Los Angeles Kings,Boston Bruins,Drew Doughty,0.5,2.05,Pinnacle,1.71,Bet365,Player Points,Los Angeles Kings v Boston Bruins,-7.2600199686207345
-Anaheim Ducks,Carolina Hurricanes,Troy Terry,0.5,1.8,Pinnacle,1.934,Pinnacle,Player Points,Anaheim Ducks v Carolina Hurricanes,-7.261863725152251
-Vegas Golden Knights,Tampa Bay Lightning,Tomas Hertl,0.5,1.8,Pinnacle,1.934,Pinnacle,Player Points,Vegas Golden Knights v Tampa Bay Lightning,-7.261863725152251
+Dallas Stars,Minnesota Wild,Mikael Granlund,0.5,2.05,Pinnacle,1.71,Bet365,Player Points,Dallas Stars v Minnesota Wild,-7.2600199686207345
+New York Islanders,Columbus Blue Jackets,Boone Jenner,0.5,2.05,Pinnacle,1.71,Bet365,Player Points,New York Islanders v Columbus Blue Jackets,-7.2600199686207345
+New York Islanders,Columbus Blue Jackets,Simon Holmstrom,0.5,1.8,Bet365,1.934,Pinnacle,Player Points,New York Islanders v Columbus Blue Jackets,-7.261863725152251
+New York Islanders,Columbus Blue Jackets,Sean Monahan,0.5,1.64,Bet365,2.16,Pinnacle,Player Points,New York Islanders v Columbus Blue Jackets,-7.271906052393851
 Colorado Avalanche,Pittsburgh Penguins,Casey Mittelstadt,0.5,2.16,Sportsbet,1.64,Sportsbet,Player Points,Colorado Avalanche v Pittsburgh Penguins,-7.271906052393851
+New York Islanders,Columbus Blue Jackets,Anders Lee,0.5,1.9,Bet365,1.83,Bet365,Player Points,New York Islanders v Columbus Blue Jackets,-7.276387690537822
+New Jersey Devils,Vancouver Canucks,Luke Hughes,0.5,1.83,Bet365,1.9,Bet365,Player Points,New Jersey Devils v Vancouver Canucks,-7.276387690537822
+Dallas Stars,Minnesota Wild,Mats Zuccarello,0.5,1.83,Bet365,1.9,Bet365,Player Points,Dallas Stars v Minnesota Wild,-7.276387690537822
+UTA Hockey Club,Detroit Red Wings,Mikhail Sergachev,0.5,1.9,Bet365,1.83,Bet365,Player Points,UTA Hockey Club v Detroit Red Wings,-7.276387690537822
 Colorado Avalanche,Pittsburgh Penguins,Rickard Rakell,0.5,1.83,Sportsbet,1.9,Sportsbet,Player Points,Colorado Avalanche v Pittsburgh Penguins,-7.276387690537822
 Seattle Kraken,Minnesota Wild,Marco Rossi,0.5,1.83,Sportsbet,1.9,Sportsbet,Player Points,Seattle Kraken v Minnesota Wild,-7.276387690537822
 Colorado Avalanche,Pittsburgh Penguins,Cale Makar,1.5,2.83,Sportsbet,1.39,Sportsbet,Player Points,Colorado Avalanche v Pittsburgh Penguins,-7.278135089101867
-Florida Panthers,Pittsburgh Penguins,Rickard Rakell,0.5,1.769,Pinnacle,1.97,Pinnacle,Player Points,Florida Panthers v Pittsburgh Penguins,-7.290533812730815
-St. Louis Blues,Nashville Predators,Jonathan Marchessault,0.5,1.97,Pinnacle,1.769,Pinnacle,Player Points,St. Louis Blues v Nashville Predators,-7.290533812730815
-St. Louis Blues,Nashville Predators,Ryan O'Reilly,0.5,1.769,Pinnacle,1.97,Pinnacle,Player Points,St. Louis Blues v Nashville Predators,-7.290533812730815
+Utah Hockey Club,Detroit Red Wings,Dylan Guenther,0.5,1.689,Pinnacle,2.08,Pinnacle,Player Points,Utah Hockey Club v Detroit Red Wings,-7.283554219611066
+Dallas Stars,Minnesota Wild,Mason Marchment,0.5,2.25,Pinnacle,1.591,Pinnacle,Player Points,Dallas Stars v Minnesota Wild,-7.297995670088708
 Colorado Avalanche,Pittsburgh Penguins,Nathan MacKinnon,1.5,1.82,Sportsbet,1.91,Sportsbet,Player Points,Colorado Avalanche v Pittsburgh Penguins,-7.301075887463315
 Seattle Kraken,Minnesota Wild,Kaapo Kakko,0.5,1.91,Sportsbet,1.82,Sportsbet,Player Points,Seattle Kraken v Minnesota Wild,-7.301075887463315
-Florida Panthers,Pittsburgh Penguins,Erik Karlsson,0.5,2.15,Pinnacle,1.645,Pinnacle,Player Points,Florida Panthers v Pittsburgh Penguins,-7.3019014632077495
-St. Louis Blues,Nashville Predators,Jordan Kyrou,0.5,1.581,Pinnacle,2.27,Pinnacle,Player Points,St. Louis Blues v Nashville Predators,-7.303970330494014
-St. Louis Blues,Nashville Predators,Justin Faulk,0.5,2.27,Pinnacle,1.581,Pinnacle,Player Points,St. Louis Blues v Nashville Predators,-7.303970330494014
-Vegas Golden Knights,Tampa Bay Lightning,William Karlsson,0.5,2.27,Pinnacle,1.581,Pinnacle,Player Points,Vegas Golden Knights v Tampa Bay Lightning,-7.303970330494014
 Edmonton Oilers,Anaheim Ducks,Evan Bouchard,0.5,1.38,Sportsbet,2.87,Sportsbet,Player Points,Edmonton Oilers v Anaheim Ducks,-7.306973690854934
-Winnipeg Jets,Buffalo Sabres,Nikolaj Ehlers,0.5,1.54,Pinnacle,2.36,Pinnacle,Player Points,Winnipeg Jets v Buffalo Sabres,-7.307946290997136
 Colorado Avalanche,Pittsburgh Penguins,Artturi Lehkonen,0.5,1.54,Sportsbet,2.36,Sportsbet,Player Points,Colorado Avalanche v Pittsburgh Penguins,-7.307946290997136
 Colorado Avalanche,Pittsburgh Penguins,Devon Toews,0.5,2.02,Sportsbet,1.73,Sportsbet,Player Points,Colorado Avalanche v Pittsburgh Penguins,-7.308418703141983
 Edmonton Oilers,Anaheim Ducks,Frank Vatrano,0.5,2.02,Sportsbet,1.73,Sportsbet,Player Points,Edmonton Oilers v Anaheim Ducks,-7.308418703141983
-Anaheim Ducks,Carolina Hurricanes,Leo Carlsson,0.5,2.22,Pinnacle,1.606,Pinnacle,Player Points,Anaheim Ducks v Carolina Hurricanes,-7.31154566771004
-Winnipeg Jets,Buffalo Sabres,JJ Peterka,0.5,1.925,Pinnacle,1.806,Pinnacle,Player Points,Winnipeg Jets v Buffalo Sabres,-7.319037551595686
-Vegas Golden Knights,Tampa Bay Lightning,Anthony Cirelli,0.5,2.29,Pinnacle,1.571,Pinnacle,Player Points,Vegas Golden Knights v Tampa Bay Lightning,-7.3218460135813235
-Chicago Blackhawks,Philadelphia Flyers,Teuvo Teravainen,0.5,1.917,Pinnacle,1.813,Pinnacle,Player Points,Chicago Blackhawks v Philadelphia Flyers,-7.322038911576145
-Chicago Blackhawks,Philadelphia Flyers,Artyom Levshunov,0.5,2.24,Pinnacle,1.595,Pinnacle,Player Points,Chicago Blackhawks v Philadelphia Flyers,-7.338781907747416
-Chicago Blackhawks,Philadelphia Flyers,Noah Cates,0.5,2.31,Pinnacle,1.561,Pinnacle,Player Points,Chicago Blackhawks v Philadelphia Flyers,-7.351542329120808
-Anaheim Ducks,Carolina Hurricanes,Jackson LaCombe,0.5,2.35,Pinnacle,1.543,Pinnacle,Player Points,Anaheim Ducks v Carolina Hurricanes,-7.362005488065537
-Florida Panthers,Pittsburgh Penguins,Bryan Rust,0.5,1.781,Pinnacle,1.952,Pinnacle,Player Points,Florida Panthers v Pittsburgh Penguins,-7.37773952743439
-Los Angeles Kings,Boston Bruins,Warren Foegele,0.5,2.19,Pinnacle,1.62,Bet365,Player Points,Los Angeles Kings v Boston Bruins,-7.390495518349405
-St. Louis Blues,Nashville Predators,Cam Fowler,0.5,2.21,Pinnacle,1.609,Pinnacle,Player Points,St. Louis Blues v Nashville Predators,-7.399272755906394
-Los Angeles Kings,Boston Bruins,Anze Kopitar,0.5,1.699,Pinnacle,2.06,Pinnacle,Player Points,Los Angeles Kings v Boston Bruins,-7.401841174420132
-Florida Panthers,Pittsburgh Penguins,Anton Lundell,0.5,2.32,Pinnacle,1.555,Pinnacle,Player Points,Florida Panthers v Pittsburgh Penguins,-7.412129947887802
+Dallas Stars,Minnesota Wild,Frederick Gaudreau,0.5,2.96,Pinnacle,1.36,Neds,Player Points,Dallas Stars v Minnesota Wild,-7.313195548489659
+New York Islanders,Columbus Blue Jackets,Kirill Marchenko,0.5,1.76,Bet365,1.98,Pinnacle,Player Points,New York Islanders v Columbus Blue Jackets,-7.3232323232323315
+Utah Hockey Club,Detroit Red Wings,Mikhail Sergachev,0.5,1.88,Neds,1.847,Pinnacle,Player Points,Utah Hockey Club v Detroit Red Wings,-7.333341013028605
+Utah Hockey Club,Detroit Red Wings,Nick Schmaltz,0.5,1.552,Pinnacle,2.33,Pinnacle,Player Points,Utah Hockey Club v Detroit Red Wings,-7.3514446263439615
+New York Islanders,Columbus Blue Jackets,Kyle Palmieri,0.5,1.7,Neds,2.06,Pinnacle,Player Points,New York Islanders v Columbus Blue Jackets,-7.367218732153047
+Utah Hockey Club,Detroit Red Wings,Moritz Seider,0.5,2.06,Pinnacle,1.7,Neds,Player Points,Utah Hockey Club v Detroit Red Wings,-7.367218732153047
+Dallas Stars,Minnesota Wild,Ryan Hartman,0.5,2.19,Pinnacle,1.62,Bet365,Player Points,Dallas Stars v Minnesota Wild,-7.390495518349405
+Dallas Stars,Minnesota Wild,Matt Duchene,0.5,1.75,Neds,1.99,Pinnacle,Player Points,Dallas Stars v Minnesota Wild,-7.39411342426417
 Edmonton Oilers,Anaheim Ducks,Troy Terry,0.5,1.79,Sportsbet,1.94,Sportsbet,Player Points,Edmonton Oilers v Anaheim Ducks,-7.412313540286819
-Los Angeles Kings,Boston Bruins,Kevin Fiala,0.5,1.588,Pinnacle,2.25,Pinnacle,Player Points,Los Angeles Kings v Boston Bruins,-7.416736635880206
-Florida Panthers,Pittsburgh Penguins,Sidney Crosby,0.5,1.529,Pinnacle,2.38,Pinnacle,Player Points,Florida Panthers v Pittsburgh Penguins,-7.4190303982940575
-Vegas Golden Knights,Tampa Bay Lightning,Ivan Barbashev,0.5,2.13,Pinnacle,1.653,Pinnacle,Player Points,Vegas Golden Knights v Tampa Bay Lightning,-7.44442456310761
-Winnipeg Jets,Buffalo Sabres,Tage Thompson,0.5,1.613,Pinnacle,2.2,Pinnacle,Player Points,Winnipeg Jets v Buffalo Sabres,-7.450825677732054
-Chicago Blackhawks,Philadelphia Flyers,Travis Konecny,0.5,1.52,Pinnacle,2.4,Pinnacle,Player Points,Chicago Blackhawks v Philadelphia Flyers,-7.456140350877205
+UTA Hockey Club,Detroit Red Wings,Vladimir Tarasenko,0.5,2.6,Bet365,1.45,Bet365,Player Points,UTA Hockey Club v Detroit Red Wings,-7.427055702917773
+Dallas Stars,Minnesota Wild,Frederick Gaudreau,0.5,2.95,Bet365,1.36,Neds,Player Points,Dallas Stars v Minnesota Wild,-7.427716849451649
+New York Islanders,Columbus Blue Jackets,Anthony Duclair,0.5,2.5,Bet365,1.483,Pinnacle,Player Points,New York Islanders v Columbus Blue Jackets,-7.430883344571804
+New York Islanders,Columbus Blue Jackets,Simon Holmstrom,0.5,1.806,Pinnacle,1.92,Neds,Player Points,New York Islanders v Columbus Blue Jackets,-7.454318936877069
+Dallas Stars,Minnesota Wild,Jamie Benn,0.5,2.4,Pinnacle,1.52,Bet365,Player Points,Dallas Stars v Minnesota Wild,-7.456140350877205
+Dallas Stars,Minnesota Wild,Mikko Rantanen,0.5,1.512,Pinnacle,2.42,Pinnacle,Player Points,Dallas Stars v Minnesota Wild,-7.459880187152912
+Dallas Stars,Minnesota Wild,Thomas Harley,0.5,1.78,Neds,1.95,Bet365,Player Points,Dallas Stars v Minnesota Wild,-7.461826562950158
+New York Islanders,Columbus Blue Jackets,Simon Holmstrom,0.5,1.78,Neds,1.95,Bet365,Player Points,New York Islanders v Columbus Blue Jackets,-7.461826562950158
 Colorado Avalanche,Pittsburgh Penguins,Bryan Rust,0.5,1.78,Sportsbet,1.95,Sportsbet,Player Points,Colorado Avalanche v Pittsburgh Penguins,-7.461826562950158
 Seattle Kraken,Minnesota Wild,Mats Zuccarello,0.5,1.78,Sportsbet,1.95,Sportsbet,Player Points,Seattle Kraken v Minnesota Wild,-7.461826562950158
-Winnipeg Jets,Buffalo Sabres,Mark Scheifele,0.5,1.434,Pinnacle,2.65,Pinnacle,Player Points,Winnipeg Jets v Buffalo Sabres,-7.470856030104489
-Los Angeles Kings,Boston Bruins,Casey Mittelstadt,0.5,2.31,Pinnacle,1.558,Pinnacle,Player Points,Los Angeles Kings v Boston Bruins,-7.474895664882819
-Vegas Golden Knights,Tampa Bay Lightning,Brayden Point,0.5,1.558,Pinnacle,2.31,Pinnacle,Player Points,Vegas Golden Knights v Tampa Bay Lightning,-7.474895664882819
-Vegas Golden Knights,Tampa Bay Lightning,Jake Guentzel,0.5,1.549,Pinnacle,2.33,Pinnacle,Player Points,Vegas Golden Knights v Tampa Bay Lightning,-7.476234148017413
-Los Angeles Kings,Boston Bruins,Phillip Danault,0.5,2.15,Pinnacle,1.64,Bet365,Player Points,Los Angeles Kings v Boston Bruins,-7.487237663074309
-Chicago Blackhawks,Philadelphia Flyers,Bobby Brink,0.5,2.24,Pinnacle,1.591,Pinnacle,Player Points,Chicago Blackhawks v Philadelphia Flyers,-7.496408368501406
-Los Angeles Kings,Boston Bruins,Morgan Geekie,0.5,2.04,Pinnacle,1.71,Bet365,Player Points,Los Angeles Kings v Boston Bruins,-7.499140006879945
-St. Louis Blues,Nashville Predators,Michael Bunting,0.5,2.49,Pinnacle,1.485,Pinnacle,Player Points,St. Louis Blues v Nashville Predators,-7.500709910348458
-Florida Panthers,Pittsburgh Penguins,Evan Rodrigues,0.5,2.43,Pinnacle,1.507,Pinnacle,Player Points,Florida Panthers v Pittsburgh Penguins,-7.5092640380556075
-Winnipeg Jets,Buffalo Sabres,Kyle Connor,1.5,2.37,Pinnacle,1.531,Pinnacle,Player Points,Winnipeg Jets v Buffalo Sabres,-7.510879241112645
-Anaheim Ducks,Carolina Hurricanes,Ryan Strome,0.5,2.42,Pinnacle,1.51,Pinnacle,Player Points,Anaheim Ducks v Carolina Hurricanes,-7.547479612500685
-St. Louis Blues,Nashville Predators,Filip Forsberg,0.5,1.526,Pinnacle,2.38,Pinnacle,Player Points,St. Louis Blues v Nashville Predators,-7.54760619844268
-Los Angeles Kings,Boston Bruins,David Pastrnak,0.5,1.392,Pinnacle,2.8,Bet365,Player Points,Los Angeles Kings v Boston Bruins,-7.553366174055842
+Utah Hockey Club,Detroit Red Wings,Barrett Hayton,0.5,2.1,Neds,1.671,Pinnacle,Player Points,Utah Hockey Club v Detroit Red Wings,-7.463452167222373
+Dallas Stars,Minnesota Wild,Marco Rossi,0.5,2,Pinnacle,1.74,Bet365,Player Points,Dallas Stars v Minnesota Wild,-7.471264367816088
+Dallas Stars,Minnesota Wild,Gustav Nyquist,0.5,2.9,Neds,1.37,Pinnacle,Player Points,Dallas Stars v Minnesota Wild,-7.4754593506166644
+New Jersey Devils,Vancouver Canucks,Filip Hronek,0.5,2.45,Neds,1.5,Neds,Player Points,New Jersey Devils v Vancouver Canucks,-7.482993197278898
+Utah Hockey Club,Detroit Red Wings,Marco Kasper,0.5,2.45,Neds,1.5,Neds,Player Points,Utah Hockey Club v Detroit Red Wings,-7.482993197278898
+New York Islanders,Columbus Blue Jackets,Noah Dobson,0.5,1.77,Neds,1.961,Pinnacle,Player Points,New York Islanders v Columbus Blue Jackets,-7.491565758275076
+New Jersey Devils,Vancouver Canucks,Conor Garland,0.5,2.1,Neds,1.67,Neds,Player Points,New Jersey Devils v Vancouver Canucks,-7.499287140005695
+New York Islanders,Columbus Blue Jackets,Dmitri Voronkov,0.5,2.1,Neds,1.67,Neds,Player Points,New York Islanders v Columbus Blue Jackets,-7.499287140005695
+Utah Hockey Club,Detroit Red Wings,Barrett Hayton,0.5,2.1,Neds,1.67,Neds,Player Points,Utah Hockey Club v Detroit Red Wings,-7.499287140005695
+Utah Hockey Club,Detroit Red Wings,Patrick Kane,0.5,1.67,Neds,2.1,Neds,Player Points,Utah Hockey Club v Detroit Red Wings,-7.499287140005695
+New York Islanders,Columbus Blue Jackets,Kent Johnson,0.5,1.8,Bet365,1.925,Pinnacle,Player Points,New York Islanders v Columbus Blue Jackets,-7.503607503607501
+New York Islanders,Columbus Blue Jackets,Anders Lee,0.5,1.88,Neds,1.84,Pinnacle,Player Points,New York Islanders v Columbus Blue Jackets,-7.539315448658646
+Utah Hockey Club,Detroit Red Wings,Lucas Raymond,0.5,1.51,Pinnacle,2.42,Pinnacle,Player Points,Utah Hockey Club v Detroit Red Wings,-7.547479612500685
 Edmonton Oilers,Anaheim Ducks,Leon Draisaitl,1.5,1.83,Sportsbet,1.89,Sportsbet,Player Points,Edmonton Oilers v Anaheim Ducks,-7.5548616532223
-Chicago Blackhawks,Philadelphia Flyers,Frank Nazar,0.5,2.5,Pinnacle,1.48,Pinnacle,Player Points,Chicago Blackhawks v Philadelphia Flyers,-7.567567567567579
-Winnipeg Jets,Buffalo Sabres,Gabriel Vilardi,0.5,1.574,Pinnacle,2.27,Pinnacle,Player Points,Winnipeg Jets v Buffalo Sabres,-7.585264960900995
-Vegas Golden Knights,Tampa Bay Lightning,Oliver Bjorkstrand,0.5,2.51,Pinnacle,1.476,Pinnacle,Player Points,Vegas Golden Knights v Tampa Bay Lightning,-7.591314956974271
-Anaheim Ducks,Carolina Hurricanes,Cutter Gauthier,0.5,2.49,Pinnacle,1.483,Pinnacle,Player Points,Anaheim Ducks v Carolina Hurricanes,-7.591525914852926
-Vegas Golden Knights,Tampa Bay Lightning,Nick Paul,0.5,2.47,Pinnacle,1.49,Pinnacle,Player Points,Vegas Golden Knights v Tampa Bay Lightning,-7.59992391924571
-Anaheim Ducks,Carolina Hurricanes,Trevor Zegras,0.5,2.2,Pinnacle,1.609,Pinnacle,Player Points,Anaheim Ducks v Carolina Hurricanes,-7.604949432171315
-St. Louis Blues,Nashville Predators,Jake Neighbours,0.5,2.2,Pinnacle,1.609,Pinnacle,Player Points,St. Louis Blues v Nashville Predators,-7.604949432171315
-Chicago Blackhawks,Philadelphia Flyers,Owen Tippett,0.5,2.48,Pinnacle,1.485,Pinnacle,Player Points,Chicago Blackhawks v Philadelphia Flyers,-7.662647985228621
-Los Angeles Kings,Boston Bruins,Alex Laferriere,0.5,2.52,Pinnacle,1.471,Pinnacle,Player Points,Los Angeles Kings v Boston Bruins,-7.663505012247351
-Chicago Blackhawks,Philadelphia Flyers,Ilya Mikheyev,0.5,2.57,Pinnacle,1.454,Pinnacle,Player Points,Chicago Blackhawks v Philadelphia Flyers,-7.686296758171474
-Vegas Golden Knights,Tampa Bay Lightning,Brandon Saad,0.5,2.57,Pinnacle,1.454,Pinnacle,Player Points,Vegas Golden Knights v Tampa Bay Lightning,-7.686296758171474
-Florida Panthers,Pittsburgh Penguins,Sam Bennett,0.5,1.526,Pinnacle,2.37,Pinnacle,Player Points,Florida Panthers v Pittsburgh Penguins,-7.724892302757813
-Anaheim Ducks,Carolina Hurricanes,Logan Stankoven,0.5,2.13,Pinnacle,1.645,Pinnacle,Player Points,Anaheim Ducks v Carolina Hurricanes,-7.738630363742738
-Vegas Golden Knights,Tampa Bay Lightning,Yanni Gourde,0.5,2.64,Pinnacle,1.431,Pinnacle,Player Points,Vegas Golden Knights v Tampa Bay Lightning,-7.759989835461534
-Chicago Blackhawks,Philadelphia Flyers,Alex Vlasic,0.5,2.59,Pinnacle,1.446,Pinnacle,Player Points,Chicago Blackhawks v Philadelphia Flyers,-7.766331832721862
-St. Louis Blues,Nashville Predators,Robert Thomas,0.5,1.462,Pinnacle,2.54,Pinnacle,Player Points,St. Louis Blues v Nashville Predators,-7.769531544535058
-St. Louis Blues,Nashville Predators,Luke Evangelista,0.5,2.69,Pinnacle,1.416,Pinnacle,Player Points,St. Louis Blues v Nashville Predators,-7.796190116144763
-Vegas Golden Knights,Tampa Bay Lightning,Nikita Kucherov,1.5,2.4,Pinnacle,1.512,Pinnacle,Player Points,Vegas Golden Knights v Tampa Bay Lightning,-7.8042328042328135
-St. Louis Blues,Nashville Predators,Dalibor Dvorsky,0.5,2.65,Pinnacle,1.427,Pinnacle,Player Points,St. Louis Blues v Nashville Predators,-7.81293384987638
-St. Louis Blues,Nashville Predators,Dylan Holloway,0.5,1.588,Pinnacle,2.23,Pinnacle,Player Points,St. Louis Blues v Nashville Predators,-7.81534151879002
-Vegas Golden Knights,Tampa Bay Lightning,Alex Pietrangelo,0.5,2.67,Pinnacle,1.421,Pinnacle,Player Points,Vegas Golden Knights v Tampa Bay Lightning,-7.826160297516926
-Florida Panthers,Pittsburgh Penguins,Kris Letang,0.5,2.68,Pinnacle,1.418,Pinnacle,Player Points,Florida Panthers v Pittsburgh Penguins,-7.83529461297181
-Winnipeg Jets,Buffalo Sabres,Nino Niederreiter,0.5,2.61,Pinnacle,1.438,Pinnacle,Player Points,Winnipeg Jets v Buffalo Sabres,-7.855205452443004
-Los Angeles Kings,Boston Bruins,Adrian Kempe,0.5,1.581,Pinnacle,2.24,Pinnacle,Player Points,Los Angeles Kings v Boston Bruins,-7.893964037227796
-Anaheim Ducks,Carolina Hurricanes,Sebastian Aho,0.5,1.398,Pinnacle,2.75,Pinnacle,Player Points,Anaheim Ducks v Carolina Hurricanes,-7.894394589673581
-Anaheim Ducks,Carolina Hurricanes,Jack Roslovic,0.5,2.55,Pinnacle,1.456,Pinnacle,Player Points,Anaheim Ducks v Carolina Hurricanes,-7.897004955828502
-Florida Panthers,Pittsburgh Penguins,Gustav Forsling,0.5,2.71,Pinnacle,1.408,Pinnacle,Player Points,Florida Panthers v Pittsburgh Penguins,-7.9230962764173185
-Los Angeles Kings,Boston Bruins,Mason Lohrei,0.5,2.71,Pinnacle,1.408,Pinnacle,Player Points,Los Angeles Kings v Boston Bruins,-7.9230962764173185
-Los Angeles Kings,Boston Bruins,David Pastrnak,0.5,1.392,Pinnacle,2.77,Pinnacle,Player Points,Los Angeles Kings v Boston Bruins,-7.940163492261099
-Los Angeles Kings,Boston Bruins,Alex Laferriere,0.5,2.5,Bet365,1.471,Pinnacle,Player Points,Los Angeles Kings v Boston Bruins,-7.98096532970769
-St. Louis Blues,Nashville Predators,Brady Skjei,0.5,2.55,Pinnacle,1.454,Pinnacle,Player Points,St. Louis Blues v Nashville Predators,-7.991477196105423
-Winnipeg Jets,Buffalo Sabres,Owen Power,0.5,2.75,Pinnacle,1.396,Pinnacle,Player Points,Winnipeg Jets v Buffalo Sabres,-7.996874185985936
-Chicago Blackhawks,Philadelphia Flyers,Travis Sanheim,0.5,2.73,Pinnacle,1.401,Pinnacle,Player Points,Chicago Blackhawks v Philadelphia Flyers,-8.007624067581244
-Florida Panthers,Pittsburgh Penguins,Philip Tomasino,0.5,2.74,Pinnacle,1.398,Pinnacle,Player Points,Florida Panthers v Pittsburgh Penguins,-8.027108591000708
-Vegas Golden Knights,Tampa Bay Lightning,Jack Eichel,0.5,1.373,Pinnacle,2.84,Pinnacle,Player Points,Vegas Golden Knights v Tampa Bay Lightning,-8.04447955028056
-Los Angeles Kings,Boston Bruins,Mason Lohrei,0.5,2.7,Bet365,1.408,Pinnacle,Player Points,Los Angeles Kings v Boston Bruins,-8.059764309764317
-Florida Panthers,Pittsburgh Penguins,Sam Reinhart,1.5,2.85,Pinnacle,1.37,Pinnacle,Player Points,Florida Panthers v Pittsburgh Penguins,-8.080420028172618
-Florida Panthers,Pittsburgh Penguins,Matt Grzelcyk,0.5,3.02,Pinnacle,1.331,Pinnacle,Player Points,Florida Panthers v Pittsburgh Penguins,-8.244062871614721
-Florida Panthers,Pittsburgh Penguins,Aleksander Barkov,1.5,2.65,Pinnacle,1.416,Pinnacle,Player Points,Florida Panthers v Pittsburgh Penguins,-8.357317983157442
-Los Angeles Kings,Boston Bruins,Casey Mittelstadt,0.5,2.31,Pinnacle,1.52,Bet365,Player Points,Los Angeles Kings v Boston Bruins,-9.07951697425382
-Los Angeles Kings,Boston Bruins,Quinton Byfield,0.5,1.854,Pinnacle,1.8,Bet365,Player Points,Los Angeles Kings v Boston Bruins,-9.492988133764824
-Los Angeles Kings,Boston Bruins,Andrei Kuzmenko,0.5,1.84,Pinnacle,1.71,Bet365,Player Points,Los Angeles Kings v Boston Bruins,-12.827358250699206
+New Jersey Devils,Vancouver Canucks,Nico Hischier,0.5,1.48,Neds,2.5,Neds,Player Points,New Jersey Devils v Vancouver Canucks,-7.567567567567579
+Utah Hockey Club,Detroit Red Wings,Vladimir Tarasenko,0.5,2.5,Neds,1.48,Neds,Player Points,Utah Hockey Club v Detroit Red Wings,-7.567567567567579
+Dallas Stars,Minnesota Wild,Mats Zuccarello,0.5,1.82,Neds,1.9,Bet365,Player Points,Dallas Stars v Minnesota Wild,-7.576633892423357
+New Jersey Devils,Vancouver Canucks,Brock Boeser,0.5,1.82,Neds,1.9,Neds,Player Points,New Jersey Devils v Vancouver Canucks,-7.576633892423357
+New York Islanders,Columbus Blue Jackets,Anthony Duclair,0.5,2.49,Pinnacle,1.483,Pinnacle,Player Points,New York Islanders v Columbus Blue Jackets,-7.591525914852926
+Dallas Stars,Minnesota Wild,Roope Hintz,0.5,1.68,Bet365,2.08,Pinnacle,Player Points,Dallas Stars v Minnesota Wild,-7.600732600732596
+New York Islanders,Columbus Blue Jackets,Tony DeAngelo,0.5,2.08,Pinnacle,1.68,Bet365,Player Points,New York Islanders v Columbus Blue Jackets,-7.600732600732596
+Dallas Stars,Minnesota Wild,Roope Hintz,0.5,1.7,Neds,2.05,Neds,Player Points,Dallas Stars v Minnesota Wild,-7.604017216642767
+New York Islanders,Columbus Blue Jackets,Tony DeAngelo,0.5,2.05,Neds,1.7,Neds,Player Points,New York Islanders v Columbus Blue Jackets,-7.604017216642767
+Utah Hockey Club,Detroit Red Wings,Dylan Guenther,0.5,1.7,Neds,2.05,Neds,Player Points,Utah Hockey Club v Detroit Red Wings,-7.604017216642767
+Dallas Stars,Minnesota Wild,Mikael Granlund,0.5,2.05,Pinnacle,1.7,Neds,Player Points,Dallas Stars v Minnesota Wild,-7.604017216642767
+New York Islanders,Columbus Blue Jackets,Boone Jenner,0.5,2.05,Pinnacle,1.7,Neds,Player Points,New York Islanders v Columbus Blue Jackets,-7.604017216642767
+Dallas Stars,Minnesota Wild,Marco Rossi,0.5,1.98,Neds,1.751,Pinnacle,Player Points,Dallas Stars v Minnesota Wild,-7.615273234919151
+New York Islanders,Columbus Blue Jackets,Simon Holmstrom,0.5,1.8,Bet365,1.92,Neds,Player Points,New York Islanders v Columbus Blue Jackets,-7.638888888888884
+Dallas Stars,Minnesota Wild,Thomas Harley,0.5,1.8,Bet365,1.92,Neds,Player Points,Dallas Stars v Minnesota Wild,-7.638888888888884
+Utah Hockey Club,Detroit Red Wings,Patrick Kane,0.5,1.666,Pinnacle,2.1,Neds,Player Points,Utah Hockey Club v Detroit Red Wings,-7.64305722288916
+Dallas Stars,Minnesota Wild,Mikael Granlund,0.5,2.02,Neds,1.719,Pinnacle,Player Points,Dallas Stars v Minnesota Wild,-7.678307097725479
+New York Islanders,Columbus Blue Jackets,Boone Jenner,0.5,2.02,Neds,1.719,Pinnacle,Player Points,New York Islanders v Columbus Blue Jackets,-7.678307097725479
+Utah Hockey Club,Detroit Red Wings,Marco Kasper,0.5,2.53,Pinnacle,1.467,Pinnacle,Player Points,Utah Hockey Club v Detroit Red Wings,-7.692017534642237
+New York Islanders,Columbus Blue Jackets,Noah Dobson,0.5,1.781,Pinnacle,1.94,Neds,Player Points,New York Islanders v Columbus Blue Jackets,-7.694623083290408
+New Jersey Devils,Vancouver Canucks,Timo Meier,0.5,1.58,Neds,2.25,Neds,Player Points,New Jersey Devils v Vancouver Canucks,-7.735583684950775
+Dallas Stars,Minnesota Wild,Matt Duchene,0.5,1.763,Pinnacle,1.96,Neds,Player Points,Dallas Stars v Minnesota Wild,-7.741905610797928
+Dallas Stars,Minnesota Wild,Mats Zuccarello,0.5,1.833,Pinnacle,1.88,Neds,Player Points,Dallas Stars v Minnesota Wild,-7.746863066012
+New York Islanders,Columbus Blue Jackets,Dmitri Voronkov,0.5,2.1,Neds,1.662,Pinnacle,Player Points,New York Islanders v Columbus Blue Jackets,-7.7875193398659
+Dallas Stars,Minnesota Wild,Jared Spurgeon,0.5,2.75,Neds,1.4,Bet365,Player Points,Dallas Stars v Minnesota Wild,-7.792207792207795
+Dallas Stars,Minnesota Wild,Marcus Johansson,0.5,2.75,Neds,1.4,Bet365,Player Points,Dallas Stars v Minnesota Wild,-7.792207792207795
+Dallas Stars,Minnesota Wild,Marco Rossi,0.5,2,Pinnacle,1.73,Neds,Player Points,Dallas Stars v Minnesota Wild,-7.803468208092479
+New York Islanders,Columbus Blue Jackets,Tony DeAngelo,0.5,2.05,Neds,1.694,Pinnacle,Player Points,New York Islanders v Columbus Blue Jackets,-7.812365018573453
+Dallas Stars,Minnesota Wild,Roope Hintz,0.5,1.694,Pinnacle,2.05,Neds,Player Points,Dallas Stars v Minnesota Wild,-7.812365018573453
+New York Islanders,Columbus Blue Jackets,Noah Dobson,0.5,1.76,Bet365,1.961,Pinnacle,Player Points,New York Islanders v Columbus Blue Jackets,-7.81257243521396
+Dallas Stars,Minnesota Wild,Brock Faber,0.5,2.67,Pinnacle,1.421,Pinnacle,Player Points,Dallas Stars v Minnesota Wild,-7.826160297516926
+New Jersey Devils,Vancouver Canucks,Luke Hughes,0.5,1.83,Bet365,1.88,Neds,Player Points,New Jersey Devils v Vancouver Canucks,-7.83629810487152
+Dallas Stars,Minnesota Wild,Mats Zuccarello,0.5,1.83,Bet365,1.88,Neds,Player Points,Dallas Stars v Minnesota Wild,-7.83629810487152
+New York Islanders,Columbus Blue Jackets,Anders Lee,0.5,1.88,Neds,1.83,Bet365,Player Points,New York Islanders v Columbus Blue Jackets,-7.83629810487152
+Dallas Stars,Minnesota Wild,Matt Duchene,0.5,1.76,Bet365,1.96,Neds,Player Points,Dallas Stars v Minnesota Wild,-7.8385899814471305
+Utah Hockey Club,Detroit Red Wings,Vladimir Tarasenko,0.5,2.61,Pinnacle,1.438,Pinnacle,Player Points,Utah Hockey Club v Detroit Red Wings,-7.855205452443004
+New Jersey Devils,Vancouver Canucks,Conor Garland,0.5,2.1,Neds,1.66,Bet365,Player Points,New Jersey Devils v Vancouver Canucks,-7.860011474469308
+New York Islanders,Columbus Blue Jackets,Dmitri Voronkov,0.5,2.1,Neds,1.66,Bet365,Player Points,New York Islanders v Columbus Blue Jackets,-7.860011474469308
+New York Islanders,Columbus Blue Jackets,Simon Holmstrom,0.5,1.78,Neds,1.934,Pinnacle,Player Points,New York Islanders v Columbus Blue Jackets,-7.8860834504955735
+Dallas Stars,Minnesota Wild,Brock Faber,0.5,2.6,Neds,1.44,Bet365,Player Points,Dallas Stars v Minnesota Wild,-7.9059829059829
+Dallas Stars,Minnesota Wild,Mikko Rantanen,0.5,1.53,Neds,2.35,Neds,Player Points,Dallas Stars v Minnesota Wild,-7.9126686135447155
+Utah Hockey Club,Detroit Red Wings,Dylan Larkin,0.5,1.53,Neds,2.35,Neds,Player Points,Utah Hockey Club v Detroit Red Wings,-7.9126686135447155
+Utah Hockey Club,Detroit Red Wings,Lucas Raymond,0.5,1.53,Neds,2.35,Neds,Player Points,Utah Hockey Club v Detroit Red Wings,-7.9126686135447155
+New York Islanders,Columbus Blue Jackets,Jean-Gabriel Pageau,0.5,2.26,Pinnacle,1.57,Bet365,Player Points,New York Islanders v Columbus Blue Jackets,-7.942055126543046
+Dallas Stars,Minnesota Wild,Mason Marchment,0.5,2.2,Neds,1.6,Bet365,Player Points,Dallas Stars v Minnesota Wild,-7.954545454545459
+New Jersey Devils,Vancouver Canucks,Dawson Mercer,0.5,2.2,Neds,1.6,Neds,Player Points,New Jersey Devils v Vancouver Canucks,-7.954545454545459
+New York Islanders,Columbus Blue Jackets,Jean-Gabriel Pageau,0.5,2.2,Neds,1.6,Neds,Player Points,New York Islanders v Columbus Blue Jackets,-7.954545454545459
+New York Islanders,Columbus Blue Jackets,Zach Werenski,0.5,1.6,Neds,2.2,Neds,Player Points,New York Islanders v Columbus Blue Jackets,-7.954545454545459
+Utah Hockey Club,Detroit Red Wings,Alex Debrincat,0.5,1.6,Neds,2.2,Neds,Player Points,Utah Hockey Club v Detroit Red Wings,-7.954545454545459
+Dallas Stars,Minnesota Wild,Marco Rossi,0.5,1.98,Neds,1.74,Bet365,Player Points,Dallas Stars v Minnesota Wild,-7.976314872866608
+New Jersey Devils,Vancouver Canucks,Jake DeBrusk,0.5,1.98,Neds,1.74,Bet365,Player Points,New Jersey Devils v Vancouver Canucks,-7.976314872866608
+New York Islanders,Columbus Blue Jackets,Adam Fantilli,0.5,1.98,Neds,1.74,Bet365,Player Points,New York Islanders v Columbus Blue Jackets,-7.976314872866608
+New York Islanders,Columbus Blue Jackets,Kyle Palmieri,0.5,1.71,Bet365,2.02,Neds,Player Points,New York Islanders v Columbus Blue Jackets,-7.984482658792191
+Dallas Stars,Minnesota Wild,Mikael Granlund,0.5,2.02,Neds,1.71,Bet365,Player Points,Dallas Stars v Minnesota Wild,-7.984482658792191
+New York Islanders,Columbus Blue Jackets,Boone Jenner,0.5,2.02,Neds,1.71,Bet365,Player Points,New York Islanders v Columbus Blue Jackets,-7.984482658792191
+Utah Hockey Club,Detroit Red Wings,Dylan Guenther,0.5,1.689,Pinnacle,2.05,Neds,Player Points,Utah Hockey Club v Detroit Red Wings,-7.98711894756603
+Dallas Stars,Minnesota Wild,Jason Robertson,0.5,1.55,Bet365,2.3,Neds,Player Points,Dallas Stars v Minnesota Wild,-7.9943899018232845
+Dallas Stars,Minnesota Wild,Jamie Benn,0.5,2.3,Neds,1.55,Neds,Player Points,Dallas Stars v Minnesota Wild,-7.9943899018232845
+Dallas Stars,Minnesota Wild,Gustav Nyquist,0.5,2.9,Neds,1.36,Bet365,Player Points,Dallas Stars v Minnesota Wild,-8.012170385395523
+Dallas Stars,Minnesota Wild,Vinnie Hinostroza,0.5,2.9,Neds,1.36,Bet365,Player Points,Dallas Stars v Minnesota Wild,-8.012170385395523
+Utah Hockey Club,Detroit Red Wings,Moritz Seider,0.5,2.02,Neds,1.709,Pinnacle,Player Points,Utah Hockey Club v Detroit Red Wings,-8.01870122647137
+New Jersey Devils,Vancouver Canucks,Nico Hischier,0.5,1.47,Bet365,2.5,Neds,Player Points,New Jersey Devils v Vancouver Canucks,-8.027210884353742
+New York Islanders,Columbus Blue Jackets,Kirill Marchenko,0.5,1.77,Neds,1.94,Neds,Player Points,New York Islanders v Columbus Blue Jackets,-8.043566893820264
+New York Islanders,Columbus Blue Jackets,Noah Dobson,0.5,1.77,Neds,1.94,Neds,Player Points,New York Islanders v Columbus Blue Jackets,-8.043566893820264
+Utah Hockey Club,Detroit Red Wings,Clayton Keller,0.5,1.395,Pinnacle,2.75,Pinnacle,Player Points,Utah Hockey Club v Detroit Red Wings,-8.048224177256436
+New York Islanders,Columbus Blue Jackets,Kirill Marchenko,0.5,1.769,Pinnacle,1.94,Neds,Player Points,New York Islanders v Columbus Blue Jackets,-8.075504245511178
+Dallas Stars,Minnesota Wild,Marcus Johansson,0.5,2.85,Bet365,1.37,Pinnacle,Player Points,Dallas Stars v Minnesota Wild,-8.080420028172618
+Dallas Stars,Minnesota Wild,Frederick Gaudreau,0.5,2.85,Neds,1.37,Bet365,Player Points,Dallas Stars v Minnesota Wild,-8.080420028172618
+Dallas Stars,Minnesota Wild,Brock Faber,0.5,2.65,Bet365,1.421,Pinnacle,Player Points,Dallas Stars v Minnesota Wild,-8.108825833521438
+Dallas Stars,Minnesota Wild,Jared Spurgeon,0.5,2.86,Pinnacle,1.367,Pinnacle,Player Points,Dallas Stars v Minnesota Wild,-8.11792450417177
+Dallas Stars,Minnesota Wild,Vinnie Hinostroza,0.5,3,Bet365,1.337,Pinnacle,Player Points,Dallas Stars v Minnesota Wild,-8.127648965345301
+Dallas Stars,Minnesota Wild,Mats Zuccarello,0.5,1.82,Neds,1.88,Neds,Player Points,Dallas Stars v Minnesota Wild,-8.136544306757054
+New Jersey Devils,Vancouver Canucks,Timo Meier,0.5,1.57,Bet365,2.25,Neds,Player Points,New Jersey Devils v Vancouver Canucks,-8.138711960368017
+Utah Hockey Club,Detroit Red Wings,Nick Schmaltz,0.5,1.5699999999999998,Neds,2.25,Neds,Player Points,Utah Hockey Club v Detroit Red Wings,-8.138711960368017
+New Jersey Devils,Vancouver Canucks,Jesper Bratt,1.5,2.65,Neds,1.42,Neds,Player Points,New Jersey Devils v Vancouver Canucks,-8.158384267871387
+Utah Hockey Club,Detroit Red Wings,Clayton Keller,0.5,1.42,Neds,2.65,Neds,Player Points,Utah Hockey Club v Detroit Red Wings,-8.158384267871387
+Dallas Stars,Minnesota Wild,Matt Duchene,0.5,1.75,Neds,1.96,Neds,Player Points,Dallas Stars v Minnesota Wild,-8.163265306122458
+New Jersey Devils,Vancouver Canucks,Brock Boeser,0.5,1.8,Bet365,1.9,Neds,Player Points,New Jersey Devils v Vancouver Canucks,-8.187134502923987
+Dallas Stars,Minnesota Wild,Frederick Gaudreau,0.5,2.96,Pinnacle,1.344,Pinnacle,Player Points,Dallas Stars v Minnesota Wild,-8.188545688545679
+New York Islanders,Columbus Blue Jackets,Kyle Palmieri,0.5,1.704,Pinnacle,2.02,Neds,Player Points,New York Islanders v Columbus Blue Jackets,-8.190396504439178
+Dallas Stars,Minnesota Wild,Vinnie Hinostroza,0.5,2.99,Pinnacle,1.337,Pinnacle,Player Points,Dallas Stars v Minnesota Wild,-8.23913168552366
+Dallas Stars,Minnesota Wild,Matt Boldy,0.5,1.62,Neds,2.15,Neds,Player Points,Dallas Stars v Minnesota Wild,-8.24002296870514
+New Jersey Devils,Vancouver Canucks,Stefan Noesen,0.5,2.15,Neds,1.62,Bet365,Player Points,New Jersey Devils v Vancouver Canucks,-8.24002296870514
+Dallas Stars,Minnesota Wild,Jared Spurgeon,0.5,2.85,Bet365,1.367,Pinnacle,Player Points,Dallas Stars v Minnesota Wild,-8.240608837382402
+Dallas Stars,Minnesota Wild,Thomas Harley,0.5,1.78,Neds,1.92,Neds,Player Points,Dallas Stars v Minnesota Wild,-8.263108614232229
+New York Islanders,Columbus Blue Jackets,Simon Holmstrom,0.5,1.78,Neds,1.92,Neds,Player Points,New York Islanders v Columbus Blue Jackets,-8.263108614232229
+Dallas Stars,Minnesota Wild,Frederick Gaudreau,0.5,2.95,Bet365,1.344,Pinnacle,Player Points,Dallas Stars v Minnesota Wild,-8.303066989507668
+Dallas Stars,Minnesota Wild,Roope Hintz,0.5,1.68,Bet365,2.05,Neds,Player Points,Dallas Stars v Minnesota Wild,-8.304297328687582
+New York Islanders,Columbus Blue Jackets,Tony DeAngelo,0.5,2.05,Neds,1.68,Bet365,Player Points,New York Islanders v Columbus Blue Jackets,-8.304297328687582
+Dallas Stars,Minnesota Wild,Mason Marchment,0.5,2.2,Neds,1.591,Pinnacle,Player Points,Dallas Stars v Minnesota Wild,-8.308096680189703
+Dallas Stars,Minnesota Wild,Marco Rossi,0.5,1.98,Neds,1.73,Neds,Player Points,Dallas Stars v Minnesota Wild,-8.308518713142998
+New Jersey Devils,Vancouver Canucks,Jake DeBrusk,0.5,1.98,Neds,1.73,Neds,Player Points,New Jersey Devils v Vancouver Canucks,-8.308518713142998
+New York Islanders,Columbus Blue Jackets,Adam Fantilli,0.5,1.98,Neds,1.73,Neds,Player Points,New York Islanders v Columbus Blue Jackets,-8.308518713142998
+Dallas Stars,Minnesota Wild,Mikael Granlund,0.5,2.02,Neds,1.7,Neds,Player Points,Dallas Stars v Minnesota Wild,-8.328479906814223
+New York Islanders,Columbus Blue Jackets,Boone Jenner,0.5,2.02,Neds,1.7,Neds,Player Points,New York Islanders v Columbus Blue Jackets,-8.328479906814223
+New York Islanders,Columbus Blue Jackets,Kyle Palmieri,0.5,1.7,Neds,2.02,Neds,Player Points,New York Islanders v Columbus Blue Jackets,-8.328479906814223
+Utah Hockey Club,Detroit Red Wings,Logan Cooley,0.5,1.7,Neds,2.02,Neds,Player Points,Utah Hockey Club v Detroit Red Wings,-8.328479906814223
+Utah Hockey Club,Detroit Red Wings,Moritz Seider,0.5,2.02,Neds,1.7,Neds,Player Points,Utah Hockey Club v Detroit Red Wings,-8.328479906814223
+New York Islanders,Columbus Blue Jackets,Anthony Duclair,0.5,2.4,Neds,1.5,Bet365,Player Points,New York Islanders v Columbus Blue Jackets,-8.333333333333325
+New York Islanders,Columbus Blue Jackets,Adam Fantilli,0.5,1.98,Neds,1.729,Pinnacle,Player Points,New York Islanders v Columbus Blue Jackets,-8.34195044721362
+Dallas Stars,Minnesota Wild,Mikko Rantanen,0.5,1.52,Bet365,2.35,Neds,Player Points,Dallas Stars v Minnesota Wild,-8.342665173572229
+New York Islanders,Columbus Blue Jackets,Kirill Marchenko,0.5,1.76,Bet365,1.94,Neds,Player Points,New York Islanders v Columbus Blue Jackets,-8.364573570759148
+New York Islanders,Columbus Blue Jackets,Noah Dobson,0.5,1.76,Bet365,1.94,Neds,Player Points,New York Islanders v Columbus Blue Jackets,-8.364573570759148
+New Jersey Devils,Vancouver Canucks,Quinn Hughes,0.5,1.48,Neds,2.45,Neds,Player Points,New Jersey Devils v Vancouver Canucks,-8.383894098179812
+Dallas Stars,Minnesota Wild,Thomas Harley,0.5,1.751,Pinnacle,1.95,Bet365,Player Points,Dallas Stars v Minnesota Wild,-8.392274011919953
+Dallas Stars,Minnesota Wild,Jason Robertson,0.5,1.54,Pinnacle,2.3,Neds,Player Points,Dallas Stars v Minnesota Wild,-8.413325804630167
+New York Islanders,Columbus Blue Jackets,Jean-Gabriel Pageau,0.5,2.2,Neds,1.588,Pinnacle,Player Points,New York Islanders v Columbus Blue Jackets,-8.426837645981223
+New York Islanders,Columbus Blue Jackets,Sean Monahan,0.5,1.641,Pinnacle,2.1,Neds,Player Points,New York Islanders v Columbus Blue Jackets,-8.557499782362665
+New York Islanders,Columbus Blue Jackets,Sean Monahan,0.5,1.64,Bet365,2.1,Neds,Player Points,New York Islanders v Columbus Blue Jackets,-8.594657375145175
+Dallas Stars,Minnesota Wild,Wyatt Johnston,0.5,1.64,Bet365,2.1,Neds,Player Points,Dallas Stars v Minnesota Wild,-8.594657375145175
+Dallas Stars,Minnesota Wild,Ryan Hartman,0.5,2.1,Neds,1.64,Neds,Player Points,Dallas Stars v Minnesota Wild,-8.594657375145175
+Dallas Stars,Minnesota Wild,Frederick Gaudreau,0.5,2.85,Neds,1.36,Neds,Player Points,Dallas Stars v Minnesota Wild,-8.617131062951477
+New Jersey Devils,Vancouver Canucks,Jesper Bratt,1.5,2.65,Neds,1.41,Bet365,Player Points,New Jersey Devils v Vancouver Canucks,-8.657834872206616
+Dallas Stars,Minnesota Wild,Mikko Rantanen,0.5,1.512,Pinnacle,2.35,Neds,Player Points,Dallas Stars v Minnesota Wild,-8.690757626927837
+Dallas Stars,Minnesota Wild,Wyatt Johnston,0.5,1.636,Pinnacle,2.1,Neds,Player Points,Dallas Stars v Minnesota Wild,-8.743741995575727
+New York Islanders,Columbus Blue Jackets,Zach Werenski,0.5,1.58,Bet365,2.2,Neds,Player Points,New York Islanders v Columbus Blue Jackets,-8.74568469505177
+New Jersey Devils,Vancouver Canucks,Dawson Mercer,0.5,2.2,Neds,1.58,Bet365,Player Points,New Jersey Devils v Vancouver Canucks,-8.74568469505177
+Utah Hockey Club,Detroit Red Wings,Lucas Raymond,0.5,1.51,Pinnacle,2.35,Neds,Player Points,Utah Hockey Club v Detroit Red Wings,-8.77835705227561
+Dallas Stars,Minnesota Wild,Brock Faber,0.5,2.6,Neds,1.421,Pinnacle,Player Points,Dallas Stars v Minnesota Wild,-8.834515238456131
+New Jersey Devils,Vancouver Canucks,Quinn Hughes,0.5,1.47,Bet365,2.45,Neds,Player Points,New Jersey Devils v Vancouver Canucks,-8.843537414965974
+New Jersey Devils,Vancouver Canucks,Filip Hronek,0.5,2.45,Neds,1.47,Bet365,Player Points,New Jersey Devils v Vancouver Canucks,-8.843537414965974
+Utah Hockey Club,Detroit Red Wings,Nick Schmaltz,0.5,1.552,Pinnacle,2.25,Neds,Player Points,Utah Hockey Club v Detroit Red Wings,-8.877434135166084
+Utah Hockey Club,Detroit Red Wings,Marco Kasper,0.5,2.45,Neds,1.467,Pinnacle,Player Points,Utah Hockey Club v Detroit Red Wings,-8.982652365649724
+Dallas Stars,Minnesota Wild,Matt Boldy,0.5,1.598,Pinnacle,2.15,Neds,Player Points,Dallas Stars v Minnesota Wild,-9.089850685449829
+New York Islanders,Columbus Blue Jackets,Anthony Duclair,0.5,2.4,Neds,1.483,Pinnacle,Player Points,New York Islanders v Columbus Blue Jackets,-9.097550011238486
+New York Islanders,Columbus Blue Jackets,Jean-Gabriel Pageau,0.5,2.2,Neds,1.57,Bet365,Player Points,New York Islanders v Columbus Blue Jackets,-9.148812970469011
+Dallas Stars,Minnesota Wild,Ryan Hartman,0.5,2.1,Neds,1.625,Pinnacle,Player Points,Dallas Stars v Minnesota Wild,-9.15750915750917
+Dallas Stars,Minnesota Wild,Thomas Harley,0.5,1.751,Pinnacle,1.92,Neds,Player Points,Dallas Stars v Minnesota Wild,-9.19355606320198
+New York Islanders,Columbus Blue Jackets,Zach Werenski,0.5,1.568,Pinnacle,2.2,Neds,Player Points,New York Islanders v Columbus Blue Jackets,-9.23005565862709
+Dallas Stars,Minnesota Wild,Jamie Benn,0.5,2.3,Neds,1.52,Bet365,Player Points,Dallas Stars v Minnesota Wild,-9.267734553775764
+Dallas Stars,Minnesota Wild,Vinnie Hinostroza,0.5,2.9,Neds,1.337,Pinnacle,Player Points,Dallas Stars v Minnesota Wild,-9.277074252701611
+Dallas Stars,Minnesota Wild,Ryan Hartman,0.5,2.1,Neds,1.62,Bet365,Player Points,Dallas Stars v Minnesota Wild,-9.347442680776009
+Utah Hockey Club,Detroit Red Wings,Dylan Larkin,0.5,1.497,Pinnacle,2.35,Neds,Player Points,Utah Hockey Club v Detroit Red Wings,-9.353458690430493
+Dallas Stars,Minnesota Wild,Marcus Johansson,0.5,2.75,Neds,1.37,Pinnacle,Player Points,Dallas Stars v Minnesota Wild,-9.356337093563383
+Utah Hockey Club,Detroit Red Wings,Clayton Keller,0.5,1.395,Pinnacle,2.65,Neds,Player Points,Utah Hockey Club v Detroit Red Wings,-9.420436870223847
+Dallas Stars,Minnesota Wild,Frederick Gaudreau,0.5,2.85,Neds,1.344,Pinnacle,Player Points,Dallas Stars v Minnesota Wild,-9.492481203007497
+Dallas Stars,Minnesota Wild,Jared Spurgeon,0.5,2.75,Neds,1.367,Pinnacle,Player Points,Dallas Stars v Minnesota Wild,-9.516525902773164
+Utah Hockey Club,Detroit Red Wings,Vladimir Tarasenko,0.5,2.5,Neds,1.438,Pinnacle,Player Points,Utah Hockey Club v Detroit Red Wings,-9.541029207232278
