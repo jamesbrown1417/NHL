@@ -1,12 +1,12 @@
 match,player_name,market_name,line,over_price,agency,under_price
 Buffalo Sabres v Pittsburgh Penguins,Alex Tuch,Player Goals,0.5,3.1,Pinnacle,1.384
-Buffalo Sabres v Pittsburgh Penguins,Bryan Rust,Player Goals,0.5,2.85,Pinnacle,1.384
+Buffalo Sabres v Pittsburgh Penguins,Bryan Rust,Player Goals,0.5,2.8,Pinnacle,1.384
 Buffalo Sabres v Pittsburgh Penguins,JJ Peterka,Player Goals,0.5,3.01,Pinnacle,1.331
 Buffalo Sabres v Pittsburgh Penguins,Jack Quinn,Player Goals,0.5,4.36,Pinnacle,1.157
 Buffalo Sabres v Pittsburgh Penguins,Jiri Kulich,Player Goals,0.5,3.78,Pinnacle,1.21
 Buffalo Sabres v Pittsburgh Penguins,Philip Tomasino,Player Goals,0.5,5.28,Pinnacle,1.172
 Buffalo Sabres v Pittsburgh Penguins,Rasmus Dahlin,Player Goals,0.5,4.36,Pinnacle,1.157
-Buffalo Sabres v Pittsburgh Penguins,Rickard Rakell,Player Goals,0.5,3.03,Pinnacle,1.326
+Buffalo Sabres v Pittsburgh Penguins,Rickard Rakell,Player Goals,0.5,3,Pinnacle,1.344
 Buffalo Sabres v Pittsburgh Penguins,Ryan McLeod,Player Goals,0.5,3.91,Pinnacle,1.196
 Buffalo Sabres v Pittsburgh Penguins,Tage Thompson,Player Goals,0.5,2.28,Pinnacle,1.574
 Buffalo Sabres v Pittsburgh Penguins,Zach Benson,Player Goals,0.5,4.28,Pinnacle,1.162
@@ -42,9 +42,9 @@ Colorado Avalanche v Los Angeles Kings,Trevor Moore,Player Goals,0.5,4.61,Pinnac
 Colorado Avalanche v Los Angeles Kings,Valeri Nichushkin,Player Goals,0.5,2.49,Pinnacle,1.48
 Colorado Avalanche v Los Angeles Kings,Warren Foegele,Player Goals,0.5,4.03,Pinnacle,1.185
 Detroit Red Wings v Ottawa Senators,Alex DeBrincat,Player Goals,0.5,2.65,Pinnacle,1.434
-Detroit Red Wings v Ottawa Senators,Brady Tkachuk,Player Goals,0.5,2.45,Pinnacle,1.497
+Detroit Red Wings v Ottawa Senators,Brady Tkachuk,Player Goals,0.5,2.44,Pinnacle,1.5
 Detroit Red Wings v Ottawa Senators,Claude Giroux,Player Goals,0.5,4.51,Pinnacle,1.146
-Detroit Red Wings v Ottawa Senators,David Perron,Player Goals,0.5,4.76,Pinnacle,1.13
+Detroit Red Wings v Ottawa Senators,David Perron,Player Goals,0.5,4.7,Pinnacle,1.16
 Detroit Red Wings v Ottawa Senators,Drake Batherson,Player Goals,0.5,3.57,Pinnacle,1.236
 Detroit Red Wings v Ottawa Senators,Dylan Cozens,Player Goals,0.5,3.58,Pinnacle,1.234
 Detroit Red Wings v Ottawa Senators,Dylan Larkin,Player Goals,0.5,2.6,Pinnacle,1.434
@@ -55,8 +55,8 @@ Detroit Red Wings v Ottawa Senators,Marco Kasper,Player Goals,0.5,4.43,Pinnacle,
 Detroit Red Wings v Ottawa Senators,Patrick Kane,Player Goals,0.5,3.46,Pinnacle,1.251
 Detroit Red Wings v Ottawa Senators,Shane Pinto,Player Goals,0.5,4.9,Pinnacle,1.153
 Detroit Red Wings v Ottawa Senators,Tim Stutzle,Player Goals,0.5,3.57,Pinnacle,1.236
-Detroit Red Wings v Ottawa Senators,Vladimir Tarasenko,Player Goals,0.5,4.4,Pinnacle,1.173
-Minnesota Wild v Washington Capitals,Alex Ovechkin,Player Goals,0.5,2.48,Pinnacle,1.476
+Detroit Red Wings v Ottawa Senators,Vladimir Tarasenko,Player Goals,0.5,4.33,Pinnacle,1.179
+Minnesota Wild v Washington Capitals,Alex Ovechkin,Player Goals,0.5,2.35,Pinnacle,1.54
 Minnesota Wild v Washington Capitals,Aliaksei Protas,Player Goals,0.5,3.9,Pinnacle,1.21
 Minnesota Wild v Washington Capitals,Connor McMichael,Player Goals,0.5,3.66,Pinnacle,1.225
 Minnesota Wild v Washington Capitals,Dylan Strome,Player Goals,0.5,3.8,Pinnacle,1.277
@@ -82,7 +82,7 @@ Nashville Predators v St. Louis Blues,Zack Bolduc,Player Goals,0.5,4,Pinnacle,1.
 Philadelphia Flyers v Montreal Canadiens,Alex Newhook,Player Goals,0.5,5,Pinnacle,1.181
 Philadelphia Flyers v Montreal Canadiens,Bobby Brink,Player Goals,0.5,4.84,Pinnacle,1.125
 Philadelphia Flyers v Montreal Canadiens,Brendan Gallagher,Player Goals,0.5,4.5,Pinnacle,1.173
-Philadelphia Flyers v Montreal Canadiens,Cole Caufield,Player Goals,0.5,2.5,Pinnacle,1.476
+Philadelphia Flyers v Montreal Canadiens,Cole Caufield,Player Goals,0.5,2.5,Pinnacle,1.454
 Philadelphia Flyers v Montreal Canadiens,Juraj Slafkovsky,Player Goals,0.5,3.19,Pinnacle,1.295
 Philadelphia Flyers v Montreal Canadiens,Matvei Michkov,Player Goals,0.5,3.42,Pinnacle,1.258
 Philadelphia Flyers v Montreal Canadiens,Nick Suzuki,Player Goals,0.5,2.85,Pinnacle,1.37
@@ -97,7 +97,7 @@ San Jose Sharks v Toronto Maple Leafs,Bobby McMann,Player Goals,0.5,3.66,Pinnacl
 San Jose Sharks v Toronto Maple Leafs,Collin Graf,Player Goals,0.5,4.76,Pinnacle,1.13
 San Jose Sharks v Toronto Maple Leafs,John Tavares,Player Goals,0.5,2.75,Pinnacle,1.454
 San Jose Sharks v Toronto Maple Leafs,Macklin Celebrini,Player Goals,0.5,2.83,Pinnacle,1.375
-San Jose Sharks v Toronto Maple Leafs,Matthew Knies,Player Goals,0.5,3.1,Pinnacle,1.37
+San Jose Sharks v Toronto Maple Leafs,Matthew Knies,Player Goals,0.5,3,Pinnacle,1.384
 San Jose Sharks v Toronto Maple Leafs,Max Domi,Player Goals,0.5,4.85,Pinnacle,1.125
 San Jose Sharks v Toronto Maple Leafs,Mitch Marner,Player Goals,0.5,3.1,Pinnacle,1.322
 San Jose Sharks v Toronto Maple Leafs,Nicholas Robertson,Player Goals,0.5,4.64,Pinnacle,1.137
@@ -110,7 +110,7 @@ Seattle Kraken v Edmonton Oilers,Eeli Tolvanen,Player Goals,0.5,4.22,Pinnacle,1.
 Seattle Kraken v Edmonton Oilers,Evan Bouchard,Player Goals,0.5,4.67,Pinnacle,1.135
 Seattle Kraken v Edmonton Oilers,Jaden Schwartz,Player Goals,0.5,3.69,Pinnacle,1.221
 Seattle Kraken v Edmonton Oilers,Jani Nyman,Player Goals,0.5,4.36,Pinnacle,1.156
-Seattle Kraken v Edmonton Oilers,Jared McCann,Player Goals,0.5,3.57,Pinnacle,1.236
+Seattle Kraken v Edmonton Oilers,Jared McCann,Player Goals,0.5,3.8,Pinnacle,1.235
 Seattle Kraken v Edmonton Oilers,Jeff Skinner,Player Goals,0.5,3.52,Pinnacle,1.243
 Seattle Kraken v Edmonton Oilers,Jordan Eberle,Player Goals,0.5,3.97,Pinnacle,1.19
 Seattle Kraken v Edmonton Oilers,Kaapo Kakko,Player Goals,0.5,3.8,Pinnacle,1.208
@@ -122,13 +122,13 @@ Seattle Kraken v Edmonton Oilers,Zach Hyman,Player Goals,0.5,2.67,Pinnacle,1.429
 Tampa Bay Lightning v Utah Hockey Club,Anthony Cirelli,Player Goals,0.5,3.57,Pinnacle,1.236
 Tampa Bay Lightning v Utah Hockey Club,Barrett Hayton,Player Goals,0.5,4.4,Pinnacle,1.154
 Tampa Bay Lightning v Utah Hockey Club,Brandon Hagel,Player Goals,0.5,2.75,Pinnacle,1.4
-Tampa Bay Lightning v Utah Hockey Club,Brayden Point,Player Goals,0.5,2.32,Pinnacle,1.555
+Tampa Bay Lightning v Utah Hockey Club,Brayden Point,Player Goals,0.5,2.31,Pinnacle,1.555
 Tampa Bay Lightning v Utah Hockey Club,Clayton Keller,Player Goals,0.5,2.95,Pinnacle,1.357
 Tampa Bay Lightning v Utah Hockey Club,Dylan Guenther,Player Goals,0.5,2.88,Pinnacle,1.361
 Tampa Bay Lightning v Utah Hockey Club,Jake Guentzel,Player Goals,0.5,2.44,Pinnacle,1.512
 Tampa Bay Lightning v Utah Hockey Club,Logan Cooley,Player Goals,0.5,3.3,Pinnacle,1.294
 Tampa Bay Lightning v Utah Hockey Club,Nick Paul,Player Goals,0.5,3.86,Pinnacle,1.202
 Tampa Bay Lightning v Utah Hockey Club,Nick Schmaltz,Player Goals,0.5,3.52,Pinnacle,1.243
-Tampa Bay Lightning v Utah Hockey Club,Nikita Kucherov,Player Goals,0.5,2.42,Pinnacle,1.512
+Tampa Bay Lightning v Utah Hockey Club,Nikita Kucherov,Player Goals,0.5,2.41,Pinnacle,1.512
 Tampa Bay Lightning v Utah Hockey Club,Oliver Bjorkstrand,Player Goals,0.5,4.22,Pinnacle,1.168
 Tampa Bay Lightning v Utah Hockey Club,Yanni Gourde,Player Goals,0.5,5.06,Pinnacle,1.114
