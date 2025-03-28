@@ -287,16 +287,16 @@ id,name,rot_num,line_id,price,handicap,selection,home_team,away_team
 1606707903,Under,55,4847109731,1.526,0.5,Brandon Montour (Points),Seattle Kraken,Edmonton Oilers
 1606707813,Over,54,4847715161,2.42,0.5,Jake Walman (Points),Seattle Kraken,Edmonton Oilers
 1606707814,Under,55,4847715162,1.51,0.5,Jake Walman (Points),Seattle Kraken,Edmonton Oilers
-1606707816,Over,54,4847715159,2.42,0.5,Darnell Nurse (Points),Seattle Kraken,Edmonton Oilers
-1606707817,Under,55,4847715160,1.51,0.5,Darnell Nurse (Points),Seattle Kraken,Edmonton Oilers
+1606707816,Over,54,4847730719,2.5,0.5,Darnell Nurse (Points),Seattle Kraken,Edmonton Oilers
+1606707817,Under,55,4847730720,1.476,0.5,Darnell Nurse (Points),Seattle Kraken,Edmonton Oilers
 1606707822,Over,54,4847365378,2.09,0.5,Jeff Skinner (Points),Seattle Kraken,Edmonton Oilers
 1606707823,Under,55,4847365379,1.684,0.5,Jeff Skinner (Points),Seattle Kraken,Edmonton Oilers
 1606707831,Over,54,4847710246,1.657,0.5,Zach Hyman (Points),Seattle Kraken,Edmonton Oilers
 1606707832,Under,55,4847710247,2.14,0.5,Zach Hyman (Points),Seattle Kraken,Edmonton Oilers
-1606707825,Over,54,4847710260,2.17,0.5,Viktor Arvidsson (Points),Seattle Kraken,Edmonton Oilers
-1606707826,Under,55,4847710261,1.636,0.5,Viktor Arvidsson (Points),Seattle Kraken,Edmonton Oilers
-1606707828,Over,54,4847715167,1.632,0.5,Evan Bouchard (Points),Seattle Kraken,Edmonton Oilers
-1606707829,Under,55,4847715168,2.17,0.5,Evan Bouchard (Points),Seattle Kraken,Edmonton Oilers
+1606707825,Over,54,4847746703,2.23,0.5,Viktor Arvidsson (Points),Seattle Kraken,Edmonton Oilers
+1606707826,Under,55,4847746704,1.602,0.5,Viktor Arvidsson (Points),Seattle Kraken,Edmonton Oilers
+1606707828,Over,54,4847746709,1.649,0.5,Evan Bouchard (Points),Seattle Kraken,Edmonton Oilers
+1606707829,Under,55,4847746710,2.14,0.5,Evan Bouchard (Points),Seattle Kraken,Edmonton Oilers
 1606707834,Over,54,4847703048,1.606,0.5,Ryan Nugent-Hopkins (Points),Seattle Kraken,Edmonton Oilers
 1606707835,Under,55,4847703049,2.2,0.5,Ryan Nugent-Hopkins (Points),Seattle Kraken,Edmonton Oilers
 1606725814,Over,52,4847375807,2.85,0.5,Alex Laferriere (Points),Colorado Avalanche,Los Angeles Kings
@@ -317,17 +317,177 @@ id,name,rot_num,line_id,price,handicap,selection,home_team,away_team
 1606682185,Under,57,4846492554,1.543,0.5,Max Domi (Points),San Jose Sharks,Toronto Maple Leafs
 1606682193,Over,56,4846959449,2.42,0.5,Alex Wennberg (Points),San Jose Sharks,Toronto Maple Leafs
 1606682194,Under,57,4846959450,1.512,0.5,Alex Wennberg (Points),San Jose Sharks,Toronto Maple Leafs
-1606682205,Over,56,4847540444,1.384,0.5,William Nylander (Points),San Jose Sharks,Toronto Maple Leafs
-1606682206,Under,57,4847540445,2.85,0.5,William Nylander (Points),San Jose Sharks,Toronto Maple Leafs
-1606682217,Over,56,4846492641,2.42,1.5,Auston Matthews (Points),San Jose Sharks,Toronto Maple Leafs
-1606682218,Under,57,4846492642,1.512,1.5,Auston Matthews (Points),San Jose Sharks,Toronto Maple Leafs
-1606682229,Over,56,4847397597,2.32,1.5,Mitch Marner (Points),San Jose Sharks,Toronto Maple Leafs
-1606682230,Under,57,4847397598,1.549,1.5,Mitch Marner (Points),San Jose Sharks,Toronto Maple Leafs
-1606682148,Over,56,4846492459,1.49,0.5,John Tavares (Points),San Jose Sharks,Toronto Maple Leafs
-1606682149,Under,57,4846492460,2.47,0.5,John Tavares (Points),San Jose Sharks,Toronto Maple Leafs
-1606682154,Over,56,4847612196,2.86,0.5,Oliver Ekman-Larsson (Points),San Jose Sharks,Toronto Maple Leafs
-1606682155,Under,57,4847612197,1.366,0.5,Oliver Ekman-Larsson (Points),San Jose Sharks,Toronto Maple Leafs
+1606682205,Over,56,4847742152,1.37,0.5,William Nylander (Points),San Jose Sharks,Toronto Maple Leafs
+1606682206,Under,57,4847742153,2.85,0.5,William Nylander (Points),San Jose Sharks,Toronto Maple Leafs
+1606682217,Over,56,4847763357,2.46,1.5,Auston Matthews (Points),San Jose Sharks,Toronto Maple Leafs
+1606682218,Under,57,4847763358,1.492,1.5,Auston Matthews (Points),San Jose Sharks,Toronto Maple Leafs
+1606682229,Over,56,4847747978,2.34,1.5,Mitch Marner (Points),San Jose Sharks,Toronto Maple Leafs
+1606682230,Under,57,4847747979,1.555,1.5,Mitch Marner (Points),San Jose Sharks,Toronto Maple Leafs
+1606682148,Over,56,4847755594,1.476,0.5,John Tavares (Points),San Jose Sharks,Toronto Maple Leafs
+1606682149,Under,57,4847755595,2.5,0.5,John Tavares (Points),San Jose Sharks,Toronto Maple Leafs
+1606682154,Over,56,4847769359,2.85,0.5,Oliver Ekman-Larsson (Points),San Jose Sharks,Toronto Maple Leafs
+1606682155,Under,57,4847769360,1.384,0.5,Oliver Ekman-Larsson (Points),San Jose Sharks,Toronto Maple Leafs
 1606682166,Over,56,4846932797,1.8,0.5,Tyler Toffoli (Points),San Jose Sharks,Toronto Maple Leafs
 1606682167,Under,57,4846932798,1.943,0.5,Tyler Toffoli (Points),San Jose Sharks,Toronto Maple Leafs
 1606682172,Over,56,4847612200,2.28,0.5,Morgan Rielly (Points),San Jose Sharks,Toronto Maple Leafs
 1606682173,Under,57,4847612201,1.574,0.5,Morgan Rielly (Points),San Jose Sharks,Toronto Maple Leafs
+1606743503,Over,60,4847767025,1.925,0.5,Lane Hutson (Points),Carolina Hurricanes,Montreal Canadiens
+1606743504,Under,61,4847767027,1.925,0.5,Lane Hutson (Points),Carolina Hurricanes,Montreal Canadiens
+1606743497,Over,60,4847767016,1.961,0.5,Juraj Slafkovsky (Points),Carolina Hurricanes,Montreal Canadiens
+1606743498,Under,61,4847767017,1.787,0.5,Juraj Slafkovsky (Points),Carolina Hurricanes,Montreal Canadiens
+1606743515,Over,62,4847767068,1.869,0.5,Boone Jenner (Points),Columbus Blue Jackets,Vancouver Canucks
+1606743516,Under,63,4847767069,1.869,0.5,Boone Jenner (Points),Columbus Blue Jackets,Vancouver Canucks
+1606743527,Over,62,4847767134,1.555,0.5,Sean Monahan (Points),Columbus Blue Jackets,Vancouver Canucks
+1606743528,Under,63,4847767135,2.32,0.5,Sean Monahan (Points),Columbus Blue Jackets,Vancouver Canucks
+1606743539,Over,62,4847767138,1.925,0.5,Jake DeBrusk (Points),Columbus Blue Jackets,Vancouver Canucks
+1606743540,Under,63,4847767140,1.813,0.5,Jake DeBrusk (Points),Columbus Blue Jackets,Vancouver Canucks
+1606743545,Over,62,4847767139,2.75,0.5,Ivan Provorov (Points),Columbus Blue Jackets,Vancouver Canucks
+1606743546,Under,63,4847767141,1.395,0.5,Ivan Provorov (Points),Columbus Blue Jackets,Vancouver Canucks
+1606743446,Over,60,4847766841,2.68,0.5,Mike Matheson (Points),Carolina Hurricanes,Montreal Canadiens
+1606743447,Under,61,4847766842,1.416,0.5,Mike Matheson (Points),Carolina Hurricanes,Montreal Canadiens
+1606743458,Over,60,4847766871,2.0,0.5,Patrik Laine (Points),Carolina Hurricanes,Montreal Canadiens
+1606743459,Under,61,4847766873,1.751,0.5,Patrik Laine (Points),Carolina Hurricanes,Montreal Canadiens
+1606743470,Over,60,4847766928,1.537,0.5,Nick Suzuki (Points),Carolina Hurricanes,Montreal Canadiens
+1606743471,Under,61,4847766929,2.36,0.5,Nick Suzuki (Points),Carolina Hurricanes,Montreal Canadiens
+1606743482,Over,60,4847766960,1.714,0.5,Cole Caufield (Points),Carolina Hurricanes,Montreal Canadiens
+1606743483,Under,61,4847766961,2.05,0.5,Cole Caufield (Points),Carolina Hurricanes,Montreal Canadiens
+1606743683,Over,62,4847767650,2.0,0.5,Adam Fantilli (Points),Columbus Blue Jackets,Vancouver Canucks
+1606743684,Under,63,4847767651,1.751,0.5,Adam Fantilli (Points),Columbus Blue Jackets,Vancouver Canucks
+1606744196,Over,60,4847769820,2.1,0.5,Logan Stankoven (Points),Carolina Hurricanes,Montreal Canadiens
+1606744197,Under,61,4847769823,1.684,0.5,Logan Stankoven (Points),Carolina Hurricanes,Montreal Canadiens
+1606744208,Over,60,4847769828,2.07,0.5,Jackson Blake (Points),Carolina Hurricanes,Montreal Canadiens
+1606744209,Under,61,4847769829,1.699,0.5,Jackson Blake (Points),Carolina Hurricanes,Montreal Canadiens
+1606744142,Over,60,4847769608,1.369,0.5,Sebastian Aho (CAR) (Points),Carolina Hurricanes,Montreal Canadiens
+1606744143,Under,61,4847769609,2.85,0.5,Sebastian Aho (CAR) (Points),Carolina Hurricanes,Montreal Canadiens
+1606743626,Over,62,4847767450,1.416,0.5,Quinn Hughes (Points),Columbus Blue Jackets,Vancouver Canucks
+1606743627,Under,63,4847767451,2.68,0.5,Quinn Hughes (Points),Columbus Blue Jackets,Vancouver Canucks
+1606744160,Over,60,4847769658,2.4,0.5,Jesperi Kotkaniemi (Points),Carolina Hurricanes,Montreal Canadiens
+1606744161,Under,61,4847769659,1.52,0.5,Jesperi Kotkaniemi (Points),Carolina Hurricanes,Montreal Canadiens
+1606743641,Over,62,4847767584,1.819,0.5,Kent Johnson (Points),Columbus Blue Jackets,Vancouver Canucks
+1606743642,Under,63,4847767585,1.917,0.5,Kent Johnson (Points),Columbus Blue Jackets,Vancouver Canucks
+1606743659,Over,62,4847767542,1.675,0.5,Kirill Marchenko (Points),Columbus Blue Jackets,Vancouver Canucks
+1606743660,Under,63,4847767543,2.11,0.5,Kirill Marchenko (Points),Columbus Blue Jackets,Vancouver Canucks
+1606744172,Over,60,4847769714,1.704,0.5,Andrei Svechnikov (Points),Carolina Hurricanes,Montreal Canadiens
+1606744173,Under,61,4847769715,2.07,0.5,Andrei Svechnikov (Points),Carolina Hurricanes,Montreal Canadiens
+1606743671,Over,62,4847767606,2.19,0.5,Dmitri Voronkov (Points),Columbus Blue Jackets,Vancouver Canucks
+1606743672,Under,63,4847767607,1.625,0.5,Dmitri Voronkov (Points),Columbus Blue Jackets,Vancouver Canucks
+1606744184,Over,60,4847769774,1.495,0.5,Seth Jarvis (Points),Carolina Hurricanes,Montreal Canadiens
+1606744185,Under,61,4847769775,2.46,0.5,Seth Jarvis (Points),Carolina Hurricanes,Montreal Canadiens
+1606743560,Over,62,4847767190,1.961,0.5,Conor Garland (Points),Columbus Blue Jackets,Vancouver Canucks
+1606743561,Under,63,4847767191,1.787,0.5,Conor Garland (Points),Columbus Blue Jackets,Vancouver Canucks
+1606743572,Over,62,4847767228,1.763,0.5,Brock Boeser (Points),Columbus Blue Jackets,Vancouver Canucks
+1606743573,Under,63,4847767229,1.99,0.5,Brock Boeser (Points),Columbus Blue Jackets,Vancouver Canucks
+1606743584,Over,62,4847767268,1.526,0.5,Zach Werenski (Points),Columbus Blue Jackets,Vancouver Canucks
+1606743585,Under,63,4847767269,2.39,0.5,Zach Werenski (Points),Columbus Blue Jackets,Vancouver Canucks
+1606743590,Over,62,4847767284,2.3,0.5,Filip Hronek (Points),Columbus Blue Jackets,Vancouver Canucks
+1606743591,Under,63,4847767285,1.564,0.5,Filip Hronek (Points),Columbus Blue Jackets,Vancouver Canucks
+1606744106,Over,60,4847769520,2.36,0.5,Brent Burns (Points),Carolina Hurricanes,Montreal Canadiens
+1606744107,Under,61,4847769521,1.537,0.5,Brent Burns (Points),Carolina Hurricanes,Montreal Canadiens
+1606744118,Over,60,4847769550,1.769,0.5,Taylor Hall (Points),Carolina Hurricanes,Montreal Canadiens
+1606744119,Under,61,4847769551,1.98,0.5,Taylor Hall (Points),Carolina Hurricanes,Montreal Canadiens
+1606743602,Over,62,4847767390,2.09,0.5,Pius Suter (Points),Columbus Blue Jackets,Vancouver Canucks
+1606743603,Under,63,4847767391,1.775,0.5,Pius Suter (Points),Columbus Blue Jackets,Vancouver Canucks
+1606743614,Over,62,4847767412,2.75,0.5,Kiefer Sherwood (Points),Columbus Blue Jackets,Vancouver Canucks
+1606743615,Under,63,4847767413,1.476,0.5,Kiefer Sherwood (Points),Columbus Blue Jackets,Vancouver Canucks
+1606744128,Under,61,4847769577,1.952,0.5,Shayne Gostisbehere (Points),Carolina Hurricanes,Montreal Canadiens
+1606744127,Over,60,4847769576,1.793,0.5,Shayne Gostisbehere (Points),Carolina Hurricanes,Montreal Canadiens
+1606744325,Over,64,4847770215,2.57,0.5,Alex Iafallo (Points),Winnipeg Jets,New Jersey Devils
+1606744326,Under,65,4847770216,1.454,0.5,Alex Iafallo (Points),Winnipeg Jets,New Jersey Devils
+1606744337,Over,64,4847770275,1.632,0.5,Nico Hischier (Points),Winnipeg Jets,New Jersey Devils
+1606744338,Under,65,4847770276,2.18,0.5,Nico Hischier (Points),Winnipeg Jets,New Jersey Devils
+1606744352,Over,64,4847770301,2.11,0.5,Cole Perfetti (Points),Winnipeg Jets,New Jersey Devils
+1606744353,Under,65,4847770302,1.675,0.5,Cole Perfetti (Points),Winnipeg Jets,New Jersey Devils
+1606744364,Over,64,4847770311,2.39,0.5,Dawson Mercer (Points),Winnipeg Jets,New Jersey Devils
+1606744365,Under,65,4847770312,1.523,0.5,Dawson Mercer (Points),Winnipeg Jets,New Jersey Devils
+1606744373,Over,64,4847770325,2.1,0.5,Luke Hughes (Points),Winnipeg Jets,New Jersey Devils
+1606744374,Under,65,4847770327,1.68,0.5,Luke Hughes (Points),Winnipeg Jets,New Jersey Devils
+1606744268,Over,64,4847770045,1.671,0.5,Josh Morrissey (Points),Winnipeg Jets,New Jersey Devils
+1606744269,Under,65,4847770046,2.11,0.5,Josh Morrissey (Points),Winnipeg Jets,New Jersey Devils
+1606744280,Over,64,4847770079,1.492,0.5,Nikolaj Ehlers (Points),Winnipeg Jets,New Jersey Devils
+1606744281,Under,65,4847770080,2.47,0.5,Nikolaj Ehlers (Points),Winnipeg Jets,New Jersey Devils
+1606744292,Over,64,4847770115,2.55,1.5,Kyle Connor (Points),Winnipeg Jets,New Jersey Devils
+1606744293,Under,65,4847770116,1.458,1.5,Kyle Connor (Points),Winnipeg Jets,New Jersey Devils
+1606744304,Over,64,4847770153,1.826,0.5,Timo Meier (Points),Winnipeg Jets,New Jersey Devils
+1606744305,Under,65,4847770154,1.917,0.5,Timo Meier (Points),Winnipeg Jets,New Jersey Devils
+1606744316,Over,64,4847770187,1.462,0.5,Jesper Bratt (Points),Winnipeg Jets,New Jersey Devils
+1606744317,Under,65,4847770188,2.55,0.5,Jesper Bratt (Points),Winnipeg Jets,New Jersey Devils
+1606744220,Over,64,4847769917,2.67,0.5,Nino Niederreiter (Points),Winnipeg Jets,New Jersey Devils
+1606744221,Under,65,4847769918,1.421,0.5,Nino Niederreiter (Points),Winnipeg Jets,New Jersey Devils
+1606744235,Over,64,4847769957,1.371,0.5,Mark Scheifele (Points),Winnipeg Jets,New Jersey Devils
+1606744236,Under,65,4847769958,2.84,0.5,Mark Scheifele (Points),Winnipeg Jets,New Jersey Devils
+1606744247,Over,64,4847769989,2.57,0.5,Stefan Noesen (Points),Winnipeg Jets,New Jersey Devils
+1606744248,Under,65,4847769990,1.454,0.5,Stefan Noesen (Points),Winnipeg Jets,New Jersey Devils
+1606744256,Over,64,4847770013,2.44,0.5,Vladislav Namestnikov (Points),Winnipeg Jets,New Jersey Devils
+1606744257,Under,65,4847770014,1.505,0.5,Vladislav Namestnikov (Points),Winnipeg Jets,New Jersey Devils
+1606743881,Over,66,4847768559,2.64,0.5,Artyom Levshunov (Points),Chicago Blackhawks,Vegas Golden Knights
+1606743882,Under,67,4847768560,1.429,0.5,Artyom Levshunov (Points),Chicago Blackhawks,Vegas Golden Knights
+1606743815,Over,66,4847768173,1.724,0.5,Ryan Donato (Points),Chicago Blackhawks,Vegas Golden Knights
+1606743816,Under,67,4847768175,2.04,0.5,Ryan Donato (Points),Chicago Blackhawks,Vegas Golden Knights
+1606743830,Over,66,4847768257,1.704,0.5,Pavel Dorofeyev (Points),Chicago Blackhawks,Vegas Golden Knights
+1606743831,Under,67,4847768263,2.07,0.5,Pavel Dorofeyev (Points),Chicago Blackhawks,Vegas Golden Knights
+1606743848,Over,66,4847768561,3.0,0.5,Alex Vlasic (Points),Chicago Blackhawks,Vegas Golden Knights
+1606743849,Under,67,4847768562,1.4,0.5,Alex Vlasic (Points),Chicago Blackhawks,Vegas Golden Knights
+1606743842,Over,66,4847768569,2.65,0.5,Ilya Mikheyev (Points),Chicago Blackhawks,Vegas Golden Knights
+1606743843,Under,67,4847768570,1.5,0.5,Ilya Mikheyev (Points),Chicago Blackhawks,Vegas Golden Knights
+1606743860,Over,66,4847768504,2.81,0.5,Frank Nazar (Points),Chicago Blackhawks,Vegas Golden Knights
+1606743861,Under,67,4847768506,1.38,0.5,Frank Nazar (Points),Chicago Blackhawks,Vegas Golden Knights
+1606743872,Over,66,4847768571,1.84,0.5,Connor Bedard (Points),Chicago Blackhawks,Vegas Golden Knights
+1606743873,Under,67,4847768572,2.01,0.5,Connor Bedard (Points),Chicago Blackhawks,Vegas Golden Knights
+1606743749,Over,66,4847767927,1.584,0.5,Shea Theodore (Points),Chicago Blackhawks,Vegas Golden Knights
+1606743750,Under,67,4847767928,2.26,0.5,Shea Theodore (Points),Chicago Blackhawks,Vegas Golden Knights
+1606743758,Over,66,4847767953,1.892,0.5,Ivan Barbashev (Points),Chicago Blackhawks,Vegas Golden Knights
+1606743759,Under,67,4847767955,1.847,0.5,Ivan Barbashev (Points),Chicago Blackhawks,Vegas Golden Knights
+1606743767,Over,66,4847767985,1.97,0.5,Noah Hanifin (Points),Chicago Blackhawks,Vegas Golden Knights
+1606743768,Under,67,4847767986,1.775,0.5,Noah Hanifin (Points),Chicago Blackhawks,Vegas Golden Knights
+1606743779,Over,66,4847768023,2.3,1.5,Jack Eichel (Points),Chicago Blackhawks,Vegas Golden Knights
+1606743780,Under,67,4847768024,1.568,1.5,Jack Eichel (Points),Chicago Blackhawks,Vegas Golden Knights
+1606743791,Over,66,4847768099,2.17,0.5,Tyler Bertuzzi (Points),Chicago Blackhawks,Vegas Golden Knights
+1606743792,Under,67,4847768100,1.641,0.5,Tyler Bertuzzi (Points),Chicago Blackhawks,Vegas Golden Knights
+1606743800,Over,66,4847768113,2.42,0.5,Nicolas Roy (Points),Chicago Blackhawks,Vegas Golden Knights
+1606743801,Under,67,4847768114,1.512,0.5,Nicolas Roy (Points),Chicago Blackhawks,Vegas Golden Knights
+1606743692,Over,66,4847767692,2.34,0.5,Reilly Smith (Points),Chicago Blackhawks,Vegas Golden Knights
+1606743693,Under,67,4847767693,1.546,0.5,Reilly Smith (Points),Chicago Blackhawks,Vegas Golden Knights
+1606743704,Over,66,4847767789,1.5,0.5,Mark Stone (Points),Chicago Blackhawks,Vegas Golden Knights
+1606743705,Under,67,4847767790,2.65,0.5,Mark Stone (Points),Chicago Blackhawks,Vegas Golden Knights
+1606743716,Over,66,4847767823,2.34,0.5,Brandon Saad (Points),Chicago Blackhawks,Vegas Golden Knights
+1606743717,Under,67,4847767824,1.549,0.5,Brandon Saad (Points),Chicago Blackhawks,Vegas Golden Knights
+1606743728,Over,66,4847767867,1.781,0.5,William Karlsson (Points),Chicago Blackhawks,Vegas Golden Knights
+1606743729,Under,67,4847767868,1.97,0.5,William Karlsson (Points),Chicago Blackhawks,Vegas Golden Knights
+1606743740,Over,66,4847767888,1.9,0.5,Teuvo Teravainen (Points),Chicago Blackhawks,Vegas Golden Knights
+1606743741,Under,67,4847767890,1.84,0.5,Teuvo Teravainen (Points),Chicago Blackhawks,Vegas Golden Knights
+1606744007,Over,68,4847768877,3.01,0.5,K'Andre Miller (Points),Anaheim Ducks,New York Rangers
+1606744008,Under,69,4847768878,1.332,0.5,K'Andre Miller (Points),Anaheim Ducks,New York Rangers
+1606744001,Over,68,4847768835,1.787,0.5,Troy Terry (Points),Anaheim Ducks,New York Rangers
+1606744002,Under,69,4847768836,2.08,0.5,Troy Terry (Points),Anaheim Ducks,New York Rangers
+1606744019,Over,68,4847768901,2.03,0.5,Trevor Zegras (Points),Anaheim Ducks,New York Rangers
+1606744020,Under,69,4847768902,1.729,0.5,Trevor Zegras (Points),Anaheim Ducks,New York Rangers
+1606744032,Under,69,4847769006,1.714,0.5,Alexis Lafreniere (Points),Anaheim Ducks,New York Rangers
+1606744031,Over,68,4847769005,2.19,0.5,Alexis Lafreniere (Points),Anaheim Ducks,New York Rangers
+1606744046,Over,68,4847769168,2.38,0.5,Will Cuylle (Points),Anaheim Ducks,New York Rangers
+1606744047,Under,69,4847769170,1.529,0.5,Will Cuylle (Points),Anaheim Ducks,New York Rangers
+1606744058,Over,68,4847769195,1.8,0.5,Mason McTavish (Points),Anaheim Ducks,New York Rangers
+1606744059,Under,69,4847769196,1.943,0.5,Mason McTavish (Points),Anaheim Ducks,New York Rangers
+1606743941,Over,68,4847768637,1.699,0.5,Mika Zibanejad (Points),Anaheim Ducks,New York Rangers
+1606743942,Under,69,4847768638,2.07,0.5,Mika Zibanejad (Points),Anaheim Ducks,New York Rangers
+1606743953,Over,68,4847768669,1.598,0.5,J.T. Miller (Points),Anaheim Ducks,New York Rangers
+1606743954,Under,69,4847768670,2.24,0.5,J.T. Miller (Points),Anaheim Ducks,New York Rangers
+1606743965,Over,68,4847768751,2.3,0.5,Frank Vatrano (Points),Anaheim Ducks,New York Rangers
+1606743966,Under,69,4847768752,1.568,0.5,Frank Vatrano (Points),Anaheim Ducks,New York Rangers
+1606743977,Over,68,4847768755,1.421,0.5,Artemi Panarin (Points),Anaheim Ducks,New York Rangers
+1606743978,Under,69,4847768756,2.67,0.5,Artemi Panarin (Points),Anaheim Ducks,New York Rangers
+1606743989,Over,68,4847768803,1.699,0.5,Adam Fox (Points),Anaheim Ducks,New York Rangers
+1606743990,Under,69,4847768804,2.07,0.5,Adam Fox (Points),Anaheim Ducks,New York Rangers
+1606743893,Over,68,4847768373,2.32,0.5,Alex Killorn (Points),Anaheim Ducks,New York Rangers
+1606743894,Under,69,4847768374,1.555,0.5,Alex Killorn (Points),Anaheim Ducks,New York Rangers
+1606743905,Over,68,4847768407,2.16,0.5,Chris Kreider (Points),Anaheim Ducks,New York Rangers
+1606743906,Under,69,4847768408,1.641,0.5,Chris Kreider (Points),Anaheim Ducks,New York Rangers
+1606743917,Over,68,4847768549,1.704,0.5,Vincent Trocheck (Points),Anaheim Ducks,New York Rangers
+1606743918,Under,69,4847768550,2.07,0.5,Vincent Trocheck (Points),Anaheim Ducks,New York Rangers
+1606743929,Over,68,4847768603,2.31,0.5,Ryan Strome (Points),Anaheim Ducks,New York Rangers
+1606743930,Under,69,4847768604,1.561,0.5,Ryan Strome (Points),Anaheim Ducks,New York Rangers
+1606744076,Over,68,4847769227,2.47,0.5,Cutter Gauthier (Points),Anaheim Ducks,New York Rangers
+1606744077,Under,69,4847769228,1.49,0.5,Cutter Gauthier (Points),Anaheim Ducks,New York Rangers
+1606744085,Over,68,4847769221,2.25,0.5,Jackson LaCombe (Points),Anaheim Ducks,New York Rangers
+1606744086,Under,69,4847769222,1.591,0.5,Jackson LaCombe (Points),Anaheim Ducks,New York Rangers
+1606744097,Over,68,4847769225,2.09,0.5,Leo Carlsson (Points),Anaheim Ducks,New York Rangers
+1606744098,Under,69,4847769226,1.689,0.5,Leo Carlsson (Points),Anaheim Ducks,New York Rangers
