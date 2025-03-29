@@ -183,10 +183,10 @@ id,name,rot_num,line_id,price,handicap,selection,home_team,away_team
 1606826456,Under,3,4850553649,2.55,1.5,Tyson Foerster (Shots On Goal),Philadelphia Flyers,Buffalo Sabres
 1606826467,Over,2,4850553722,2.49,2.5,JJ Peterka (Shots On Goal),Philadelphia Flyers,Buffalo Sabres
 1606826468,Under,3,4850553723,1.483,2.5,JJ Peterka (Shots On Goal),Philadelphia Flyers,Buffalo Sabres
-1606826494,Over,2,4850553780,1.775,1.5,Jiri Kulich (Shots On Goal),Philadelphia Flyers,Buffalo Sabres
-1606826495,Under,3,4850553781,1.97,1.5,Jiri Kulich (Shots On Goal),Philadelphia Flyers,Buffalo Sabres
-1606826380,Over,2,4850553412,1.48,1.5,Alex Tuch (Shots On Goal),Philadelphia Flyers,Buffalo Sabres
-1606826381,Under,3,4850553413,2.5,1.5,Alex Tuch (Shots On Goal),Philadelphia Flyers,Buffalo Sabres
+1606826494,Over,2,4850723790,1.787,1.5,Jiri Kulich (Shots On Goal),Philadelphia Flyers,Buffalo Sabres
+1606826495,Under,3,4850723791,1.961,1.5,Jiri Kulich (Shots On Goal),Philadelphia Flyers,Buffalo Sabres
+1606826380,Over,2,4850723780,1.476,1.5,Alex Tuch (Shots On Goal),Philadelphia Flyers,Buffalo Sabres
+1606826381,Under,3,4850723781,2.51,1.5,Alex Tuch (Shots On Goal),Philadelphia Flyers,Buffalo Sabres
 1606826392,Over,2,4850553450,1.537,1.5,Owen Tippett (Shots On Goal),Philadelphia Flyers,Buffalo Sabres
 1606826393,Under,3,4850553451,2.36,1.5,Owen Tippett (Shots On Goal),Philadelphia Flyers,Buffalo Sabres
 1606826404,Over,2,4850553476,2.24,2.5,Rasmus Dahlin (Shots On Goal),Philadelphia Flyers,Buffalo Sabres
@@ -197,8 +197,8 @@ id,name,rot_num,line_id,price,handicap,selection,home_team,away_team
 1606826357,Under,3,4850608813,1.763,2.5,Travis Konecny (Shots On Goal),Philadelphia Flyers,Buffalo Sabres
 1606826368,Over,2,4850608818,1.531,2.5,Tage Thompson (Shots On Goal),Philadelphia Flyers,Buffalo Sabres
 1606826369,Under,3,4850608819,2.36,2.5,Tage Thompson (Shots On Goal),Philadelphia Flyers,Buffalo Sabres
-1606826509,Over,2,4850553826,1.84,2.5,Matvei Michkov (Shots On Goal),Philadelphia Flyers,Buffalo Sabres
-1606826510,Under,3,4850553827,1.98,2.5,Matvei Michkov (Shots On Goal),Philadelphia Flyers,Buffalo Sabres
+1606826509,Over,2,4850726519,1.833,2.5,Matvei Michkov (Shots On Goal),Philadelphia Flyers,Buffalo Sabres
+1606826510,Under,3,4850726520,1.98,2.5,Matvei Michkov (Shots On Goal),Philadelphia Flyers,Buffalo Sabres
 1606826689,Over,4,4850554809,2.24,2.5,Noah Dobson (Shots On Goal),Tampa Bay Lightning,New York Islanders
 1606826690,Under,5,4850554810,1.645,2.5,Noah Dobson (Shots On Goal),Tampa Bay Lightning,New York Islanders
 1606826626,Over,4,4850554299,1.49,1.5,Kyle Palmieri (Shots On Goal),Tampa Bay Lightning,New York Islanders
@@ -237,10 +237,10 @@ id,name,rot_num,line_id,price,handicap,selection,home_team,away_team
 1606826771,Under,7,4850555019,1.934,1.5,Devon Toews (Shots On Goal),Colorado Avalanche,St. Louis Blues
 1606826779,Over,6,4850555051,1.934,2.5,Martin Necas (Shots On Goal),Colorado Avalanche,St. Louis Blues
 1606826780,Under,7,4850555052,1.877,2.5,Martin Necas (Shots On Goal),Colorado Avalanche,St. Louis Blues
-1606826791,Over,6,4850555059,1.645,2.5,Cale Makar (Shots On Goal),Colorado Avalanche,St. Louis Blues
-1606826792,Under,7,4850555060,2.27,2.5,Cale Makar (Shots On Goal),Colorado Avalanche,St. Louis Blues
-1606826888,Over,6,4850565450,1.877,1.5,Zack Bolduc (Shots On Goal),Colorado Avalanche,St. Louis Blues
-1606826889,Under,7,4850565451,1.934,1.5,Zack Bolduc (Shots On Goal),Colorado Avalanche,St. Louis Blues
+1606826791,Over,6,4850723947,1.641,2.5,Cale Makar (Shots On Goal),Colorado Avalanche,St. Louis Blues
+1606826792,Under,7,4850723948,2.28,2.5,Cale Makar (Shots On Goal),Colorado Avalanche,St. Louis Blues
+1606826888,Over,6,4850723953,1.884,1.5,Zack Bolduc (Shots On Goal),Colorado Avalanche,St. Louis Blues
+1606826889,Under,7,4850723954,1.925,1.5,Zack Bolduc (Shots On Goal),Colorado Avalanche,St. Louis Blues
 1606826831,Over,6,4850565250,2.05,2.5,Jordan Kyrou (Shots On Goal),Colorado Avalanche,St. Louis Blues
 1606826832,Under,7,4850565251,1.781,2.5,Jordan Kyrou (Shots On Goal),Colorado Avalanche,St. Louis Blues
 1606826843,Over,6,4850565321,1.892,1.5,Pavel Buchnevich (Shots On Goal),Colorado Avalanche,St. Louis Blues
@@ -249,3 +249,55 @@ id,name,rot_num,line_id,price,handicap,selection,home_team,away_team
 1606826856,Under,7,4850565435,2.03,1.5,Robert Thomas (Shots On Goal),Colorado Avalanche,St. Louis Blues
 1606826867,Over,6,4850565426,2.3,2.5,Dylan Holloway (Shots On Goal),Colorado Avalanche,St. Louis Blues
 1606826868,Under,7,4850565427,1.625,2.5,Dylan Holloway (Shots On Goal),Colorado Avalanche,St. Louis Blues
+1606830019,Over,12,4850681774,2.38,2.5,Warren Foegele (Shots On Goal),Los Angeles Kings,Toronto Maple Leafs
+1606830020,Under,13,4850681775,1.526,2.5,Warren Foegele (Shots On Goal),Los Angeles Kings,Toronto Maple Leafs
+1606829900,Over,12,4850681361,2.47,2.5,John Tavares (Shots On Goal),Los Angeles Kings,Toronto Maple Leafs
+1606829901,Under,13,4850681362,1.49,2.5,John Tavares (Shots On Goal),Los Angeles Kings,Toronto Maple Leafs
+1606830036,Over,12,4850681810,2.42,2.5,Trevor Moore (Shots On Goal),Los Angeles Kings,Toronto Maple Leafs
+1606830037,Under,13,4850681811,1.51,2.5,Trevor Moore (Shots On Goal),Los Angeles Kings,Toronto Maple Leafs
+1606830055,Over,12,4850681869,1.591,1.5,Quinton Byfield (Shots On Goal),Los Angeles Kings,Toronto Maple Leafs
+1606830056,Under,13,4850681870,2.25,1.5,Quinton Byfield (Shots On Goal),Los Angeles Kings,Toronto Maple Leafs
+1606829922,Over,12,4850681408,2.02,1.5,Phillip Danault (Shots On Goal),Los Angeles Kings,Toronto Maple Leafs
+1606829923,Under,13,4850681409,1.74,1.5,Phillip Danault (Shots On Goal),Los Angeles Kings,Toronto Maple Leafs
+1606830070,Over,12,4850681942,2.48,2.5,Alex Laferriere (Shots On Goal),Los Angeles Kings,Toronto Maple Leafs
+1606830071,Under,13,4850681943,1.487,2.5,Alex Laferriere (Shots On Goal),Los Angeles Kings,Toronto Maple Leafs
+1606829937,Over,12,4850681448,2.28,1.5,Morgan Rielly (Shots On Goal),Los Angeles Kings,Toronto Maple Leafs
+1606829938,Under,13,4850681449,1.574,1.5,Morgan Rielly (Shots On Goal),Los Angeles Kings,Toronto Maple Leafs
+1606830077,Over,12,4850681950,1.917,1.5,Matthew Knies (Shots On Goal),Los Angeles Kings,Toronto Maple Leafs
+1606830078,Under,13,4850681951,1.819,1.5,Matthew Knies (Shots On Goal),Los Angeles Kings,Toronto Maple Leafs
+1606829947,Over,12,4850681479,1.781,2.5,William Nylander (Shots On Goal),Los Angeles Kings,Toronto Maple Leafs
+1606829948,Under,13,4850681480,1.961,2.5,William Nylander (Shots On Goal),Los Angeles Kings,Toronto Maple Leafs
+1606829959,Over,12,4850681621,1.699,2.5,Kevin Fiala (Shots On Goal),Los Angeles Kings,Toronto Maple Leafs
+1606829960,Under,13,4850681622,2.07,2.5,Kevin Fiala (Shots On Goal),Los Angeles Kings,Toronto Maple Leafs
+1606829975,Over,12,4850681653,1.934,3.5,Auston Matthews (Shots On Goal),Los Angeles Kings,Toronto Maple Leafs
+1606829976,Under,13,4850681654,1.813,3.5,Auston Matthews (Shots On Goal),Los Angeles Kings,Toronto Maple Leafs
+1606830101,Over,12,4850682018,1.649,1.5,Bobby McMann (Shots On Goal),Los Angeles Kings,Toronto Maple Leafs
+1606830102,Under,13,4850682019,2.15,1.5,Bobby McMann (Shots On Goal),Los Angeles Kings,Toronto Maple Leafs
+1606829991,Over,12,4850681733,1.781,2.5,Adrian Kempe (Shots On Goal),Los Angeles Kings,Toronto Maple Leafs
+1606829992,Under,13,4850681736,1.961,2.5,Adrian Kempe (Shots On Goal),Los Angeles Kings,Toronto Maple Leafs
+1606830003,Over,12,4850724038,1.649,1.5,Mitch Marner (Shots On Goal),Los Angeles Kings,Toronto Maple Leafs
+1606830004,Under,13,4850724039,2.23,1.5,Mitch Marner (Shots On Goal),Los Angeles Kings,Toronto Maple Leafs
+1606831879,Over,16,4850712407,2.17,2.5,Lucas Raymond (Shots On Goal),Detroit Red Wings,Boston Bruins
+1606831880,Under,17,4850712408,1.632,2.5,Lucas Raymond (Shots On Goal),Detroit Red Wings,Boston Bruins
+1606831891,Over,16,4850712415,2.11,1.5,Mason Lohrei (Shots On Goal),Detroit Red Wings,Boston Bruins
+1606831892,Under,17,4850712416,1.675,1.5,Mason Lohrei (Shots On Goal),Detroit Red Wings,Boston Bruins
+1606831904,Under,17,4850712428,2.07,1.5,Marco Kasper (Shots On Goal),Detroit Red Wings,Boston Bruins
+1606831903,Over,16,4850712427,1.763,1.5,Marco Kasper (Shots On Goal),Detroit Red Wings,Boston Bruins
+1606831810,Over,16,4850712057,2.28,1.5,Pavel Zacha (Shots On Goal),Detroit Red Wings,Boston Bruins
+1606831811,Under,17,4850712058,1.574,1.5,Pavel Zacha (Shots On Goal),Detroit Red Wings,Boston Bruins
+1606831822,Over,16,4850712089,1.581,2.5,Alex DeBrincat (Shots On Goal),Detroit Red Wings,Boston Bruins
+1606831823,Under,17,4850712090,2.27,2.5,Alex DeBrincat (Shots On Goal),Detroit Red Wings,Boston Bruins
+1606831843,Over,16,4850712151,1.591,1.5,Morgan Geekie (Shots On Goal),Detroit Red Wings,Boston Bruins
+1606831844,Under,17,4850712152,2.25,1.5,Morgan Geekie (Shots On Goal),Detroit Red Wings,Boston Bruins
+1606831870,Over,16,4850712337,1.584,1.5,Moritz Seider (Shots On Goal),Detroit Red Wings,Boston Bruins
+1606831871,Under,17,4850712338,2.27,1.5,Moritz Seider (Shots On Goal),Detroit Red Wings,Boston Bruins
+1606831747,Over,16,4850711887,1.869,2.5,Patrick Kane (Shots On Goal),Detroit Red Wings,Boston Bruins
+1606831748,Under,17,4850711888,1.869,2.5,Patrick Kane (Shots On Goal),Detroit Red Wings,Boston Bruins
+1606831762,Over,16,4850711923,1.709,1.5,Vladimir Tarasenko (Shots On Goal),Detroit Red Wings,Boston Bruins
+1606831763,Under,17,4850711924,2.06,1.5,Vladimir Tarasenko (Shots On Goal),Detroit Red Wings,Boston Bruins
+1606831774,Over,16,4850711955,1.826,1.5,Elias Lindholm (Shots On Goal),Detroit Red Wings,Boston Bruins
+1606831775,Under,17,4850711956,1.917,1.5,Elias Lindholm (Shots On Goal),Detroit Red Wings,Boston Bruins
+1606831786,Over,16,4850724152,1.662,2.5,Dylan Larkin (Shots On Goal),Detroit Red Wings,Boston Bruins
+1606831787,Under,17,4850724153,2.13,2.5,Dylan Larkin (Shots On Goal),Detroit Red Wings,Boston Bruins
+1606831798,Over,16,4850712025,1.806,3.5,David Pastrnak (Shots On Goal),Detroit Red Wings,Boston Bruins
+1606831799,Under,17,4850712026,1.934,3.5,David Pastrnak (Shots On Goal),Detroit Red Wings,Boston Bruins
