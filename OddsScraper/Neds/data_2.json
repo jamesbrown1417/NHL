@@ -1,0 +1,484 @@
+{
+    "entrants": {
+        "06be26c7-dc03-41cc-ac0a-c9b64cc4c9fe": {
+            "id": "06be26c7-dc03-41cc-ac0a-c9b64cc4c9fe",
+            "name": "Nikolaj Ehlers (Winnipeg Jets)",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 400,
+            "market_id": "212d61f3-4436-44da-8159-c67e21fc60e5"
+        },
+        "11c6a6f9-de1c-49cb-9986-ba03f57b5e3d": {
+            "id": "11c6a6f9-de1c-49cb-9986-ba03f57b5e3d",
+            "name": "Quinton Byfield (Los Angeles Kings)",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 440,
+            "market_id": "212d61f3-4436-44da-8159-c67e21fc60e5"
+        },
+        "20641831-dcee-41f3-a006-24247df5da0a": {
+            "id": "20641831-dcee-41f3-a006-24247df5da0a",
+            "name": "Anze Kopitar (Los Angeles Kings)",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 470,
+            "market_id": "212d61f3-4436-44da-8159-c67e21fc60e5"
+        },
+        "36214763-429a-438e-83de-de2b0a3cde09": {
+            "id": "36214763-429a-438e-83de-de2b0a3cde09",
+            "name": "Vladislav Namestnikov (Winnipeg Jets)",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 570,
+            "market_id": "212d61f3-4436-44da-8159-c67e21fc60e5"
+        },
+        "3b991201-5245-46be-9a48-57bf57838743": {
+            "id": "3b991201-5245-46be-9a48-57bf57838743",
+            "name": "Adam Lowry (Winnipeg Jets)",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 520,
+            "market_id": "212d61f3-4436-44da-8159-c67e21fc60e5"
+        },
+        "3f9535db-c5cb-4070-b80b-9b808411ba75": {
+            "id": "3f9535db-c5cb-4070-b80b-9b808411ba75",
+            "name": "Mark Scheifele (Winnipeg Jets)",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 380,
+            "market_id": "212d61f3-4436-44da-8159-c67e21fc60e5"
+        },
+        "3fce0443-0f1f-48cd-93a4-d8b8d3443ee0": {
+            "id": "3fce0443-0f1f-48cd-93a4-d8b8d3443ee0",
+            "name": "Warren Foegele (Los Angeles Kings)",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 460,
+            "market_id": "212d61f3-4436-44da-8159-c67e21fc60e5"
+        },
+        "42171a32-9a0f-424d-807b-96e7cd26b9aa": {
+            "id": "42171a32-9a0f-424d-807b-96e7cd26b9aa",
+            "name": "Kevin Fiala (Los Angeles Kings)",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 410,
+            "market_id": "212d61f3-4436-44da-8159-c67e21fc60e5"
+        },
+        "4f2c6a7e-a768-4c8b-922a-0a7f6c5e74d8": {
+            "id": "4f2c6a7e-a768-4c8b-922a-0a7f6c5e74d8",
+            "name": "Cole Perfetti (Winnipeg Jets)",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 430,
+            "market_id": "212d61f3-4436-44da-8159-c67e21fc60e5"
+        },
+        "79792ce2-ec8b-486f-b1c3-0e9fed8b8f7c": {
+            "id": "79792ce2-ec8b-486f-b1c3-0e9fed8b8f7c",
+            "name": "Brandon Tanev (Winnipeg Jets)",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 580,
+            "market_id": "212d61f3-4436-44da-8159-c67e21fc60e5"
+        },
+        "8054c19e-2ebc-4faf-bf32-f6b7f437872e": {
+            "id": "8054c19e-2ebc-4faf-bf32-f6b7f437872e",
+            "name": "Adrian Kempe (Los Angeles Kings)",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 420,
+            "market_id": "212d61f3-4436-44da-8159-c67e21fc60e5"
+        },
+        "90230bf7-2afa-4d30-9e09-b24860c2a385": {
+            "id": "90230bf7-2afa-4d30-9e09-b24860c2a385",
+            "name": "Vladislav Gavrikov (Los Angeles Kings)",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 600,
+            "market_id": "212d61f3-4436-44da-8159-c67e21fc60e5"
+        },
+        "93ed7c6f-6c84-4c43-864e-6d0531ac085e": {
+            "id": "93ed7c6f-6c84-4c43-864e-6d0531ac085e",
+            "name": "Morgan Barron (Winnipeg Jets)",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 560,
+            "market_id": "212d61f3-4436-44da-8159-c67e21fc60e5"
+        },
+        "9e95f314-575d-41e8-982e-c065ca7a0b3f": {
+            "id": "9e95f314-575d-41e8-982e-c065ca7a0b3f",
+            "name": "Andrei Kuzmenko (Los Angeles Kings)",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 390,
+            "market_id": "212d61f3-4436-44da-8159-c67e21fc60e5"
+        },
+        "a1d0d453-6f4b-4c19-9890-117522f6eeeb": {
+            "id": "a1d0d453-6f4b-4c19-9890-117522f6eeeb",
+            "name": "Alex Iafallo (Winnipeg Jets)",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 490,
+            "market_id": "212d61f3-4436-44da-8159-c67e21fc60e5"
+        },
+        "a558dfdc-bdb4-45fd-b00d-7462e2b3fd3b": {
+            "id": "a558dfdc-bdb4-45fd-b00d-7462e2b3fd3b",
+            "name": "Drew Doughty (Los Angeles Kings)",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 540,
+            "market_id": "212d61f3-4436-44da-8159-c67e21fc60e5"
+        },
+        "a5bd7df2-a62f-4d77-9014-32f217fb8de4": {
+            "id": "a5bd7df2-a62f-4d77-9014-32f217fb8de4",
+            "name": "Nino Niederreiter (Winnipeg Jets)",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 510,
+            "market_id": "212d61f3-4436-44da-8159-c67e21fc60e5"
+        },
+        "b34c682c-4be4-4f2c-88b0-d4b60f657e3a": {
+            "id": "b34c682c-4be4-4f2c-88b0-d4b60f657e3a",
+            "name": "Trevor Moore (Los Angeles Kings)",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 450,
+            "market_id": "212d61f3-4436-44da-8159-c67e21fc60e5"
+        },
+        "c24e6d5a-0582-4bf3-a5c7-ccb6451f6658": {
+            "id": "c24e6d5a-0582-4bf3-a5c7-ccb6451f6658",
+            "name": "Josh Morrissey (Winnipeg Jets)",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 480,
+            "market_id": "212d61f3-4436-44da-8159-c67e21fc60e5"
+        },
+        "c86f133b-183b-4ea5-af62-7a54d8c67c2b": {
+            "id": "c86f133b-183b-4ea5-af62-7a54d8c67c2b",
+            "name": "Brandt Clarke (Los Angeles Kings)",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 550,
+            "market_id": "212d61f3-4436-44da-8159-c67e21fc60e5"
+        },
+        "cd9d54f5-161a-45c3-b4f9-80d8dd1ac9e2": {
+            "id": "cd9d54f5-161a-45c3-b4f9-80d8dd1ac9e2",
+            "name": "Mason Appleton (Winnipeg Jets)",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 530,
+            "market_id": "212d61f3-4436-44da-8159-c67e21fc60e5"
+        },
+        "e1bdca84-b65b-465f-8214-dd50945c8216": {
+            "id": "e1bdca84-b65b-465f-8214-dd50945c8216",
+            "name": "Trevor Lewis (Los Angeles Kings)",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 590,
+            "market_id": "212d61f3-4436-44da-8159-c67e21fc60e5"
+        },
+        "ef08881c-9335-4be4-b61b-6992d6a4778f": {
+            "id": "ef08881c-9335-4be4-b61b-6992d6a4778f",
+            "name": "Kyle Connor (Winnipeg Jets)",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 370,
+            "market_id": "212d61f3-4436-44da-8159-c67e21fc60e5"
+        },
+        "fe8d601f-8de7-4397-a0c6-1ea2bf22c9e3": {
+            "id": "fe8d601f-8de7-4397-a0c6-1ea2bf22c9e3",
+            "name": "Phillip Danault (Los Angeles Kings)",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 500,
+            "market_id": "212d61f3-4436-44da-8159-c67e21fc60e5"
+        }
+    },
+    "event_participants": {
+        "1049d43b-adbf-4348-ab8f-7315a57fbde8": {
+            "id": "1049d43b-adbf-4348-ab8f-7315a57fbde8",
+            "event_id": "eabaafd2-7821-466c-a585-fa38b0bb557f",
+            "name": "Los Angeles Kings",
+            "home_away": "HOME"
+        },
+        "d97a4397-e4b1-4b24-8589-733c34f246fc": {
+            "id": "d97a4397-e4b1-4b24-8589-733c34f246fc",
+            "event_id": "eabaafd2-7821-466c-a585-fa38b0bb557f",
+            "name": "Winnipeg Jets",
+            "home_away": "AWAY"
+        }
+    },
+    "events": {
+        "eabaafd2-7821-466c-a585-fa38b0bb557f": {
+            "id": "eabaafd2-7821-466c-a585-fa38b0bb557f",
+            "name": "Los Angeles Kings vs Winnipeg Jets",
+            "event_type": {
+                "id": "6bfa0efc-05df-4ae1-9b1e-152365290cfd",
+                "name": "Match"
+            },
+            "match_status": "BettingOpen",
+            "advertised_start": "2025-04-02T02:40:30Z",
+            "actual_start": "2025-04-02T02:40:30Z",
+            "visible": true,
+            "slug": "los-angeles-kings-vs-winnipeg-jets",
+            "competition": {
+                "id": "7732fc3b-9dd0-46e8-95e9-f4011a4002df",
+                "name": "NHL",
+                "sort_order": 2,
+                "region": "USA",
+                "region_id": "e7d680d9-8068-4903-9326-a81ed660e79e"
+            },
+            "competition_id": "7732fc3b-9dd0-46e8-95e9-f4011a4002df",
+            "market_type_group_ids": [
+                "f740c2d0-e94f-439b-b9d4-1efd7bf72a0c",
+                "d7a5f899-02a4-49f6-b6b8-5df93d4cac1c"
+            ],
+            "market_type_group_markets": [
+                {
+                    "market_type_group_id": "f740c2d0-e94f-439b-b9d4-1efd7bf72a0c",
+                    "market_ids": [
+                        "212d61f3-4436-44da-8159-c67e21fc60e5"
+                    ]
+                },
+                {
+                    "market_type_group_id": "d7a5f899-02a4-49f6-b6b8-5df93d4cac1c",
+                    "market_ids": [
+                        "212d61f3-4436-44da-8159-c67e21fc60e5"
+                    ]
+                }
+            ],
+            "market_count": 1,
+            "main_markets": [
+                "212d61f3-4436-44da-8159-c67e21fc60e5"
+            ],
+            "market_ids": [
+                "212d61f3-4436-44da-8159-c67e21fc60e5"
+            ],
+            "category_id": "b7c1f944-d02b-4d9b-b6f3-cb31389cfe36",
+            "comments": "Overtime (including any subsequent shootout), counts for all markets unless stated otherwise. In the event of a shoot out, the winning team are credited with one goal and this counts for all markets where applicable.",
+            "participant_ids": [
+                "1049d43b-adbf-4348-ab8f-7315a57fbde8",
+                "d97a4397-e4b1-4b24-8589-733c34f246fc"
+            ]
+        }
+    },
+    "market_type_groups": {
+        "d7a5f899-02a4-49f6-b6b8-5df93d4cac1c": {
+            "id": "d7a5f899-02a4-49f6-b6b8-5df93d4cac1c",
+            "category_id": "b7c1f944-d02b-4d9b-b6f3-cb31389cfe36",
+            "name": "Goal Markets",
+            "priority": 190,
+            "type": "MARKET_TYPE_GROUP_TYPE_EVENT"
+        },
+        "f740c2d0-e94f-439b-b9d4-1efd7bf72a0c": {
+            "id": "f740c2d0-e94f-439b-b9d4-1efd7bf72a0c",
+            "category_id": "b7c1f944-d02b-4d9b-b6f3-cb31389cfe36",
+            "name": "Top Markets",
+            "priority": 260,
+            "type": "MARKET_TYPE_GROUP_TYPE_EVENT"
+        }
+    },
+    "markets": {
+        "212d61f3-4436-44da-8159-c67e21fc60e5": {
+            "id": "212d61f3-4436-44da-8159-c67e21fc60e5",
+            "event_id": "eabaafd2-7821-466c-a585-fa38b0bb557f",
+            "market_type_id": "93e71c71-5eb3-4c30-aa57-135b8df0c579",
+            "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
+            "name": "Anytime Goal Scorer",
+            "advertised_start": {
+                "seconds": 1743561630
+            },
+            "actual_start": {
+                "seconds": 1743561630
+            },
+            "same_game_multi_available": true,
+            "is_multiple_outcome_market": true,
+            "comments": "Market includes OT, does not include Penalty Shootout. Quote Others.",
+            "visible": true,
+            "entrant_ids": [
+                "ef08881c-9335-4be4-b61b-6992d6a4778f",
+                "3f9535db-c5cb-4070-b80b-9b808411ba75",
+                "9e95f314-575d-41e8-982e-c065ca7a0b3f",
+                "06be26c7-dc03-41cc-ac0a-c9b64cc4c9fe",
+                "42171a32-9a0f-424d-807b-96e7cd26b9aa",
+                "8054c19e-2ebc-4faf-bf32-f6b7f437872e",
+                "4f2c6a7e-a768-4c8b-922a-0a7f6c5e74d8",
+                "11c6a6f9-de1c-49cb-9986-ba03f57b5e3d",
+                "b34c682c-4be4-4f2c-88b0-d4b60f657e3a",
+                "3fce0443-0f1f-48cd-93a4-d8b8d3443ee0",
+                "20641831-dcee-41f3-a006-24247df5da0a",
+                "c24e6d5a-0582-4bf3-a5c7-ccb6451f6658",
+                "a1d0d453-6f4b-4c19-9890-117522f6eeeb",
+                "fe8d601f-8de7-4397-a0c6-1ea2bf22c9e3",
+                "a5bd7df2-a62f-4d77-9014-32f217fb8de4",
+                "3b991201-5245-46be-9a48-57bf57838743",
+                "cd9d54f5-161a-45c3-b4f9-80d8dd1ac9e2",
+                "a558dfdc-bdb4-45fd-b00d-7462e2b3fd3b",
+                "c86f133b-183b-4ea5-af62-7a54d8c67c2b",
+                "93ed7c6f-6c84-4c43-864e-6d0531ac085e",
+                "36214763-429a-438e-83de-de2b0a3cde09",
+                "79792ce2-ec8b-486f-b1c3-0e9fed8b8f7c",
+                "e1bdca84-b65b-465f-8214-dd50945c8216",
+                "90230bf7-2afa-4d30-9e09-b24860c2a385"
+            ],
+            "num_winners": 60
+        }
+    },
+    "markets_allow_cashout": {
+        "212d61f3-4436-44da-8159-c67e21fc60e5": true
+    },
+    "prices": {
+        "06be26c7-dc03-41cc-ac0a-c9b64cc4c9fe:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 41,
+                "denominator": 20
+            }
+        },
+        "11c6a6f9-de1c-49cb-9986-ba03f57b5e3d:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 49,
+                "denominator": 20
+            }
+        },
+        "20641831-dcee-41f3-a006-24247df5da0a:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 19,
+                "denominator": 5
+            }
+        },
+        "36214763-429a-438e-83de-de2b0a3cde09:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 17,
+                "denominator": 2
+            }
+        },
+        "3b991201-5245-46be-9a48-57bf57838743:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 28,
+                "denominator": 5
+            }
+        },
+        "3f9535db-c5cb-4070-b80b-9b808411ba75:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 7,
+                "denominator": 4
+            }
+        },
+        "3fce0443-0f1f-48cd-93a4-d8b8d3443ee0:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 14,
+                "denominator": 5
+            }
+        },
+        "42171a32-9a0f-424d-807b-96e7cd26b9aa:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 21,
+                "denominator": 10
+            }
+        },
+        "4f2c6a7e-a768-4c8b-922a-0a7f6c5e74d8:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 49,
+                "denominator": 20
+            }
+        },
+        "79792ce2-ec8b-486f-b1c3-0e9fed8b8f7c:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 19,
+                "denominator": 2
+            }
+        },
+        "8054c19e-2ebc-4faf-bf32-f6b7f437872e:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 9,
+                "denominator": 4
+            }
+        },
+        "90230bf7-2afa-4d30-9e09-b24860c2a385:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 11,
+                "denominator": 1
+            }
+        },
+        "93ed7c6f-6c84-4c43-864e-6d0531ac085e:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 8,
+                "denominator": 1
+            }
+        },
+        "9e95f314-575d-41e8-982e-c065ca7a0b3f:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 9,
+                "denominator": 5
+            }
+        },
+        "a1d0d453-6f4b-4c19-9890-117522f6eeeb:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 17,
+                "denominator": 4
+            }
+        },
+        "a558dfdc-bdb4-45fd-b00d-7462e2b3fd3b:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 7,
+                "denominator": 1
+            }
+        },
+        "a5bd7df2-a62f-4d77-9014-32f217fb8de4:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 22,
+                "denominator": 5
+            }
+        },
+        "b34c682c-4be4-4f2c-88b0-d4b60f657e3a:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 13,
+                "denominator": 5
+            }
+        },
+        "c24e6d5a-0582-4bf3-a5c7-ccb6451f6658:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 21,
+                "denominator": 5
+            }
+        },
+        "c86f133b-183b-4ea5-af62-7a54d8c67c2b:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 15,
+                "denominator": 2
+            }
+        },
+        "cd9d54f5-161a-45c3-b4f9-80d8dd1ac9e2:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 28,
+                "denominator": 5
+            }
+        },
+        "e1bdca84-b65b-465f-8214-dd50945c8216:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 10,
+                "denominator": 1
+            }
+        },
+        "ef08881c-9335-4be4-b61b-6992d6a4778f:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 7,
+                "denominator": 5
+            }
+        },
+        "fe8d601f-8de7-4397-a0c6-1ea2bf22c9e3:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 17,
+                "denominator": 4
+            }
+        }
+    },
+    "regions": {
+        "e7d680d9-8068-4903-9326-a81ed660e79e": {
+            "region_id": "e7d680d9-8068-4903-9326-a81ed660e79e",
+            "name": "USA",
+            "slug": "usa",
+            "category_id": "b7c1f944-d02b-4d9b-b6f3-cb31389cfe36",
+            "sort_order": 1
+        }
+    }
+}
