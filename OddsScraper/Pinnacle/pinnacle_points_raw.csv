@@ -139,14 +139,14 @@ id,name,rot_num,line_id,price,handicap,selection,home_team,away_team
 1607068793,Under,75,4866903052,1.571,0.5,Tyler Bertuzzi (Points),Chicago Blackhawks,Colorado Avalanche
 1607069149,Over,76,4867489895,2.26,0.5,Kaapo Kakko (Points),Vancouver Canucks,Seattle Kraken
 1607069150,Under,77,4867489896,1.588,0.5,Kaapo Kakko (Points),Vancouver Canucks,Seattle Kraken
-1607069137,Over,76,4868124204,2.85,1.5,Quinn Hughes (Points),Vancouver Canucks,Seattle Kraken
-1607069138,Under,77,4868124205,1.434,1.5,Quinn Hughes (Points),Vancouver Canucks,Seattle Kraken
+1607069137,Over,76,4868148322,2.8,1.5,Quinn Hughes (Points),Vancouver Canucks,Seattle Kraken
+1607069138,Under,77,4868148323,1.454,1.5,Quinn Hughes (Points),Vancouver Canucks,Seattle Kraken
 1607069164,Over,76,4867395882,2.09,0.5,Matty Beniers (Points),Vancouver Canucks,Seattle Kraken
 1607069165,Under,77,4867395883,1.684,0.5,Matty Beniers (Points),Vancouver Canucks,Seattle Kraken
 1607069176,Over,76,4867395888,2.46,0.5,Shane Wright (Points),Vancouver Canucks,Seattle Kraken
 1607069177,Under,77,4867395889,1.495,0.5,Shane Wright (Points),Vancouver Canucks,Seattle Kraken
-1607069082,Over,76,4868124198,1.719,0.5,Pius Suter (Points),Vancouver Canucks,Seattle Kraken
-1607069083,Under,77,4868124199,2.18,0.5,Pius Suter (Points),Vancouver Canucks,Seattle Kraken
+1607069082,Over,76,4868148414,1.714,0.5,Pius Suter (Points),Vancouver Canucks,Seattle Kraken
+1607069083,Under,77,4868148415,2.19,0.5,Pius Suter (Points),Vancouver Canucks,Seattle Kraken
 1607069101,Over,76,4867923174,2.44,0.5,Kiefer Sherwood (Points),Vancouver Canucks,Seattle Kraken
 1607069102,Under,77,4867923175,1.505,0.5,Kiefer Sherwood (Points),Vancouver Canucks,Seattle Kraken
 1607068994,Over,76,4868072555,1.961,0.5,Conor Garland (Points),Vancouver Canucks,Seattle Kraken
@@ -167,7 +167,189 @@ id,name,rot_num,line_id,price,handicap,selection,home_team,away_team
 1607068982,Under,77,4867489884,1.729,0.5,Vince Dunn (Points),Vancouver Canucks,Seattle Kraken
 1607068918,Over,76,4868064806,2.13,0.5,Jordan Eberle (Points),Vancouver Canucks,Seattle Kraken
 1607068919,Under,77,4868064807,1.662,0.5,Jordan Eberle (Points),Vancouver Canucks,Seattle Kraken
-1607069191,Over,76,4867717521,2.33,0.5,Jani Nyman (Points),Vancouver Canucks,Seattle Kraken
-1607069192,Under,77,4867717522,1.552,0.5,Jani Nyman (Points),Vancouver Canucks,Seattle Kraken
+1607069191,Over,76,4868154477,2.3,0.5,Jani Nyman (Points),Vancouver Canucks,Seattle Kraken
+1607069192,Under,77,4868154478,1.571,0.5,Jani Nyman (Points),Vancouver Canucks,Seattle Kraken
 1607148288,Over,76,4867840983,2.64,0.5,Jonathan Lekkerimaki (Points),Vancouver Canucks,Seattle Kraken
 1607148289,Under,77,4867840984,1.431,0.5,Jonathan Lekkerimaki (Points),Vancouver Canucks,Seattle Kraken
+1607158151,Over,2,4868135893,2.37,0.5,Nick Paul (Points),Ottawa Senators,Tampa Bay Lightning
+1607158152,Under,3,4868135894,1.531,0.5,Nick Paul (Points),Ottawa Senators,Tampa Bay Lightning
+1607158173,Over,2,4868135985,1.518,0.5,Brandon Hagel (Points),Ottawa Senators,Tampa Bay Lightning
+1607158174,Under,3,4868135986,2.4,0.5,Brandon Hagel (Points),Ottawa Senators,Tampa Bay Lightning
+1607158185,Over,2,4868136035,2.27,0.5,Anthony Cirelli (Points),Ottawa Senators,Tampa Bay Lightning
+1607158186,Under,3,4868136036,1.581,0.5,Anthony Cirelli (Points),Ottawa Senators,Tampa Bay Lightning
+1607158197,Over,2,4868136103,1.49,0.5,Jake Guentzel (Points),Ottawa Senators,Tampa Bay Lightning
+1607158198,Under,3,4868136104,2.47,0.5,Jake Guentzel (Points),Ottawa Senators,Tampa Bay Lightning
+1607158094,Over,2,4868135737,1.854,0.5,Jake Sanderson (Points),Ottawa Senators,Tampa Bay Lightning
+1607158095,Under,3,4868135738,1.884,0.5,Jake Sanderson (Points),Ottawa Senators,Tampa Bay Lightning
+1607158085,Over,2,4868135713,1.537,0.5,Tim Stutzle (Points),Ottawa Senators,Tampa Bay Lightning
+1607158086,Under,3,4868135714,2.36,0.5,Tim Stutzle (Points),Ottawa Senators,Tampa Bay Lightning
+1607158110,Under,3,4868135780,1.961,0.5,Victor Hedman (Points),Ottawa Senators,Tampa Bay Lightning
+1607158109,Over,2,4868135779,1.787,0.5,Victor Hedman (Points),Ottawa Senators,Tampa Bay Lightning
+1607158121,Over,2,4868135813,2.34,1.5,Nikita Kucherov (Points),Ottawa Senators,Tampa Bay Lightning
+1607158122,Under,3,4868135814,1.549,1.5,Nikita Kucherov (Points),Ottawa Senators,Tampa Bay Lightning
+1607158127,Over,2,4868135823,2.74,0.5,Yanni Gourde (Points),Ottawa Senators,Tampa Bay Lightning
+1607158128,Under,3,4868135824,1.4,0.5,Yanni Gourde (Points),Ottawa Senators,Tampa Bay Lightning
+1607158139,Over,2,4868135853,2.36,0.5,Oliver Bjorkstrand (Points),Ottawa Senators,Tampa Bay Lightning
+1607158140,Under,3,4868135854,1.537,0.5,Oliver Bjorkstrand (Points),Ottawa Senators,Tampa Bay Lightning
+1607158028,Over,2,4868135654,2.41,0.5,David Perron (Points),Ottawa Senators,Tampa Bay Lightning
+1607158029,Under,3,4868135658,1.515,0.5,David Perron (Points),Ottawa Senators,Tampa Bay Lightning
+1607158019,Over,2,4868135605,2.1,0.5,Claude Giroux (Points),Ottawa Senators,Tampa Bay Lightning
+1607158020,Under,3,4868135606,1.684,0.5,Claude Giroux (Points),Ottawa Senators,Tampa Bay Lightning
+1607158037,Over,2,4868135659,2.44,0.5,Thomas Chabot (Points),Ottawa Senators,Tampa Bay Lightning
+1607158038,Under,3,4868135661,1.505,0.5,Thomas Chabot (Points),Ottawa Senators,Tampa Bay Lightning
+1607158061,Over,2,4868135687,2.44,0.5,Fabian Zetterlund (Points),Ottawa Senators,Tampa Bay Lightning
+1607158062,Under,3,4868135689,1.502,0.5,Fabian Zetterlund (Points),Ottawa Senators,Tampa Bay Lightning
+1607158049,Over,2,4868135662,1.775,0.5,Drake Batherson (Points),Ottawa Senators,Tampa Bay Lightning
+1607158050,Under,3,4868135664,1.97,0.5,Drake Batherson (Points),Ottawa Senators,Tampa Bay Lightning
+1607158073,Over,2,4868135681,1.961,0.5,Dylan Cozens (Points),Ottawa Senators,Tampa Bay Lightning
+1607158074,Under,3,4868135682,1.781,0.5,Dylan Cozens (Points),Ottawa Senators,Tampa Bay Lightning
+1607157959,Over,4,4868135341,2.16,0.5,Casey Mittelstadt (Points),Montreal Canadiens,Boston Bruins
+1607157960,Under,5,4868135342,1.641,0.5,Casey Mittelstadt (Points),Montreal Canadiens,Boston Bruins
+1607157980,Over,4,4868135397,2.62,0.5,Mason Lohrei (Points),Montreal Canadiens,Boston Bruins
+1607157981,Under,5,4868135398,1.438,0.5,Mason Lohrei (Points),Montreal Canadiens,Boston Bruins
+1607157971,Over,4,4868150980,1.52,0.5,Cole Caufield (Points),Montreal Canadiens,Boston Bruins
+1607157972,Under,5,4868150981,2.4,0.5,Cole Caufield (Points),Montreal Canadiens,Boston Bruins
+1607157992,Over,4,4868135433,2.55,0.5,Alex Newhook (Points),Montreal Canadiens,Boston Bruins
+1607157993,Under,5,4868135434,1.462,0.5,Alex Newhook (Points),Montreal Canadiens,Boston Bruins
+1607158010,Over,4,4868135477,1.606,0.5,Lane Hutson (Points),Montreal Canadiens,Boston Bruins
+1607158011,Under,5,4868135478,2.23,0.5,Lane Hutson (Points),Montreal Canadiens,Boston Bruins
+1607158004,Over,4,4868150986,1.625,0.5,Juraj Slafkovsky (Points),Montreal Canadiens,Boston Bruins
+1607158005,Under,5,4868150987,2.19,0.5,Juraj Slafkovsky (Points),Montreal Canadiens,Boston Bruins
+1607157893,Over,4,4868150972,1.378,0.5,David Pastrnak (Points),Montreal Canadiens,Boston Bruins
+1607157894,Under,5,4868150973,2.81,0.5,David Pastrnak (Points),Montreal Canadiens,Boston Bruins
+1607157920,Over,4,4868135235,1.757,0.5,Patrik Laine (Points),Montreal Canadiens,Boston Bruins
+1607157921,Under,5,4868135236,2.0,0.5,Patrik Laine (Points),Montreal Canadiens,Boston Bruins
+1607157905,Over,4,4868135199,2.04,0.5,Pavel Zacha (Points),Montreal Canadiens,Boston Bruins
+1607157906,Under,5,4868135200,1.724,0.5,Pavel Zacha (Points),Montreal Canadiens,Boston Bruins
+1607157932,Over,4,4868135271,2.8,1.5,Nick Suzuki (Points),Montreal Canadiens,Boston Bruins
+1607157933,Under,5,4868135272,1.383,1.5,Nick Suzuki (Points),Montreal Canadiens,Boston Bruins
+1607157944,Over,4,4868135301,1.787,0.5,Morgan Geekie (Points),Montreal Canadiens,Boston Bruins
+1607157945,Under,5,4868135302,1.961,0.5,Morgan Geekie (Points),Montreal Canadiens,Boston Bruins
+1607157866,Over,4,4868135093,2.49,0.5,Mike Matheson (Points),Montreal Canadiens,Boston Bruins
+1607157867,Under,5,4868135094,1.485,0.5,Mike Matheson (Points),Montreal Canadiens,Boston Bruins
+1607157857,Over,4,4868135069,2.41,0.5,Brendan Gallagher (Points),Montreal Canadiens,Boston Bruins
+1607157858,Under,5,4868135070,1.515,0.5,Brendan Gallagher (Points),Montreal Canadiens,Boston Bruins
+1607157881,Over,4,4868135133,2.05,0.5,Elias Lindholm (Points),Montreal Canadiens,Boston Bruins
+1607157882,Under,5,4868135134,1.719,0.5,Elias Lindholm (Points),Montreal Canadiens,Boston Bruins
+1607158407,Over,8,4868136593,2.19,0.5,Erik Karlsson (Points),St. Louis Blues,Pittsburgh Penguins
+1607158408,Under,9,4868136594,1.625,0.5,Erik Karlsson (Points),St. Louis Blues,Pittsburgh Penguins
+1607158432,Under,9,4868136660,1.98,0.5,Rickard Rakell (Points),St. Louis Blues,Pittsburgh Penguins
+1607158431,Over,8,4868136659,1.769,0.5,Rickard Rakell (Points),St. Louis Blues,Pittsburgh Penguins
+1607158420,Under,9,4868151302,2.21,0.5,Bryan Rust (Points),St. Louis Blues,Pittsburgh Penguins
+1607158419,Over,8,4868151301,1.613,0.5,Bryan Rust (Points),St. Louis Blues,Pittsburgh Penguins
+1607158446,Over,8,4868136703,2.36,0.5,Ville Koivunen (Points),St. Louis Blues,Pittsburgh Penguins
+1607158447,Under,9,4868136704,1.537,0.5,Ville Koivunen (Points),St. Louis Blues,Pittsburgh Penguins
+1607158437,Over,8,4868136673,2.64,0.5,Matt Grzelcyk (Points),St. Louis Blues,Pittsburgh Penguins
+1607158438,Under,9,4868136674,1.429,0.5,Matt Grzelcyk (Points),St. Louis Blues,Pittsburgh Penguins
+1607158350,Over,10,4868157596,1.653,0.5,Filip Forsberg (Points),Dallas Stars,Nashville Predators
+1607158351,Under,11,4868157597,2.14,0.5,Filip Forsberg (Points),Dallas Stars,Nashville Predators
+1607158338,Over,10,4868136419,2.91,0.5,Brady Skjei (Points),Dallas Stars,Nashville Predators
+1607158339,Under,11,4868136420,1.355,0.5,Brady Skjei (Points),Dallas Stars,Nashville Predators
+1607158365,Over,10,4868136499,2.63,0.5,Michael Bunting (Points),Dallas Stars,Nashville Predators
+1607158366,Under,11,4868136501,1.432,0.5,Michael Bunting (Points),Dallas Stars,Nashville Predators
+1607158377,Over,10,4868136511,2.49,0.5,Luke Evangelista (Points),Dallas Stars,Nashville Predators
+1607158378,Under,11,4868136512,1.483,0.5,Luke Evangelista (Points),Dallas Stars,Nashville Predators
+1607158398,Over,8,4868136569,2.7,0.5,Kris Letang (Points),St. Louis Blues,Pittsburgh Penguins
+1607158399,Under,9,4868136570,1.411,0.5,Kris Letang (Points),St. Louis Blues,Pittsburgh Penguins
+1607158389,Over,8,4868136547,1.431,0.5,Sidney Crosby (Points),St. Louis Blues,Pittsburgh Penguins
+1607158390,Under,9,4868136548,2.64,0.5,Sidney Crosby (Points),St. Louis Blues,Pittsburgh Penguins
+1607158278,Over,10,4868136251,1.429,0.5,Jason Robertson (Points),Dallas Stars,Nashville Predators
+1607158279,Under,11,4868136252,2.65,0.5,Jason Robertson (Points),Dallas Stars,Nashville Predators
+1607158290,Over,10,4868136285,1.689,0.5,Thomas Harley (Points),Dallas Stars,Nashville Predators
+1607158291,Under,11,4868136286,2.09,0.5,Thomas Harley (Points),Dallas Stars,Nashville Predators
+1607158317,Over,10,4868136359,2.08,0.5,Steven Stamkos (Points),Dallas Stars,Nashville Predators
+1607158318,Under,11,4868136360,1.694,0.5,Steven Stamkos (Points),Dallas Stars,Nashville Predators
+1607158305,Over,10,4868136323,1.568,0.5,Wyatt Johnston (Points),Dallas Stars,Nashville Predators
+1607158306,Under,11,4868136324,2.3,0.5,Wyatt Johnston (Points),Dallas Stars,Nashville Predators
+1607158329,Over,10,4868136389,2.07,0.5,Ryan O'Reilly (Points),Dallas Stars,Nashville Predators
+1607158330,Under,11,4868136390,1.699,0.5,Ryan O'Reilly (Points),Dallas Stars,Nashville Predators
+1607158218,Over,10,4868136075,1.649,0.5,Matt Duchene (Points),Dallas Stars,Nashville Predators
+1607158219,Under,11,4868136076,2.15,0.5,Matt Duchene (Points),Dallas Stars,Nashville Predators
+1607158230,Over,10,4868136121,1.8,0.5,Mikael Granlund (Points),Dallas Stars,Nashville Predators
+1607158231,Under,11,4868136122,1.943,0.5,Mikael Granlund (Points),Dallas Stars,Nashville Predators
+1607158254,Over,10,4868136191,2.1,0.5,Mason Marchment (Points),Dallas Stars,Nashville Predators
+1607158255,Under,11,4868136192,1.68,0.5,Mason Marchment (Points),Dallas Stars,Nashville Predators
+1607158242,Over,10,4868136159,1.423,0.5,Mikko Rantanen (Points),Dallas Stars,Nashville Predators
+1607158243,Under,11,4868136160,2.66,0.5,Mikko Rantanen (Points),Dallas Stars,Nashville Predators
+1607158266,Over,10,4868136219,1.48,0.5,Roope Hintz (Points),Dallas Stars,Nashville Predators
+1607158267,Under,11,4868136220,2.5,0.5,Roope Hintz (Points),Dallas Stars,Nashville Predators
+1607158206,Over,10,4868136047,2.25,0.5,Jamie Benn (Points),Dallas Stars,Nashville Predators
+1607158207,Under,11,4868136048,1.591,0.5,Jamie Benn (Points),Dallas Stars,Nashville Predators
+1607158854,Over,8,4868138308,1.735,0.5,Pavel Buchnevich (Points),St. Louis Blues,Pittsburgh Penguins
+1607158855,Under,9,4868138309,2.02,0.5,Pavel Buchnevich (Points),St. Louis Blues,Pittsburgh Penguins
+1607158878,Over,8,4868138391,1.689,0.5,Dylan Holloway (Points),St. Louis Blues,Pittsburgh Penguins
+1607158879,Under,9,4868138392,2.09,0.5,Dylan Holloway (Points),St. Louis Blues,Pittsburgh Penguins
+1607158866,Over,8,4868140223,1.387,0.5,Robert Thomas (Points),St. Louis Blues,Pittsburgh Penguins
+1607158867,Under,9,4868140224,2.78,0.5,Robert Thomas (Points),St. Louis Blues,Pittsburgh Penguins
+1607158887,Over,8,4868138415,2.09,0.5,Jake Neighbours (Points),St. Louis Blues,Pittsburgh Penguins
+1607158888,Under,9,4868138416,1.689,0.5,Jake Neighbours (Points),St. Louis Blues,Pittsburgh Penguins
+1607158899,Over,8,4868138441,2.22,0.5,Zack Bolduc (Points),St. Louis Blues,Pittsburgh Penguins
+1607158900,Under,9,4868138442,1.609,0.5,Zack Bolduc (Points),St. Louis Blues,Pittsburgh Penguins
+1607158816,Under,9,4868138201,1.751,0.5,Brayden Schenn (Points),St. Louis Blues,Pittsburgh Penguins
+1607158815,Over,8,4868138200,2.0,0.5,Brayden Schenn (Points),St. Louis Blues,Pittsburgh Penguins
+1607158830,Over,8,4868138244,2.19,0.5,Cam Fowler (Points),St. Louis Blues,Pittsburgh Penguins
+1607158831,Under,9,4868138245,1.625,0.5,Cam Fowler (Points),St. Louis Blues,Pittsburgh Penguins
+1607158824,Over,8,4868138228,2.45,0.5,Justin Faulk (Points),St. Louis Blues,Pittsburgh Penguins
+1607158825,Under,9,4868138229,1.5,0.5,Justin Faulk (Points),St. Louis Blues,Pittsburgh Penguins
+1607158842,Over,8,4868138274,1.598,0.5,Jordan Kyrou (Points),St. Louis Blues,Pittsburgh Penguins
+1607158843,Under,9,4868138275,2.24,0.5,Jordan Kyrou (Points),St. Louis Blues,Pittsburgh Penguins
+1607158731,Over,12,4868137757,2.24,0.5,Trevor Moore (Points),Utah Hockey Club,Los Angeles Kings
+1607158732,Under,13,4868137758,1.598,0.5,Trevor Moore (Points),Utah Hockey Club,Los Angeles Kings
+1607158749,Over,12,4868137817,3.03,0.5,Sean Durzi (Points),Utah Hockey Club,Los Angeles Kings
+1607158750,Under,13,4868137818,1.327,0.5,Sean Durzi (Points),Utah Hockey Club,Los Angeles Kings
+1607158743,Over,12,4868137805,2.44,0.5,Barrett Hayton (Points),Utah Hockey Club,Los Angeles Kings
+1607158744,Under,13,4868137806,1.502,0.5,Barrett Hayton (Points),Utah Hockey Club,Los Angeles Kings
+1607158761,Over,12,4868137839,2.06,0.5,Quinton Byfield (Points),Utah Hockey Club,Los Angeles Kings
+1607158762,Under,13,4868137840,1.704,0.5,Quinton Byfield (Points),Utah Hockey Club,Los Angeles Kings
+1607158779,Over,12,4868137885,1.746,0.5,Dylan Guenther (Points),Utah Hockey Club,Los Angeles Kings
+1607158780,Under,13,4868137886,2.01,0.5,Dylan Guenther (Points),Utah Hockey Club,Los Angeles Kings
+1607158671,Over,12,4868153184,1.709,0.5,Nick Schmaltz (Points),Utah Hockey Club,Los Angeles Kings
+1607158672,Under,13,4868153185,2.06,0.5,Nick Schmaltz (Points),Utah Hockey Club,Los Angeles Kings
+1607158659,Over,12,4868137490,1.746,0.5,Kevin Fiala (Points),Utah Hockey Club,Los Angeles Kings
+1607158660,Under,13,4868137491,2.01,0.5,Kevin Fiala (Points),Utah Hockey Club,Los Angeles Kings
+1607158686,Over,12,4868153194,1.653,0.5,Adrian Kempe (Points),Utah Hockey Club,Los Angeles Kings
+1607158687,Under,13,4868153195,2.14,0.5,Adrian Kempe (Points),Utah Hockey Club,Los Angeles Kings
+1607158698,Over,12,4868137590,1.507,0.5,Clayton Keller (Points),Utah Hockey Club,Los Angeles Kings
+1607158699,Under,13,4868137591,2.43,0.5,Clayton Keller (Points),Utah Hockey Club,Los Angeles Kings
+1607158720,Under,13,4868137651,1.666,0.5,Warren Foegele (Points),Utah Hockey Club,Los Angeles Kings
+1607158719,Over,12,4868137650,2.12,0.5,Warren Foegele (Points),Utah Hockey Club,Los Angeles Kings
+1607158707,Over,12,4868137614,2.1,0.5,Mikhail Sergachev (Points),Utah Hockey Club,Los Angeles Kings
+1607158708,Under,13,4868137615,1.68,0.5,Mikhail Sergachev (Points),Utah Hockey Club,Los Angeles Kings
+1607158638,Over,12,4868137432,2.24,0.5,Drew Doughty (Points),Utah Hockey Club,Los Angeles Kings
+1607158639,Under,13,4868137433,1.595,0.5,Drew Doughty (Points),Utah Hockey Club,Los Angeles Kings
+1607158632,Over,12,4868137416,1.775,0.5,Anze Kopitar (Points),Utah Hockey Club,Los Angeles Kings
+1607158633,Under,13,4868137417,1.97,0.5,Anze Kopitar (Points),Utah Hockey Club,Los Angeles Kings
+1607158647,Over,12,4868137456,2.27,0.5,Phillip Danault (Points),Utah Hockey Club,Los Angeles Kings
+1607158648,Under,13,4868137457,1.578,0.5,Phillip Danault (Points),Utah Hockey Club,Los Angeles Kings
+1607158791,Over,12,4868137923,2.14,0.5,Andrei Kuzmenko (Points),Utah Hockey Club,Los Angeles Kings
+1607158792,Under,13,4868137924,1.653,0.5,Andrei Kuzmenko (Points),Utah Hockey Club,Los Angeles Kings
+1607158803,Over,12,4868153212,1.781,0.5,Logan Cooley (Points),Utah Hockey Club,Los Angeles Kings
+1607158804,Under,13,4868153213,1.961,0.5,Logan Cooley (Points),Utah Hockey Club,Los Angeles Kings
+1607158602,Over,18,4868137334,2.14,0.5,Will Smith (Points),San Jose Sharks,Edmonton Oilers
+1607158603,Under,19,4868137335,1.657,0.5,Will Smith (Points),San Jose Sharks,Edmonton Oilers
+1607158624,Under,19,4868157615,2.12,0.5,Macklin Celebrini (Points),San Jose Sharks,Edmonton Oilers
+1607158623,Over,18,4868157614,1.666,0.5,Macklin Celebrini (Points),San Jose Sharks,Edmonton Oilers
+1607158611,Over,18,4868137358,2.72,0.5,Collin Graf (Points),San Jose Sharks,Edmonton Oilers
+1607158612,Under,19,4868137359,1.404,0.5,Collin Graf (Points),San Jose Sharks,Edmonton Oilers
+1607158536,Over,18,4868157610,1.925,1.5,Leon Draisaitl (Points),San Jose Sharks,Edmonton Oilers
+1607158537,Under,19,4868157611,1.819,1.5,Leon Draisaitl (Points),San Jose Sharks,Edmonton Oilers
+1607158560,Over,18,4868137230,2.13,0.5,Jake Walman (Points),San Jose Sharks,Edmonton Oilers
+1607158561,Under,19,4868137231,1.662,0.5,Jake Walman (Points),San Jose Sharks,Edmonton Oilers
+1607158551,Over,18,4868137208,2.17,0.5,Viktor Arvidsson (Points),San Jose Sharks,Edmonton Oilers
+1607158552,Under,19,4868137209,1.636,0.5,Viktor Arvidsson (Points),San Jose Sharks,Edmonton Oilers
+1607158572,Over,18,4868137258,1.476,0.5,Evan Bouchard (Points),San Jose Sharks,Edmonton Oilers
+1607158573,Under,19,4868137259,2.51,0.5,Evan Bouchard (Points),San Jose Sharks,Edmonton Oilers
+1607158584,Over,18,4868137290,1.724,0.5,William Eklund (Points),San Jose Sharks,Edmonton Oilers
+1607158585,Under,19,4868137291,2.04,0.5,William Eklund (Points),San Jose Sharks,Edmonton Oilers
+1607158479,Over,18,4868136917,2.02,0.5,Jeff Skinner (Points),San Jose Sharks,Edmonton Oilers
+1607158480,Under,19,4868136918,1.74,0.5,Jeff Skinner (Points),San Jose Sharks,Edmonton Oilers
+1607158467,Over,18,4868136885,1.819,0.5,Tyler Toffoli (Points),San Jose Sharks,Edmonton Oilers
+1607158468,Under,19,4868136886,1.917,0.5,Tyler Toffoli (Points),San Jose Sharks,Edmonton Oilers
+1607158491,Over,18,4868157604,1.52,0.5,Zach Hyman (Points),San Jose Sharks,Edmonton Oilers
+1607158492,Under,19,4868157605,2.4,0.5,Zach Hyman (Points),San Jose Sharks,Edmonton Oilers
+1607158503,Over,18,4868136981,1.531,0.5,Ryan Nugent-Hopkins (Points),San Jose Sharks,Edmonton Oilers
+1607158504,Under,19,4868136982,2.37,0.5,Ryan Nugent-Hopkins (Points),San Jose Sharks,Edmonton Oilers
+1607158524,Over,18,4868137035,2.3,0.5,Alex Wennberg (Points),San Jose Sharks,Edmonton Oilers
+1607158525,Under,19,4868137036,1.564,0.5,Alex Wennberg (Points),San Jose Sharks,Edmonton Oilers
+1607158515,Over,18,4868137009,2.27,0.5,Darnell Nurse (Points),San Jose Sharks,Edmonton Oilers
+1607158516,Under,19,4868137010,1.581,0.5,Darnell Nurse (Points),San Jose Sharks,Edmonton Oilers

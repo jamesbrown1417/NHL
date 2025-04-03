@@ -123,10 +123,10 @@ id,name,rot_num,line_id,price,handicap,selection,home_team,away_team
 1607068730,Under,75,4866946249,2.27,1.5,Brock Nelson (Shots On Goal),Chicago Blackhawks,Colorado Avalanche
 1607069140,Over,76,4867489889,2.03,1.5,Kaapo Kakko (Shots On Goal),Vancouver Canucks,Seattle Kraken
 1607069141,Under,77,4867489890,1.793,1.5,Kaapo Kakko (Shots On Goal),Vancouver Canucks,Seattle Kraken
-1607069155,Over,76,4868078704,1.763,1.5,Matty Beniers (Shots On Goal),Vancouver Canucks,Seattle Kraken
-1607069156,Under,77,4868078705,1.98,1.5,Matty Beniers (Shots On Goal),Vancouver Canucks,Seattle Kraken
-1607069182,Over,76,4868062525,1.8,1.5,Jani Nyman (Shots On Goal),Vancouver Canucks,Seattle Kraken
-1607069183,Under,77,4868062526,1.934,1.5,Jani Nyman (Shots On Goal),Vancouver Canucks,Seattle Kraken
+1607069155,Over,76,4868157578,1.909,1.5,Matty Beniers (Shots On Goal),Vancouver Canucks,Seattle Kraken
+1607069156,Under,77,4868157579,1.826,1.5,Matty Beniers (Shots On Goal),Vancouver Canucks,Seattle Kraken
+1607069182,Over,76,4868129553,1.793,1.5,Jani Nyman (Shots On Goal),Vancouver Canucks,Seattle Kraken
+1607069183,Under,77,4868129554,1.943,1.5,Jani Nyman (Shots On Goal),Vancouver Canucks,Seattle Kraken
 1607069128,Over,76,4868116303,1.833,2.5,Quinn Hughes (Shots On Goal),Vancouver Canucks,Seattle Kraken
 1607069129,Under,77,4868116304,1.9,2.5,Quinn Hughes (Shots On Goal),Vancouver Canucks,Seattle Kraken
 1607069091,Over,76,4864734596,1.641,1.5,Kiefer Sherwood (Shots On Goal),Vancouver Canucks,Seattle Kraken
@@ -139,11 +139,165 @@ id,name,rot_num,line_id,price,handicap,selection,home_team,away_team
 1607069050,Under,77,4864734591,2.13,1.5,Pius Suter (Shots On Goal),Vancouver Canucks,Seattle Kraken
 1607068957,Over,76,4866639381,2.44,2.5,Jake DeBrusk (Shots On Goal),Vancouver Canucks,Seattle Kraken
 1607068958,Under,77,4866639382,1.512,2.5,Jake DeBrusk (Shots On Goal),Vancouver Canucks,Seattle Kraken
-1607068945,Over,76,4867717501,2.29,2.5,Jared McCann (Shots On Goal),Vancouver Canucks,Seattle Kraken
-1607068946,Under,77,4867717502,1.561,2.5,Jared McCann (Shots On Goal),Vancouver Canucks,Seattle Kraken
-1607068971,Over,76,4867489879,1.595,1.5,Vince Dunn (Shots On Goal),Vancouver Canucks,Seattle Kraken
-1607068972,Under,77,4867489880,2.25,1.5,Vince Dunn (Shots On Goal),Vancouver Canucks,Seattle Kraken
+1607068945,Over,76,4868157576,2.29,2.5,Jared McCann (Shots On Goal),Vancouver Canucks,Seattle Kraken
+1607068946,Under,77,4868157577,1.564,2.5,Jared McCann (Shots On Goal),Vancouver Canucks,Seattle Kraken
+1607068971,Over,76,4868156330,1.719,1.5,Vince Dunn (Shots On Goal),Vancouver Canucks,Seattle Kraken
+1607068972,Under,77,4868156331,2.04,1.5,Vince Dunn (Shots On Goal),Vancouver Canucks,Seattle Kraken
 1607068985,Under,77,4864695195,1.469,2.5,Conor Garland (Shots On Goal),Vancouver Canucks,Seattle Kraken
 1607068984,Over,76,4864695194,2.53,2.5,Conor Garland (Shots On Goal),Vancouver Canucks,Seattle Kraken
-1607068909,Over,76,4867717499,1.934,1.5,Jordan Eberle (Shots On Goal),Vancouver Canucks,Seattle Kraken
-1607068910,Under,77,4867717500,1.813,1.5,Jordan Eberle (Shots On Goal),Vancouver Canucks,Seattle Kraken
+1607068909,Over,76,4868157574,1.925,1.5,Jordan Eberle (Shots On Goal),Vancouver Canucks,Seattle Kraken
+1607068910,Under,77,4868157575,1.813,1.5,Jordan Eberle (Shots On Goal),Vancouver Canucks,Seattle Kraken
+1607158154,Over,2,4868135905,2.22,2.5,Brayden Point (Shots On Goal),Ottawa Senators,Tampa Bay Lightning
+1607158155,Under,3,4868135906,1.609,2.5,Brayden Point (Shots On Goal),Ottawa Senators,Tampa Bay Lightning
+1607158176,Over,2,4868135983,1.961,1.5,Anthony Cirelli (Shots On Goal),Ottawa Senators,Tampa Bay Lightning
+1607158177,Under,3,4868135984,1.781,1.5,Anthony Cirelli (Shots On Goal),Ottawa Senators,Tampa Bay Lightning
+1607158164,Over,2,4868135937,2.03,2.5,Brandon Hagel (Shots On Goal),Ottawa Senators,Tampa Bay Lightning
+1607158165,Under,3,4868135938,1.735,2.5,Brandon Hagel (Shots On Goal),Ottawa Senators,Tampa Bay Lightning
+1607158188,Over,2,4868136039,1.952,2.5,Jake Guentzel (Shots On Goal),Ottawa Senators,Tampa Bay Lightning
+1607158189,Under,3,4868136040,1.793,2.5,Jake Guentzel (Shots On Goal),Ottawa Senators,Tampa Bay Lightning
+1607158088,Over,2,4868135719,2.46,2.5,Jake Sanderson (Shots On Goal),Ottawa Senators,Tampa Bay Lightning
+1607158089,Under,3,4868135720,1.492,2.5,Jake Sanderson (Shots On Goal),Ottawa Senators,Tampa Bay Lightning
+1607158112,Over,2,4868135787,1.613,2.5,Nikita Kucherov (Shots On Goal),Ottawa Senators,Tampa Bay Lightning
+1607158113,Under,3,4868135788,2.21,2.5,Nikita Kucherov (Shots On Goal),Ottawa Senators,Tampa Bay Lightning
+1607158103,Over,2,4868135761,2.5,2.5,Victor Hedman (Shots On Goal),Ottawa Senators,Tampa Bay Lightning
+1607158104,Under,3,4868135762,1.478,2.5,Victor Hedman (Shots On Goal),Ottawa Senators,Tampa Bay Lightning
+1607158142,Over,2,4868135861,1.84,1.5,Nick Paul (Shots On Goal),Ottawa Senators,Tampa Bay Lightning
+1607158143,Under,3,4868135862,1.9,1.5,Nick Paul (Shots On Goal),Ottawa Senators,Tampa Bay Lightning
+1607158130,Over,2,4868135829,2.0,1.5,Oliver Bjorkstrand (Shots On Goal),Ottawa Senators,Tampa Bay Lightning
+1607158131,Under,3,4868135830,1.751,1.5,Oliver Bjorkstrand (Shots On Goal),Ottawa Senators,Tampa Bay Lightning
+1607158031,Over,2,4868135652,1.568,1.5,Thomas Chabot (Shots On Goal),Ottawa Senators,Tampa Bay Lightning
+1607158032,Under,3,4868135656,2.3,1.5,Thomas Chabot (Shots On Goal),Ottawa Senators,Tampa Bay Lightning
+1607158040,Over,2,4868135650,2.48,2.5,Drake Batherson (Shots On Goal),Ottawa Senators,Tampa Bay Lightning
+1607158041,Under,3,4868135655,1.49,2.5,Drake Batherson (Shots On Goal),Ottawa Senators,Tampa Bay Lightning
+1607158064,Over,2,4868135685,2.44,2.5,Dylan Cozens (Shots On Goal),Ottawa Senators,Tampa Bay Lightning
+1607158065,Under,3,4868135686,1.505,2.5,Dylan Cozens (Shots On Goal),Ottawa Senators,Tampa Bay Lightning
+1607158052,Over,2,4868135683,1.543,1.5,Fabian Zetterlund (Shots On Goal),Ottawa Senators,Tampa Bay Lightning
+1607158053,Under,3,4868135684,2.35,1.5,Fabian Zetterlund (Shots On Goal),Ottawa Senators,Tampa Bay Lightning
+1607158076,Over,2,4868135707,1.571,1.5,Tim Stutzle (Shots On Goal),Ottawa Senators,Tampa Bay Lightning
+1607158077,Under,3,4868135708,2.29,1.5,Tim Stutzle (Shots On Goal),Ottawa Senators,Tampa Bay Lightning
+1607157962,Over,4,4868135349,1.645,2.5,Cole Caufield (Shots On Goal),Montreal Canadiens,Boston Bruins
+1607157963,Under,5,4868135350,2.16,2.5,Cole Caufield (Shots On Goal),Montreal Canadiens,Boston Bruins
+1607157983,Over,4,4868135409,1.862,1.5,Alex Newhook (Shots On Goal),Montreal Canadiens,Boston Bruins
+1607157984,Under,5,4868135410,1.877,1.5,Alex Newhook (Shots On Goal),Montreal Canadiens,Boston Bruins
+1607157974,Over,4,4868135373,2.19,1.5,Mason Lohrei (Shots On Goal),Montreal Canadiens,Boston Bruins
+1607157975,Under,5,4868135374,1.625,1.5,Mason Lohrei (Shots On Goal),Montreal Canadiens,Boston Bruins
+1607157995,Over,4,4868150982,1.526,1.5,Juraj Slafkovsky (Shots On Goal),Montreal Canadiens,Boston Bruins
+1607157996,Under,5,4868150983,2.39,1.5,Juraj Slafkovsky (Shots On Goal),Montreal Canadiens,Boston Bruins
+1607157896,Over,4,4868138164,2.03,1.5,Pavel Zacha (Shots On Goal),Montreal Canadiens,Boston Bruins
+1607157897,Under,5,4868138165,1.729,1.5,Pavel Zacha (Shots On Goal),Montreal Canadiens,Boston Bruins
+1607157911,Over,4,4868135213,2.31,2.5,Patrik Laine (Shots On Goal),Montreal Canadiens,Boston Bruins
+1607157912,Under,5,4868135214,1.561,2.5,Patrik Laine (Shots On Goal),Montreal Canadiens,Boston Bruins
+1607157935,Over,4,4868135279,1.526,1.5,Morgan Geekie (Shots On Goal),Montreal Canadiens,Boston Bruins
+1607157936,Under,5,4868135280,2.39,1.5,Morgan Geekie (Shots On Goal),Montreal Canadiens,Boston Bruins
+1607157924,Under,5,4868135248,1.578,2.5,Nick Suzuki (Shots On Goal),Montreal Canadiens,Boston Bruins
+1607157923,Over,4,4868135247,2.27,2.5,Nick Suzuki (Shots On Goal),Montreal Canadiens,Boston Bruins
+1607157947,Over,4,4868150976,1.934,1.5,Vinni Lettieri (Shots On Goal),Montreal Canadiens,Boston Bruins
+1607157948,Under,5,4868150977,1.806,1.5,Vinni Lettieri (Shots On Goal),Montreal Canadiens,Boston Bruins
+1607157848,Over,4,4868157580,1.719,1.5,Brendan Gallagher (Shots On Goal),Montreal Canadiens,Boston Bruins
+1607157849,Under,5,4868157581,2.04,1.5,Brendan Gallagher (Shots On Goal),Montreal Canadiens,Boston Bruins
+1607157872,Over,4,4868135109,1.709,1.5,Elias Lindholm (Shots On Goal),Montreal Canadiens,Boston Bruins
+1607157873,Under,5,4868135110,2.06,1.5,Elias Lindholm (Shots On Goal),Montreal Canadiens,Boston Bruins
+1607157860,Over,4,4868135081,1.847,1.5,Mike Matheson (Shots On Goal),Montreal Canadiens,Boston Bruins
+1607157861,Under,5,4868135082,1.892,1.5,Mike Matheson (Shots On Goal),Montreal Canadiens,Boston Bruins
+1607157884,Over,4,4868135141,1.666,3.5,David Pastrnak (Shots On Goal),Montreal Canadiens,Boston Bruins
+1607157885,Under,5,4868135142,2.12,3.5,David Pastrnak (Shots On Goal),Montreal Canadiens,Boston Bruins
+1607158410,Over,8,4868136601,2.04,2.5,Bryan Rust (Shots On Goal),St. Louis Blues,Pittsburgh Penguins
+1607158411,Under,9,4868136602,1.724,2.5,Bryan Rust (Shots On Goal),St. Louis Blues,Pittsburgh Penguins
+1607158401,Over,8,4868136577,1.526,1.5,Erik Karlsson (Shots On Goal),St. Louis Blues,Pittsburgh Penguins
+1607158402,Under,9,4868136578,2.39,1.5,Erik Karlsson (Shots On Goal),St. Louis Blues,Pittsburgh Penguins
+1607158422,Over,8,4868136633,1.512,1.5,Rickard Rakell (Shots On Goal),St. Louis Blues,Pittsburgh Penguins
+1607158423,Under,9,4868136634,2.41,1.5,Rickard Rakell (Shots On Goal),St. Louis Blues,Pittsburgh Penguins
+1607158341,Over,10,4868157592,2.15,3.5,Filip Forsberg (Shots On Goal),Dallas Stars,Nashville Predators
+1607158342,Under,11,4868157593,1.649,3.5,Filip Forsberg (Shots On Goal),Dallas Stars,Nashville Predators
+1607158368,Over,10,4868136500,1.714,1.5,Luke Evangelista (Shots On Goal),Dallas Stars,Nashville Predators
+1607158369,Under,11,4868136502,2.05,1.5,Luke Evangelista (Shots On Goal),Dallas Stars,Nashville Predators
+1607158356,Over,10,4868136485,1.625,1.5,Michael Bunting (Shots On Goal),Dallas Stars,Nashville Predators
+1607158357,Under,11,4868136486,2.19,1.5,Michael Bunting (Shots On Goal),Dallas Stars,Nashville Predators
+1607158380,Over,8,4868136519,2.05,2.5,Sidney Crosby (Shots On Goal),St. Louis Blues,Pittsburgh Penguins
+1607158381,Under,9,4868136520,1.714,2.5,Sidney Crosby (Shots On Goal),St. Louis Blues,Pittsburgh Penguins
+1607158392,Over,8,4868136553,1.666,1.5,Kris Letang (Shots On Goal),St. Louis Blues,Pittsburgh Penguins
+1607158393,Under,9,4868136554,2.12,1.5,Kris Letang (Shots On Goal),St. Louis Blues,Pittsburgh Penguins
+1607158281,Over,10,4868136265,2.37,2.5,Thomas Harley (Shots On Goal),Dallas Stars,Nashville Predators
+1607158282,Under,11,4868136266,1.534,2.5,Thomas Harley (Shots On Goal),Dallas Stars,Nashville Predators
+1607158296,Over,10,4868136299,2.31,2.5,Wyatt Johnston (Shots On Goal),Dallas Stars,Nashville Predators
+1607158297,Under,11,4868136300,1.558,2.5,Wyatt Johnston (Shots On Goal),Dallas Stars,Nashville Predators
+1607158320,Over,10,4868157588,1.854,1.5,Ryan O'Reilly (Shots On Goal),Dallas Stars,Nashville Predators
+1607158321,Under,11,4868157589,1.884,1.5,Ryan O'Reilly (Shots On Goal),Dallas Stars,Nashville Predators
+1607158308,Over,10,4868157584,1.497,1.5,Steven Stamkos (Shots On Goal),Dallas Stars,Nashville Predators
+1607158309,Under,11,4868157585,2.46,1.5,Steven Stamkos (Shots On Goal),Dallas Stars,Nashville Predators
+1607158332,Over,10,4868136399,2.05,1.5,Brady Skjei (Shots On Goal),Dallas Stars,Nashville Predators
+1607158333,Under,11,4868136400,1.714,1.5,Brady Skjei (Shots On Goal),Dallas Stars,Nashville Predators
+1607158221,Over,10,4868136083,1.943,1.5,Mikael Granlund (Shots On Goal),Dallas Stars,Nashville Predators
+1607158222,Under,11,4868136084,1.8,1.5,Mikael Granlund (Shots On Goal),Dallas Stars,Nashville Predators
+1607158209,Over,10,4868136055,1.512,1.5,Matt Duchene (Shots On Goal),Dallas Stars,Nashville Predators
+1607158210,Under,11,4868136056,2.42,1.5,Matt Duchene (Shots On Goal),Dallas Stars,Nashville Predators
+1607158233,Over,10,4868157598,2.03,2.5,Mikko Rantanen (Shots On Goal),Dallas Stars,Nashville Predators
+1607158234,Under,11,4868157599,1.729,2.5,Mikko Rantanen (Shots On Goal),Dallas Stars,Nashville Predators
+1607158245,Over,10,4868136163,1.555,1.5,Mason Marchment (Shots On Goal),Dallas Stars,Nashville Predators
+1607158246,Under,11,4868136164,2.32,1.5,Mason Marchment (Shots On Goal),Dallas Stars,Nashville Predators
+1607158269,Over,10,4868136227,2.05,2.5,Jason Robertson (Shots On Goal),Dallas Stars,Nashville Predators
+1607158270,Under,11,4868136228,1.714,2.5,Jason Robertson (Shots On Goal),Dallas Stars,Nashville Predators
+1607158257,Over,10,4868136199,1.518,1.5,Roope Hintz (Shots On Goal),Dallas Stars,Nashville Predators
+1607158258,Under,11,4868136200,2.4,1.5,Roope Hintz (Shots On Goal),Dallas Stars,Nashville Predators
+1607158857,Over,8,4868138316,1.497,1.5,Robert Thomas (Shots On Goal),St. Louis Blues,Pittsburgh Penguins
+1607158858,Under,9,4868138317,2.46,1.5,Robert Thomas (Shots On Goal),St. Louis Blues,Pittsburgh Penguins
+1607158869,Over,8,4868138363,2.15,2.5,Dylan Holloway (Shots On Goal),St. Louis Blues,Pittsburgh Penguins
+1607158870,Under,9,4868138364,1.649,2.5,Dylan Holloway (Shots On Goal),St. Louis Blues,Pittsburgh Penguins
+1607158890,Over,8,4868138425,1.558,1.5,Zack Bolduc (Shots On Goal),St. Louis Blues,Pittsburgh Penguins
+1607158891,Under,9,4868138426,2.32,1.5,Zack Bolduc (Shots On Goal),St. Louis Blues,Pittsburgh Penguins
+1607158806,Over,8,4868138174,1.854,1.5,Brayden Schenn (Shots On Goal),St. Louis Blues,Pittsburgh Penguins
+1607158807,Under,9,4868138175,1.884,1.5,Brayden Schenn (Shots On Goal),St. Louis Blues,Pittsburgh Penguins
+1607158818,Over,8,4868138210,1.98,1.5,Justin Faulk (Shots On Goal),St. Louis Blues,Pittsburgh Penguins
+1607158819,Under,9,4868138211,1.769,1.5,Justin Faulk (Shots On Goal),St. Louis Blues,Pittsburgh Penguins
+1607158845,Over,8,4868138282,1.51,1.5,Pavel Buchnevich (Shots On Goal),St. Louis Blues,Pittsburgh Penguins
+1607158846,Under,9,4868138283,2.42,1.5,Pavel Buchnevich (Shots On Goal),St. Louis Blues,Pittsburgh Penguins
+1607158833,Over,8,4868138248,1.757,2.5,Jordan Kyrou (Shots On Goal),St. Louis Blues,Pittsburgh Penguins
+1607158834,Under,9,4868138249,1.99,2.5,Jordan Kyrou (Shots On Goal),St. Louis Blues,Pittsburgh Penguins
+1607158734,Over,12,4868137769,1.917,1.5,Barrett Hayton (Shots On Goal),Utah Hockey Club,Los Angeles Kings
+1607158735,Under,13,4868137770,1.826,1.5,Barrett Hayton (Shots On Goal),Utah Hockey Club,Los Angeles Kings
+1607158722,Over,12,4868137660,1.529,1.5,Trevor Moore (Shots On Goal),Utah Hockey Club,Los Angeles Kings
+1607158723,Under,13,4868137661,2.38,1.5,Trevor Moore (Shots On Goal),Utah Hockey Club,Los Angeles Kings
+1607158752,Over,12,4868137821,1.709,1.5,Quinton Byfield (Shots On Goal),Utah Hockey Club,Los Angeles Kings
+1607158753,Under,13,4868137822,2.06,1.5,Quinton Byfield (Shots On Goal),Utah Hockey Club,Los Angeles Kings
+1607158764,Over,12,4868137849,1.52,1.5,Alex Laferriere (Shots On Goal),Utah Hockey Club,Los Angeles Kings
+1607158765,Under,13,4868137850,2.4,1.5,Alex Laferriere (Shots On Goal),Utah Hockey Club,Los Angeles Kings
+1607158770,Over,12,4868137865,1.757,2.5,Dylan Guenther (Shots On Goal),Utah Hockey Club,Los Angeles Kings
+1607158771,Under,13,4868137866,2.0,2.5,Dylan Guenther (Shots On Goal),Utah Hockey Club,Los Angeles Kings
+1607158662,Over,12,4868137498,1.561,1.5,Nick Schmaltz (Shots On Goal),Utah Hockey Club,Los Angeles Kings
+1607158663,Under,13,4868137499,2.31,1.5,Nick Schmaltz (Shots On Goal),Utah Hockey Club,Los Angeles Kings
+1607158677,Over,12,4868137536,1.862,2.5,Adrian Kempe (Shots On Goal),Utah Hockey Club,Los Angeles Kings
+1607158678,Under,13,4868137537,1.877,2.5,Adrian Kempe (Shots On Goal),Utah Hockey Club,Los Angeles Kings
+1607158701,Over,12,4868137598,1.952,1.5,Mikhail Sergachev (Shots On Goal),Utah Hockey Club,Los Angeles Kings
+1607158702,Under,13,4868137599,1.793,1.5,Mikhail Sergachev (Shots On Goal),Utah Hockey Club,Los Angeles Kings
+1607158689,Over,12,4868137566,2.24,2.5,Clayton Keller (Shots On Goal),Utah Hockey Club,Los Angeles Kings
+1607158690,Under,13,4868137567,1.598,2.5,Clayton Keller (Shots On Goal),Utah Hockey Club,Los Angeles Kings
+1607158710,Over,12,4868137622,2.24,2.5,Warren Foegele (Shots On Goal),Utah Hockey Club,Los Angeles Kings
+1607158711,Under,13,4868137623,1.595,2.5,Warren Foegele (Shots On Goal),Utah Hockey Club,Los Angeles Kings
+1607158650,Over,12,4868137466,1.847,2.5,Kevin Fiala (Shots On Goal),Utah Hockey Club,Los Angeles Kings
+1607158651,Under,13,4868137467,1.884,2.5,Kevin Fiala (Shots On Goal),Utah Hockey Club,Los Angeles Kings
+1607158794,Over,12,4868137931,1.649,1.5,Logan Cooley (Shots On Goal),Utah Hockey Club,Los Angeles Kings
+1607158795,Under,13,4868137932,2.15,1.5,Logan Cooley (Shots On Goal),Utah Hockey Club,Los Angeles Kings
+1607158593,Over,18,4868137310,1.769,1.5,Will Smith (Shots On Goal),San Jose Sharks,Edmonton Oilers
+1607158594,Under,19,4868137311,1.98,1.5,Will Smith (Shots On Goal),San Jose Sharks,Edmonton Oilers
+1607158614,Over,18,4868137370,2.3,3.5,Macklin Celebrini (Shots On Goal),San Jose Sharks,Edmonton Oilers
+1607158615,Under,19,4868137371,1.564,3.5,Macklin Celebrini (Shots On Goal),San Jose Sharks,Edmonton Oilers
+1607158542,Over,18,4868137184,2.22,2.5,Viktor Arvidsson (Shots On Goal),San Jose Sharks,Edmonton Oilers
+1607158543,Under,19,4868137185,1.609,2.5,Viktor Arvidsson (Shots On Goal),San Jose Sharks,Edmonton Oilers
+1607158554,Over,18,4868137216,1.49,1.5,Jake Walman (Shots On Goal),San Jose Sharks,Edmonton Oilers
+1607158555,Under,19,4868137217,2.47,1.5,Jake Walman (Shots On Goal),San Jose Sharks,Edmonton Oilers
+1607158575,Over,18,4868137266,1.641,1.5,William Eklund (Shots On Goal),San Jose Sharks,Edmonton Oilers
+1607158576,Under,19,4868137267,2.16,1.5,William Eklund (Shots On Goal),San Jose Sharks,Edmonton Oilers
+1607158563,Over,18,4868137236,1.84,2.5,Evan Bouchard (Shots On Goal),San Jose Sharks,Edmonton Oilers
+1607158564,Under,19,4868137237,1.9,2.5,Evan Bouchard (Shots On Goal),San Jose Sharks,Edmonton Oilers
+1607158470,Over,18,4868136893,2.16,2.5,Jeff Skinner (Shots On Goal),San Jose Sharks,Edmonton Oilers
+1607158471,Under,19,4868136894,1.641,2.5,Jeff Skinner (Shots On Goal),San Jose Sharks,Edmonton Oilers
+1607158494,Over,18,4868136957,2.44,2.5,Ryan Nugent-Hopkins (Shots On Goal),San Jose Sharks,Edmonton Oilers
+1607158495,Under,19,4868136958,1.505,2.5,Ryan Nugent-Hopkins (Shots On Goal),San Jose Sharks,Edmonton Oilers
+1607158482,Over,18,4868136925,1.595,2.5,Zach Hyman (Shots On Goal),San Jose Sharks,Edmonton Oilers
+1607158483,Under,19,4868136926,2.25,2.5,Zach Hyman (Shots On Goal),San Jose Sharks,Edmonton Oilers
+1607158509,Over,18,4868136993,2.37,2.5,Darnell Nurse (Shots On Goal),San Jose Sharks,Edmonton Oilers
+1607158510,Under,19,4868136994,1.531,2.5,Darnell Nurse (Shots On Goal),San Jose Sharks,Edmonton Oilers
+1607158528,Under,19,4868137149,1.699,3.5,Leon Draisaitl (Shots On Goal),San Jose Sharks,Edmonton Oilers
+1607158527,Over,18,4868137148,2.07,3.5,Leon Draisaitl (Shots On Goal),San Jose Sharks,Edmonton Oilers
+1607158458,Over,18,4868136861,1.781,2.5,Tyler Toffoli (Shots On Goal),San Jose Sharks,Edmonton Oilers
+1607158459,Under,19,4868136862,1.97,2.5,Tyler Toffoli (Shots On Goal),San Jose Sharks,Edmonton Oilers
