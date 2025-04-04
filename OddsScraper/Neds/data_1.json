@@ -47,7 +47,7 @@
             "id": "02e9528b-3603-4a13-8b53-c9d2be35b7aa",
             "name": "Carolina Hurricanes / Under 4.5",
             "visible": true,
-            "sort_order": 20,
+            "sort_order": 30,
             "market_id": "33a86031-df27-46d1-b295-32dec6505582"
         },
         "02ff3a0f-5bb1-407b-b03e-5f8c69cfacc0": {
@@ -101,6 +101,14 @@
             "sort_order": 220,
             "market_id": "8a92bef7-dad6-44fc-a25e-a135be30816e"
         },
+        "06737061-d023-4f11-ad74-6170aa966e84": {
+            "id": "06737061-d023-4f11-ad74-6170aa966e84",
+            "name": "Sean Walker (Carolina Hurricanes)",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 520,
+            "market_id": "9db656fd-a079-4afd-9c47-266215582786"
+        },
         "0684227c-1deb-4328-b803-51b808c4303f": {
             "id": "0684227c-1deb-4328-b803-51b808c4303f",
             "name": "Detroit Red Wings to win by 5 or more",
@@ -108,11 +116,19 @@
             "sort_order": 110,
             "market_id": "4556a1ae-073b-48cf-9f96-40639ba47652"
         },
+        "072fa308-09d3-470b-bc81-42420b9831de": {
+            "id": "072fa308-09d3-470b-bc81-42420b9831de",
+            "name": "Craig Smith (Detroit Red Wings)",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 540,
+            "market_id": "9db656fd-a079-4afd-9c47-266215582786"
+        },
         "07a093ae-e8b4-4e42-9d38-ea82ad42e25c": {
             "id": "07a093ae-e8b4-4e42-9d38-ea82ad42e25c",
             "name": "Carolina Hurricanes / Over 4.5",
             "visible": true,
-            "sort_order": 10,
+            "sort_order": 40,
             "market_id": "33a86031-df27-46d1-b295-32dec6505582"
         },
         "08178abc-7413-4d4d-9978-04e6b184452d": {
@@ -177,8 +193,16 @@
             "name": "Detroit Red Wings 6-1",
             "home_away": "HOME",
             "visible": true,
-            "sort_order": 170,
+            "sort_order": 50,
             "market_id": "8a92bef7-dad6-44fc-a25e-a135be30816e"
+        },
+        "0ca5e37b-2de8-4bf0-a0b7-9716b1e7420d": {
+            "id": "0ca5e37b-2de8-4bf0-a0b7-9716b1e7420d",
+            "name": "Sebastian Aho (Carolina Hurricanes)",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 300,
+            "market_id": "9db656fd-a079-4afd-9c47-266215582786"
         },
         "0d704eda-c697-4961-a33f-db30ab5e2c7d": {
             "id": "0d704eda-c697-4961-a33f-db30ab5e2c7d",
@@ -191,7 +215,7 @@
             "id": "0de658ef-fb31-47ea-a9fc-adf83c3e72e2",
             "name": "Draw 1-1",
             "visible": true,
-            "sort_order": 80,
+            "sort_order": 100,
             "market_id": "6e466ea4-4124-4c82-a26c-ac348845d2a6"
         },
         "0e017c2a-8e91-433a-aa34-c06651676074": {
@@ -215,6 +239,14 @@
             "visible": true,
             "sort_order": 20,
             "market_id": "96e314ca-1311-437a-95a2-50f8dcf36457"
+        },
+        "1084f435-a2a7-4c79-95ef-111523662d6d": {
+            "id": "1084f435-a2a7-4c79-95ef-111523662d6d",
+            "name": "Patrick Kane (Detroit Red Wings)",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 350,
+            "market_id": "9db656fd-a079-4afd-9c47-266215582786"
         },
         "10a308d6-c223-4fab-96aa-b80a91d7f201": {
             "id": "10a308d6-c223-4fab-96aa-b80a91d7f201",
@@ -313,7 +345,7 @@
             "id": "137913d4-d753-4f1f-aac2-0f6c961c3e39",
             "name": "Detroit Red Wings to win by 3",
             "visible": true,
-            "sort_order": 70,
+            "sort_order": 60,
             "market_id": "4556a1ae-073b-48cf-9f96-40639ba47652"
         },
         "151030b0-d84c-4eb8-8412-5f2208d82267": {
@@ -390,7 +422,7 @@
             "id": "187b0ea7-239b-4121-939d-dd360c455364",
             "name": "4 Goals",
             "visible": true,
-            "sort_order": 30,
+            "sort_order": 40,
             "market_id": "78760e4d-49b4-4cf6-8ad2-a2dfb17bb5b0"
         },
         "187eb14c-5341-4868-b5bb-87517e8d4591": {
@@ -406,7 +438,7 @@
             "name": "Detroit Red Wings 6-4",
             "home_away": "HOME",
             "visible": true,
-            "sort_order": 200,
+            "sort_order": 20,
             "market_id": "8a92bef7-dad6-44fc-a25e-a135be30816e"
         },
         "197547ad-ba9d-49f5-9ade-5d7937c5e824": {
@@ -456,7 +488,7 @@
             "name": "Carolina Hurricanes 2-0",
             "home_away": "AWAY",
             "visible": true,
-            "sort_order": 240,
+            "sort_order": 420,
             "market_id": "8a92bef7-dad6-44fc-a25e-a135be30816e"
         },
         "1bd32196-bc44-4276-8fe5-7cf018ae0ef0": {
@@ -464,7 +496,7 @@
             "name": "Detroit Red Wings 2-1",
             "home_away": "HOME",
             "visible": true,
-            "sort_order": 30,
+            "sort_order": 40,
             "market_id": "6e466ea4-4124-4c82-a26c-ac348845d2a6"
         },
         "1befb783-4caa-4655-900d-ab719ec9452d": {
@@ -580,6 +612,14 @@
             "visible": true,
             "sort_order": 20,
             "market_id": "92a486d8-8285-4dac-9065-556875ccbd78"
+        },
+        "24f46710-5b58-473b-9135-4d8e77ef2950": {
+            "id": "24f46710-5b58-473b-9135-4d8e77ef2950",
+            "name": "Jonatan Berggren (Detroit Red Wings)",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 460,
+            "market_id": "9db656fd-a079-4afd-9c47-266215582786"
         },
         "24f4d764-d7f5-4c56-81e6-20d06dde24bf": {
             "id": "24f4d764-d7f5-4c56-81e6-20d06dde24bf",
@@ -720,7 +760,7 @@
             "name": "Detroit Red Wings 1-0",
             "home_away": "HOME",
             "visible": true,
-            "sort_order": 10,
+            "sort_order": 60,
             "market_id": "6e466ea4-4124-4c82-a26c-ac348845d2a6"
         },
         "2eee9678-4106-488c-9a44-f59cd738537a": {
@@ -764,7 +804,7 @@
             "name": "Carolina Hurricanes 2-1",
             "home_away": "AWAY",
             "visible": true,
-            "sort_order": 250,
+            "sort_order": 410,
             "market_id": "8a92bef7-dad6-44fc-a25e-a135be30816e"
         },
         "321040e5-0212-4976-9734-9b8334a7801a": {
@@ -865,7 +905,7 @@
             "name": "Carolina Hurricanes 4-1",
             "home_away": "AWAY",
             "visible": true,
-            "sort_order": 300,
+            "sort_order": 360,
             "market_id": "8a92bef7-dad6-44fc-a25e-a135be30816e"
         },
         "37482c76-fa2f-42fc-b513-4bd820ce84fa": {
@@ -879,7 +919,7 @@
             "id": "37dc8614-9bb6-499d-a324-1ca13bc39dd1",
             "name": "Carolina Hurricanes or Detroit Red Wings",
             "visible": true,
-            "sort_order": 20,
+            "sort_order": 10,
             "market_id": "a3e51609-e7f1-4b67-8802-6bf0fbb4469f"
         },
         "37ef0096-7eb5-4431-8a62-346493054a3c": {
@@ -895,6 +935,14 @@
             "visible": true,
             "sort_order": 10,
             "market_id": "585feff8-0a1d-455c-b2d2-03d751af9910"
+        },
+        "381ded27-b9fb-4543-af98-636dcf0031a8": {
+            "id": "381ded27-b9fb-4543-af98-636dcf0031a8",
+            "name": "Michael Rasmussen (Detroit Red Wings)",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 480,
+            "market_id": "9db656fd-a079-4afd-9c47-266215582786"
         },
         "38edb746-4748-4420-adbe-b38e3426580e": {
             "id": "38edb746-4748-4420-adbe-b38e3426580e",
@@ -979,7 +1027,7 @@
             "id": "3dd6e22b-9fc8-40bd-ad40-d6087397a3ac",
             "name": "Draw 0-0",
             "visible": true,
-            "sort_order": 70,
+            "sort_order": 110,
             "market_id": "ccb29ee6-e2b6-448a-b479-e4e1103e6cab"
         },
         "3e0e8e45-4af1-47a9-b8cd-b61b0f1f203b": {
@@ -993,7 +1041,7 @@
             "id": "3ec3923d-03cc-4818-9641-4cd431407bc2",
             "name": "Carolina Hurricanes / Under 1.5",
             "visible": true,
-            "sort_order": 40,
+            "sort_order": 50,
             "market_id": "c64d3246-b8d0-458b-89b6-0baa87d09c50"
         },
         "3ee38af9-64d2-463d-8aeb-ebb12288ed95": {
@@ -1101,7 +1149,7 @@
             "name": "Carolina Hurricanes 5-2",
             "home_away": "AWAY",
             "visible": true,
-            "sort_order": 350,
+            "sort_order": 310,
             "market_id": "8a92bef7-dad6-44fc-a25e-a135be30816e"
         },
         "435ebcef-db2c-4ff8-8a47-9ec669f3b36a": {
@@ -1109,7 +1157,7 @@
             "name": "Carolina Hurricanes 3-1",
             "home_away": "AWAY",
             "visible": true,
-            "sort_order": 160,
+            "sort_order": 130,
             "market_id": "39fb9812-7451-4d2c-a685-e8bff61f2acc"
         },
         "443222f5-1927-477c-9f84-ca4936c554c2": {
@@ -1117,7 +1165,7 @@
             "name": "Carolina Hurricanes 4-0",
             "home_away": "AWAY",
             "visible": true,
-            "sort_order": 290,
+            "sort_order": 370,
             "market_id": "8a92bef7-dad6-44fc-a25e-a135be30816e"
         },
         "44a111f3-1edd-4b81-94fa-a3374ca92856": {
@@ -1132,7 +1180,7 @@
             "name": "Detroit Red Wings 3-2",
             "home_away": "HOME",
             "visible": true,
-            "sort_order": 60,
+            "sort_order": 160,
             "market_id": "8a92bef7-dad6-44fc-a25e-a135be30816e"
         },
         "4522f2f8-73cb-4dd3-9ffe-c1943a957b42": {
@@ -1140,7 +1188,7 @@
             "name": "Carolina Hurricanes 3-1",
             "home_away": "AWAY",
             "visible": true,
-            "sort_order": 270,
+            "sort_order": 390,
             "market_id": "8a92bef7-dad6-44fc-a25e-a135be30816e"
         },
         "45333bce-bd68-4bf7-a096-0eda64fe7a70": {
@@ -1168,7 +1216,7 @@
             "id": "46ab67a9-a152-458b-b521-d1e078fab7bf",
             "name": "Any Other Score",
             "visible": true,
-            "sort_order": 110,
+            "sort_order": 70,
             "market_id": "6e466ea4-4124-4c82-a26c-ac348845d2a6"
         },
         "470e8d12-aceb-4eca-89d3-a3e06a080933": {
@@ -1240,7 +1288,7 @@
             "name": "Carolina Hurricanes 6-2",
             "home_away": "AWAY",
             "visible": true,
-            "sort_order": 400,
+            "sort_order": 260,
             "market_id": "8a92bef7-dad6-44fc-a25e-a135be30816e"
         },
         "4aa62610-27b7-4a43-a8c2-e1c01e959f41": {
@@ -1254,7 +1302,7 @@
             "id": "4ad3a38c-0512-4f5a-8a04-a734d6b6a748",
             "name": "Draw 3-3",
             "visible": true,
-            "sort_order": 100,
+            "sort_order": 80,
             "market_id": "6e466ea4-4124-4c82-a26c-ac348845d2a6"
         },
         "4b37ef45-8396-492c-a053-f6b6edd800fa": {
@@ -1268,7 +1316,7 @@
             "id": "4c176610-91f9-4225-8565-b299f3c76902",
             "name": "Carolina Hurricanes / Over 6.5",
             "visible": true,
-            "sort_order": 10,
+            "sort_order": 40,
             "market_id": "2518ab7d-aa22-41c2-8fad-8976331ad05b"
         },
         "4ce195b2-4e38-48e9-881d-18f655ed057f": {
@@ -1277,6 +1325,14 @@
             "visible": true,
             "sort_order": 10,
             "market_id": "a631a69b-e351-43e1-991d-19147117119b"
+        },
+        "4d055cdf-5424-406f-8712-332548a49eec": {
+            "id": "4d055cdf-5424-406f-8712-332548a49eec",
+            "name": "J.T. Compher (Detroit Red Wings)",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 440,
+            "market_id": "9db656fd-a079-4afd-9c47-266215582786"
         },
         "4ea3a639-263d-4322-b674-b50a9591dc81": {
             "id": "4ea3a639-263d-4322-b674-b50a9591dc81",
@@ -1364,6 +1420,22 @@
             "sort_order": 30,
             "market_id": "5190bb04-f9d2-4272-9720-be26382ab008"
         },
+        "54538f19-01a3-4deb-8993-b4e538aae1f9": {
+            "id": "54538f19-01a3-4deb-8993-b4e538aae1f9",
+            "name": "Jaccob Slavin (Carolina Hurricanes)",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 580,
+            "market_id": "9db656fd-a079-4afd-9c47-266215582786"
+        },
+        "56240bec-dc71-4d2b-bbad-9ca760976bec": {
+            "id": "56240bec-dc71-4d2b-bbad-9ca760976bec",
+            "name": "Logan Stankoven (Carolina Hurricanes)",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 370,
+            "market_id": "9db656fd-a079-4afd-9c47-266215582786"
+        },
         "563c3497-663c-4383-a9d1-fbf54a4f64ea": {
             "id": "563c3497-663c-4383-a9d1-fbf54a4f64ea",
             "name": "Detroit Red Wings / Under 2.5",
@@ -1383,7 +1455,7 @@
             "name": "Carolina Hurricanes 2-0",
             "home_away": "AWAY",
             "visible": true,
-            "sort_order": 130,
+            "sort_order": 160,
             "market_id": "6e466ea4-4124-4c82-a26c-ac348845d2a6"
         },
         "5815dd88-3e21-4632-bb93-909c541a2e03": {
@@ -1391,7 +1463,7 @@
             "name": "Detroit Red Wings 1-0",
             "home_away": "HOME",
             "visible": true,
-            "sort_order": 10,
+            "sort_order": 60,
             "market_id": "39fb9812-7451-4d2c-a685-e8bff61f2acc"
         },
         "58b318f6-6978-42d7-aa42-b79926d6592c": {
@@ -1413,8 +1485,16 @@
             "name": "Detroit Red Wings 2-0",
             "home_away": "HOME",
             "visible": true,
-            "sort_order": 20,
+            "sort_order": 200,
             "market_id": "8a92bef7-dad6-44fc-a25e-a135be30816e"
+        },
+        "597d1ce0-38bf-4808-91c1-1604281b47c4": {
+            "id": "597d1ce0-38bf-4808-91c1-1604281b47c4",
+            "name": "Seth Jarvis (Carolina Hurricanes)",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 310,
+            "market_id": "9db656fd-a079-4afd-9c47-266215582786"
         },
         "59bd937d-350b-469f-9637-da5b2d62cbcb": {
             "id": "59bd937d-350b-469f-9637-da5b2d62cbcb",
@@ -1427,7 +1507,7 @@
             "id": "59bf75fa-aa7a-4068-a540-c48da4008ff2",
             "name": "Carolina Hurricanes / Under 6.5",
             "visible": true,
-            "sort_order": 20,
+            "sort_order": 30,
             "market_id": "2518ab7d-aa22-41c2-8fad-8976331ad05b"
         },
         "5ac91be7-4534-43e9-a026-c9ba2b2390f4": {
@@ -1492,7 +1572,7 @@
             "name": "Carolina Hurricanes 2-1",
             "home_away": "AWAY",
             "visible": true,
-            "sort_order": 140,
+            "sort_order": 150,
             "market_id": "ccb29ee6-e2b6-448a-b479-e4e1103e6cab"
         },
         "5c65eb74-7cbb-486d-856d-f94591d4a05d": {
@@ -1502,12 +1582,28 @@
             "sort_order": 10,
             "market_id": "bdbf7ac0-f8dc-4778-9b59-91c6689049cc"
         },
+        "5c86d151-b73a-4ee7-a5a4-3095aaa6da11": {
+            "id": "5c86d151-b73a-4ee7-a5a4-3095aaa6da11",
+            "name": "Moritz Seider (Detroit Red Wings)",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 530,
+            "market_id": "9db656fd-a079-4afd-9c47-266215582786"
+        },
         "5d4abd9c-4105-408f-a61c-86416cdafc7a": {
             "id": "5d4abd9c-4105-408f-a61c-86416cdafc7a",
             "name": "Over (9)",
             "visible": true,
             "sort_order": 10,
             "market_id": "a64b94f9-24dc-40ef-9579-c32a192d034e"
+        },
+        "5d6ae041-bef6-42f1-8817-7e30dc9e9ad9": {
+            "id": "5d6ae041-bef6-42f1-8817-7e30dc9e9ad9",
+            "name": "Dmitry Orlov (Carolina Hurricanes)",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 550,
+            "market_id": "9db656fd-a079-4afd-9c47-266215582786"
         },
         "5e69c84c-959b-4ed2-b360-c5f3cc878011": {
             "id": "5e69c84c-959b-4ed2-b360-c5f3cc878011",
@@ -1521,7 +1617,7 @@
             "name": "Carolina Hurricanes 4-3",
             "home_away": "AWAY",
             "visible": true,
-            "sort_order": 320,
+            "sort_order": 340,
             "market_id": "8a92bef7-dad6-44fc-a25e-a135be30816e"
         },
         "5f560947-152b-42e3-b61c-a763aaed672e": {
@@ -1558,7 +1654,7 @@
             "id": "61a2a2b6-4a34-4e72-abbf-6e68015d29b0",
             "name": "Detroit Red Wings / Under 5.5",
             "visible": true,
-            "sort_order": 40,
+            "sort_order": 10,
             "market_id": "6786399d-6b1c-46d7-a6dd-1cb749bfd567"
         },
         "62ddabf9-c531-4d84-97f8-a6acf5a8b272": {
@@ -1566,7 +1662,7 @@
             "name": "Detroit Red Wings 2-1",
             "home_away": "HOME",
             "visible": true,
-            "sort_order": 30,
+            "sort_order": 40,
             "market_id": "ccb29ee6-e2b6-448a-b479-e4e1103e6cab"
         },
         "62e33871-8e2b-4c15-935c-773d80636157": {
@@ -1601,7 +1697,7 @@
             "id": "63c94c21-e776-49ef-9408-50a6a473b8c9",
             "name": "Draw / Under 1.5",
             "visible": true,
-            "sort_order": 50,
+            "sort_order": 40,
             "market_id": "c64d3246-b8d0-458b-89b6-0baa87d09c50"
         },
         "6431f2a2-e451-474b-bf7e-71954e226f53": {
@@ -1644,7 +1740,7 @@
             "name": "Detroit Red Wings 4-0",
             "home_away": "HOME",
             "visible": true,
-            "sort_order": 70,
+            "sort_order": 150,
             "market_id": "8a92bef7-dad6-44fc-a25e-a135be30816e"
         },
         "661d1e92-fdc6-403e-9fa0-d962f9123a92": {
@@ -1659,7 +1755,7 @@
             "name": "Carolina Hurricanes 4-2",
             "home_away": "AWAY",
             "visible": true,
-            "sort_order": 310,
+            "sort_order": 350,
             "market_id": "8a92bef7-dad6-44fc-a25e-a135be30816e"
         },
         "66fe8043-4367-4c2c-9584-00a429903e76": {
@@ -1739,7 +1835,7 @@
             "name": "Carolina Hurricanes 6-5",
             "home_away": "AWAY",
             "visible": true,
-            "sort_order": 430,
+            "sort_order": 230,
             "market_id": "8a92bef7-dad6-44fc-a25e-a135be30816e"
         },
         "6a553d0c-88c4-484e-9b43-67c423e2ae4a": {
@@ -1838,7 +1934,7 @@
             "id": "6ed52f06-1119-49a5-adfe-cb47161528d6",
             "name": "Draw 3-3",
             "visible": true,
-            "sort_order": 100,
+            "sort_order": 80,
             "market_id": "ccb29ee6-e2b6-448a-b479-e4e1103e6cab"
         },
         "6ef1a90f-5cf4-488d-9f3c-036e830c950f": {
@@ -1875,7 +1971,7 @@
             "name": "Detroit Red Wings 1-0",
             "home_away": "HOME",
             "visible": true,
-            "sort_order": 10,
+            "sort_order": 60,
             "market_id": "ccb29ee6-e2b6-448a-b479-e4e1103e6cab"
         },
         "701b2dfb-3293-47c7-bc9a-20041e07702b": {
@@ -1883,7 +1979,7 @@
             "name": "Detroit Red Wings 1-0",
             "home_away": "HOME",
             "visible": true,
-            "sort_order": 10,
+            "sort_order": 210,
             "market_id": "8a92bef7-dad6-44fc-a25e-a135be30816e"
         },
         "702bb452-f405-4500-9c25-2ead2586c031": {
@@ -1905,7 +2001,7 @@
             "name": "Carolina Hurricanes 1-0",
             "home_away": "AWAY",
             "visible": true,
-            "sort_order": 230,
+            "sort_order": 430,
             "market_id": "8a92bef7-dad6-44fc-a25e-a135be30816e"
         },
         "723657ba-d26e-4ed8-84af-77676fa6a75c": {
@@ -1930,6 +2026,14 @@
             "sort_order": 10,
             "market_id": "1ef6d2c6-999c-414f-889e-f9c6dcec7f9f"
         },
+        "7339f1d5-e5bf-4009-8a25-7f3837ce817a": {
+            "id": "7339f1d5-e5bf-4009-8a25-7f3837ce817a",
+            "name": "Eric Robinson (Carolina Hurricanes)",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 570,
+            "market_id": "9db656fd-a079-4afd-9c47-266215582786"
+        },
         "73cbc30b-7b64-4ad9-a77a-8c883442f548": {
             "id": "73cbc30b-7b64-4ad9-a77a-8c883442f548",
             "name": "Carolina Hurricanes (-1.5)",
@@ -1944,6 +2048,14 @@
             "visible": true,
             "sort_order": 20,
             "market_id": "84bc529b-c484-4506-a6e8-055774563232"
+        },
+        "7401a51c-2f19-4a5a-8196-ee0217f5a76e": {
+            "id": "7401a51c-2f19-4a5a-8196-ee0217f5a76e",
+            "name": "Shayne Gostisbehere (Carolina Hurricanes)",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 500,
+            "market_id": "9db656fd-a079-4afd-9c47-266215582786"
         },
         "74029d37-7ba1-437e-9a92-32558b5014f0": {
             "id": "74029d37-7ba1-437e-9a92-32558b5014f0",
@@ -2007,8 +2119,16 @@
             "name": "Carolina Hurricanes 1-0",
             "home_away": "AWAY",
             "visible": true,
-            "sort_order": 120,
+            "sort_order": 170,
             "market_id": "ccb29ee6-e2b6-448a-b479-e4e1103e6cab"
+        },
+        "796325f8-eb78-4c62-8cf7-527987c6ff52": {
+            "id": "796325f8-eb78-4c62-8cf7-527987c6ff52",
+            "name": "Jack Roslovic (Carolina Hurricanes)",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 430,
+            "market_id": "9db656fd-a079-4afd-9c47-266215582786"
         },
         "79d85ee3-b195-4aee-a9e1-b7f53ce2d6eb": {
             "id": "79d85ee3-b195-4aee-a9e1-b7f53ce2d6eb",
@@ -2031,12 +2151,20 @@
             "sort_order": 10,
             "market_id": "87b17ad8-e50d-463c-bca4-6593596ec640"
         },
+        "7ad1ca4d-681a-4b15-8ee3-6f564979d303": {
+            "id": "7ad1ca4d-681a-4b15-8ee3-6f564979d303",
+            "name": "Mark Jankowski (Carolina Hurricanes)",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 390,
+            "market_id": "9db656fd-a079-4afd-9c47-266215582786"
+        },
         "7ade0ef6-8cd6-491c-834d-7b1d136497c4": {
             "id": "7ade0ef6-8cd6-491c-834d-7b1d136497c4",
             "name": "Detroit Red Wings 6-2",
             "home_away": "HOME",
             "visible": true,
-            "sort_order": 180,
+            "sort_order": 40,
             "market_id": "8a92bef7-dad6-44fc-a25e-a135be30816e"
         },
         "7b01f209-1e47-4b00-a501-b57ccf8d39fe": {
@@ -2080,7 +2208,7 @@
             "name": "Detroit Red Wings 6-3",
             "home_away": "HOME",
             "visible": true,
-            "sort_order": 190,
+            "sort_order": 30,
             "market_id": "8a92bef7-dad6-44fc-a25e-a135be30816e"
         },
         "7fa1b8cb-28c8-4bde-b98a-3aaaf305613f": {
@@ -2094,7 +2222,7 @@
             "id": "810ae065-a4a9-420f-aa6c-6d93eadb139c",
             "name": "Detroit Red Wings / Over 5.5",
             "visible": true,
-            "sort_order": 30,
+            "sort_order": 20,
             "market_id": "6786399d-6b1c-46d7-a6dd-1cb749bfd567"
         },
         "813b9090-715b-4142-8fc6-0ce2c3b83cc5": {
@@ -2116,7 +2244,7 @@
             "name": "Detroit Red Wings 3-1",
             "home_away": "HOME",
             "visible": true,
-            "sort_order": 50,
+            "sort_order": 170,
             "market_id": "8a92bef7-dad6-44fc-a25e-a135be30816e"
         },
         "81820d89-acb7-42d2-b19c-006c8707bb7f": {
@@ -2124,8 +2252,16 @@
             "name": "Carolina Hurricanes 3-2",
             "home_away": "AWAY",
             "visible": true,
-            "sort_order": 170,
+            "sort_order": 120,
             "market_id": "ccb29ee6-e2b6-448a-b479-e4e1103e6cab"
+        },
+        "81eb4380-18f5-45be-a53b-eda9e16eee0a": {
+            "id": "81eb4380-18f5-45be-a53b-eda9e16eee0a",
+            "name": "Jordan Martinook (Carolina Hurricanes)",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 420,
+            "market_id": "9db656fd-a079-4afd-9c47-266215582786"
         },
         "82449052-88d1-42f9-b996-a644ac033cbc": {
             "id": "82449052-88d1-42f9-b996-a644ac033cbc",
@@ -2167,15 +2303,23 @@
             "name": "Carolina Hurricanes 3-0",
             "home_away": "AWAY",
             "visible": true,
-            "sort_order": 150,
+            "sort_order": 140,
             "market_id": "6e466ea4-4124-4c82-a26c-ac348845d2a6"
         },
         "84980d25-0c90-4e56-b90f-ceb3b940a9ec": {
             "id": "84980d25-0c90-4e56-b90f-ceb3b940a9ec",
             "name": "7 goals",
             "visible": true,
-            "sort_order": 40,
+            "sort_order": 30,
             "market_id": "78760e4d-49b4-4cf6-8ad2-a2dfb17bb5b0"
+        },
+        "84a765c0-cd3d-4759-89c4-c61a5d1c866e": {
+            "id": "84a765c0-cd3d-4759-89c4-c61a5d1c866e",
+            "name": "Marco Kasper (Detroit Red Wings)",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 410,
+            "market_id": "9db656fd-a079-4afd-9c47-266215582786"
         },
         "85a8bbc0-667b-490d-813d-c8c210711088": {
             "id": "85a8bbc0-667b-490d-813d-c8c210711088",
@@ -2196,7 +2340,7 @@
             "name": "Carolina Hurricanes 6-4",
             "home_away": "AWAY",
             "visible": true,
-            "sort_order": 420,
+            "sort_order": 240,
             "market_id": "8a92bef7-dad6-44fc-a25e-a135be30816e"
         },
         "864e5c28-d92f-4b86-8113-0fad5ad978f0": {
@@ -2254,7 +2398,7 @@
             "name": "Detroit Red Wings 6-5",
             "home_away": "HOME",
             "visible": true,
-            "sort_order": 210,
+            "sort_order": 10,
             "market_id": "8a92bef7-dad6-44fc-a25e-a135be30816e"
         },
         "8bbbb8c7-3525-4c96-944f-fa4fc17e2ad4": {
@@ -2269,7 +2413,7 @@
             "name": "Carolina Hurricanes 2-1",
             "home_away": "AWAY",
             "visible": true,
-            "sort_order": 140,
+            "sort_order": 150,
             "market_id": "6e466ea4-4124-4c82-a26c-ac348845d2a6"
         },
         "8ccb912a-19dd-4d0b-bc0d-213a2a230d2a": {
@@ -2298,7 +2442,7 @@
             "name": "Detroit Red Wings 3-1",
             "home_away": "HOME",
             "visible": true,
-            "sort_order": 50,
+            "sort_order": 20,
             "market_id": "39fb9812-7451-4d2c-a685-e8bff61f2acc"
         },
         "8efdd57a-9442-486b-a34e-3d292ceff051": {
@@ -2326,7 +2470,7 @@
             "id": "9091d4b5-5f5a-4a7a-b245-65a20ac8bc98",
             "name": "Any Other Score",
             "visible": true,
-            "sort_order": 110,
+            "sort_order": 70,
             "market_id": "39fb9812-7451-4d2c-a685-e8bff61f2acc"
         },
         "90ae5683-67c0-47e9-ac96-7656c343dcd3": {
@@ -2391,7 +2535,7 @@
             "id": "946e0dc3-dbbe-4d99-b39e-46b9c945feec",
             "name": "1 Goal",
             "visible": true,
-            "sort_order": 110,
+            "sort_order": 100,
             "market_id": "78760e4d-49b4-4cf6-8ad2-a2dfb17bb5b0"
         },
         "947278fb-8e4d-4eda-ba48-f73cce7b831c": {
@@ -2406,7 +2550,7 @@
             "name": "Carolina Hurricanes 5-3",
             "home_away": "AWAY",
             "visible": true,
-            "sort_order": 360,
+            "sort_order": 300,
             "market_id": "8a92bef7-dad6-44fc-a25e-a135be30816e"
         },
         "95db4426-c04e-4b64-838a-5aa71d45bbf1": {
@@ -2442,8 +2586,16 @@
             "name": "Carolina Hurricanes 3-2",
             "home_away": "AWAY",
             "visible": true,
-            "sort_order": 170,
+            "sort_order": 120,
             "market_id": "39fb9812-7451-4d2c-a685-e8bff61f2acc"
+        },
+        "999f9a1b-7fee-4d5f-b833-d5af3011bcac": {
+            "id": "999f9a1b-7fee-4d5f-b833-d5af3011bcac",
+            "name": "Lucas Raymond (Detroit Red Wings)",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 330,
+            "market_id": "9db656fd-a079-4afd-9c47-266215582786"
         },
         "9a568f8a-aa22-4357-b279-2e56e53452ca": {
             "id": "9a568f8a-aa22-4357-b279-2e56e53452ca",
@@ -2457,7 +2609,7 @@
             "name": "Detroit Red Wings 2-0",
             "home_away": "HOME",
             "visible": true,
-            "sort_order": 20,
+            "sort_order": 50,
             "market_id": "39fb9812-7451-4d2c-a685-e8bff61f2acc"
         },
         "9b092e21-485a-4ec7-b32b-9826c9dc099a": {
@@ -2500,7 +2652,7 @@
             "id": "9d240a5a-768f-4256-82b1-a1b11e266768",
             "name": "Draw 0-0",
             "visible": true,
-            "sort_order": 70,
+            "sort_order": 110,
             "market_id": "6e466ea4-4124-4c82-a26c-ac348845d2a6"
         },
         "9e133e73-8d52-4f8f-b9e7-b41a4e4717c3": {
@@ -2522,15 +2674,23 @@
             "name": "Detroit Red Wings 3-0",
             "home_away": "HOME",
             "visible": true,
-            "sort_order": 40,
+            "sort_order": 180,
             "market_id": "8a92bef7-dad6-44fc-a25e-a135be30816e"
+        },
+        "9e6ceb56-b6a0-4b96-93d4-f740cba82333": {
+            "id": "9e6ceb56-b6a0-4b96-93d4-f740cba82333",
+            "name": "Vladimir Tarasenko (Detroit Red Wings)",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 400,
+            "market_id": "9db656fd-a079-4afd-9c47-266215582786"
         },
         "9e7853b2-0b2b-4036-b013-211ddb957267": {
             "id": "9e7853b2-0b2b-4036-b013-211ddb957267",
             "name": "Detroit Red Wings 3-0",
             "home_away": "HOME",
             "visible": true,
-            "sort_order": 40,
+            "sort_order": 30,
             "market_id": "6e466ea4-4124-4c82-a26c-ac348845d2a6"
         },
         "9ec277b8-3673-4ee3-bcdd-df499bc3c2e6": {
@@ -2559,14 +2719,14 @@
             "id": "9f6273fc-8cac-4901-8d50-ad809dfb41e0",
             "name": "No Goals",
             "visible": true,
-            "sort_order": 100,
+            "sort_order": 110,
             "market_id": "78760e4d-49b4-4cf6-8ad2-a2dfb17bb5b0"
         },
         "9f740e3b-1b27-473b-a02c-231869e63f38": {
             "id": "9f740e3b-1b27-473b-a02c-231869e63f38",
             "name": "Draw 1-1",
             "visible": true,
-            "sort_order": 80,
+            "sort_order": 100,
             "market_id": "39fb9812-7451-4d2c-a685-e8bff61f2acc"
         },
         "a007381b-b179-47eb-8e1a-70ba59c10620": {
@@ -2581,7 +2741,7 @@
             "id": "a0311e65-29d5-44e3-9568-975b66c90217",
             "name": "Detroit Red Wings / Under 4.5",
             "visible": true,
-            "sort_order": 40,
+            "sort_order": 10,
             "market_id": "33a86031-df27-46d1-b295-32dec6505582"
         },
         "a13e04a0-9291-4c82-93b6-10b8a57f6064": {
@@ -2597,7 +2757,7 @@
             "name": "Carolina Hurricanes 2-0",
             "home_away": "AWAY",
             "visible": true,
-            "sort_order": 130,
+            "sort_order": 160,
             "market_id": "39fb9812-7451-4d2c-a685-e8bff61f2acc"
         },
         "a281b2c1-8ac2-489d-9f92-da2c5a66cbba": {
@@ -2640,7 +2800,7 @@
             "name": "Detroit Red Wings 5-1",
             "home_away": "HOME",
             "visible": true,
-            "sort_order": 120,
+            "sort_order": 100,
             "market_id": "8a92bef7-dad6-44fc-a25e-a135be30816e"
         },
         "a63b085e-b955-40e9-a38c-f8acada35ebf": {
@@ -2671,7 +2831,7 @@
             "name": "Carolina Hurricanes 3-2",
             "home_away": "AWAY",
             "visible": true,
-            "sort_order": 170,
+            "sort_order": 120,
             "market_id": "6e466ea4-4124-4c82-a26c-ac348845d2a6"
         },
         "a9045076-fa07-46c4-b925-645cf32c0a5e": {
@@ -2685,7 +2845,7 @@
             "id": "a950ed1a-25e4-44e0-b049-aebf3fec6e2b",
             "name": "Draw 1-1",
             "visible": true,
-            "sort_order": 80,
+            "sort_order": 100,
             "market_id": "ccb29ee6-e2b6-448a-b479-e4e1103e6cab"
         },
         "a964f114-4772-458c-8dd5-f2f06c8c1fd3": {
@@ -2693,7 +2853,7 @@
             "name": "Detroit Red Wings 4-1",
             "home_away": "HOME",
             "visible": true,
-            "sort_order": 80,
+            "sort_order": 140,
             "market_id": "8a92bef7-dad6-44fc-a25e-a135be30816e"
         },
         "a9750586-2453-4911-ac56-ec995d6cbd24": {
@@ -2701,7 +2861,7 @@
             "name": "Carolina Hurricanes 2-0",
             "home_away": "AWAY",
             "visible": true,
-            "sort_order": 130,
+            "sort_order": 160,
             "market_id": "ccb29ee6-e2b6-448a-b479-e4e1103e6cab"
         },
         "aa4a0681-de9a-4631-a559-58b542f5fae7": {
@@ -2745,7 +2905,7 @@
             "id": "ac710661-badb-4650-8d33-222040bcd219",
             "name": "Detroit Red Wings / Under 6.5",
             "visible": true,
-            "sort_order": 40,
+            "sort_order": 10,
             "market_id": "2518ab7d-aa22-41c2-8fad-8976331ad05b"
         },
         "ac84f948-3fa3-44bb-b572-ca4e01c02dd4": {
@@ -2767,7 +2927,7 @@
             "name": "Detroit Red Wings 4-2",
             "home_away": "HOME",
             "visible": true,
-            "sort_order": 90,
+            "sort_order": 130,
             "market_id": "8a92bef7-dad6-44fc-a25e-a135be30816e"
         },
         "aebbb915-18d5-4ec2-a9fc-1943fa7ed713": {
@@ -2790,6 +2950,14 @@
             "visible": true,
             "sort_order": 20,
             "market_id": "013c3252-b168-40bb-94b8-dce577fa8fad"
+        },
+        "b0271308-5a94-49e3-8ad7-edbb2658eddd": {
+            "id": "b0271308-5a94-49e3-8ad7-edbb2658eddd",
+            "name": "Jesperi Kotkaniemi (Carolina Hurricanes)",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 450,
+            "market_id": "9db656fd-a079-4afd-9c47-266215582786"
         },
         "b090aa8e-70d9-4eda-a4a5-66cb361800fe": {
             "id": "b090aa8e-70d9-4eda-a4a5-66cb361800fe",
@@ -2852,7 +3020,7 @@
             "name": "Detroit Red Wings 2-1",
             "home_away": "HOME",
             "visible": true,
-            "sort_order": 30,
+            "sort_order": 190,
             "market_id": "8a92bef7-dad6-44fc-a25e-a135be30816e"
         },
         "b3319efc-b8e9-4b34-a1ab-ed3fc9213fde": {
@@ -2861,6 +3029,14 @@
             "visible": true,
             "sort_order": 20,
             "market_id": "3ef868d1-e532-4197-8180-6193eac54f54"
+        },
+        "b33e7c36-9636-489c-b912-3fe0931cca0c": {
+            "id": "b33e7c36-9636-489c-b912-3fe0931cca0c",
+            "name": "Alex DeBrincat (Detroit Red Wings)",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 360,
+            "market_id": "9db656fd-a079-4afd-9c47-266215582786"
         },
         "b3402f8e-1828-4e55-bf0a-5cf98a6e4aae": {
             "id": "b3402f8e-1828-4e55-bf0a-5cf98a6e4aae",
@@ -2909,7 +3085,7 @@
             "name": "Detroit Red Wings 2-1",
             "home_away": "HOME",
             "visible": true,
-            "sort_order": 30,
+            "sort_order": 40,
             "market_id": "39fb9812-7451-4d2c-a685-e8bff61f2acc"
         },
         "b7a58cd2-0fd9-4e4c-8a1f-d0fe92895b0d": {
@@ -2934,6 +3110,14 @@
             "sort_order": 10,
             "market_id": "9a7178c1-1fe4-425d-9155-618bdb488376"
         },
+        "b8a3d600-d1c0-46f9-9a78-ba92f05aded5": {
+            "id": "b8a3d600-d1c0-46f9-9a78-ba92f05aded5",
+            "name": "Jackson Blake (Carolina Hurricanes)",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 470,
+            "market_id": "9db656fd-a079-4afd-9c47-266215582786"
+        },
         "b90f58ae-1b5b-4ae3-a28b-f93672bdb26d": {
             "id": "b90f58ae-1b5b-4ae3-a28b-f93672bdb26d",
             "name": "Draw",
@@ -2954,7 +3138,7 @@
             "name": "Carolina Hurricanes 6-3",
             "home_away": "AWAY",
             "visible": true,
-            "sort_order": 410,
+            "sort_order": 250,
             "market_id": "8a92bef7-dad6-44fc-a25e-a135be30816e"
         },
         "b95d6637-ce6a-45c7-acfe-9024a9584b83": {
@@ -2962,7 +3146,7 @@
             "name": "Detroit Red Wings 3-2",
             "home_away": "HOME",
             "visible": true,
-            "sort_order": 60,
+            "sort_order": 10,
             "market_id": "ccb29ee6-e2b6-448a-b479-e4e1103e6cab"
         },
         "b961853d-40c9-4d0a-9f98-880067d94aa0": {
@@ -3004,7 +3188,7 @@
             "id": "bb5e9443-ee32-457c-98fd-3ab42476455e",
             "name": "Carolina Hurricanes / Under 5.5",
             "visible": true,
-            "sort_order": 20,
+            "sort_order": 30,
             "market_id": "6786399d-6b1c-46d7-a6dd-1cb749bfd567"
         },
         "bb81a21f-61f9-490f-abb8-8e69b8218e6a": {
@@ -3026,7 +3210,7 @@
             "name": "Detroit Red Wings 4-3",
             "home_away": "HOME",
             "visible": true,
-            "sort_order": 100,
+            "sort_order": 120,
             "market_id": "8a92bef7-dad6-44fc-a25e-a135be30816e"
         },
         "be063f27-a829-4202-8816-14e1749cdefb": {
@@ -3054,7 +3238,7 @@
             "id": "bf6f4c6a-730c-4526-a5c0-cd408b8957e8",
             "name": "Carolina Hurricanes or Draw",
             "visible": true,
-            "sort_order": 10,
+            "sort_order": 20,
             "market_id": "a3e51609-e7f1-4b67-8802-6bf0fbb4469f"
         },
         "c03e54ef-ec1e-40a2-8f95-e0eec17c79a8": {
@@ -3083,7 +3267,7 @@
             "name": "Detroit Red Wings 5-2",
             "home_away": "HOME",
             "visible": true,
-            "sort_order": 130,
+            "sort_order": 90,
             "market_id": "8a92bef7-dad6-44fc-a25e-a135be30816e"
         },
         "c1b009f7-a073-4369-a9bf-5e477098690c": {
@@ -3097,7 +3281,7 @@
             "id": "c1cfbf24-b025-4bd9-a815-1cbd6af9a2ac",
             "name": "Detroit Red Wings / Over 4.5",
             "visible": true,
-            "sort_order": 30,
+            "sort_order": 20,
             "market_id": "33a86031-df27-46d1-b295-32dec6505582"
         },
         "c1defff8-ae49-40aa-8935-857737ce9818": {
@@ -3178,7 +3362,7 @@
             "name": "Carolina Hurricanes 5-4",
             "home_away": "AWAY",
             "visible": true,
-            "sort_order": 370,
+            "sort_order": 290,
             "market_id": "8a92bef7-dad6-44fc-a25e-a135be30816e"
         },
         "c7686871-99b1-44f4-ad0c-d6795c092a74": {
@@ -3214,7 +3398,7 @@
             "name": "Carolina Hurricanes 2-1",
             "home_away": "AWAY",
             "visible": true,
-            "sort_order": 140,
+            "sort_order": 150,
             "market_id": "39fb9812-7451-4d2c-a685-e8bff61f2acc"
         },
         "ca25cda0-ed33-43de-9aeb-2bbb01fe5fe4": {
@@ -3229,7 +3413,7 @@
             "name": "Detroit Red Wings 3-1",
             "home_away": "HOME",
             "visible": true,
-            "sort_order": 50,
+            "sort_order": 20,
             "market_id": "ccb29ee6-e2b6-448a-b479-e4e1103e6cab"
         },
         "cb090e5b-b6e0-42f4-8368-d9abc6e4d331": {
@@ -3251,7 +3435,7 @@
             "name": "Detroit Red Wings 3-0",
             "home_away": "HOME",
             "visible": true,
-            "sort_order": 40,
+            "sort_order": 30,
             "market_id": "ccb29ee6-e2b6-448a-b479-e4e1103e6cab"
         },
         "cc7b219d-6ccd-413f-ae60-5415ca90c780": {
@@ -3266,7 +3450,7 @@
             "name": "Detroit Red Wings 3-0",
             "home_away": "HOME",
             "visible": true,
-            "sort_order": 40,
+            "sort_order": 30,
             "market_id": "39fb9812-7451-4d2c-a685-e8bff61f2acc"
         },
         "cd8c114a-3f62-4dec-8a69-e3506a262694": {
@@ -3274,7 +3458,7 @@
             "name": "Carolina Hurricanes 6-0",
             "home_away": "AWAY",
             "visible": true,
-            "sort_order": 380,
+            "sort_order": 280,
             "market_id": "8a92bef7-dad6-44fc-a25e-a135be30816e"
         },
         "ce71178c-583e-4c47-aa99-5353e2baa436": {
@@ -3290,14 +3474,14 @@
             "name": "Detroit Red Wings 2-0",
             "home_away": "HOME",
             "visible": true,
-            "sort_order": 20,
+            "sort_order": 50,
             "market_id": "ccb29ee6-e2b6-448a-b479-e4e1103e6cab"
         },
         "d00085c2-3d24-4d0e-89c6-40ce82f60520": {
             "id": "d00085c2-3d24-4d0e-89c6-40ce82f60520",
             "name": "Detroit Red Wings / Over 6.5",
             "visible": true,
-            "sort_order": 30,
+            "sort_order": 20,
             "market_id": "2518ab7d-aa22-41c2-8fad-8976331ad05b"
         },
         "d0357ac6-9744-46f1-b7fd-89d540299803": {
@@ -3340,7 +3524,7 @@
             "id": "d3068cc7-83d9-4e71-86ac-a71d28e9fa0a",
             "name": "Draw 0-0",
             "visible": true,
-            "sort_order": 70,
+            "sort_order": 110,
             "market_id": "39fb9812-7451-4d2c-a685-e8bff61f2acc"
         },
         "d4297cac-c3d2-4f96-99e5-f227bead7a3c": {
@@ -3393,7 +3577,7 @@
             "name": "Carolina Hurricanes 3-0",
             "home_away": "AWAY",
             "visible": true,
-            "sort_order": 150,
+            "sort_order": 140,
             "market_id": "ccb29ee6-e2b6-448a-b479-e4e1103e6cab"
         },
         "d8b524a5-bf0a-4759-b6dc-55a67c60462b": {
@@ -3473,7 +3657,7 @@
             "name": "Detroit Red Wings 5-4",
             "home_away": "HOME",
             "visible": true,
-            "sort_order": 150,
+            "sort_order": 70,
             "market_id": "8a92bef7-dad6-44fc-a25e-a135be30816e"
         },
         "dd2d90b1-0135-407a-b73f-26c6df83e3ce": {
@@ -3495,7 +3679,7 @@
             "name": "Carolina Hurricanes 5-1",
             "home_away": "AWAY",
             "visible": true,
-            "sort_order": 340,
+            "sort_order": 320,
             "market_id": "8a92bef7-dad6-44fc-a25e-a135be30816e"
         },
         "ddc469fe-b399-4430-8d64-80627e3956a8": {
@@ -3540,7 +3724,7 @@
             "name": "Carolina Hurricanes 1-0",
             "home_away": "AWAY",
             "visible": true,
-            "sort_order": 120,
+            "sort_order": 170,
             "market_id": "6e466ea4-4124-4c82-a26c-ac348845d2a6"
         },
         "e01ce42f-526e-498b-85d8-baabdae7f987": {
@@ -3549,6 +3733,14 @@
             "visible": true,
             "sort_order": 80,
             "market_id": "78760e4d-49b4-4cf6-8ad2-a2dfb17bb5b0"
+        },
+        "e06dfbda-c4bb-4d69-b23c-34c6a8fda48b": {
+            "id": "e06dfbda-c4bb-4d69-b23c-34c6a8fda48b",
+            "name": "Jalen Chatfield (Carolina Hurricanes)",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 490,
+            "market_id": "9db656fd-a079-4afd-9c47-266215582786"
         },
         "e0709a9d-565d-4497-967b-da9af40f2404": {
             "id": "e0709a9d-565d-4497-967b-da9af40f2404",
@@ -3571,6 +3763,14 @@
             "sort_order": 30,
             "market_id": "74579539-536d-408f-90dc-f23d9aedc0e5"
         },
+        "e0ec308a-5115-436a-be99-bfc9995c20e0": {
+            "id": "e0ec308a-5115-436a-be99-bfc9995c20e0",
+            "name": "Brent Burns (Carolina Hurricanes)",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 510,
+            "market_id": "9db656fd-a079-4afd-9c47-266215582786"
+        },
         "e13286dd-509d-4c59-a844-0bb65373ee44": {
             "id": "e13286dd-509d-4c59-a844-0bb65373ee44",
             "name": "Carolina Hurricanes 5-0",
@@ -3591,7 +3791,7 @@
             "name": "Detroit Red Wings 6-0",
             "home_away": "HOME",
             "visible": true,
-            "sort_order": 160,
+            "sort_order": 60,
             "market_id": "8a92bef7-dad6-44fc-a25e-a135be30816e"
         },
         "e217a1ea-2e7a-4f22-85e6-d94ac1cbad76": {
@@ -3607,7 +3807,7 @@
             "name": "Detroit Red Wings 2-0",
             "home_away": "HOME",
             "visible": true,
-            "sort_order": 20,
+            "sort_order": 50,
             "market_id": "6e466ea4-4124-4c82-a26c-ac348845d2a6"
         },
         "e2a5a4d2-3385-42ac-943d-3632a8d9d262": {
@@ -3615,14 +3815,14 @@
             "name": "Carolina Hurricanes 3-1",
             "home_away": "AWAY",
             "visible": true,
-            "sort_order": 160,
+            "sort_order": 130,
             "market_id": "6e466ea4-4124-4c82-a26c-ac348845d2a6"
         },
         "e3a8556e-128e-4584-91be-108367bd7467": {
             "id": "e3a8556e-128e-4584-91be-108367bd7467",
             "name": "Carolina Hurricanes / Over 5.5",
             "visible": true,
-            "sort_order": 10,
+            "sort_order": 40,
             "market_id": "6786399d-6b1c-46d7-a6dd-1cb749bfd567"
         },
         "e3c52906-1030-4a5a-9be7-c095f1e10d63": {
@@ -3644,7 +3844,7 @@
             "name": "Carolina Hurricanes 3-2",
             "home_away": "AWAY",
             "visible": true,
-            "sort_order": 280,
+            "sort_order": 380,
             "market_id": "8a92bef7-dad6-44fc-a25e-a135be30816e"
         },
         "e4791df5-89e1-4764-8bc4-61f7c56f4a99": {
@@ -3668,12 +3868,20 @@
             "sort_order": 10,
             "market_id": "300f6a6d-33ba-48fb-aa22-c086ae09b3ae"
         },
+        "e4f44ada-6da2-4cc1-9b0d-18edd0f8117e": {
+            "id": "e4f44ada-6da2-4cc1-9b0d-18edd0f8117e",
+            "name": "Dylan Larkin (Detroit Red Wings)",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 320,
+            "market_id": "9db656fd-a079-4afd-9c47-266215582786"
+        },
         "e5521343-ecbf-46e2-86df-f6c11cc39d03": {
             "id": "e5521343-ecbf-46e2-86df-f6c11cc39d03",
             "name": "Carolina Hurricanes 6-1",
             "home_away": "AWAY",
             "visible": true,
-            "sort_order": 390,
+            "sort_order": 270,
             "market_id": "8a92bef7-dad6-44fc-a25e-a135be30816e"
         },
         "e57b8d77-07d2-4c67-875c-91a9b3bc11b7": {
@@ -3745,14 +3953,14 @@
             "name": "Carolina Hurricanes 3-1",
             "home_away": "AWAY",
             "visible": true,
-            "sort_order": 160,
+            "sort_order": 130,
             "market_id": "ccb29ee6-e2b6-448a-b479-e4e1103e6cab"
         },
         "e93b1baf-10d0-4929-9e0f-78f012ea1693": {
             "id": "e93b1baf-10d0-4929-9e0f-78f012ea1693",
             "name": "Detroit Red Wings to win by 1",
             "visible": true,
-            "sort_order": 60,
+            "sort_order": 70,
             "market_id": "4556a1ae-073b-48cf-9f96-40639ba47652"
         },
         "ea174742-8d6e-4afd-9c63-50a2c1944dbf": {
@@ -3788,7 +3996,7 @@
             "name": "Detroit Red Wings 3-1",
             "home_away": "HOME",
             "visible": true,
-            "sort_order": 50,
+            "sort_order": 20,
             "market_id": "6e466ea4-4124-4c82-a26c-ac348845d2a6"
         },
         "ecac943a-2f6f-49fd-a393-501ffe652114": {
@@ -3796,7 +4004,7 @@
             "name": "Carolina Hurricanes 1-0",
             "home_away": "AWAY",
             "visible": true,
-            "sort_order": 120,
+            "sort_order": 170,
             "market_id": "39fb9812-7451-4d2c-a685-e8bff61f2acc"
         },
         "ed01a331-bc6c-4a6e-895e-ff0aaed29fe1": {
@@ -3810,7 +4018,7 @@
             "id": "ed615503-5fa6-4c7c-96f8-647920f42dff",
             "name": "Draw 3-3",
             "visible": true,
-            "sort_order": 100,
+            "sort_order": 80,
             "market_id": "39fb9812-7451-4d2c-a685-e8bff61f2acc"
         },
         "eda8075c-0081-422e-a244-46e53ac46405": {
@@ -3885,6 +4093,22 @@
             "sort_order": 20,
             "market_id": "82c20f59-3a58-490b-8bd7-e1ea1a069e1c"
         },
+        "f0ff3208-5985-490e-a7ac-9a4ba15365ad": {
+            "id": "f0ff3208-5985-490e-a7ac-9a4ba15365ad",
+            "name": "Andrei Svechnikov (Carolina Hurricanes)",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 380,
+            "market_id": "9db656fd-a079-4afd-9c47-266215582786"
+        },
+        "f133ba8d-2093-46f9-99b6-24ad9e5b894b": {
+            "id": "f133ba8d-2093-46f9-99b6-24ad9e5b894b",
+            "name": "Albert Johansson (Detroit Red Wings)",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 590,
+            "market_id": "9db656fd-a079-4afd-9c47-266215582786"
+        },
         "f22b6bd1-c344-4a34-bb9e-493f0c022d35": {
             "id": "f22b6bd1-c344-4a34-bb9e-493f0c022d35",
             "name": "Under (0.5)",
@@ -3896,7 +4120,7 @@
             "id": "f327c08a-1e55-4c30-bb49-98cfa66ef13e",
             "name": "Any Other Score",
             "visible": true,
-            "sort_order": 110,
+            "sort_order": 70,
             "market_id": "ccb29ee6-e2b6-448a-b479-e4e1103e6cab"
         },
         "f35ed8bd-31c6-48fb-809e-34d50b8f5cd3": {
@@ -3904,7 +4128,7 @@
             "name": "Detroit Red Wings 3-2",
             "home_away": "HOME",
             "visible": true,
-            "sort_order": 60,
+            "sort_order": 10,
             "market_id": "6e466ea4-4124-4c82-a26c-ac348845d2a6"
         },
         "f37f6ed0-4f25-4192-8690-650631b1a2c8": {
@@ -3926,7 +4150,7 @@
             "name": "Carolina Hurricanes 3-0",
             "home_away": "AWAY",
             "visible": true,
-            "sort_order": 260,
+            "sort_order": 400,
             "market_id": "8a92bef7-dad6-44fc-a25e-a135be30816e"
         },
         "f46cd58e-0577-48b3-a197-4db62f37c8e5": {
@@ -3985,6 +4209,22 @@
             "sort_order": 10,
             "market_id": "69a38ab3-ae74-46b8-a8d1-4305092a4515"
         },
+        "f6de99fd-dd9d-455f-ba48-e3d68cb4d09f": {
+            "id": "f6de99fd-dd9d-455f-ba48-e3d68cb4d09f",
+            "name": "Taylor Hall (Carolina Hurricanes)",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 340,
+            "market_id": "9db656fd-a079-4afd-9c47-266215582786"
+        },
+        "f6e9fcbf-ddc8-4bae-9503-6c3371e73995": {
+            "id": "f6e9fcbf-ddc8-4bae-9503-6c3371e73995",
+            "name": "Simon Edvinsson (Detroit Red Wings)",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 560,
+            "market_id": "9db656fd-a079-4afd-9c47-266215582786"
+        },
         "f79a7ba3-4bd1-40ab-9471-748ca542b691": {
             "id": "f79a7ba3-4bd1-40ab-9471-748ca542b691",
             "name": "Detroit Red Wings or Draw",
@@ -4033,7 +4273,7 @@
             "name": "Carolina Hurricanes 3-0",
             "home_away": "AWAY",
             "visible": true,
-            "sort_order": 150,
+            "sort_order": 140,
             "market_id": "39fb9812-7451-4d2c-a685-e8bff61f2acc"
         },
         "fb56657a-fa2e-4498-b1ae-a53f9b70f0bc": {
@@ -4076,7 +4316,7 @@
             "name": "Detroit Red Wings 5-3",
             "home_away": "HOME",
             "visible": true,
-            "sort_order": 140,
+            "sort_order": 80,
             "market_id": "8a92bef7-dad6-44fc-a25e-a135be30816e"
         },
         "fd636888-1106-4581-b4ec-99067b94b61c": {
@@ -4105,8 +4345,16 @@
             "name": "Detroit Red Wings 3-2",
             "home_away": "HOME",
             "visible": true,
-            "sort_order": 60,
+            "sort_order": 10,
             "market_id": "39fb9812-7451-4d2c-a685-e8bff61f2acc"
+        },
+        "ff83fad6-a1d6-41c3-96d8-225d9b5fd185": {
+            "id": "ff83fad6-a1d6-41c3-96d8-225d9b5fd185",
+            "name": "Tyler Motte (Detroit Red Wings)",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 600,
+            "market_id": "9db656fd-a079-4afd-9c47-266215582786"
         },
         "ffd59991-9d25-436f-b1ba-d23a51b82233": {
             "id": "ffd59991-9d25-436f-b1ba-d23a51b82233",
@@ -4179,6 +4427,7 @@
                         "f95b9f26-3595-4603-9b42-0f2276207694",
                         "7ffa1768-df6b-4560-bf52-d2a1a33d0ce1",
                         "d3a60f30-b54b-4642-b5af-977fff8cc51e",
+                        "9db656fd-a079-4afd-9c47-266215582786",
                         "4556a1ae-073b-48cf-9f96-40639ba47652",
                         "31a6fefc-f929-4a28-8f7f-d8ee706bc482"
                     ]
@@ -4262,7 +4511,8 @@
                     "market_type_group_id": "d7a5f899-02a4-49f6-b6b8-5df93d4cac1c",
                     "market_ids": [
                         "2be38982-401c-4c8b-9bec-c8840ac0a701",
-                        "920c9664-2b27-4c5e-ba92-6c2927bba1a6"
+                        "920c9664-2b27-4c5e-ba92-6c2927bba1a6",
+                        "9db656fd-a079-4afd-9c47-266215582786"
                     ]
                 },
                 {
@@ -4474,7 +4724,7 @@
                     ]
                 }
             ],
-            "market_count": 209,
+            "market_count": 210,
             "main_markets": [
                 "36476a1e-122c-4845-9d6a-dfeef97971b6"
             ],
@@ -4483,6 +4733,7 @@
                 "f95b9f26-3595-4603-9b42-0f2276207694",
                 "7ffa1768-df6b-4560-bf52-d2a1a33d0ce1",
                 "d3a60f30-b54b-4642-b5af-977fff8cc51e",
+                "9db656fd-a079-4afd-9c47-266215582786",
                 "4556a1ae-073b-48cf-9f96-40639ba47652",
                 "31a6fefc-f929-4a28-8f7f-d8ee706bc482",
                 "94c7b2f9-2878-46f8-b921-e775cc2f685c",
@@ -5377,10 +5628,10 @@
             },
             "visible": true,
             "entrant_ids": [
-                "4c176610-91f9-4225-8565-b299f3c76902",
-                "59bf75fa-aa7a-4068-a540-c48da4008ff2",
+                "ac710661-badb-4650-8d33-222040bcd219",
                 "d00085c2-3d24-4d0e-89c6-40ce82f60520",
-                "ac710661-badb-4650-8d33-222040bcd219"
+                "59bf75fa-aa7a-4068-a540-c48da4008ff2",
+                "4c176610-91f9-4225-8565-b299f3c76902"
             ],
             "num_winners": 1
         },
@@ -5653,10 +5904,10 @@
             },
             "visible": true,
             "entrant_ids": [
-                "07a093ae-e8b4-4e42-9d38-ea82ad42e25c",
-                "02e9528b-3603-4a13-8b53-c9d2be35b7aa",
+                "a0311e65-29d5-44e3-9568-975b66c90217",
                 "c1cfbf24-b025-4bd9-a815-1cbd6af9a2ac",
-                "a0311e65-29d5-44e3-9568-975b66c90217"
+                "02e9528b-3603-4a13-8b53-c9d2be35b7aa",
+                "07a093ae-e8b4-4e42-9d38-ea82ad42e25c"
             ],
             "num_winners": 1
         },
@@ -5737,23 +5988,23 @@
             "same_game_multi_available": true,
             "visible": true,
             "entrant_ids": [
-                "5815dd88-3e21-4632-bb93-909c541a2e03",
-                "9ab228c5-e9ca-4ca4-991d-da3a4bd9aae2",
-                "b70df269-0096-455b-b23e-0d1f6455480f",
-                "ccfc721e-2e79-4e62-be5b-35bef1dc0ecf",
-                "8dea1347-fdb9-42a0-877f-be478ca458d4",
                 "fe33f932-d573-4156-a709-8717f66e10b5",
-                "d3068cc7-83d9-4e71-86ac-a71d28e9fa0a",
-                "9f740e3b-1b27-473b-a02c-231869e63f38",
-                "5084f5da-a6d7-49fa-803f-b1385ac73b0e",
-                "ed615503-5fa6-4c7c-96f8-647920f42dff",
+                "8dea1347-fdb9-42a0-877f-be478ca458d4",
+                "ccfc721e-2e79-4e62-be5b-35bef1dc0ecf",
+                "b70df269-0096-455b-b23e-0d1f6455480f",
+                "9ab228c5-e9ca-4ca4-991d-da3a4bd9aae2",
+                "5815dd88-3e21-4632-bb93-909c541a2e03",
                 "9091d4b5-5f5a-4a7a-b245-65a20ac8bc98",
-                "ecac943a-2f6f-49fd-a393-501ffe652114",
-                "a17b7672-9199-437e-9441-86c5b5125293",
-                "c8efdf2d-c007-40bd-a094-3f989242e98d",
-                "fabee2ed-2527-4fc1-9eac-7d9f3415fd54",
+                "ed615503-5fa6-4c7c-96f8-647920f42dff",
+                "5084f5da-a6d7-49fa-803f-b1385ac73b0e",
+                "9f740e3b-1b27-473b-a02c-231869e63f38",
+                "d3068cc7-83d9-4e71-86ac-a71d28e9fa0a",
+                "98fcd410-3d67-44e5-b5df-b021f3eb5fcd",
                 "435ebcef-db2c-4ff8-8a47-9ec669f3b36a",
-                "98fcd410-3d67-44e5-b5df-b021f3eb5fcd"
+                "fabee2ed-2527-4fc1-9eac-7d9f3415fd54",
+                "c8efdf2d-c007-40bd-a094-3f989242e98d",
+                "a17b7672-9199-437e-9441-86c5b5125293",
+                "ecac943a-2f6f-49fd-a393-501ffe652114"
             ],
             "num_winners": 1
         },
@@ -6033,8 +6284,8 @@
                 "29cb114a-c8e8-4d20-bd06-d05aea2cd8e0",
                 "670087ff-3ad9-4187-98a1-bdf1af9f1041",
                 "511e5806-8f22-4b36-93eb-38e2f3a2612b",
-                "e93b1baf-10d0-4929-9e0f-78f012ea1693",
                 "137913d4-d753-4f1f-aac2-0f6c961c3e39",
+                "e93b1baf-10d0-4929-9e0f-78f012ea1693",
                 "82bb009d-eca0-458b-b9b4-b74ae7593553",
                 "216ef616-1e08-4316-a083-dd01a1271152",
                 "b354c39c-e499-44ad-aabb-b1d3a0c4a521",
@@ -6562,10 +6813,10 @@
             },
             "visible": true,
             "entrant_ids": [
-                "e3a8556e-128e-4584-91be-108367bd7467",
-                "bb5e9443-ee32-457c-98fd-3ab42476455e",
+                "61a2a2b6-4a34-4e72-abbf-6e68015d29b0",
                 "810ae065-a4a9-420f-aa6c-6d93eadb139c",
-                "61a2a2b6-4a34-4e72-abbf-6e68015d29b0"
+                "bb5e9443-ee32-457c-98fd-3ab42476455e",
+                "e3a8556e-128e-4584-91be-108367bd7467"
             ],
             "num_winners": 1
         },
@@ -6682,23 +6933,23 @@
             "same_game_multi_available": true,
             "visible": true,
             "entrant_ids": [
-                "2ee5f7cf-6a49-4fa8-9ae0-c1a304d3a999",
-                "e245caf9-3bfa-4fe1-b73e-d8e0ade33515",
-                "1bd32196-bc44-4276-8fe5-7cf018ae0ef0",
-                "9e7853b2-0b2b-4036-b013-211ddb957267",
-                "ebbbd4f6-fd68-47a8-b128-c26bf53a0ccb",
                 "f35ed8bd-31c6-48fb-809e-34d50b8f5cd3",
-                "9d240a5a-768f-4256-82b1-a1b11e266768",
-                "0de658ef-fb31-47ea-a9fc-adf83c3e72e2",
-                "b7a58cd2-0fd9-4e4c-8a1f-d0fe92895b0d",
-                "4ad3a38c-0512-4f5a-8a04-a734d6b6a748",
+                "ebbbd4f6-fd68-47a8-b128-c26bf53a0ccb",
+                "9e7853b2-0b2b-4036-b013-211ddb957267",
+                "1bd32196-bc44-4276-8fe5-7cf018ae0ef0",
+                "e245caf9-3bfa-4fe1-b73e-d8e0ade33515",
+                "2ee5f7cf-6a49-4fa8-9ae0-c1a304d3a999",
                 "46ab67a9-a152-458b-b521-d1e078fab7bf",
-                "dfb7a023-ff8e-466e-b8ec-1c50af3ce0b5",
-                "58102c99-22a3-40b0-8a36-e6048e66c072",
-                "8c07d12c-53a5-45f7-aad9-765b37376ef9",
-                "842c4e79-62b0-44b6-97aa-d8508f48b1a9",
+                "4ad3a38c-0512-4f5a-8a04-a734d6b6a748",
+                "b7a58cd2-0fd9-4e4c-8a1f-d0fe92895b0d",
+                "0de658ef-fb31-47ea-a9fc-adf83c3e72e2",
+                "9d240a5a-768f-4256-82b1-a1b11e266768",
+                "a7f22066-9160-4b6e-907a-8617d6c68e03",
                 "e2a5a4d2-3385-42ac-943d-3632a8d9d262",
-                "a7f22066-9160-4b6e-907a-8617d6c68e03"
+                "842c4e79-62b0-44b6-97aa-d8508f48b1a9",
+                "8c07d12c-53a5-45f7-aad9-765b37376ef9",
+                "58102c99-22a3-40b0-8a36-e6048e66c072",
+                "dfb7a023-ff8e-466e-b8ec-1c50af3ce0b5"
             ],
             "num_winners": 1
         },
@@ -6820,7 +7071,7 @@
                 "da3246b8-5738-46ee-ae13-cf464a66ac80",
                 "e0cf9e87-5edb-4917-b2b6-a43b2954dc25"
             ],
-            "num_winners": 99
+            "num_winners": 3
         },
         "74a2a3e7-c1cc-4124-a0c2-ad3a4ec610f8": {
             "id": "74a2a3e7-c1cc-4124-a0c2-ad3a4ec610f8",
@@ -6956,15 +7207,15 @@
             "entrant_ids": [
                 "28e6ecd2-3628-4817-a74d-c3e5d1b5157e",
                 "beef8e71-c8a7-47a6-aaf4-178c0f6f496e",
-                "187b0ea7-239b-4121-939d-dd360c455364",
                 "84980d25-0c90-4e56-b90f-ceb3b940a9ec",
+                "187b0ea7-239b-4121-939d-dd360c455364",
                 "02ff3a0f-5bb1-407b-b03e-5f8c69cfacc0",
                 "6f5fb68b-af84-455e-8ae0-530a08c2dff6",
                 "9c91fe64-f90e-4aad-8e00-5b0e9a6f63ed",
                 "e01ce42f-526e-498b-85d8-baabdae7f987",
                 "f00f77a9-15d6-4324-8482-89810d8604f8",
-                "9f6273fc-8cac-4901-8d50-ad809dfb41e0",
-                "946e0dc3-dbbe-4d99-b39e-46b9c945feec"
+                "946e0dc3-dbbe-4d99-b39e-46b9c945feec",
+                "9f6273fc-8cac-4901-8d50-ad809dfb41e0"
             ],
             "num_winners": 1
         },
@@ -7164,7 +7415,7 @@
                 "10a308d6-c223-4fab-96aa-b80a91d7f201",
                 "cb090e5b-b6e0-42f4-8368-d9abc6e4d331"
             ],
-            "num_winners": 99
+            "num_winners": 3
         },
         "82c20f59-3a58-490b-8bd7-e1ea1a069e1c": {
             "id": "82c20f59-3a58-490b-8bd7-e1ea1a069e1c",
@@ -7297,49 +7548,49 @@
             "same_game_multi_available": true,
             "visible": true,
             "entrant_ids": [
-                "701b2dfb-3293-47c7-bc9a-20041e07702b",
-                "5949c52b-86e2-4817-abd3-646eb1fea9d2",
-                "b2b22cd8-326b-4e16-b5db-1c84a9223e35",
-                "9e22d536-29ec-44ac-a2c4-ef45c3f79184",
-                "814689ab-e724-4fe5-ac17-49f59ad82856",
-                "44d1ad38-5466-44a6-94a0-88a608b3826a",
-                "65ac16f4-3a0f-41e5-9a37-91647eb51961",
-                "a964f114-4772-458c-8dd5-f2f06c8c1fd3",
-                "ae9f70eb-7832-48f7-b0c2-9bc2f5f6ff6c",
-                "bc6096d6-b258-413a-8e63-2a087432abd1",
-                "920728cf-4197-4f81-b269-388f04c24e63",
-                "a5a7fe05-fdf7-4c69-9275-310ff557570f",
-                "c0f605a6-21e7-4b9a-91fa-fa5e93ccde0f",
-                "fcb62de6-c533-4bfc-937a-0ce79550996a",
-                "dc363756-1344-4270-a7fa-7fee1fda43cb",
-                "e1b6b38d-4c8f-4609-81d9-e7033ad0be38",
-                "0ca106ee-ee72-4e81-adb6-04ba43c6362b",
-                "7ade0ef6-8cd6-491c-834d-7b1d136497c4",
-                "7f3471df-25c8-4c69-9a3a-4998d3e69a4d",
-                "18b75c49-95c5-4835-b991-c5dc79a4d575",
                 "8bb6acc1-dab8-46f4-acf9-180adddcfaa4",
+                "18b75c49-95c5-4835-b991-c5dc79a4d575",
+                "7f3471df-25c8-4c69-9a3a-4998d3e69a4d",
+                "7ade0ef6-8cd6-491c-834d-7b1d136497c4",
+                "0ca106ee-ee72-4e81-adb6-04ba43c6362b",
+                "e1b6b38d-4c8f-4609-81d9-e7033ad0be38",
+                "dc363756-1344-4270-a7fa-7fee1fda43cb",
+                "fcb62de6-c533-4bfc-937a-0ce79550996a",
+                "c0f605a6-21e7-4b9a-91fa-fa5e93ccde0f",
+                "a5a7fe05-fdf7-4c69-9275-310ff557570f",
+                "920728cf-4197-4f81-b269-388f04c24e63",
+                "bc6096d6-b258-413a-8e63-2a087432abd1",
+                "ae9f70eb-7832-48f7-b0c2-9bc2f5f6ff6c",
+                "a964f114-4772-458c-8dd5-f2f06c8c1fd3",
+                "65ac16f4-3a0f-41e5-9a37-91647eb51961",
+                "44d1ad38-5466-44a6-94a0-88a608b3826a",
+                "814689ab-e724-4fe5-ac17-49f59ad82856",
+                "9e22d536-29ec-44ac-a2c4-ef45c3f79184",
+                "b2b22cd8-326b-4e16-b5db-1c84a9223e35",
+                "5949c52b-86e2-4817-abd3-646eb1fea9d2",
+                "701b2dfb-3293-47c7-bc9a-20041e07702b",
                 "04c7e781-7eb3-4267-9705-1d1bd7c7c5cb",
-                "717608b0-5e89-47ab-ab5c-74b2ee47d725",
-                "1b93632f-9e31-475f-a61a-1cdbd6b701a6",
-                "31a8abe6-f699-493b-851f-0bf70892701e",
-                "f3bf2238-45c4-4106-a519-987e395bad92",
-                "4522f2f8-73cb-4dd3-9ffe-c1943a957b42",
-                "e42330a0-7015-4259-8877-48c2ea87fbe8",
-                "443222f5-1927-477c-9f84-ca4936c554c2",
-                "372e16f7-8ca8-4f55-9c3d-28b2500cf2d8",
-                "66c40275-e218-4122-b88c-9173fbbf459e",
-                "5e956283-a172-45c0-af32-73615e0ba108",
-                "e13286dd-509d-4c59-a844-0bb65373ee44",
-                "ddb26594-4ece-4e37-92cf-29b7d102690f",
-                "428fd37c-275b-461f-996c-86a26f3c0e90",
-                "95bc8195-c428-4703-8053-092459e64d2c",
-                "c7661980-b921-4f71-8e95-0b72a4d5e9ce",
-                "cd8c114a-3f62-4dec-8a69-e3506a262694",
-                "e5521343-ecbf-46e2-86df-f6c11cc39d03",
-                "4a71289e-0669-4121-b638-6c3d58ce6b77",
-                "b92c4229-b512-4179-b19c-56aea5ecbd0b",
+                "6a54fad5-7cee-49c5-80e3-cfb7ececb73c",
                 "864e09e3-b6e5-464e-9e3e-5f7ae2ccc539",
-                "6a54fad5-7cee-49c5-80e3-cfb7ececb73c"
+                "b92c4229-b512-4179-b19c-56aea5ecbd0b",
+                "4a71289e-0669-4121-b638-6c3d58ce6b77",
+                "e5521343-ecbf-46e2-86df-f6c11cc39d03",
+                "cd8c114a-3f62-4dec-8a69-e3506a262694",
+                "c7661980-b921-4f71-8e95-0b72a4d5e9ce",
+                "95bc8195-c428-4703-8053-092459e64d2c",
+                "428fd37c-275b-461f-996c-86a26f3c0e90",
+                "ddb26594-4ece-4e37-92cf-29b7d102690f",
+                "e13286dd-509d-4c59-a844-0bb65373ee44",
+                "5e956283-a172-45c0-af32-73615e0ba108",
+                "66c40275-e218-4122-b88c-9173fbbf459e",
+                "372e16f7-8ca8-4f55-9c3d-28b2500cf2d8",
+                "443222f5-1927-477c-9f84-ca4936c554c2",
+                "e42330a0-7015-4259-8877-48c2ea87fbe8",
+                "4522f2f8-73cb-4dd3-9ffe-c1943a957b42",
+                "f3bf2238-45c4-4106-a519-987e395bad92",
+                "31a8abe6-f699-493b-851f-0bf70892701e",
+                "1b93632f-9e31-475f-a61a-1cdbd6b701a6",
+                "717608b0-5e89-47ab-ab5c-74b2ee47d725"
             ],
             "num_winners": 1
         },
@@ -7522,7 +7773,7 @@
                 "abc6841a-d972-46ed-87c0-8a6664098fda",
                 "38edb746-4748-4420-adbe-b38e3426580e"
             ],
-            "num_winners": 99
+            "num_winners": 3
         },
         "96e314ca-1311-437a-95a2-50f8dcf36457": {
             "id": "96e314ca-1311-437a-95a2-50f8dcf36457",
@@ -7627,6 +7878,57 @@
                 "947278fb-8e4d-4eda-ba48-f73cce7b831c"
             ],
             "num_winners": 1
+        },
+        "9db656fd-a079-4afd-9c47-266215582786": {
+            "id": "9db656fd-a079-4afd-9c47-266215582786",
+            "event_id": "06346530-575e-4a42-bfbc-5364a69bd797",
+            "market_type_id": "93e71c71-5eb3-4c30-aa57-135b8df0c579",
+            "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
+            "name": "Anytime Goal Scorer",
+            "advertised_start": {
+                "seconds": 1743808080
+            },
+            "actual_start": {
+                "seconds": 1743808080
+            },
+            "same_game_multi_available": true,
+            "is_multiple_outcome_market": true,
+            "comments": "Market includes OT, does not include Penalty Shootout. Quote Others.",
+            "visible": true,
+            "entrant_ids": [
+                "0ca5e37b-2de8-4bf0-a0b7-9716b1e7420d",
+                "597d1ce0-38bf-4808-91c1-1604281b47c4",
+                "e4f44ada-6da2-4cc1-9b0d-18edd0f8117e",
+                "999f9a1b-7fee-4d5f-b833-d5af3011bcac",
+                "f6de99fd-dd9d-455f-ba48-e3d68cb4d09f",
+                "1084f435-a2a7-4c79-95ef-111523662d6d",
+                "b33e7c36-9636-489c-b912-3fe0931cca0c",
+                "56240bec-dc71-4d2b-bbad-9ca760976bec",
+                "f0ff3208-5985-490e-a7ac-9a4ba15365ad",
+                "7ad1ca4d-681a-4b15-8ee3-6f564979d303",
+                "9e6ceb56-b6a0-4b96-93d4-f740cba82333",
+                "84a765c0-cd3d-4759-89c4-c61a5d1c866e",
+                "81eb4380-18f5-45be-a53b-eda9e16eee0a",
+                "796325f8-eb78-4c62-8cf7-527987c6ff52",
+                "4d055cdf-5424-406f-8712-332548a49eec",
+                "b0271308-5a94-49e3-8ad7-edbb2658eddd",
+                "24f46710-5b58-473b-9135-4d8e77ef2950",
+                "b8a3d600-d1c0-46f9-9a78-ba92f05aded5",
+                "381ded27-b9fb-4543-af98-636dcf0031a8",
+                "e06dfbda-c4bb-4d69-b23c-34c6a8fda48b",
+                "7401a51c-2f19-4a5a-8196-ee0217f5a76e",
+                "e0ec308a-5115-436a-be99-bfc9995c20e0",
+                "06737061-d023-4f11-ad74-6170aa966e84",
+                "5c86d151-b73a-4ee7-a5a4-3095aaa6da11",
+                "072fa308-09d3-470b-bc81-42420b9831de",
+                "5d6ae041-bef6-42f1-8817-7e30dc9e9ad9",
+                "f6e9fcbf-ddc8-4bae-9503-6c3371e73995",
+                "7339f1d5-e5bf-4009-8a25-7f3837ce817a",
+                "54538f19-01a3-4deb-8993-b4e538aae1f9",
+                "f133ba8d-2093-46f9-99b6-24ad9e5b894b",
+                "ff83fad6-a1d6-41c3-96d8-225d9b5fd185"
+            ],
+            "num_winners": 60
         },
         "9e53db4e-89be-4d71-8ee0-86a20593cb89": {
             "id": "9e53db4e-89be-4d71-8ee0-86a20593cb89",
@@ -7761,11 +8063,11 @@
             "is_multiple_outcome_market": true,
             "visible": true,
             "entrant_ids": [
-                "bf6f4c6a-730c-4526-a5c0-cd408b8957e8",
                 "37dc8614-9bb6-499d-a324-1ca13bc39dd1",
+                "bf6f4c6a-730c-4526-a5c0-cd408b8957e8",
                 "f79a7ba3-4bd1-40ab-9471-748ca542b691"
             ],
-            "num_winners": 99
+            "num_winners": 3
         },
         "a4008c8b-729a-46e9-a516-6301226b27b5": {
             "id": "a4008c8b-729a-46e9-a516-6301226b27b5",
@@ -8163,8 +8465,8 @@
                 "21aeca5e-f1d1-4120-a650-7d5c012850eb",
                 "f46cd58e-0577-48b3-a197-4db62f37c8e5",
                 "8b0d4722-fd5b-419c-8e81-2c76a5fd5c8f",
-                "3ec3923d-03cc-4818-9641-4cd431407bc2",
                 "63c94c21-e776-49ef-9408-50a6a473b8c9",
+                "3ec3923d-03cc-4818-9641-4cd431407bc2",
                 "3bf968c4-f28d-4316-8830-20e7de7fc7a5"
             ],
             "num_winners": 1
@@ -8362,23 +8664,23 @@
             "same_game_multi_available": true,
             "visible": true,
             "entrant_ids": [
-                "6fd13af7-3f31-4cb3-9b13-0a7a3132e9ab",
-                "cf01b187-d552-410e-aa5d-8d3ca071ed9b",
-                "62ddabf9-c531-4d84-97f8-a6acf5a8b272",
-                "cbe4d214-336c-4f2e-bd01-31d9221b0317",
-                "cafe1b5d-aec3-4811-a998-917d8a275a71",
                 "b95d6637-ce6a-45c7-acfe-9024a9584b83",
-                "3dd6e22b-9fc8-40bd-ad40-d6087397a3ac",
-                "a950ed1a-25e4-44e0-b049-aebf3fec6e2b",
-                "6e6c8abb-a868-4297-a616-4ed56a7cd4a9",
-                "6ed52f06-1119-49a5-adfe-cb47161528d6",
+                "cafe1b5d-aec3-4811-a998-917d8a275a71",
+                "cbe4d214-336c-4f2e-bd01-31d9221b0317",
+                "62ddabf9-c531-4d84-97f8-a6acf5a8b272",
+                "cf01b187-d552-410e-aa5d-8d3ca071ed9b",
+                "6fd13af7-3f31-4cb3-9b13-0a7a3132e9ab",
                 "f327c08a-1e55-4c30-bb49-98cfa66ef13e",
-                "78b2c188-828e-4149-baa8-3f7e1e7ba61d",
-                "a9750586-2453-4911-ac56-ec995d6cbd24",
-                "5c505e9c-27ae-4eb8-ba50-429d0abfa2c2",
-                "d74c981d-4928-43a1-9670-a66d4913c120",
+                "6ed52f06-1119-49a5-adfe-cb47161528d6",
+                "6e6c8abb-a868-4297-a616-4ed56a7cd4a9",
+                "a950ed1a-25e4-44e0-b049-aebf3fec6e2b",
+                "3dd6e22b-9fc8-40bd-ad40-d6087397a3ac",
+                "81820d89-acb7-42d2-b19c-006c8707bb7f",
                 "e914f64a-792d-4555-af42-96e694bb1769",
-                "81820d89-acb7-42d2-b19c-006c8707bb7f"
+                "d74c981d-4928-43a1-9670-a66d4913c120",
+                "5c505e9c-27ae-4eb8-ba50-429d0abfa2c2",
+                "a9750586-2453-4911-ac56-ec995d6cbd24",
+                "78b2c188-828e-4149-baa8-3f7e1e7ba61d"
             ],
             "num_winners": 1
         },
@@ -9213,6 +9515,7 @@
         "98c3b471-4e2c-4d31-9188-c83962f88f3a": true,
         "9a7178c1-1fe4-425d-9155-618bdb488376": false,
         "9a8880c5-36fa-4fe3-b300-7f076915fd51": false,
+        "9db656fd-a079-4afd-9c47-266215582786": true,
         "9e53db4e-89be-4d71-8ee0-86a20593cb89": false,
         "a00e67e6-1ca8-45ae-bef9-38e355abe410": true,
         "a186c133-c790-4642-b380-3583be454138": false,
@@ -9371,10 +9674,22 @@
                 "denominator": 4
             }
         },
+        "06737061-d023-4f11-ad74-6170aa966e84:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 15,
+                "denominator": 2
+            }
+        },
         "0684227c-1deb-4328-b803-51b808c4303f:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
                 "numerator": 40,
                 "denominator": 1
+            }
+        },
+        "072fa308-09d3-470b-bc81-42420b9831de:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 19,
+                "denominator": 2
             }
         },
         "07a093ae-e8b4-4e42-9d38-ea82ad42e25c:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -9437,6 +9752,12 @@
                 "denominator": 1
             }
         },
+        "0ca5e37b-2de8-4bf0-a0b7-9716b1e7420d:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 6,
+                "denominator": 5
+            }
+        },
         "0d704eda-c697-4961-a33f-db30ab5e2c7d:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
                 "numerator": 1,
@@ -9445,8 +9766,8 @@
         },
         "0de658ef-fb31-47ea-a9fc-adf83c3e72e2:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 18,
-                "denominator": 5
+                "numerator": 7,
+                "denominator": 2
             }
         },
         "0e017c2a-8e91-433a-aa34-c06651676074:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -9465,6 +9786,12 @@
             "odds": {
                 "numerator": 18,
                 "denominator": 5
+            }
+        },
+        "1084f435-a2a7-4c79-95ef-111523662d6d:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 23,
+                "denominator": 10
             }
         },
         "10a308d6-c223-4fab-96aa-b80a91d7f201:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -9535,8 +9862,8 @@
         },
         "1362f901-cf06-4375-b339-79736fda0d5a:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 7,
-                "denominator": 1
+                "numerator": 29,
+                "denominator": 4
             }
         },
         "1378bf3a-7671-4751-9aff-80fa4dc77f08:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -9571,8 +9898,8 @@
         },
         "166e51d5-70a8-467f-9ace-98d55782ee73:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 3,
-                "denominator": 5
+                "numerator": 29,
+                "denominator": 50
             }
         },
         "16749e9f-1b64-45bc-b01f-a858d9c6af8e:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -9583,8 +9910,8 @@
         },
         "16ec7970-cfce-415c-9c05-283105b0a721:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 3,
-                "denominator": 10
+                "numerator": 8,
+                "denominator": 25
             }
         },
         "1700637f-cd36-40c6-9e96-afcc265cc901:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -9607,8 +9934,8 @@
         },
         "17b8b9d7-863f-4087-8dba-7cf2800ceed0:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 16,
-                "denominator": 25
+                "numerator": 3,
+                "denominator": 5
             }
         },
         "187b0ea7-239b-4121-939d-dd360c455364:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -9697,8 +10024,8 @@
         },
         "1dabd1d0-500e-4410-81fa-fee391b60b77:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 9,
-                "denominator": 25
+                "numerator": 19,
+                "denominator": 50
             }
         },
         "1de292e7-7f67-4819-b9e6-e93ec63e903e:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -9773,6 +10100,12 @@
                 "denominator": 25
             }
         },
+        "24f46710-5b58-473b-9135-4d8e77ef2950:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 28,
+                "denominator": 5
+            }
+        },
         "24f4d764-d7f5-4c56-81e6-20d06dde24bf:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
                 "numerator": 7,
@@ -9781,8 +10114,8 @@
         },
         "25232731-3c37-4e1d-abe6-fb790987523c:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 6,
-                "denominator": 5
+                "numerator": 5,
+                "denominator": 4
             }
         },
         "25a51f41-bd36-45f5-8fd7-453bbb496713:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -9793,8 +10126,8 @@
         },
         "25f44205-93a9-4d27-93a0-0b3cae703766:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 23,
-                "denominator": 20
+                "numerator": 11,
+                "denominator": 10
             }
         },
         "2629217b-4f91-4ef0-8e85-338f571c4eae:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -9817,8 +10150,8 @@
         },
         "2741efc5-a22f-4128-a7af-ae5703b0e574:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 21,
-                "denominator": 20
+                "numerator": 51,
+                "denominator": 50
             }
         },
         "28597710-d12c-4419-b096-59d912772da8:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -10037,6 +10370,12 @@
                 "denominator": 25
             }
         },
+        "381ded27-b9fb-4543-af98-636dcf0031a8:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 29,
+                "denominator": 5
+            }
+        },
         "38edb746-4748-4420-adbe-b38e3426580e:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
                 "numerator": 47,
@@ -10069,8 +10408,8 @@
         },
         "3b959702-b069-4590-92cb-0dc3b3225e20:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 5,
-                "denominator": 4
+                "numerator": 6,
+                "denominator": 5
             }
         },
         "3ba71dd2-9f5b-4a6f-957b-511ec86cd3e2:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -10129,8 +10468,8 @@
         },
         "3f121e08-3d27-4638-8127-6698fcfc874f:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 3,
-                "denominator": 5
+                "numerator": 29,
+                "denominator": 50
             }
         },
         "3f134aed-f966-447d-9a08-1ff16410ea41:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -10153,14 +10492,14 @@
         },
         "3fb5c59e-44c4-4482-ad56-d4d321f68f5f:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 3,
-                "denominator": 5
+                "numerator": 29,
+                "denominator": 50
             }
         },
         "4039dc2a-6515-4bf8-819c-fdd0c063ee9c:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 53,
-                "denominator": 100
+                "numerator": 11,
+                "denominator": 20
             }
         },
         "403d216c-10aa-40c0-ba4b-f96eda54e310:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -10171,8 +10510,8 @@
         },
         "40490abc-5645-42af-8438-86bab23ab1f9:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 73,
-                "denominator": 100
+                "numerator": 3,
+                "denominator": 4
             }
         },
         "40619c29-9cbc-4847-a932-665222416af6:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -10285,20 +10624,20 @@
         },
         "48977626-9461-401c-8dfc-3ea79bbd4366:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 73,
-                "denominator": 100
+                "numerator": 3,
+                "denominator": 4
             }
         },
         "495b9a8c-ca1e-4b9e-9484-36ac3c25be9c:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 29,
-                "denominator": 50
+                "numerator": 3,
+                "denominator": 5
             }
         },
         "49832688-de2a-4d08-b6be-fe549fa1701e:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 16,
-                "denominator": 25
+                "numerator": 13,
+                "denominator": 20
             }
         },
         "49b7dc37-ed78-4262-8794-34590c818fb9:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -10353,6 +10692,12 @@
             "odds": {
                 "numerator": 57,
                 "denominator": 100
+            }
+        },
+        "4d055cdf-5424-406f-8712-332548a49eec:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 5,
+                "denominator": 1
             }
         },
         "4ea3a639-263d-4322-b674-b50a9591dc81:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -10427,6 +10772,18 @@
                 "denominator": 10
             }
         },
+        "54538f19-01a3-4deb-8993-b4e538aae1f9:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 13,
+                "denominator": 1
+            }
+        },
+        "56240bec-dc71-4d2b-bbad-9ca760976bec:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 31,
+                "denominator": 10
+            }
+        },
         "563c3497-663c-4383-a9d1-fbf54a4f64ea:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
                 "numerator": 4,
@@ -10469,6 +10826,12 @@
                 "denominator": 1
             }
         },
+        "597d1ce0-38bf-4808-91c1-1604281b47c4:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 6,
+                "denominator": 5
+            }
+        },
         "59bd937d-350b-469f-9637-da5b2d62cbcb:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
                 "numerator": 57,
@@ -10477,8 +10840,8 @@
         },
         "59bf75fa-aa7a-4068-a540-c48da4008ff2:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 31,
-                "denominator": 20
+                "numerator": 8,
+                "denominator": 5
             }
         },
         "5ac91be7-4534-43e9-a026-c9ba2b2390f4:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -10541,10 +10904,22 @@
                 "denominator": 25
             }
         },
+        "5c86d151-b73a-4ee7-a5a4-3095aaa6da11:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 33,
+                "denominator": 4
+            }
+        },
         "5d4abd9c-4105-408f-a61c-86416cdafc7a:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
                 "numerator": 7,
                 "denominator": 1
+            }
+        },
+        "5d6ae041-bef6-42f1-8817-7e30dc9e9ad9:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 19,
+                "denominator": 2
             }
         },
         "5e69c84c-959b-4ed2-b360-c5f3cc878011:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -10681,14 +11056,14 @@
         },
         "670087ff-3ad9-4187-98a1-bdf1af9f1041:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 13,
-                "denominator": 2
+                "numerator": 25,
+                "denominator": 4
             }
         },
         "679a2920-5a41-49db-a8b1-b3e6e34caf14:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 7,
-                "denominator": 20
+                "numerator": 33,
+                "denominator": 100
             }
         },
         "68043da8-7868-41c6-81c5-86d7d22ca53d:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -10753,8 +11128,8 @@
         },
         "6b9c95ce-527a-47cb-8550-bfaf18922721:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 7,
-                "denominator": 5
+                "numerator": 27,
+                "denominator": 20
             }
         },
         "6c23a8df-c850-4dd2-9e51-989dcb11a275:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -10777,8 +11152,8 @@
         },
         "6c7cbcc9-0060-4ab0-b7f3-ccb846a947aa:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 73,
-                "denominator": 100
+                "numerator": 3,
+                "denominator": 4
             }
         },
         "6d26e5c0-4085-483f-80d4-18a082e6dcad:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -10813,8 +11188,8 @@
         },
         "6e8a029a-55dc-4556-a003-c9117c8ead74:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 8,
-                "denominator": 25
+                "numerator": 3,
+                "denominator": 10
             }
         },
         "6ed52f06-1119-49a5-adfe-cb47161528d6:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -10885,14 +11260,20 @@
         },
         "7271303c-073f-412a-b16c-302441cea0db:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 11,
-                "denominator": 20
+                "numerator": 53,
+                "denominator": 100
             }
         },
         "7335383f-0245-41bc-80c5-c36b7bd25ce1:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
                 "numerator": 33,
                 "denominator": 100
+            }
+        },
+        "7339f1d5-e5bf-4009-8a25-7f3837ce817a:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 21,
+                "denominator": 2
             }
         },
         "73cbc30b-7b64-4ad9-a77a-8c883442f548:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -10903,8 +11284,14 @@
         },
         "73d5cb68-e907-4648-b006-4585620632e4:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
+                "numerator": 53,
+                "denominator": 100
+            }
+        },
+        "7401a51c-2f19-4a5a-8196-ee0217f5a76e:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
                 "numerator": 13,
-                "denominator": 25
+                "denominator": 2
             }
         },
         "74029d37-7ba1-437e-9a92-32558b5014f0:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -10951,8 +11338,8 @@
         },
         "77a0e34b-51d1-4310-bf4d-fb6cad8cacce:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 7,
-                "denominator": 4
+                "numerator": 17,
+                "denominator": 10
             }
         },
         "78b2c188-828e-4149-baa8-3f7e1e7ba61d:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -10961,10 +11348,16 @@
                 "denominator": 2
             }
         },
+        "796325f8-eb78-4c62-8cf7-527987c6ff52:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 9,
+                "denominator": 2
+            }
+        },
         "79d85ee3-b195-4aee-a9e1-b7f53ce2d6eb:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 7,
-                "denominator": 5
+                "numerator": 27,
+                "denominator": 20
             }
         },
         "7a8ea453-e08d-4cb9-9099-f5ca2baed3fd:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -10975,7 +11368,13 @@
         },
         "7ac9b7c4-429f-4b88-9710-6aaf71856c9b:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 22,
+                "numerator": 17,
+                "denominator": 4
+            }
+        },
+        "7ad1ca4d-681a-4b15-8ee3-6f564979d303:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 19,
                 "denominator": 5
             }
         },
@@ -11057,10 +11456,16 @@
                 "denominator": 1
             }
         },
+        "81eb4380-18f5-45be-a53b-eda9e16eee0a:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 17,
+                "denominator": 4
+            }
+        },
         "82449052-88d1-42f9-b996-a644ac033cbc:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 13,
-                "denominator": 20
+                "numerator": 67,
+                "denominator": 100
             }
         },
         "82bb009d-eca0-458b-b9b4-b74ae7593553:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -11096,6 +11501,12 @@
         "84980d25-0c90-4e56-b90f-ceb3b940a9ec:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
                 "numerator": 24,
+                "denominator": 5
+            }
+        },
+        "84a765c0-cd3d-4759-89c4-c61a5d1c866e:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 21,
                 "denominator": 5
             }
         },
@@ -11321,6 +11732,12 @@
                 "denominator": 1
             }
         },
+        "999f9a1b-7fee-4d5f-b833-d5af3011bcac:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 21,
+                "denominator": 10
+            }
+        },
         "9a568f8a-aa22-4357-b279-2e56e53452ca:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
                 "numerator": 5,
@@ -11353,8 +11770,8 @@
         },
         "9c83c876-afd3-430f-8462-e3f280727ba6:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 3,
-                "denominator": 5
+                "numerator": 29,
+                "denominator": 50
             }
         },
         "9c91fe64-f90e-4aad-8e00-5b0e9a6f63ed:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -11384,6 +11801,12 @@
         "9e22d536-29ec-44ac-a2c4-ef45c3f79184:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
                 "numerator": 40,
+                "denominator": 1
+            }
+        },
+        "9e6ceb56-b6a0-4b96-93d4-f740cba82333:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 4,
                 "denominator": 1
             }
         },
@@ -11551,8 +11974,8 @@
         },
         "abc6841a-d972-46ed-87c0-8a6664098fda:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 33,
-                "denominator": 100
+                "numerator": 8,
+                "denominator": 25
             }
         },
         "ac3a41b0-7b94-412e-a934-74b8bb56de94:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -11569,8 +11992,8 @@
         },
         "ac84f948-3fa3-44bb-b572-ca4e01c02dd4:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 11,
-                "denominator": 20
+                "numerator": 57,
+                "denominator": 100
             }
         },
         "ad066d94-1931-4a1b-8b9b-dfaca8686def:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -11601,6 +12024,12 @@
             "odds": {
                 "numerator": 3,
                 "denominator": 100
+            }
+        },
+        "b0271308-5a94-49e3-8ad7-edbb2658eddd:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 21,
+                "denominator": 4
             }
         },
         "b090aa8e-70d9-4eda-a4a5-66cb361800fe:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -11663,6 +12092,12 @@
                 "denominator": 20
             }
         },
+        "b33e7c36-9636-489c-b912-3fe0931cca0c:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 47,
+                "denominator": 20
+            }
+        },
         "b3402f8e-1828-4e55-bf0a-5cf98a6e4aae:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
                 "numerator": 23,
@@ -11689,8 +12124,8 @@
         },
         "b500343c-7844-4d5d-906f-2a259e4fc755:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 13,
-                "denominator": 2
+                "numerator": 25,
+                "denominator": 4
             }
         },
         "b5a68c3d-4942-4cac-a3c9-105ce8b72ec7:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -11723,6 +12158,12 @@
                 "denominator": 20
             }
         },
+        "b8a3d600-d1c0-46f9-9a78-ba92f05aded5:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 23,
+                "denominator": 4
+            }
+        },
         "b90f58ae-1b5b-4ae3-a28b-f93672bdb26d:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
                 "numerator": 66,
@@ -11749,14 +12190,14 @@
         },
         "b961853d-40c9-4d0a-9f98-880067d94aa0:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 91,
-                "denominator": 100
+                "numerator": 23,
+                "denominator": 25
             }
         },
         "b9ba3270-ad0e-4054-97b6-dca4a44ab394:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 4,
-                "denominator": 5
+                "numerator": 39,
+                "denominator": 50
             }
         },
         "b9e2648b-d02d-4f83-90d5-7d9e57792db2:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -11773,14 +12214,14 @@
         },
         "ba943c29-341d-43b4-b8f8-05bd41ac8f2f:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 23,
-                "denominator": 20
+                "numerator": 6,
+                "denominator": 5
             }
         },
         "bb5e9443-ee32-457c-98fd-3ab42476455e:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 11,
-                "denominator": 5
+                "numerator": 43,
+                "denominator": 20
             }
         },
         "bb81a21f-61f9-490f-abb8-8e69b8218e6a:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -11857,8 +12298,8 @@
         },
         "c1cfbf24-b025-4bd9-a815-1cbd6af9a2ac:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 41,
-                "denominator": 20
+                "numerator": 21,
+                "denominator": 10
             }
         },
         "c1defff8-ae49-40aa-8935-857737ce9818:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -11869,8 +12310,8 @@
         },
         "c27f1d39-0b94-4571-b2e7-47df782a5a8d:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 7,
-                "denominator": 20
+                "numerator": 9,
+                "denominator": 25
             }
         },
         "c281739d-18cf-4268-a5a8-87ffc33f51c6:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -11935,8 +12376,8 @@
         },
         "c7895952-675c-4dcb-85d7-b8993698d7ed:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 6,
-                "denominator": 25
+                "numerator": 1,
+                "denominator": 4
             }
         },
         "c79c4705-a728-489f-a95e-639653e4031f:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -12043,8 +12484,8 @@
         },
         "d262ce91-2096-42e1-9cf5-6315294d9afa:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 2,
-                "denominator": 1
+                "numerator": 19,
+                "denominator": 10
             }
         },
         "d2a67363-2afd-4cb5-8dcf-857a6eca94a5:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -12109,8 +12550,8 @@
         },
         "d8bce95f-8672-4f59-a823-ade77481c8b2:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 31,
-                "denominator": 50
+                "numerator": 16,
+                "denominator": 25
             }
         },
         "d9492a72-1d7e-4383-929f-c9bb487e7883:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -12205,7 +12646,7 @@
         },
         "de4b987f-8d19-41e9-8908-709469d0e0a8:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 31,
+                "numerator": 29,
                 "denominator": 50
             }
         },
@@ -12227,6 +12668,12 @@
                 "denominator": 2
             }
         },
+        "e06dfbda-c4bb-4d69-b23c-34c6a8fda48b:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 6,
+                "denominator": 1
+            }
+        },
         "e0709a9d-565d-4497-967b-da9af40f2404:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
                 "numerator": 18,
@@ -12243,6 +12690,12 @@
             "odds": {
                 "numerator": 13,
                 "denominator": 20
+            }
+        },
+        "e0ec308a-5115-436a-be99-bfc9995c20e0:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 27,
+                "denominator": 4
             }
         },
         "e13286dd-509d-4c59-a844-0bb65373ee44:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -12323,6 +12776,12 @@
                 "denominator": 1
             }
         },
+        "e4f44ada-6da2-4cc1-9b0d-18edd0f8117e:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 39,
+                "denominator": 20
+            }
+        },
         "e5521343-ecbf-46e2-86df-f6c11cc39d03:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
                 "numerator": 40,
@@ -12343,8 +12802,8 @@
         },
         "e609e0e7-0b0d-4a2f-bc94-f01023d3764b:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 9,
-                "denominator": 25
+                "numerator": 19,
+                "denominator": 50
             }
         },
         "e60f7e62-badd-4bce-905d-94b48b231eb6:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -12463,8 +12922,8 @@
         },
         "ee492400-d7b3-4727-bb61-2d105738b508:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 77,
-                "denominator": 100
+                "numerator": 39,
+                "denominator": 50
             }
         },
         "ef78d3b5-25cc-42d5-9fc6-8762451b9a1c:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -12501,6 +12960,18 @@
             "odds": {
                 "numerator": 13,
                 "denominator": 10
+            }
+        },
+        "f0ff3208-5985-490e-a7ac-9a4ba15365ad:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 16,
+                "denominator": 5
+            }
+        },
+        "f133ba8d-2093-46f9-99b6-24ad9e5b894b:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 14,
+                "denominator": 1
             }
         },
         "f22b6bd1-c344-4a34-bb9e-493f0c022d35:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -12587,6 +13058,18 @@
                 "denominator": 2
             }
         },
+        "f6de99fd-dd9d-455f-ba48-e3d68cb4d09f:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 21,
+                "denominator": 10
+            }
+        },
+        "f6e9fcbf-ddc8-4bae-9503-6c3371e73995:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 19,
+                "denominator": 2
+            }
+        },
         "f79a7ba3-4bd1-40ab-9471-748ca542b691:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
                 "numerator": 31,
@@ -12649,8 +13132,8 @@
         },
         "fc406e9b-feb2-4cc3-91ba-e92009a1d0ff:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 13,
-                "denominator": 5
+                "numerator": 5,
+                "denominator": 2
             }
         },
         "fc8c2949-3f32-4e68-a17f-504fe43fe22c:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -12686,6 +13169,12 @@
         "fe33f932-d573-4156-a709-8717f66e10b5:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
                 "numerator": 80,
+                "denominator": 1
+            }
+        },
+        "ff83fad6-a1d6-41c3-96d8-225d9b5fd185:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 14,
                 "denominator": 1
             }
         },
