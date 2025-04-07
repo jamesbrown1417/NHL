@@ -1,165 +1,676 @@
 home_team,away_team,player_name,line,over_price,over_agency,under_price,under_agency,market_name,match,margin
-Vancouver Canucks,Vegas Golden Knights,Ivan Barbashev,0.5,2.4,Bet365,1.606,Pinnacle,Player Points,Vancouver Canucks v Vegas Golden Knights,-3.9331672893316627
-Vancouver Canucks,Vegas Golden Knights,Pavel Dorofeyev,0.5,1.9,Pinnacle,1.9,Bet365,Player Points,Vancouver Canucks v Vegas Golden Knights,-5.263157894736836
-Vancouver Canucks,Vegas Golden Knights,Jake DeBrusk,0.5,2.15,Bet365,1.694,Pinnacle,Player Points,Vancouver Canucks v Vegas Golden Knights,-5.543505120672143
-Vancouver Canucks,Vegas Golden Knights,Quinn Hughes,0.5,1.52,Bet365,2.5,Pinnacle,Player Points,Vancouver Canucks v Vegas Golden Knights,-5.789473684210522
-Vancouver Canucks,Vegas Golden Knights,Conor Garland,0.5,2.06,Pinnacle,1.74,Bet365,Player Points,Vancouver Canucks v Vegas Golden Knights,-6.0149536882044385
-Vancouver Canucks,Vegas Golden Knights,Jake DeBrusk,0.5,2.15,Bet365,1.68,Bet365,Player Points,Vancouver Canucks v Vegas Golden Knights,-6.035437430786272
-Vancouver Canucks,Vegas Golden Knights,Shea Theodore,0.5,2.15,Bet365,1.68,Bet365,Player Points,Vancouver Canucks v Vegas Golden Knights,-6.035437430786272
-Vancouver Canucks,Vegas Golden Knights,William Karlsson,0.5,2.1,Bet365,1.71,Bet365,Player Points,Vancouver Canucks v Vegas Golden Knights,-6.098579782790292
-Vancouver Canucks,Vegas Golden Knights,William Karlsson,0.5,2.1,Bet365,1.709,Pinnacle,Player Points,Vancouver Canucks v Vegas Golden Knights,-6.132798350469493
-Vancouver Canucks,Vegas Golden Knights,Ivan Barbashev,0.5,2.4,Bet365,1.55,Bet365,Player Points,Vancouver Canucks v Vegas Golden Knights,-6.182795698924726
-Vancouver Canucks,Vegas Golden Knights,Noah Hanifin,0.5,2.4,Bet365,1.55,Bet365,Player Points,Vancouver Canucks v Vegas Golden Knights,-6.182795698924726
-Vancouver Canucks,Vegas Golden Knights,Mark Stone,0.5,1.58,Bet365,2.33,Pinnacle,Player Points,Vancouver Canucks v Vegas Golden Knights,-6.209594176128652
-Vancouver Canucks,Vegas Golden Knights,Brock Boeser,0.5,1.74,Bet365,2.05,Bet365,Player Points,Vancouver Canucks v Vegas Golden Knights,-6.251752172694136
-Vancouver Canucks,Vegas Golden Knights,Conor Garland,0.5,2.05,Bet365,1.74,Bet365,Player Points,Vancouver Canucks v Vegas Golden Knights,-6.251752172694136
-Vancouver Canucks,Vegas Golden Knights,Mark Stone,0.5,1.58,Bet365,2.32,Bet365,Player Points,Vancouver Canucks v Vegas Golden Knights,-6.3945875163683885
-Vancouver Canucks,Vegas Golden Knights,Filip Hronek,0.5,2.6,Pinnacle,1.47,Bet365,Player Points,Vancouver Canucks v Vegas Golden Knights,-6.488749345892186
-Vancouver Canucks,Vegas Golden Knights,Brock Boeser,0.5,1.74,Bet365,2.04,Pinnacle,Player Points,Vancouver Canucks v Vegas Golden Knights,-6.490872210953347
-Vancouver Canucks,Vegas Golden Knights,Quinn Hughes,0.5,1.52,Bet365,2.45,Bet365,Player Points,Vancouver Canucks v Vegas Golden Knights,-6.605800214822777
-Vancouver Canucks,Vegas Golden Knights,Noah Hanifin,0.5,2.37,Pinnacle,1.55,Bet365,Player Points,Vancouver Canucks v Vegas Golden Knights,-6.710221859262289
-Vancouver Canucks,Vegas Golden Knights,Jack Eichel,1.5,2.9,Bet365,1.384,Pinnacle,Player Points,Vancouver Canucks v Vegas Golden Knights,-6.737093880805256
+Winnipeg Jets,St. Louis Blues,Jimmy Snuggerud,0.5,2.55,Bet365,1.606,Pinnacle,Player Points,Winnipeg Jets v St. Louis Blues,-1.4821868971748087
+Winnipeg Jets,St. Louis Blues,Jimmy Snuggerud,0.5,2.45,Neds,1.606,Pinnacle,Player Points,Winnipeg Jets v St. Louis Blues,-3.0828271532772344
+Anaheim Ducks,Edmonton Oilers,Jackson LaCombe,0.5,2.35,Bet365,1.625,Pinnacle,Player Points,Anaheim Ducks v Edmonton Oilers,-4.091653027823239
+Los Angeles Kings,Seattle Kraken,Andrei Kuzmenko,0.5,2,Bet365,1.84,Pinnacle,Player Points,Los Angeles Kings v Seattle Kraken,-4.347826086956519
+Anaheim Ducks,Edmonton Oilers,Jeff Skinner,0.5,2.28,Bet365,1.64,Neds,Player Points,Anaheim Ducks v Edmonton Oilers,-4.835258878904591
+Los Angeles Kings,Seattle Kraken,Adrian Kempe,0.5,1.6,Neds,2.35,Bet365,Player Points,Los Angeles Kings v Seattle Kraken,-5.053191489361697
+Los Angeles Kings,Seattle Kraken,Kevin Fiala,0.5,1.645,Pinnacle,2.25,Bet365,Player Points,Los Angeles Kings v Seattle Kraken,-5.2347180006754535
+San Jose Sharks,Calgary Flames,Morgan Frost,0.5,2.2,Bet365,1.671,Pinnacle,Player Points,San Jose Sharks v Calgary Flames,-5.298950002720204
+San Jose Sharks,Calgary Flames,Jonathan Huberdeau,0.5,1.671,Pinnacle,2.2,Bet365,Player Points,San Jose Sharks v Calgary Flames,-5.298950002720204
+New York Rangers,Tampa Bay Lightning,Nick Paul,0.5,2.45,Bet365,1.55,Neds,Player Points,New York Rangers v Tampa Bay Lightning,-5.332455562870297
+Winnipeg Jets,St. Louis Blues,Cam Fowler,0.5,2.45,Bet365,1.55,Neds,Player Points,Winnipeg Jets v St. Louis Blues,-5.332455562870297
+Los Angeles Kings,Seattle Kraken,Jordan Eberle,0.5,2.45,Bet365,1.55,Neds,Player Points,Los Angeles Kings v Seattle Kraken,-5.332455562870297
+San Jose Sharks,Calgary Flames,Morgan Frost,0.5,2.2,Bet365,1.67,Neds,Player Points,San Jose Sharks v Calgary Flames,-5.334784975503548
+Los Angeles Kings,Seattle Kraken,Warren Foegele,0.5,2.2,Bet365,1.67,Neds,Player Points,Los Angeles Kings v Seattle Kraken,-5.334784975503548
+San Jose Sharks,Calgary Flames,Jonathan Huberdeau,0.5,1.67,Neds,2.2,Bet365,Player Points,San Jose Sharks v Calgary Flames,-5.334784975503548
+San Jose Sharks,Calgary Flames,Mikael Backlund,0.5,2.4,Bet365,1.5699999999999998,Neds,Player Points,San Jose Sharks v Calgary Flames,-5.360934182590249
+Los Angeles Kings,Seattle Kraken,Jaden Schwartz,0.5,2.4,Bet365,1.5699999999999998,Neds,Player Points,Los Angeles Kings v Seattle Kraken,-5.360934182590249
+San Jose Sharks,Calgary Flames,Macklin Celebrini,0.5,1.5699999999999998,Neds,2.4,Bet365,Player Points,San Jose Sharks v Calgary Flames,-5.360934182590249
+Los Angeles Kings,Seattle Kraken,Andrei Kuzmenko,0.5,1.96,Neds,1.84,Pinnacle,Player Points,Los Angeles Kings v Seattle Kraken,-5.368234250221837
+Anaheim Ducks,Edmonton Oilers,Zach Hyman,0.5,1.641,Pinnacle,2.25,Bet365,Player Points,Anaheim Ducks v Edmonton Oilers,-5.382896607759502
+Anaheim Ducks,Edmonton Oilers,Jeff Skinner,0.5,2.28,Bet365,1.625,Pinnacle,Player Points,Anaheim Ducks v Edmonton Oilers,-5.3981106612685625
+New York Rangers,Tampa Bay Lightning,Nikita Kucherov,1.5,2.25,Bet365,1.64,Bet365,Player Points,New York Rangers v Tampa Bay Lightning,-5.4200542005419905
+San Jose Sharks,Calgary Flames,Blake Coleman,0.5,2.25,Bet365,1.64,Bet365,Player Points,San Jose Sharks v Calgary Flames,-5.4200542005419905
+Anaheim Ducks,Edmonton Oilers,Zach Hyman,0.5,1.64,Bet365,2.25,Bet365,Player Points,Anaheim Ducks v Edmonton Oilers,-5.4200542005419905
+Los Angeles Kings,Seattle Kraken,Kevin Fiala,0.5,1.64,Bet365,2.25,Bet365,Player Points,Los Angeles Kings v Seattle Kraken,-5.4200542005419905
+Anaheim Ducks,Edmonton Oilers,Viktor Arvidsson,0.5,2.1,Bet365,1.729,Pinnacle,Player Points,Anaheim Ducks v Edmonton Oilers,-5.455947561210728
+San Jose Sharks,Calgary Flames,William Eklund,0.5,1.66,Bet365,2.21,Pinnacle,Player Points,San Jose Sharks v Calgary Flames,-5.489832633702241
+Anaheim Ducks,Edmonton Oilers,Evan Bouchard,0.5,1.62,Bet365,2.28,Bet365,Player Points,Anaheim Ducks v Edmonton Oilers,-5.588044184535423
+Anaheim Ducks,Edmonton Oilers,Jeff Skinner,0.5,2.28,Bet365,1.62,Bet365,Player Points,Anaheim Ducks v Edmonton Oilers,-5.588044184535423
+Los Angeles Kings,Seattle Kraken,Matthew Beniers,0.5,2.28,Bet365,1.62,Bet365,Player Points,Los Angeles Kings v Seattle Kraken,-5.588044184535423
+Anaheim Ducks,Edmonton Oilers,Frank Vatrano,0.5,2.32,Bet365,1.6,Neds,Player Points,Anaheim Ducks v Edmonton Oilers,-5.603448275862077
+Los Angeles Kings,Seattle Kraken,Brandon Montour,0.5,2.32,Bet365,1.6,Neds,Player Points,Los Angeles Kings v Seattle Kraken,-5.603448275862077
+Los Angeles Kings,Seattle Kraken,Chandler Stephenson,0.5,2.32,Bet365,1.6,Neds,Player Points,Los Angeles Kings v Seattle Kraken,-5.603448275862077
+Los Angeles Kings,Seattle Kraken,Vince Dunn,0.5,2.32,Bet365,1.6,Neds,Player Points,Los Angeles Kings v Seattle Kraken,-5.603448275862077
+Anaheim Ducks,Edmonton Oilers,Ryan Nugent-Hopkins,0.5,1.6,Neds,2.32,Bet365,Player Points,Anaheim Ducks v Edmonton Oilers,-5.603448275862077
+Los Angeles Kings,Seattle Kraken,Warren Foegele,0.5,2.2,Bet365,1.662,Pinnacle,Player Points,Los Angeles Kings v Seattle Kraken,-5.623017175363754
+Winnipeg Jets,St. Louis Blues,Alex Iafallo,0.5,2.2,Bet365,1.66,Bet365,Player Points,Winnipeg Jets v St. Louis Blues,-5.6955093099671394
+San Jose Sharks,Calgary Flames,Jonathan Huberdeau,0.5,1.66,Bet365,2.2,Bet365,Player Points,San Jose Sharks v Calgary Flames,-5.6955093099671394
+San Jose Sharks,Calgary Flames,Morgan Frost,0.5,2.2,Bet365,1.66,Bet365,Player Points,San Jose Sharks v Calgary Flames,-5.6955093099671394
+San Jose Sharks,Calgary Flames,Tyler Toffoli,0.5,1.66,Bet365,2.2,Bet365,Player Points,San Jose Sharks v Calgary Flames,-5.6955093099671394
+San Jose Sharks,Calgary Flames,William Eklund,0.5,1.66,Bet365,2.2,Bet365,Player Points,San Jose Sharks v Calgary Flames,-5.6955093099671394
+Los Angeles Kings,Seattle Kraken,Warren Foegele,0.5,2.2,Bet365,1.66,Bet365,Player Points,Los Angeles Kings v Seattle Kraken,-5.6955093099671394
+Los Angeles Kings,Seattle Kraken,Trevor Moore,0.5,2.15,Bet365,1.689,Pinnacle,Player Points,Los Angeles Kings v Seattle Kraken,-5.71825904966472
+New York Rangers,Tampa Bay Lightning,Nikita Kucherov,1.5,2.25,Bet365,1.632,Pinnacle,Player Points,New York Rangers v Tampa Bay Lightning,-5.718954248366015
+San Jose Sharks,Calgary Flames,Blake Coleman,0.5,2.25,Bet365,1.632,Pinnacle,Player Points,San Jose Sharks v Calgary Flames,-5.718954248366015
+New York Rangers,Tampa Bay Lightning,Chris Kreider,0.5,2.5,Bet365,1.52,Neds,Player Points,New York Rangers v Tampa Bay Lightning,-5.789473684210522
+Winnipeg Jets,St. Louis Blues,Jake Neighbours,0.5,2.5,Bet365,1.52,Neds,Player Points,Winnipeg Jets v St. Louis Blues,-5.789473684210522
+Los Angeles Kings,Seattle Kraken,Kaapo Kakko,0.5,2.5,Bet365,1.52,Neds,Player Points,Los Angeles Kings v Seattle Kraken,-5.789473684210522
+New York Rangers,Tampa Bay Lightning,Brandon Hagel,0.5,1.52,Neds,2.5,Bet365,Player Points,New York Rangers v Tampa Bay Lightning,-5.789473684210522
+San Jose Sharks,Calgary Flames,Nazem Kadri,0.5,1.52,Neds,2.5,Bet365,Player Points,San Jose Sharks v Calgary Flames,-5.789473684210522
+Anaheim Ducks,Edmonton Oilers,Trevor Zegras,0.5,2.1,Bet365,1.719,Pinnacle,Player Points,Anaheim Ducks v Edmonton Oilers,-5.792404221723579
+Winnipeg Jets,St. Louis Blues,Justin Faulk,0.5,2.75,Bet365,1.44,Neds,Player Points,Winnipeg Jets v St. Louis Blues,-5.8080808080807955
+San Jose Sharks,Calgary Flames,William Eklund,0.5,1.65,Neds,2.21,Pinnacle,Player Points,San Jose Sharks v Calgary Flames,-5.8549293843411565
+Anaheim Ducks,Edmonton Oilers,Evan Bouchard,0.5,1.613,Pinnacle,2.28,Bet365,Player Points,Anaheim Ducks v Edmonton Oilers,-5.855929345993616
+New York Rangers,Tampa Bay Lightning,Vincent Trocheck,0.5,1.787,Pinnacle,2,Bet365,Player Points,New York Rangers v Tampa Bay Lightning,-5.959709009513148
+Los Angeles Kings,Seattle Kraken,Adrian Kempe,0.5,1.6,Neds,2.3,Pinnacle,Player Points,Los Angeles Kings v Seattle Kraken,-5.978260869565233
+Anaheim Ducks,Edmonton Oilers,Jackson LaCombe,0.5,2.25,Neds,1.625,Pinnacle,Player Points,Anaheim Ducks v Edmonton Oilers,-5.982905982905984
+San Jose Sharks,Calgary Flames,Alexander Wennberg,0.5,2.15,Bet365,1.68,Bet365,Player Points,San Jose Sharks v Calgary Flames,-6.035437430786272
+San Jose Sharks,Calgary Flames,Alexander Wennberg,0.5,2.15,Bet365,1.6800000000000002,Neds,Player Points,San Jose Sharks v Calgary Flames,-6.035437430786272
+Los Angeles Kings,Seattle Kraken,Trevor Moore,0.5,2.15,Bet365,1.68,Bet365,Player Points,Los Angeles Kings v Seattle Kraken,-6.035437430786272
+Los Angeles Kings,Seattle Kraken,Trevor Moore,0.5,2.15,Bet365,1.6800000000000002,Neds,Player Points,Los Angeles Kings v Seattle Kraken,-6.035437430786272
+New York Rangers,Tampa Bay Lightning,Victor Hedman,0.5,1.746,Pinnacle,2.05,Bet365,Player Points,New York Rangers v Tampa Bay Lightning,-6.054256418852844
+Winnipeg Jets,St. Louis Blues,Alex Iafallo,0.5,2.2,Bet365,1.65,Neds,Player Points,Winnipeg Jets v St. Louis Blues,-6.060606060606055
+San Jose Sharks,Calgary Flames,Tyler Toffoli,0.5,1.65,Neds,2.2,Bet365,Player Points,San Jose Sharks v Calgary Flames,-6.060606060606055
+San Jose Sharks,Calgary Flames,William Eklund,0.5,1.65,Neds,2.2,Bet365,Player Points,San Jose Sharks v Calgary Flames,-6.060606060606055
+Winnipeg Jets,St. Louis Blues,Justin Faulk,0.5,2.73,Pinnacle,1.44,Neds,Player Points,Winnipeg Jets v St. Louis Blues,-6.074481074481075
+Winnipeg Jets,St. Louis Blues,Alex Iafallo,0.5,2.2,Bet365,1.649,Pinnacle,Player Points,Winnipeg Jets v St. Louis Blues,-6.097359281106995
+San Jose Sharks,Calgary Flames,Tyler Toffoli,0.5,1.649,Pinnacle,2.2,Bet365,Player Points,San Jose Sharks v Calgary Flames,-6.097359281106995
+Anaheim Ducks,Edmonton Oilers,Trevor Zegras,0.5,2.1,Bet365,1.71,Bet365,Player Points,Anaheim Ducks v Edmonton Oilers,-6.098579782790292
+Anaheim Ducks,Edmonton Oilers,Viktor Arvidsson,0.5,2.1,Bet365,1.71,Bet365,Player Points,Anaheim Ducks v Edmonton Oilers,-6.098579782790292
+Winnipeg Jets,St. Louis Blues,Pavel Buchnevich,0.5,2,Bet365,1.781,Pinnacle,Player Points,Winnipeg Jets v St. Louis Blues,-6.148231330713072
+Anaheim Ducks,Edmonton Oilers,Ryan Nugent-Hopkins,0.5,1.6,Neds,2.29,Pinnacle,Player Points,Anaheim Ducks v Edmonton Oilers,-6.168122270742371
+Los Angeles Kings,Seattle Kraken,Brandon Montour,0.5,2.29,Pinnacle,1.6,Neds,Player Points,Los Angeles Kings v Seattle Kraken,-6.168122270742371
+Anaheim Ducks,Edmonton Oilers,Jake Walman,0.5,2.45,Bet365,1.53,Neds,Player Points,Anaheim Ducks v Edmonton Oilers,-6.175803654795242
+New York Rangers,Tampa Bay Lightning,Artemi Panarin,0.5,1.48,Neds,2.59,Pinnacle,Player Points,New York Rangers v Tampa Bay Lightning,-6.177606177606165
+San Jose Sharks,Calgary Flames,Collin Graf,0.5,2.59,Pinnacle,1.48,Neds,Player Points,San Jose Sharks v Calgary Flames,-6.177606177606165
+New York Rangers,Tampa Bay Lightning,Vincent Trocheck,0.5,1.78,Neds,2,Bet365,Player Points,New York Rangers v Tampa Bay Lightning,-6.17977528089888
+New York Rangers,Tampa Bay Lightning,Alexis Lafreniere,0.5,2.4,Bet365,1.55,Bet365,Player Points,New York Rangers v Tampa Bay Lightning,-6.182795698924726
+Winnipeg Jets,St. Louis Blues,Vladislav Namestnikov,0.5,2.4,Bet365,1.55,Bet365,Player Points,Winnipeg Jets v St. Louis Blues,-6.182795698924726
+San Jose Sharks,Calgary Flames,Macklin Celebrini,0.5,1.55,Bet365,2.4,Bet365,Player Points,San Jose Sharks v Calgary Flames,-6.182795698924726
+San Jose Sharks,Calgary Flames,Mikael Backlund,0.5,2.4,Bet365,1.55,Bet365,Player Points,San Jose Sharks v Calgary Flames,-6.182795698924726
+Los Angeles Kings,Seattle Kraken,Jaden Schwartz,0.5,2.4,Bet365,1.55,Bet365,Player Points,Los Angeles Kings v Seattle Kraken,-6.182795698924726
+New York Rangers,Tampa Bay Lightning,Nick Paul,0.5,2.4,Pinnacle,1.55,Neds,Player Points,New York Rangers v Tampa Bay Lightning,-6.182795698924726
+New York Rangers,Tampa Bay Lightning,Anthony Cirelli,0.5,2.35,Bet365,1.571,Pinnacle,Player Points,New York Rangers v Tampa Bay Lightning,-6.2069152322006715
+Anaheim Ducks,Edmonton Oilers,Frank Vatrano,0.5,2.32,Bet365,1.584,Pinnacle,Player Points,Anaheim Ducks v Edmonton Oilers,-6.234761407175204
+Los Angeles Kings,Seattle Kraken,Vince Dunn,0.5,2.32,Bet365,1.584,Pinnacle,Player Points,Los Angeles Kings v Seattle Kraken,-6.234761407175204
+New York Rangers,Tampa Bay Lightning,Anthony Cirelli,0.5,2.35,Bet365,1.57,Bet365,Player Points,New York Rangers v Tampa Bay Lightning,-6.247459005285272
+New York Rangers,Tampa Bay Lightning,Anthony Cirelli,0.5,2.35,Bet365,1.5699999999999998,Neds,Player Points,New York Rangers v Tampa Bay Lightning,-6.247459005285272
+Winnipeg Jets,St. Louis Blues,Brayden Schenn,0.5,2.35,Bet365,1.57,Bet365,Player Points,Winnipeg Jets v St. Louis Blues,-6.247459005285272
+Winnipeg Jets,St. Louis Blues,Brayden Schenn,0.5,2.35,Bet365,1.5699999999999998,Neds,Player Points,Winnipeg Jets v St. Louis Blues,-6.247459005285272
+San Jose Sharks,Calgary Flames,Rasmus Andersson,0.5,2.35,Bet365,1.57,Bet365,Player Points,San Jose Sharks v Calgary Flames,-6.247459005285272
+San Jose Sharks,Calgary Flames,Rasmus Andersson,0.5,2.35,Bet365,1.5699999999999998,Neds,Player Points,San Jose Sharks v Calgary Flames,-6.247459005285272
+San Jose Sharks,Calgary Flames,Yegor Sharangovich,0.5,2.35,Bet365,1.57,Bet365,Player Points,San Jose Sharks v Calgary Flames,-6.247459005285272
+San Jose Sharks,Calgary Flames,Yegor Sharangovich,0.5,2.35,Bet365,1.5699999999999998,Neds,Player Points,San Jose Sharks v Calgary Flames,-6.247459005285272
+Anaheim Ducks,Edmonton Oilers,Jackson LaCombe,0.5,2.35,Bet365,1.57,Bet365,Player Points,Anaheim Ducks v Edmonton Oilers,-6.247459005285272
+Anaheim Ducks,Edmonton Oilers,Jackson LaCombe,0.5,2.35,Bet365,1.5699999999999998,Neds,Player Points,Anaheim Ducks v Edmonton Oilers,-6.247459005285272
+Los Angeles Kings,Seattle Kraken,Adrian Kempe,0.5,1.57,Bet365,2.35,Bet365,Player Points,Los Angeles Kings v Seattle Kraken,-6.247459005285272
+Los Angeles Kings,Seattle Kraken,Phillip Danault,0.5,2.35,Bet365,1.57,Bet365,Player Points,Los Angeles Kings v Seattle Kraken,-6.247459005285272
+Los Angeles Kings,Seattle Kraken,Phillip Danault,0.5,2.35,Bet365,1.5699999999999998,Neds,Player Points,Los Angeles Kings v Seattle Kraken,-6.247459005285272
+San Jose Sharks,Calgary Flames,Macklin Celebrini,0.5,1.5699999999999998,Neds,2.35,Pinnacle,Player Points,San Jose Sharks v Calgary Flames,-6.247459005285272
+Los Angeles Kings,Seattle Kraken,Jaden Schwartz,0.5,2.35,Pinnacle,1.5699999999999998,Neds,Player Points,Los Angeles Kings v Seattle Kraken,-6.247459005285272
+San Jose Sharks,Calgary Flames,Mikael Backlund,0.5,2.35,Pinnacle,1.5699999999999998,Neds,Player Points,San Jose Sharks v Calgary Flames,-6.247459005285272
+New York Rangers,Tampa Bay Lightning,Victor Hedman,0.5,1.74,Bet365,2.05,Bet365,Player Points,New York Rangers v Tampa Bay Lightning,-6.251752172694136
+Winnipeg Jets,St. Louis Blues,Josh Morrissey,0.5,1.74,Bet365,2.05,Bet365,Player Points,Winnipeg Jets v St. Louis Blues,-6.251752172694136
+Los Angeles Kings,Seattle Kraken,Drew Doughty,0.5,2.05,Bet365,1.74,Bet365,Player Points,Los Angeles Kings v Seattle Kraken,-6.251752172694136
+Los Angeles Kings,Seattle Kraken,Jared McCann,0.5,2.05,Bet365,1.74,Bet365,Player Points,Los Angeles Kings v Seattle Kraken,-6.251752172694136
+Los Angeles Kings,Seattle Kraken,Quinton Byfield,0.5,2.05,Bet365,1.74,Bet365,Player Points,Los Angeles Kings v Seattle Kraken,-6.251752172694136
+New York Rangers,Tampa Bay Lightning,Brandon Hagel,0.5,1.52,Neds,2.47,Pinnacle,Player Points,New York Rangers v Tampa Bay Lightning,-6.275303643724706
+Los Angeles Kings,Seattle Kraken,Kaapo Kakko,0.5,2.47,Pinnacle,1.52,Neds,Player Points,Los Angeles Kings v Seattle Kraken,-6.275303643724706
+Los Angeles Kings,Seattle Kraken,Adrian Kempe,0.5,1.568,Pinnacle,2.35,Bet365,Player Points,Los Angeles Kings v Seattle Kraken,-6.328701693443328
+Anaheim Ducks,Edmonton Oilers,Cutter Gauthier,0.5,2.52,Pinnacle,1.5,Bet365,Player Points,Anaheim Ducks v Edmonton Oilers,-6.349206349206349
+New York Rangers,Tampa Bay Lightning,Oliver Bjorkstrand,0.5,2.52,Pinnacle,1.5,Bet365,Player Points,New York Rangers v Tampa Bay Lightning,-6.349206349206349
+Los Angeles Kings,Seattle Kraken,Chandler Stephenson,0.5,2.32,Bet365,1.581,Pinnacle,Player Points,Los Angeles Kings v Seattle Kraken,-6.354555170232734
+Los Angeles Kings,Seattle Kraken,Jordan Eberle,0.5,2.39,Pinnacle,1.55,Neds,Player Points,Los Angeles Kings v Seattle Kraken,-6.357133216358468
+Winnipeg Jets,St. Louis Blues,Cam Fowler,0.5,2.39,Pinnacle,1.55,Neds,Player Points,Winnipeg Jets v St. Louis Blues,-6.357133216358468
+Anaheim Ducks,Edmonton Oilers,Frank Vatrano,0.5,2.32,Bet365,1.58,Bet365,Player Points,Anaheim Ducks v Edmonton Oilers,-6.3945875163683885
+Anaheim Ducks,Edmonton Oilers,Ryan Nugent-Hopkins,0.5,1.58,Bet365,2.32,Bet365,Player Points,Anaheim Ducks v Edmonton Oilers,-6.3945875163683885
+Los Angeles Kings,Seattle Kraken,Brandon Montour,0.5,2.32,Bet365,1.58,Bet365,Player Points,Los Angeles Kings v Seattle Kraken,-6.3945875163683885
+Los Angeles Kings,Seattle Kraken,Chandler Stephenson,0.5,2.32,Bet365,1.58,Bet365,Player Points,Los Angeles Kings v Seattle Kraken,-6.3945875163683885
+Los Angeles Kings,Seattle Kraken,Vince Dunn,0.5,2.32,Bet365,1.58,Bet365,Player Points,Los Angeles Kings v Seattle Kraken,-6.3945875163683885
+Los Angeles Kings,Seattle Kraken,Drew Doughty,0.5,2.05,Bet365,1.735,Pinnacle,Player Points,Los Angeles Kings v Seattle Kraken,-6.417375412947224
+Los Angeles Kings,Seattle Kraken,Jared McCann,0.5,2.05,Bet365,1.735,Pinnacle,Player Points,Los Angeles Kings v Seattle Kraken,-6.417375412947224
+San Jose Sharks,Calgary Flames,Nazem Kadri,0.5,1.52,Neds,2.46,Pinnacle,Player Points,San Jose Sharks v Calgary Flames,-6.439880188275571
+Anaheim Ducks,Edmonton Oilers,Trevor Zegras,0.5,2.1,Bet365,1.7,Neds,Player Points,Anaheim Ducks v Edmonton Oilers,-6.442577030812324
+Anaheim Ducks,Edmonton Oilers,Viktor Arvidsson,0.5,2.1,Bet365,1.7,Neds,Player Points,Anaheim Ducks v Edmonton Oilers,-6.442577030812324
+San Jose Sharks,Calgary Flames,Macklin Celebrini,0.5,1.543,Pinnacle,2.4,Bet365,Player Points,San Jose Sharks v Calgary Flames,-6.475480665370492
+New York Rangers,Tampa Bay Lightning,Nick Paul,0.5,2.45,Bet365,1.523,Pinnacle,Player Points,New York Rangers v Tampa Bay Lightning,-6.476208342824985
+Winnipeg Jets,St. Louis Blues,Cam Fowler,0.5,2.45,Bet365,1.523,Pinnacle,Player Points,Winnipeg Jets v St. Louis Blues,-6.476208342824985
+Los Angeles Kings,Seattle Kraken,Jordan Eberle,0.5,2.45,Bet365,1.523,Pinnacle,Player Points,Los Angeles Kings v Seattle Kraken,-6.476208342824985
+New York Rangers,Tampa Bay Lightning,Yanni Gourde,0.5,2.7,Bet365,1.44,Neds,Player Points,New York Rangers v Tampa Bay Lightning,-6.481481481481488
+Los Angeles Kings,Seattle Kraken,Shane Wright,0.5,2.7,Bet365,1.44,Neds,Player Points,Los Angeles Kings v Seattle Kraken,-6.481481481481488
+Winnipeg Jets,St. Louis Blues,Pavel Buchnevich,0.5,2,Bet365,1.77,Neds,Player Points,Winnipeg Jets v St. Louis Blues,-6.49717514124295
+Anaheim Ducks,Edmonton Oilers,Leo Carlsson,0.5,2,Bet365,1.77,Neds,Player Points,Anaheim Ducks v Edmonton Oilers,-6.49717514124295
+Anaheim Ducks,Edmonton Oilers,Leo Carlsson,0.5,2,Bet365,1.769,Pinnacle,Player Points,Anaheim Ducks v Edmonton Oilers,-6.529112492933864
+San Jose Sharks,Calgary Flames,MacKenzie Weegar,0.5,1.769,Pinnacle,2,Bet365,Player Points,San Jose Sharks v Calgary Flames,-6.529112492933864
+Los Angeles Kings,Seattle Kraken,Chandler Stephenson,0.5,2.27,Pinnacle,1.6,Neds,Player Points,Los Angeles Kings v Seattle Kraken,-6.552863436123335
+Anaheim Ducks,Edmonton Oilers,Troy Terry,0.5,1.854,Pinnacle,1.9,Bet365,Player Points,Anaheim Ducks v Edmonton Oilers,-6.569011525577695
+Los Angeles Kings,Seattle Kraken,Drew Doughty,0.5,2.05,Bet365,1.73,Neds,Player Points,Los Angeles Kings v Seattle Kraken,-6.583956012970549
+Los Angeles Kings,Seattle Kraken,Jared McCann,0.5,2.05,Bet365,1.73,Neds,Player Points,Los Angeles Kings v Seattle Kraken,-6.583956012970549
+Los Angeles Kings,Seattle Kraken,Quinton Byfield,0.5,2.05,Bet365,1.73,Neds,Player Points,Los Angeles Kings v Seattle Kraken,-6.583956012970549
+New York Rangers,Tampa Bay Lightning,Victor Hedman,0.5,1.73,Neds,2.05,Bet365,Player Points,New York Rangers v Tampa Bay Lightning,-6.583956012970549
+Winnipeg Jets,St. Louis Blues,Josh Morrissey,0.5,1.73,Neds,2.05,Bet365,Player Points,Winnipeg Jets v St. Louis Blues,-6.583956012970549
+San Jose Sharks,Calgary Flames,Mikael Backlund,0.5,2.4,Bet365,1.54,Pinnacle,Player Points,San Jose Sharks v Calgary Flames,-6.6017316017316086
+Los Angeles Kings,Seattle Kraken,Jaden Schwartz,0.5,2.4,Bet365,1.54,Pinnacle,Player Points,Los Angeles Kings v Seattle Kraken,-6.6017316017316086
+New York Rangers,Tampa Bay Lightning,Nick Paul,0.5,2.45,Bet365,1.52,Bet365,Player Points,New York Rangers v Tampa Bay Lightning,-6.605800214822777
+Winnipeg Jets,St. Louis Blues,Cam Fowler,0.5,2.45,Bet365,1.52,Bet365,Player Points,Winnipeg Jets v St. Louis Blues,-6.605800214822777
+Anaheim Ducks,Edmonton Oilers,Jake Walman,0.5,2.45,Bet365,1.52,Bet365,Player Points,Anaheim Ducks v Edmonton Oilers,-6.605800214822777
+Los Angeles Kings,Seattle Kraken,Jordan Eberle,0.5,2.45,Bet365,1.52,Bet365,Player Points,Los Angeles Kings v Seattle Kraken,-6.605800214822777
+Winnipeg Jets,St. Louis Blues,Jake Neighbours,0.5,2.45,Pinnacle,1.52,Neds,Player Points,Winnipeg Jets v St. Louis Blues,-6.605800214822777
+San Jose Sharks,Calgary Flames,Rasmus Andersson,0.5,2.33,Pinnacle,1.57,Bet365,Player Points,San Jose Sharks v Calgary Flames,-6.612722451545894
+San Jose Sharks,Calgary Flames,Rasmus Andersson,0.5,2.33,Pinnacle,1.5699999999999998,Neds,Player Points,San Jose Sharks v Calgary Flames,-6.612722451545894
+Winnipeg Jets,St. Louis Blues,Brayden Schenn,0.5,2.35,Bet365,1.561,Pinnacle,Player Points,Winnipeg Jets v St. Louis Blues,-6.6146905284392155
+Los Angeles Kings,Seattle Kraken,Phillip Danault,0.5,2.35,Bet365,1.561,Pinnacle,Player Points,Los Angeles Kings v Seattle Kraken,-6.6146905284392155
+Los Angeles Kings,Seattle Kraken,Shane Wright,0.5,2.69,Pinnacle,1.44,Neds,Player Points,Los Angeles Kings v Seattle Kraken,-6.619165634035529
+New York Rangers,Tampa Bay Lightning,Yanni Gourde,0.5,2.69,Pinnacle,1.44,Neds,Player Points,New York Rangers v Tampa Bay Lightning,-6.619165634035529
+New York Rangers,Tampa Bay Lightning,Artemi Panarin,0.5,1.47,Bet365,2.59,Pinnacle,Player Points,New York Rangers v Tampa Bay Lightning,-6.63724949439235
+San Jose Sharks,Calgary Flames,Collin Graf,0.5,2.59,Pinnacle,1.47,Bet365,Player Points,San Jose Sharks v Calgary Flames,-6.63724949439235
+Anaheim Ducks,Edmonton Oilers,Jeff Skinner,0.5,2.19,Pinnacle,1.64,Neds,Player Points,Anaheim Ducks v Edmonton Oilers,-6.637710212718573
+Winnipeg Jets,St. Louis Blues,Zack Bolduc,0.5,2.62,Pinnacle,1.46,Neds,Player Points,Winnipeg Jets v St. Louis Blues,-6.661089616229221
+New York Rangers,Tampa Bay Lightning,Brandon Hagel,0.5,1.5,Bet365,2.5,Bet365,Player Points,New York Rangers v Tampa Bay Lightning,-6.666666666666665
+New York Rangers,Tampa Bay Lightning,Chris Kreider,0.5,2.5,Bet365,1.5,Bet365,Player Points,New York Rangers v Tampa Bay Lightning,-6.666666666666665
+New York Rangers,Tampa Bay Lightning,Oliver Bjorkstrand,0.5,2.5,Bet365,1.5,Bet365,Player Points,New York Rangers v Tampa Bay Lightning,-6.666666666666665
+Winnipeg Jets,St. Louis Blues,Jake Neighbours,0.5,2.5,Bet365,1.5,Bet365,Player Points,Winnipeg Jets v St. Louis Blues,-6.666666666666665
+Winnipeg Jets,St. Louis Blues,Nino Niederreiter,0.5,2.5,Bet365,1.5,Bet365,Player Points,Winnipeg Jets v St. Louis Blues,-6.666666666666665
+Winnipeg Jets,St. Louis Blues,Robert Thomas,0.5,1.5,Bet365,2.5,Bet365,Player Points,Winnipeg Jets v St. Louis Blues,-6.666666666666665
+San Jose Sharks,Calgary Flames,Nazem Kadri,0.5,1.5,Bet365,2.5,Bet365,Player Points,San Jose Sharks v Calgary Flames,-6.666666666666665
+Anaheim Ducks,Edmonton Oilers,Cutter Gauthier,0.5,2.5,Bet365,1.5,Bet365,Player Points,Anaheim Ducks v Edmonton Oilers,-6.666666666666665
+Anaheim Ducks,Edmonton Oilers,Darnell Nurse,0.5,2.5,Bet365,1.5,Bet365,Player Points,Anaheim Ducks v Edmonton Oilers,-6.666666666666665
+Anaheim Ducks,Edmonton Oilers,Ryan Strome,0.5,2.5,Bet365,1.5,Bet365,Player Points,Anaheim Ducks v Edmonton Oilers,-6.666666666666665
+Los Angeles Kings,Seattle Kraken,Kaapo Kakko,0.5,2.5,Bet365,1.5,Bet365,Player Points,Los Angeles Kings v Seattle Kraken,-6.666666666666665
+Anaheim Ducks,Edmonton Oilers,Troy Terry,0.5,1.85,Neds,1.9,Bet365,Player Points,Anaheim Ducks v Edmonton Oilers,-6.685633001422464
+Winnipeg Jets,St. Louis Blues,Kyle Connor,1.5,2.65,Bet365,1.45,Neds,Player Points,Winnipeg Jets v St. Louis Blues,-6.70136629798308
+New York Rangers,Tampa Bay Lightning,Alexis Lafreniere,0.5,2.37,Pinnacle,1.55,Bet365,Player Points,New York Rangers v Tampa Bay Lightning,-6.710221859262289
+San Jose Sharks,Calgary Flames,Matt Coronato,0.5,2,Bet365,1.763,Pinnacle,Player Points,San Jose Sharks v Calgary Flames,-6.7214974475326095
+New York Rangers,Tampa Bay Lightning,J.T. Miller,0.5,1.763,Pinnacle,2,Bet365,Player Points,New York Rangers v Tampa Bay Lightning,-6.7214974475326095
+Winnipeg Jets,St. Louis Blues,Vladislav Namestnikov,0.5,2.4,Bet365,1.537,Pinnacle,Player Points,Winnipeg Jets v St. Louis Blues,-6.728475384949051
+Los Angeles Kings,Seattle Kraken,Drew Doughty,0.5,2.03,Pinnacle,1.74,Bet365,Player Points,Los Angeles Kings v Seattle Kraken,-6.732348111658459
+San Jose Sharks,Calgary Flames,Yegor Sharangovich,0.5,2.35,Bet365,1.558,Pinnacle,Player Points,San Jose Sharks v Calgary Flames,-6.738043864201249
+Anaheim Ducks,Edmonton Oilers,Frank Vatrano,0.5,2.26,Pinnacle,1.6,Neds,Player Points,Anaheim Ducks v Edmonton Oilers,-6.747787610619471
+Los Angeles Kings,Seattle Kraken,Vince Dunn,0.5,2.26,Pinnacle,1.6,Neds,Player Points,Los Angeles Kings v Seattle Kraken,-6.747787610619471
+San Jose Sharks,Calgary Flames,Tyler Toffoli,0.5,1.66,Bet365,2.15,Pinnacle,Player Points,San Jose Sharks v Calgary Flames,-6.752591762398441
+Winnipeg Jets,St. Louis Blues,Alex Iafallo,0.5,2.15,Pinnacle,1.66,Bet365,Player Points,Winnipeg Jets v St. Louis Blues,-6.752591762398441
+Los Angeles Kings,Seattle Kraken,Brandon Montour,0.5,2.32,Bet365,1.571,Pinnacle,Player Points,Los Angeles Kings v Seattle Kraken,-6.75717201870103
+Anaheim Ducks,Edmonton Oilers,Ryan Nugent-Hopkins,0.5,1.571,Pinnacle,2.32,Bet365,Player Points,Anaheim Ducks v Edmonton Oilers,-6.75717201870103
+Los Angeles Kings,Seattle Kraken,Matty Beniers,0.5,2.22,Pinnacle,1.62,Neds,Player Points,Los Angeles Kings v Seattle Kraken,-6.773440106773432
 Edmonton Oilers,Anaheim Ducks,John Klingberg,0.5,3.11,Sportsbet,1.34,Sportsbet,Player Points,Edmonton Oilers v Anaheim Ducks,-6.781206507654636
+Winnipeg Jets,St. Louis Blues,Jimmy Snuggerud,0.5,2.55,Bet365,1.48,Neds,Player Points,Winnipeg Jets v St. Louis Blues,-6.783253842077386
+San Jose Sharks,Calgary Flames,Collin Graf,0.5,2.55,Bet365,1.48,Neds,Player Points,San Jose Sharks v Calgary Flames,-6.783253842077386
+Anaheim Ducks,Edmonton Oilers,Alex Killorn,0.5,2.55,Bet365,1.48,Neds,Player Points,Anaheim Ducks v Edmonton Oilers,-6.783253842077386
+New York Rangers,Tampa Bay Lightning,Artemi Panarin,0.5,1.48,Neds,2.55,Bet365,Player Points,New York Rangers v Tampa Bay Lightning,-6.783253842077386
+Winnipeg Jets,St. Louis Blues,Justin Faulk,0.5,2.75,Bet365,1.42,Bet365,Player Points,Winnipeg Jets v St. Louis Blues,-6.786171574903976
+Winnipeg Jets,St. Louis Blues,Mark Scheifele,0.5,1.42,Bet365,2.75,Bet365,Player Points,Winnipeg Jets v St. Louis Blues,-6.786171574903976
+San Jose Sharks,Calgary Flames,Yegor Sharangovich,0.5,2.32,Pinnacle,1.57,Bet365,Player Points,San Jose Sharks v Calgary Flames,-6.79771579178563
+San Jose Sharks,Calgary Flames,Yegor Sharangovich,0.5,2.32,Pinnacle,1.5699999999999998,Neds,Player Points,San Jose Sharks v Calgary Flames,-6.797715791785652
+New York Rangers,Tampa Bay Lightning,Jake Guentzel,0.5,1.46,Neds,2.61,Pinnacle,Player Points,New York Rangers v Tampa Bay Lightning,-6.807326930142232
 Edmonton Oilers,Anaheim Ducks,Leo Carlsson,0.5,2.61,Sportsbet,1.46,Sportsbet,Player Points,Edmonton Oilers v Anaheim Ducks,-6.807326930142232
-Vancouver Canucks,Vegas Golden Knights,Alex Pietrangelo,0.5,2.91,Pinnacle,1.38,Bet365,Player Points,Vancouver Canucks v Vegas Golden Knights,-6.828029284326931
+New York Rangers,Tampa Bay Lightning,J.T. Miller,0.5,1.76,Bet365,2,Bet365,Player Points,New York Rangers v Tampa Bay Lightning,-6.818181818181834
+New York Rangers,Tampa Bay Lightning,Vincent Trocheck,0.5,1.76,Bet365,2,Bet365,Player Points,New York Rangers v Tampa Bay Lightning,-6.818181818181834
+Winnipeg Jets,St. Louis Blues,Pavel Buchnevich,0.5,2,Bet365,1.76,Bet365,Player Points,Winnipeg Jets v St. Louis Blues,-6.818181818181834
+San Jose Sharks,Calgary Flames,MacKenzie Weegar,0.5,1.76,Bet365,2,Bet365,Player Points,San Jose Sharks v Calgary Flames,-6.818181818181834
+San Jose Sharks,Calgary Flames,Matt Coronato,0.5,2,Bet365,1.76,Bet365,Player Points,San Jose Sharks v Calgary Flames,-6.818181818181834
+Anaheim Ducks,Edmonton Oilers,Leo Carlsson,0.5,2,Bet365,1.76,Bet365,Player Points,Anaheim Ducks v Edmonton Oilers,-6.818181818181834
+Los Angeles Kings,Seattle Kraken,Andrei Kuzmenko,0.5,2,Bet365,1.76,Bet365,Player Points,Los Angeles Kings v Seattle Kraken,-6.818181818181834
+Los Angeles Kings,Seattle Kraken,Anze Kopitar,0.5,1.76,Bet365,2,Bet365,Player Points,Los Angeles Kings v Seattle Kraken,-6.818181818181834
+Winnipeg Jets,St. Louis Blues,Nino Niederreiter,0.5,2.49,Pinnacle,1.5,Bet365,Player Points,Winnipeg Jets v St. Louis Blues,-6.827309236947787
+Los Angeles Kings,Seattle Kraken,Warren Foegele,0.5,2.13,Pinnacle,1.67,Neds,Player Points,Los Angeles Kings v Seattle Kraken,-6.828596328469816
 Seattle Kraken,Minnesota Wild,Matt Boldy,0.5,1.56,Sportsbet,2.34,Sportsbet,Player Points,Seattle Kraken v Minnesota Wild,-6.8376068376068355
 Seattle Kraken,Minnesota Wild,Oliver Bjorkstrand,0.5,2.34,Sportsbet,1.56,Sportsbet,Player Points,Seattle Kraken v Minnesota Wild,-6.8376068376068355
-Vancouver Canucks,Vegas Golden Knights,Noah Hanifin,0.5,2.4,Bet365,1.534,Pinnacle,Player Points,Vancouver Canucks v Vegas Golden Knights,-6.85571490656236
+New York Rangers,Tampa Bay Lightning,Mika Zibanejad,0.5,1.95,Bet365,1.8,Bet365,Player Points,New York Rangers v Tampa Bay Lightning,-6.837606837606858
+San Jose Sharks,Calgary Flames,Will Smith,0.5,1.95,Bet365,1.8,Bet365,Player Points,San Jose Sharks v Calgary Flames,-6.837606837606858
+Anaheim Ducks,Edmonton Oilers,Mason McTavish,0.5,1.8,Bet365,1.95,Bet365,Player Points,Anaheim Ducks v Edmonton Oilers,-6.837606837606858
+New York Rangers,Tampa Bay Lightning,Nikita Kucherov,1.5,2.18,Pinnacle,1.64,Bet365,Player Points,New York Rangers v Tampa Bay Lightning,-6.847169389125085
+San Jose Sharks,Calgary Flames,Blake Coleman,0.5,2.18,Pinnacle,1.64,Bet365,Player Points,San Jose Sharks v Calgary Flames,-6.847169389125085
+New York Rangers,Tampa Bay Lightning,Alexis Lafreniere,0.5,2.4,Bet365,1.534,Pinnacle,Player Points,New York Rangers v Tampa Bay Lightning,-6.85571490656236
+Winnipeg Jets,St. Louis Blues,Vladislav Namestnikov,0.5,2.36,Pinnacle,1.55,Bet365,Player Points,Winnipeg Jets v St. Louis Blues,-6.889010388190275
+New York Rangers,Tampa Bay Lightning,Brayden Point,0.5,1.44,Bet365,2.67,Pinnacle,Player Points,New York Rangers v Tampa Bay Lightning,-6.897627965043696
+Los Angeles Kings,Seattle Kraken,Jani Nyman,0.5,2.67,Pinnacle,1.44,Bet365,Player Points,Los Angeles Kings v Seattle Kraken,-6.897627965043696
+Los Angeles Kings,Seattle Kraken,Drew Doughty,0.5,2.03,Pinnacle,1.735,Pinnacle,Player Points,Los Angeles Kings v Seattle Kraken,-6.897971351911547
+Los Angeles Kings,Seattle Kraken,Anze Kopitar,0.5,1.757,Pinnacle,2,Bet365,Player Points,Los Angeles Kings v Seattle Kraken,-6.915196357427433
+Winnipeg Jets,St. Louis Blues,Mark Scheifele,0.5,1.42,Bet365,2.74,Pinnacle,Player Points,Winnipeg Jets v St. Louis Blues,-6.918885576231126
 Seattle Kraken,Minnesota Wild,Jared Spurgeon,0.5,2.74,Sportsbet,1.42,Sportsbet,Player Points,Seattle Kraken v Minnesota Wild,-6.918885576231126
+New York Rangers,Tampa Bay Lightning,Adam Fox,0.5,1.833,Pinnacle,1.909,Pinnacle,Player Points,New York Rangers v Tampa Bay Lightning,-6.938820535111345
 Edmonton Oilers,Anaheim Ducks,Mason McTavish,0.5,2.25,Sportsbet,1.6,Sportsbet,Player Points,Edmonton Oilers v Anaheim Ducks,-6.944444444444442
 Edmonton Oilers,Anaheim Ducks,Trevor Zegras,0.5,2.27,Sportsbet,1.59,Sportsbet,Player Points,Edmonton Oilers v Anaheim Ducks,-6.945945197129633
-Vancouver Canucks,Vegas Golden Knights,Alex Pietrangelo,0.5,2.9,Bet365,1.38,Bet365,Player Points,Vancouver Canucks v Vegas Golden Knights,-6.946526736631697
-Vancouver Canucks,Vegas Golden Knights,Jack Eichel,1.5,2.9,Bet365,1.38,Bet365,Player Points,Vancouver Canucks v Vegas Golden Knights,-6.946526736631697
 Colorado Avalanche,Pittsburgh Penguins,Matt Grzelcyk,0.5,2.9,Sportsbet,1.38,Sportsbet,Player Points,Colorado Avalanche v Pittsburgh Penguins,-6.946526736631697
-Vancouver Canucks,Vegas Golden Knights,Brock Boeser,0.5,1.719,Pinnacle,2.05,Bet365,Player Points,Vancouver Canucks v Vegas Golden Knights,-6.953844407554022
-Chicago Blackhawks,Pittsburgh Penguins,Tyler Bertuzzi,0.5,1.961,Pinnacle,1.787,Pinnacle,Player Points,Chicago Blackhawks v Pittsburgh Penguins,-6.954099626545274
-Nashville Predators,Montreal Canadiens,Ryan O'Reilly,0.5,1.787,Pinnacle,1.961,Pinnacle,Player Points,Nashville Predators v Montreal Canadiens,-6.954099626545274
+Anaheim Ducks,Edmonton Oilers,Trevor Zegras,0.5,2.05,Pinnacle,1.719,Pinnacle,Player Points,Anaheim Ducks v Edmonton Oilers,-6.953844407554022
+New York Rangers,Tampa Bay Lightning,Vincent Trocheck,0.5,1.787,Pinnacle,1.961,Pinnacle,Player Points,New York Rangers v Tampa Bay Lightning,-6.954099626545274
+New York Rangers,Tampa Bay Lightning,Jake Guentzel,0.5,1.46,Neds,2.6,Bet365,Player Points,New York Rangers v Tampa Bay Lightning,-6.954689146469972
 Seattle Kraken,Minnesota Wild,Brock Faber,0.5,2.23,Sportsbet,1.61,Sportsbet,Player Points,Seattle Kraken v Minnesota Wild,-6.954850569590287
+Anaheim Ducks,Edmonton Oilers,Ryan Nugent-Hopkins,0.5,1.58,Bet365,2.29,Pinnacle,Player Points,Anaheim Ducks v Edmonton Oilers,-6.959261511248682
+Los Angeles Kings,Seattle Kraken,Brandon Montour,0.5,2.29,Pinnacle,1.58,Bet365,Player Points,Los Angeles Kings v Seattle Kraken,-6.959261511248682
 Colorado Avalanche,Pittsburgh Penguins,Valeri Nichushkin,0.5,1.58,Sportsbet,2.29,Sportsbet,Player Points,Colorado Avalanche v Pittsburgh Penguins,-6.959261511248682
+New York Rangers,Tampa Bay Lightning,Yanni Gourde,0.5,2.7,Bet365,1.43,Bet365,Player Points,New York Rangers v Tampa Bay Lightning,-6.967106967106984
+Los Angeles Kings,Seattle Kraken,Shane Wright,0.5,2.7,Bet365,1.43,Bet365,Player Points,Los Angeles Kings v Seattle Kraken,-6.967106967106984
+New York Rangers,Tampa Bay Lightning,J.T. Miller,0.5,1.763,Pinnacle,1.99,Pinnacle,Player Points,New York Rangers v Tampa Bay Lightning,-6.97275372893964
+San Jose Sharks,Calgary Flames,Matt Coronato,0.5,1.99,Pinnacle,1.763,Pinnacle,Player Points,San Jose Sharks v Calgary Flames,-6.97275372893964
+Los Angeles Kings,Seattle Kraken,Jared McCann,0.5,2.02,Pinnacle,1.74,Bet365,Player Points,Los Angeles Kings v Seattle Kraken,-6.976214862865593
+Los Angeles Kings,Seattle Kraken,Quinton Byfield,0.5,2.02,Pinnacle,1.74,Bet365,Player Points,Los Angeles Kings v Seattle Kraken,-6.976214862865593
+Anaheim Ducks,Edmonton Oilers,Evan Bouchard,0.5,1.62,Bet365,2.21,Pinnacle,Player Points,Anaheim Ducks v Edmonton Oilers,-6.97726384000894
 Colorado Avalanche,Pittsburgh Penguins,Jonathan Drouin,0.5,1.62,Sportsbet,2.21,Sportsbet,Player Points,Colorado Avalanche v Pittsburgh Penguins,-6.97726384000894
 Edmonton Oilers,Anaheim Ducks,Mattias Ekholm,0.5,2.21,Sportsbet,1.62,Sportsbet,Player Points,Edmonton Oilers v Anaheim Ducks,-6.97726384000894
 Seattle Kraken,Minnesota Wild,Shane Wright,0.5,2.21,Sportsbet,1.62,Sportsbet,Player Points,Seattle Kraken v Minnesota Wild,-6.97726384000894
-Chicago Blackhawks,Pittsburgh Penguins,Teuvo Teravainen,0.5,1.84,Pinnacle,1.9,Pinnacle,Player Points,Chicago Blackhawks v Pittsburgh Penguins,-6.979405034324948
-Nashville Predators,Montreal Canadiens,Patrik Laine,0.5,1.9,Pinnacle,1.84,Pinnacle,Player Points,Nashville Predators v Montreal Canadiens,-6.979405034324948
+Los Angeles Kings,Seattle Kraken,Phillip Danault,0.5,2.31,Pinnacle,1.57,Bet365,Player Points,Los Angeles Kings v Seattle Kraken,-6.984310805966842
+Winnipeg Jets,St. Louis Blues,Brayden Schenn,0.5,2.31,Pinnacle,1.57,Bet365,Player Points,Winnipeg Jets v St. Louis Blues,-6.984310805966842
 Edmonton Oilers,Anaheim Ducks,Ryan Strome,0.5,2.31,Sportsbet,1.57,Sportsbet,Player Points,Edmonton Oilers v Anaheim Ducks,-6.984310805966842
 Seattle Kraken,Minnesota Wild,Gustav Nyquist,0.5,2.31,Sportsbet,1.57,Sportsbet,Player Points,Seattle Kraken v Minnesota Wild,-6.984310805966842
+Los Angeles Kings,Seattle Kraken,Phillip Danault,0.5,2.31,Pinnacle,1.5699999999999998,Neds,Player Points,Los Angeles Kings v Seattle Kraken,-6.984310805966865
+Winnipeg Jets,St. Louis Blues,Brayden Schenn,0.5,2.31,Pinnacle,1.5699999999999998,Neds,Player Points,Winnipeg Jets v St. Louis Blues,-6.984310805966865
+Anaheim Ducks,Edmonton Oilers,Ryan Strome,0.5,2.48,Pinnacle,1.5,Bet365,Player Points,Anaheim Ducks v Edmonton Oilers,-6.989247311827951
+San Jose Sharks,Calgary Flames,Alex Wennberg,0.5,2.1,Pinnacle,1.684,Pinnacle,Player Points,San Jose Sharks v Calgary Flames,-7.0014704218979595
+Anaheim Ducks,Edmonton Oilers,Leo Carlsson,0.5,1.98,Pinnacle,1.77,Neds,Player Points,Anaheim Ducks v Edmonton Oilers,-7.002225646293447
 Colorado Avalanche,Pittsburgh Penguins,Evgeni Malkin,0.5,2.19,Sportsbet,1.63,Sportsbet,Player Points,Colorado Avalanche v Pittsburgh Penguins,-7.0117937081547455
-Chicago Blackhawks,Pittsburgh Penguins,Rickard Rakell,0.5,1.671,Pinnacle,2.12,Pinnacle,Player Points,Chicago Blackhawks v Pittsburgh Penguins,-7.014215868929452
-Nashville Predators,Montreal Canadiens,Steven Stamkos,0.5,1.8,Pinnacle,1.943,Pinnacle,Player Points,Nashville Predators v Montreal Canadiens,-7.022359467032668
-Vancouver Canucks,Vegas Golden Knights,William Karlsson,0.5,2.06,Pinnacle,1.71,Bet365,Player Points,Vancouver Canucks v Vegas Golden Knights,-7.023221484131037
+San Jose Sharks,Calgary Flames,Jonathan Huberdeau,0.5,1.671,Pinnacle,2.12,Pinnacle,Player Points,San Jose Sharks v Calgary Flames,-7.014215868929452
+San Jose Sharks,Calgary Flames,Morgan Frost,0.5,2.12,Pinnacle,1.671,Pinnacle,Player Points,San Jose Sharks v Calgary Flames,-7.014215868929452
+Anaheim Ducks,Edmonton Oilers,Troy Terry,0.5,1.854,Pinnacle,1.884,Pinnacle,Player Points,Anaheim Ducks v Edmonton Oilers,-7.015988841478915
+Anaheim Ducks,Edmonton Oilers,Mason McTavish,0.5,1.8,Bet365,1.943,Pinnacle,Player Points,Anaheim Ducks v Edmonton Oilers,-7.022359467032668
+New York Rangers,Tampa Bay Lightning,Mika Zibanejad,0.5,1.943,Pinnacle,1.8,Bet365,Player Points,New York Rangers v Tampa Bay Lightning,-7.022359467032668
+San Jose Sharks,Calgary Flames,Will Smith,0.5,1.943,Pinnacle,1.8,Bet365,Player Points,San Jose Sharks v Calgary Flames,-7.022359467032668
+Los Angeles Kings,Seattle Kraken,Kaapo Kakko,0.5,2.5,Bet365,1.492,Pinnacle,Player Points,Los Angeles Kings v Seattle Kraken,-7.024128686327069
+New York Rangers,Tampa Bay Lightning,Brandon Hagel,0.5,1.492,Pinnacle,2.5,Bet365,Player Points,New York Rangers v Tampa Bay Lightning,-7.024128686327069
+San Jose Sharks,Calgary Flames,Nazem Kadri,0.5,1.492,Pinnacle,2.5,Bet365,Player Points,San Jose Sharks v Calgary Flames,-7.024128686327069
+New York Rangers,Tampa Bay Lightning,Victor Hedman,0.5,1.746,Pinnacle,2.01,Pinnacle,Player Points,New York Rangers v Tampa Bay Lightning,-7.025012395069341
 Edmonton Oilers,Anaheim Ducks,Ryan Nugent-Hopkins,0.5,1.53,Sportsbet,2.4,Sportsbet,Player Points,Edmonton Oilers v Anaheim Ducks,-7.0261437908496704
+New York Rangers,Tampa Bay Lightning,Adam Fox,0.5,1.83,Bet365,1.909,Pinnacle,Player Points,New York Rangers v Tampa Bay Lightning,-7.028255573970865
+Anaheim Ducks,Edmonton Oilers,Leo Carlsson,0.5,1.98,Pinnacle,1.769,Pinnacle,Player Points,Anaheim Ducks v Edmonton Oilers,-7.034162997984383
+San Jose Sharks,Calgary Flames,MacKenzie Weegar,0.5,1.769,Pinnacle,1.98,Pinnacle,Player Points,San Jose Sharks v Calgary Flames,-7.034162997984383
+Winnipeg Jets,St. Louis Blues,Cole Perfetti,0.5,1.86,Bet365,1.877,Pinnacle,Player Points,Winnipeg Jets v St. Louis Blues,-7.039945921483026
+San Jose Sharks,Calgary Flames,Jonathan Huberdeau,0.5,1.67,Neds,2.12,Pinnacle,Player Points,San Jose Sharks v Calgary Flames,-7.050050841712796
+San Jose Sharks,Calgary Flames,Morgan Frost,0.5,2.12,Pinnacle,1.67,Neds,Player Points,San Jose Sharks v Calgary Flames,-7.050050841712796
 Seattle Kraken,Minnesota Wild,Jaden Schwartz,0.5,2.12,Sportsbet,1.67,Sportsbet,Player Points,Seattle Kraken v Minnesota Wild,-7.050050841712796
-Vancouver Canucks,Vegas Golden Knights,Conor Garland,0.5,2.06,Pinnacle,1.709,Pinnacle,Player Points,Vancouver Canucks v Vegas Golden Knights,-7.057440051810238
-Vancouver Canucks,Vegas Golden Knights,William Karlsson,0.5,2.06,Pinnacle,1.709,Pinnacle,Player Points,Vancouver Canucks v Vegas Golden Knights,-7.057440051810238
+Winnipeg Jets,St. Louis Blues,Justin Faulk,0.5,2.73,Pinnacle,1.42,Bet365,Player Points,Winnipeg Jets v St. Louis Blues,-7.052571841304234
+Los Angeles Kings,Seattle Kraken,Trevor Moore,0.5,2.09,Pinnacle,1.689,Pinnacle,Player Points,Los Angeles Kings v Seattle Kraken,-7.053521094841098
 Seattle Kraken,Minnesota Wild,Jared McCann,0.5,1.93,Sportsbet,1.81,Sportsbet,Player Points,Seattle Kraken v Minnesota Wild,-7.062090287121059
-Detroit Red Wings,Florida Panthers,Mackie Samoskevich,0.5,1.806,Pinnacle,1.934,Pinnacle,Player Points,Detroit Red Wings v Florida Panthers,-7.077293773140436
-Chicago Blackhawks,Pittsburgh Penguins,Connor Bedard,0.5,1.645,Pinnacle,2.16,Pinnacle,Player Points,Chicago Blackhawks v Pittsburgh Penguins,-7.086569852527291
+Los Angeles Kings,Seattle Kraken,Drew Doughty,0.5,2.03,Pinnacle,1.73,Neds,Player Points,Los Angeles Kings v Seattle Kraken,-7.064551951934872
+San Jose Sharks,Calgary Flames,Macklin Celebrini,0.5,1.55,Bet365,2.35,Pinnacle,Player Points,San Jose Sharks v Calgary Flames,-7.069320521619771
+Los Angeles Kings,Seattle Kraken,Jaden Schwartz,0.5,2.35,Pinnacle,1.55,Bet365,Player Points,Los Angeles Kings v Seattle Kraken,-7.069320521619771
+San Jose Sharks,Calgary Flames,Mikael Backlund,0.5,2.35,Pinnacle,1.55,Bet365,Player Points,San Jose Sharks v Calgary Flames,-7.069320521619771
+New York Rangers,Tampa Bay Lightning,J.T. Miller,0.5,1.76,Bet365,1.99,Pinnacle,Player Points,New York Rangers v Tampa Bay Lightning,-7.069438099588865
+Los Angeles Kings,Seattle Kraken,Anze Kopitar,0.5,1.76,Bet365,1.99,Pinnacle,Player Points,Los Angeles Kings v Seattle Kraken,-7.069438099588865
+San Jose Sharks,Calgary Flames,Matt Coronato,0.5,1.99,Pinnacle,1.76,Bet365,Player Points,San Jose Sharks v Calgary Flames,-7.069438099588865
+Los Angeles Kings,Seattle Kraken,Kevin Fiala,0.5,1.645,Pinnacle,2.16,Pinnacle,Player Points,Los Angeles Kings v Seattle Kraken,-7.086569852527291
 Colorado Avalanche,Pittsburgh Penguins,Martin Necas,1.5,2.53,Sportsbet,1.48,Sportsbet,Player Points,Colorado Avalanche v Pittsburgh Penguins,-7.093259267172325
-Nashville Predators,Montreal Canadiens,Luke Evangelista,0.5,1.97,Pinnacle,1.775,Pinnacle,Player Points,Nashville Predators v Montreal Canadiens,-7.099449488811027
+Los Angeles Kings,Seattle Kraken,Shane Wright,0.5,2.69,Pinnacle,1.43,Bet365,Player Points,Los Angeles Kings v Seattle Kraken,-7.104791119661025
+New York Rangers,Tampa Bay Lightning,Yanni Gourde,0.5,2.69,Pinnacle,1.43,Bet365,Player Points,New York Rangers v Tampa Bay Lightning,-7.104791119661025
 Seattle Kraken,Minnesota Wild,Marcus Johansson,0.5,2.69,Sportsbet,1.43,Sportsbet,Player Points,Seattle Kraken v Minnesota Wild,-7.104791119661025
-Ottawa Senators,Columbus Blue Jackets,Jake Sanderson,0.5,1.694,Pinnacle,2.08,Pinnacle,Player Points,Ottawa Senators v Columbus Blue Jackets,-7.108800290618467
-Ottawa Senators,Columbus Blue Jackets,Sean Monahan,0.5,1.694,Pinnacle,2.08,Pinnacle,Player Points,Ottawa Senators v Columbus Blue Jackets,-7.108800290618467
-Vancouver Canucks,Vegas Golden Knights,Jake DeBrusk,0.5,2.08,Pinnacle,1.694,Pinnacle,Player Points,Vancouver Canucks v Vegas Golden Knights,-7.108800290618467
-Detroit Red Wings,Florida Panthers,Brad Marchand,0.5,1.751,Pinnacle,2,Pinnacle,Player Points,Detroit Red Wings v Florida Panthers,-7.110222729868654
+San Jose Sharks,Calgary Flames,Rasmus Andersson,0.5,2.35,Bet365,1.549,Pinnacle,Player Points,San Jose Sharks v Calgary Flames,-7.110970701756791
+Anaheim Ducks,Edmonton Oilers,Darnell Nurse,0.5,2.5,Bet365,1.49,Pinnacle,Player Points,Anaheim Ducks v Edmonton Oilers,-7.114093959731549
 Edmonton Oilers,Anaheim Ducks,Alex Killorn,0.5,2.5,Sportsbet,1.49,Sportsbet,Player Points,Edmonton Oilers v Anaheim Ducks,-7.114093959731549
-Detroit Red Wings,Florida Panthers,Alex DeBrincat,0.5,1.662,Pinnacle,2.13,Pinnacle,Player Points,Detroit Red Wings v Florida Panthers,-7.116828528330021
-Detroit Red Wings,Florida Panthers,Dylan Larkin,0.5,1.571,Pinnacle,2.3,Pinnacle,Player Points,Detroit Red Wings v Florida Panthers,-7.131984612404185
+Los Angeles Kings,Seattle Kraken,Warren Foegele,0.5,2.13,Pinnacle,1.662,Pinnacle,Player Points,Los Angeles Kings v Seattle Kraken,-7.116828528330021
+San Jose Sharks,Calgary Flames,Tyler Toffoli,0.5,1.65,Neds,2.15,Pinnacle,Player Points,San Jose Sharks v Calgary Flames,-7.117688513037357
+Winnipeg Jets,St. Louis Blues,Alex Iafallo,0.5,2.15,Pinnacle,1.65,Neds,Player Points,Winnipeg Jets v St. Louis Blues,-7.117688513037357
+Anaheim Ducks,Edmonton Oilers,Troy Terry,0.5,1.85,Neds,1.884,Pinnacle,Player Points,Anaheim Ducks v Edmonton Oilers,-7.132610317323684
+Colorado Avalanche,Pittsburgh Penguins,Erik Karlsson,0.5,2.07,Sportsbet,1.7,Sportsbet,Player Points,Colorado Avalanche v Pittsburgh Penguins,-7.132708155726064
 Seattle Kraken,Minnesota Wild,Chandler Stephenson,0.5,2.07,Sportsbet,1.7,Sportsbet,Player Points,Seattle Kraken v Minnesota Wild,-7.132708155726064
 Seattle Kraken,Minnesota Wild,Matty Beniers,0.5,2.07,Sportsbet,1.7,Sportsbet,Player Points,Seattle Kraken v Minnesota Wild,-7.132708155726064
-Nashville Predators,Montreal Canadiens,Michael Bunting,0.5,2.25,Pinnacle,1.595,Pinnacle,Player Points,Nashville Predators v Montreal Canadiens,-7.140369209334718
-Buffalo Sabres,Boston Bruins,Jason Zucker,0.5,2.02,Pinnacle,1.735,Pinnacle,Player Points,Buffalo Sabres v Boston Bruins,-7.141838103118658
-Nashville Predators,Montreal Canadiens,Juraj Slafkovsky,0.5,1.735,Pinnacle,2.02,Pinnacle,Player Points,Nashville Predators v Montreal Canadiens,-7.141838103118658
-Nashville Predators,Montreal Canadiens,Lane Hutson,0.5,1.68,Pinnacle,2.1,Pinnacle,Player Points,Nashville Predators v Montreal Canadiens,-7.14285714285714
-Vancouver Canucks,Vegas Golden Knights,Shea Theodore,0.5,2.1,Pinnacle,1.68,Bet365,Player Points,Vancouver Canucks v Vegas Golden Knights,-7.14285714285714
+Los Angeles Kings,Seattle Kraken,Jared McCann,0.5,2.02,Pinnacle,1.735,Pinnacle,Player Points,Los Angeles Kings v Seattle Kraken,-7.141838103118658
+Winnipeg Jets,St. Louis Blues,Pavel Buchnevich,0.5,1.961,Pinnacle,1.781,Pinnacle,Player Points,Winnipeg Jets v St. Louis Blues,-7.142621947745198
+San Jose Sharks,Calgary Flames,Matt Coronato,0.5,2,Bet365,1.75,Neds,Player Points,San Jose Sharks v Calgary Flames,-7.14285714285714
+Los Angeles Kings,Seattle Kraken,Andrei Kuzmenko,0.5,2,Bet365,1.75,Neds,Player Points,Los Angeles Kings v Seattle Kraken,-7.14285714285714
+Los Angeles Kings,Seattle Kraken,Anze Kopitar,0.5,1.75,Neds,2,Bet365,Player Points,Los Angeles Kings v Seattle Kraken,-7.14285714285714
+New York Rangers,Tampa Bay Lightning,J.T. Miller,0.5,1.75,Neds,2,Bet365,Player Points,New York Rangers v Tampa Bay Lightning,-7.14285714285714
 Colorado Avalanche,Pittsburgh Penguins,Kris Letang,0.5,2.8,Sportsbet,1.4,Sportsbet,Player Points,Colorado Avalanche v Pittsburgh Penguins,-7.14285714285714
 Seattle Kraken,Minnesota Wild,Vince Dunn,0.5,2.1,Sportsbet,1.68,Sportsbet,Player Points,Seattle Kraken v Minnesota Wild,-7.14285714285714
-Detroit Red Wings,Florida Panthers,Moritz Seider,0.5,2.18,Pinnacle,1.632,Pinnacle,Player Points,Detroit Red Wings v Florida Panthers,-7.146069436949087
-Ottawa Senators,Columbus Blue Jackets,Drake Batherson,0.5,1.649,Pinnacle,2.15,Pinnacle,Player Points,Ottawa Senators v Columbus Blue Jackets,-7.154441733538297
-Detroit Red Wings,Florida Panthers,Seth Jones,0.5,1.757,Pinnacle,1.99,Pinnacle,Player Points,Detroit Red Wings v Florida Panthers,-7.166452638834464
-Chicago Blackhawks,Pittsburgh Penguins,Erik Karlsson,0.5,2.07,Pinnacle,1.699,Pinnacle,Player Points,Chicago Blackhawks v Pittsburgh Penguins,-7.167330597993127
-Edmonton Oilers,Anaheim Ducks,Jackson LaCombe,0.5,2.3,Sportsbet,1.57,Sportsbet,Player Points,Edmonton Oilers v Anaheim Ducks,-7.172528385488786
-Ottawa Senators,Columbus Blue Jackets,Thomas Chabot,0.5,2.27,Pinnacle,1.584,Pinnacle,Player Points,Ottawa Senators v Columbus Blue Jackets,-7.184176567436484
-Buffalo Sabres,Boston Bruins,Morgan Geekie,0.5,1.9,Pinnacle,1.833,Pinnacle,Player Points,Buffalo Sabres v Boston Bruins,-7.186952651678302
-Vancouver Canucks,Vegas Golden Knights,Brock Boeser,0.5,1.719,Pinnacle,2.04,Pinnacle,Player Points,Vancouver Canucks v Vegas Golden Knights,-7.1929644458132325
+New York Rangers,Tampa Bay Lightning,Nikita Kucherov,1.5,2.18,Pinnacle,1.632,Pinnacle,Player Points,New York Rangers v Tampa Bay Lightning,-7.146069436949087
+San Jose Sharks,Calgary Flames,Blake Coleman,0.5,2.18,Pinnacle,1.632,Pinnacle,Player Points,San Jose Sharks v Calgary Flames,-7.146069436949087
+New York Rangers,Tampa Bay Lightning,Brandon Hagel,0.5,1.5,Bet365,2.47,Pinnacle,Player Points,New York Rangers v Tampa Bay Lightning,-7.1524966261808265
+Anaheim Ducks,Edmonton Oilers,Darnell Nurse,0.5,2.47,Pinnacle,1.5,Bet365,Player Points,Anaheim Ducks v Edmonton Oilers,-7.1524966261808265
+Los Angeles Kings,Seattle Kraken,Kaapo Kakko,0.5,2.47,Pinnacle,1.5,Bet365,Player Points,Los Angeles Kings v Seattle Kraken,-7.1524966261808265
+San Jose Sharks,Calgary Flames,Tyler Toffoli,0.5,1.649,Pinnacle,2.15,Pinnacle,Player Points,San Jose Sharks v Calgary Flames,-7.154441733538297
+Winnipeg Jets,St. Louis Blues,Alex Iafallo,0.5,2.15,Pinnacle,1.649,Pinnacle,Player Points,Winnipeg Jets v St. Louis Blues,-7.154441733538297
+Los Angeles Kings,Seattle Kraken,Anze Kopitar,0.5,1.757,Pinnacle,1.99,Pinnacle,Player Points,Los Angeles Kings v Seattle Kraken,-7.166452638834464
+Los Angeles Kings,Seattle Kraken,Adrian Kempe,0.5,1.57,Bet365,2.3,Pinnacle,Player Points,Los Angeles Kings v Seattle Kraken,-7.172528385488786
+New York Rangers,Tampa Bay Lightning,Vincent Trocheck,0.5,1.78,Neds,1.961,Pinnacle,Player Points,New York Rangers v Tampa Bay Lightning,-7.174165897931006
+New York Rangers,Tampa Bay Lightning,Brayden Point,0.5,1.44,Bet365,2.65,Bet365,Player Points,New York Rangers v Tampa Bay Lightning,-7.180293501048229
+Winnipeg Jets,St. Louis Blues,Kyle Connor,1.5,2.65,Bet365,1.44,Bet365,Player Points,Winnipeg Jets v St. Louis Blues,-7.180293501048229
+Los Angeles Kings,Seattle Kraken,Jani Nyman,0.5,2.65,Bet365,1.44,Bet365,Player Points,Los Angeles Kings v Seattle Kraken,-7.180293501048229
+New York Rangers,Tampa Bay Lightning,Adam Fox,0.5,1.833,Pinnacle,1.9,Bet365,Player Points,New York Rangers v Tampa Bay Lightning,-7.186952651678302
+Los Angeles Kings,Seattle Kraken,Warren Foegele,0.5,2.13,Pinnacle,1.66,Bet365,Player Points,Los Angeles Kings v Seattle Kraken,-7.189320662933429
+Los Angeles Kings,Seattle Kraken,Matty Beniers,0.5,2.22,Pinnacle,1.609,Pinnacle,Player Points,Los Angeles Kings v Seattle Kraken,-7.195449022670886
 Colorado Avalanche,Pittsburgh Penguins,Sidney Crosby,0.5,1.53,Sportsbet,2.39,Sportsbet,Player Points,Colorado Avalanche v Pittsburgh Penguins,-7.200481308283413
 Seattle Kraken,Minnesota Wild,Brandon Montour,0.5,2.39,Sportsbet,1.53,Sportsbet,Player Points,Seattle Kraken v Minnesota Wild,-7.200481308283413
-Chicago Blackhawks,Pittsburgh Penguins,Ville Koivunen,0.5,1.892,Pinnacle,1.84,Pinnacle,Player Points,Chicago Blackhawks v Pittsburgh Penguins,-7.201948708521
-Detroit Red Wings,Florida Panthers,Carter Verhaeghe,0.5,1.862,Pinnacle,1.869,Pinnacle,Player Points,Detroit Red Wings v Florida Panthers,-7.21024069000753
-Ottawa Senators,Columbus Blue Jackets,Dylan Cozens,0.5,1.869,Pinnacle,1.862,Pinnacle,Player Points,Ottawa Senators v Columbus Blue Jackets,-7.21024069000753
-Vancouver Canucks,Vegas Golden Knights,Pius Suter,0.5,1.862,Pinnacle,1.869,Pinnacle,Player Points,Vancouver Canucks v Vegas Golden Knights,-7.21024069000753
-Ottawa Senators,Columbus Blue Jackets,Kirill Marchenko,0.5,1.763,Pinnacle,1.98,Pinnacle,Player Points,Ottawa Senators v Columbus Blue Jackets,-7.226547952583129
-Vancouver Canucks,Vegas Golden Knights,Mark Stone,0.5,1.555,Pinnacle,2.33,Pinnacle,Player Points,Vancouver Canucks v Vegas Golden Knights,-7.227136607648044
-Detroit Red Wings,Florida Panthers,Patrick Kane,0.5,1.704,Pinnacle,2.06,Pinnacle,Player Points,Detroit Red Wings v Florida Panthers,-7.229135329778025
-Chicago Blackhawks,Pittsburgh Penguins,Rutger McGroarty,0.5,2.09,Pinnacle,1.684,Pinnacle,Player Points,Chicago Blackhawks v Pittsburgh Penguins,-7.22931275500347
-Ottawa Senators,Columbus Blue Jackets,Claude Giroux,0.5,2.09,Pinnacle,1.684,Pinnacle,Player Points,Ottawa Senators v Columbus Blue Jackets,-7.22931275500347
-Ottawa Senators,Columbus Blue Jackets,Adam Fantilli,0.5,2.11,Pinnacle,1.671,Pinnacle,Player Points,Ottawa Senators v Columbus Blue Jackets,-7.237769477084699
-Ottawa Senators,Columbus Blue Jackets,Kent Johnson,0.5,1.943,Pinnacle,1.793,Pinnacle,Player Points,Ottawa Senators v Columbus Blue Jackets,-7.2392523219623195
-Vancouver Canucks,Vegas Golden Knights,Filip Hronek,0.5,2.55,Bet365,1.47,Bet365,Player Points,Vancouver Canucks v Vegas Golden Knights,-7.242897158863548
+Anaheim Ducks,Edmonton Oilers,Jackson LaCombe,0.5,2.19,Pinnacle,1.625,Pinnacle,Player Points,Anaheim Ducks v Edmonton Oilers,-7.200561995082544
+Anaheim Ducks,Edmonton Oilers,Jeff Skinner,0.5,2.19,Pinnacle,1.625,Pinnacle,Player Points,Anaheim Ducks v Edmonton Oilers,-7.200561995082544
+Los Angeles Kings,Seattle Kraken,Andrei Kuzmenko,0.5,1.892,Pinnacle,1.84,Pinnacle,Player Points,Los Angeles Kings v Seattle Kraken,-7.201948708521
+Winnipeg Jets,St. Louis Blues,Cole Perfetti,0.5,1.854,Pinnacle,1.877,Pinnacle,Player Points,Winnipeg Jets v St. Louis Blues,-7.213937639477264
+New York Rangers,Tampa Bay Lightning,Victor Hedman,0.5,1.74,Bet365,2.01,Pinnacle,Player Points,New York Rangers v Tampa Bay Lightning,-7.222508148910611
+Winnipeg Jets,St. Louis Blues,Josh Morrissey,0.5,1.74,Bet365,2.01,Pinnacle,Player Points,Winnipeg Jets v St. Louis Blues,-7.222508148910611
+Anaheim Ducks,Edmonton Oilers,Zach Hyman,0.5,1.641,Pinnacle,2.16,Pinnacle,Player Points,Anaheim Ducks v Edmonton Oilers,-7.23474845961134
+New York Rangers,Tampa Bay Lightning,Artemi Panarin,0.5,1.47,Bet365,2.55,Bet365,Player Points,New York Rangers v Tampa Bay Lightning,-7.242897158863548
+Winnipeg Jets,St. Louis Blues,Jimmy Snuggerud,0.5,2.55,Bet365,1.47,Bet365,Player Points,Winnipeg Jets v St. Louis Blues,-7.242897158863548
+San Jose Sharks,Calgary Flames,Collin Graf,0.5,2.55,Bet365,1.47,Bet365,Player Points,San Jose Sharks v Calgary Flames,-7.242897158863548
+Anaheim Ducks,Edmonton Oilers,Alex Killorn,0.5,2.55,Bet365,1.47,Bet365,Player Points,Anaheim Ducks v Edmonton Oilers,-7.242897158863548
 Seattle Kraken,Minnesota Wild,Frederick Gaudreau,0.5,2.68,Sportsbet,1.43,Sportsbet,Player Points,Seattle Kraken v Minnesota Wild,-7.24350276589083
+Anaheim Ducks,Edmonton Oilers,Evan Bouchard,0.5,1.613,Pinnacle,2.21,Pinnacle,Player Points,Anaheim Ducks v Edmonton Oilers,-7.245149001467155
+Anaheim Ducks,Edmonton Oilers,Ryan Strome,0.5,2.5,Bet365,1.487,Pinnacle,Player Points,Anaheim Ducks v Edmonton Oilers,-7.249495628782787
 Edmonton Oilers,Anaheim Ducks,Zach Hyman,0.5,1.55,Sportsbet,2.34,Sportsbet,Player Points,Edmonton Oilers v Anaheim Ducks,-7.2511717673008125
+Los Angeles Kings,Seattle Kraken,Adrian Kempe,0.5,1.568,Pinnacle,2.3,Pinnacle,Player Points,Los Angeles Kings v Seattle Kraken,-7.253771073646842
 Edmonton Oilers,Anaheim Ducks,Connor McDavid,1.5,1.77,Sportsbet,1.97,Sportsbet,Player Points,Edmonton Oilers v Anaheim Ducks,-7.258596461039879
-Buffalo Sabres,Boston Bruins,Elias Lindholm,0.5,1.934,Pinnacle,1.8,Pinnacle,Player Points,Buffalo Sabres v Boston Bruins,-7.261863725152251
-Vancouver Canucks,Vegas Golden Knights,Pius Suter,0.5,1.86,Bet365,1.869,Pinnacle,Player Points,Vancouver Canucks v Vegas Golden Knights,-7.267988746785425
+Anaheim Ducks,Edmonton Oilers,Trevor Zegras,0.5,2.05,Pinnacle,1.71,Bet365,Player Points,Anaheim Ducks v Edmonton Oilers,-7.2600199686207345
+Anaheim Ducks,Edmonton Oilers,Zach Hyman,0.5,1.64,Bet365,2.16,Pinnacle,Player Points,Anaheim Ducks v Edmonton Oilers,-7.271906052393851
+Los Angeles Kings,Seattle Kraken,Kevin Fiala,0.5,1.64,Bet365,2.16,Pinnacle,Player Points,Los Angeles Kings v Seattle Kraken,-7.271906052393851
 Colorado Avalanche,Pittsburgh Penguins,Casey Mittelstadt,0.5,2.16,Sportsbet,1.64,Sportsbet,Player Points,Colorado Avalanche v Pittsburgh Penguins,-7.271906052393851
-Vancouver Canucks,Vegas Golden Knights,Pavel Dorofeyev,0.5,1.83,Bet365,1.9,Bet365,Player Points,Vancouver Canucks v Vegas Golden Knights,-7.276387690537822
+New York Rangers,Tampa Bay Lightning,Adam Fox,0.5,1.83,Bet365,1.9,Bet365,Player Points,New York Rangers v Tampa Bay Lightning,-7.276387690537822
+Winnipeg Jets,St. Louis Blues,Jordan Kyrou,0.5,1.9,Bet365,1.83,Bet365,Player Points,Winnipeg Jets v St. Louis Blues,-7.276387690537822
+Anaheim Ducks,Edmonton Oilers,Troy Terry,0.5,1.83,Bet365,1.9,Bet365,Player Points,Anaheim Ducks v Edmonton Oilers,-7.276387690537822
 Colorado Avalanche,Pittsburgh Penguins,Rickard Rakell,0.5,1.83,Sportsbet,1.9,Sportsbet,Player Points,Colorado Avalanche v Pittsburgh Penguins,-7.276387690537822
 Seattle Kraken,Minnesota Wild,Marco Rossi,0.5,1.83,Sportsbet,1.9,Sportsbet,Player Points,Seattle Kraken v Minnesota Wild,-7.276387690537822
 Colorado Avalanche,Pittsburgh Penguins,Cale Makar,1.5,2.83,Sportsbet,1.39,Sportsbet,Player Points,Colorado Avalanche v Pittsburgh Penguins,-7.278135089101867
-Chicago Blackhawks,Pittsburgh Penguins,Sidney Crosby,0.5,1.369,Pinnacle,2.92,Pinnacle,Player Points,Chicago Blackhawks v Pittsburgh Penguins,-7.29259433443068
-Vancouver Canucks,Vegas Golden Knights,Conor Garland,0.5,2.05,Bet365,1.709,Pinnacle,Player Points,Vancouver Canucks v Vegas Golden Knights,-7.294238536299935
+New York Rangers,Tampa Bay Lightning,Jake Guentzel,0.5,1.45,Bet365,2.61,Pinnacle,Player Points,New York Rangers v Tampa Bay Lightning,-7.279693486590055
+San Jose Sharks,Calgary Flames,Yegor Sharangovich,0.5,2.32,Pinnacle,1.558,Pinnacle,Player Points,San Jose Sharks v Calgary Flames,-7.288300650701607
 Colorado Avalanche,Pittsburgh Penguins,Nathan MacKinnon,1.5,1.82,Sportsbet,1.91,Sportsbet,Player Points,Colorado Avalanche v Pittsburgh Penguins,-7.301075887463315
 Seattle Kraken,Minnesota Wild,Kaapo Kakko,0.5,1.91,Sportsbet,1.82,Sportsbet,Player Points,Seattle Kraken v Minnesota Wild,-7.301075887463315
+Los Angeles Kings,Seattle Kraken,Chandler Stephenson,0.5,2.27,Pinnacle,1.581,Pinnacle,Player Points,Los Angeles Kings v Seattle Kraken,-7.303970330494014
 Edmonton Oilers,Anaheim Ducks,Evan Bouchard,0.5,1.38,Sportsbet,2.87,Sportsbet,Player Points,Edmonton Oilers v Anaheim Ducks,-7.306973690854934
 Colorado Avalanche,Pittsburgh Penguins,Artturi Lehkonen,0.5,1.54,Sportsbet,2.36,Sportsbet,Player Points,Colorado Avalanche v Pittsburgh Penguins,-7.307946290997136
+Los Angeles Kings,Seattle Kraken,Jared McCann,0.5,2.02,Pinnacle,1.73,Neds,Player Points,Los Angeles Kings v Seattle Kraken,-7.308418703141983
+Los Angeles Kings,Seattle Kraken,Quinton Byfield,0.5,2.02,Pinnacle,1.73,Neds,Player Points,Los Angeles Kings v Seattle Kraken,-7.308418703141983
 Colorado Avalanche,Pittsburgh Penguins,Devon Toews,0.5,2.02,Sportsbet,1.73,Sportsbet,Player Points,Colorado Avalanche v Pittsburgh Penguins,-7.308418703141983
 Edmonton Oilers,Anaheim Ducks,Frank Vatrano,0.5,2.02,Sportsbet,1.73,Sportsbet,Player Points,Edmonton Oilers v Anaheim Ducks,-7.308418703141983
-Vancouver Canucks,Vegas Golden Knights,Ivan Barbashev,0.5,2.22,Pinnacle,1.606,Pinnacle,Player Points,Vancouver Canucks v Vegas Golden Knights,-7.31154566771004
-Ottawa Senators,Columbus Blue Jackets,Tim Stutzle,0.5,1.5,Pinnacle,2.46,Pinnacle,Player Points,Ottawa Senators v Columbus Blue Jackets,-7.317073170731714
-Buffalo Sabres,Boston Bruins,Ryan McLeod,0.5,1.925,Pinnacle,1.806,Pinnacle,Player Points,Buffalo Sabres v Boston Bruins,-7.319037551595686
-Ottawa Senators,Columbus Blue Jackets,Boone Jenner,0.5,1.917,Pinnacle,1.813,Pinnacle,Player Points,Ottawa Senators v Columbus Blue Jackets,-7.322038911576145
-Detroit Red Wings,Florida Panthers,Anton Lundell,0.5,2.02,Pinnacle,1.729,Pinnacle,Player Points,Detroit Red Wings v Florida Panthers,-7.341850437212605
-Vancouver Canucks,Vegas Golden Knights,Jack Eichel,1.5,2.85,Pinnacle,1.384,Pinnacle,Player Points,Vancouver Canucks v Vegas Golden Knights,-7.342054558361211
-Buffalo Sabres,Boston Bruins,Pavel Zacha,0.5,2.31,Pinnacle,1.561,Pinnacle,Player Points,Buffalo Sabres v Boston Bruins,-7.351542329120808
-Chicago Blackhawks,Pittsburgh Penguins,Bryan Rust,0.5,1.51,Pinnacle,2.43,Pinnacle,Player Points,Chicago Blackhawks v Pittsburgh Penguins,-7.3774289373994995
-Buffalo Sabres,Boston Bruins,Casey Mittelstadt,0.5,2.37,Pinnacle,1.534,Pinnacle,Player Points,Buffalo Sabres v Boston Bruins,-7.383141066899901
-Vancouver Canucks,Vegas Golden Knights,Noah Hanifin,0.5,2.37,Pinnacle,1.534,Pinnacle,Player Points,Vancouver Canucks v Vegas Golden Knights,-7.383141066899901
-Vancouver Canucks,Vegas Golden Knights,Pavel Dorofeyev,0.5,1.9,Pinnacle,1.826,Pinnacle,Player Points,Vancouver Canucks v Vegas Golden Knights,-7.396091543206307
-Vancouver Canucks,Vegas Golden Knights,Mark Stone,0.5,1.555,Pinnacle,2.32,Bet365,Player Points,Vancouver Canucks v Vegas Golden Knights,-7.412129947887802
+San Jose Sharks,Calgary Flames,Nazem Kadri,0.5,1.5,Bet365,2.46,Pinnacle,Player Points,San Jose Sharks v Calgary Flames,-7.317073170731714
+Anaheim Ducks,Edmonton Oilers,Ryan Nugent-Hopkins,0.5,1.571,Pinnacle,2.29,Pinnacle,Player Points,Anaheim Ducks v Edmonton Oilers,-7.3218460135813235
+Los Angeles Kings,Seattle Kraken,Brandon Montour,0.5,2.29,Pinnacle,1.571,Pinnacle,Player Points,Los Angeles Kings v Seattle Kraken,-7.3218460135813235
+New York Rangers,Tampa Bay Lightning,Anthony Cirelli,0.5,2.29,Pinnacle,1.571,Pinnacle,Player Points,New York Rangers v Tampa Bay Lightning,-7.3218460135813235
+San Jose Sharks,Calgary Flames,MacKenzie Weegar,0.5,1.76,Bet365,1.98,Pinnacle,Player Points,San Jose Sharks v Calgary Flames,-7.3232323232323315
+Anaheim Ducks,Edmonton Oilers,Leo Carlsson,0.5,1.98,Pinnacle,1.76,Bet365,Player Points,Anaheim Ducks v Edmonton Oilers,-7.3232323232323315
+New York Rangers,Tampa Bay Lightning,Nick Paul,0.5,2.4,Pinnacle,1.523,Pinnacle,Player Points,New York Rangers v Tampa Bay Lightning,-7.326548478879413
+New York Rangers,Tampa Bay Lightning,Adam Fox,0.5,1.82,Neds,1.909,Pinnacle,Player Points,New York Rangers v Tampa Bay Lightning,-7.3285017758564
+Winnipeg Jets,St. Louis Blues,Cole Perfetti,0.5,1.85,Neds,1.877,Pinnacle,Player Points,Winnipeg Jets v St. Louis Blues,-7.330559115322011
+Anaheim Ducks,Edmonton Oilers,Viktor Arvidsson,0.5,2.02,Neds,1.729,Pinnacle,Player Points,Anaheim Ducks v Edmonton Oilers,-7.341850437212605
+Los Angeles Kings,Seattle Kraken,Chandler Stephenson,0.5,2.27,Pinnacle,1.58,Bet365,Player Points,Los Angeles Kings v Seattle Kraken,-7.344002676629668
+Los Angeles Kings,Seattle Kraken,Phillip Danault,0.5,2.31,Pinnacle,1.561,Pinnacle,Player Points,Los Angeles Kings v Seattle Kraken,-7.351542329120808
+Winnipeg Jets,St. Louis Blues,Brayden Schenn,0.5,2.31,Pinnacle,1.561,Pinnacle,Player Points,Winnipeg Jets v St. Louis Blues,-7.351542329120808
+San Jose Sharks,Calgary Flames,Macklin Celebrini,0.5,1.543,Pinnacle,2.35,Pinnacle,Player Points,San Jose Sharks v Calgary Flames,-7.362005488065537
+New York Rangers,Tampa Bay Lightning,Anthony Cirelli,0.5,2.29,Pinnacle,1.57,Bet365,Player Points,New York Rangers v Tampa Bay Lightning,-7.362389786665924
+New York Rangers,Tampa Bay Lightning,Anthony Cirelli,0.5,2.29,Pinnacle,1.5699999999999998,Neds,Player Points,New York Rangers v Tampa Bay Lightning,-7.362389786665924
+Los Angeles Kings,Seattle Kraken,Trevor Moore,0.5,2.09,Pinnacle,1.68,Bet365,Player Points,Los Angeles Kings v Seattle Kraken,-7.370699475962628
+Los Angeles Kings,Seattle Kraken,Trevor Moore,0.5,2.09,Pinnacle,1.6800000000000002,Neds,Player Points,Los Angeles Kings v Seattle Kraken,-7.370699475962628
+Anaheim Ducks,Edmonton Oilers,Frank Vatrano,0.5,2.26,Pinnacle,1.584,Pinnacle,Player Points,Anaheim Ducks v Edmonton Oilers,-7.379100741932598
+Los Angeles Kings,Seattle Kraken,Vince Dunn,0.5,2.26,Pinnacle,1.584,Pinnacle,Player Points,Los Angeles Kings v Seattle Kraken,-7.379100741932598
+New York Rangers,Tampa Bay Lightning,Alexis Lafreniere,0.5,2.37,Pinnacle,1.534,Pinnacle,Player Points,New York Rangers v Tampa Bay Lightning,-7.383141066899901
+Anaheim Ducks,Edmonton Oilers,Jeff Skinner,0.5,2.19,Pinnacle,1.62,Bet365,Player Points,Anaheim Ducks v Edmonton Oilers,-7.390495518349405
+Los Angeles Kings,Seattle Kraken,Anze Kopitar,0.5,1.75,Neds,1.99,Pinnacle,Player Points,Los Angeles Kings v Seattle Kraken,-7.39411342426417
+New York Rangers,Tampa Bay Lightning,J.T. Miller,0.5,1.75,Neds,1.99,Pinnacle,Player Points,New York Rangers v Tampa Bay Lightning,-7.39411342426417
+San Jose Sharks,Calgary Flames,Matt Coronato,0.5,1.99,Pinnacle,1.75,Neds,Player Points,San Jose Sharks v Calgary Flames,-7.39411342426417
+San Jose Sharks,Calgary Flames,Jonathan Huberdeau,0.5,1.66,Bet365,2.12,Pinnacle,Player Points,San Jose Sharks v Calgary Flames,-7.41077517617641
+San Jose Sharks,Calgary Flames,Morgan Frost,0.5,2.12,Pinnacle,1.66,Bet365,Player Points,San Jose Sharks v Calgary Flames,-7.41077517617641
 Edmonton Oilers,Anaheim Ducks,Troy Terry,0.5,1.79,Sportsbet,1.94,Sportsbet,Player Points,Edmonton Oilers v Anaheim Ducks,-7.412313540286819
-Buffalo Sabres,Boston Bruins,Alex Tuch,0.5,1.588,Pinnacle,2.25,Pinnacle,Player Points,Buffalo Sabres v Boston Bruins,-7.416736635880206
-Ottawa Senators,Columbus Blue Jackets,Zach Werenski,0.5,1.588,Pinnacle,2.25,Pinnacle,Player Points,Ottawa Senators v Columbus Blue Jackets,-7.416736635880206
-Chicago Blackhawks,Pittsburgh Penguins,Frank Nazar,0.5,2.36,Pinnacle,1.537,Pinnacle,Player Points,Chicago Blackhawks v Pittsburgh Penguins,-7.434690074214578
-Ottawa Senators,Columbus Blue Jackets,David Perron,0.5,2.4,Pinnacle,1.52,Pinnacle,Player Points,Ottawa Senators v Columbus Blue Jackets,-7.456140350877205
+Anaheim Ducks,Edmonton Oilers,Troy Terry,0.5,1.854,Pinnacle,1.87,Neds,Player Points,Anaheim Ducks v Edmonton Oilers,-7.413368407086285
+New York Rangers,Tampa Bay Lightning,Jake Guentzel,0.5,1.45,Bet365,2.6,Bet365,Player Points,New York Rangers v Tampa Bay Lightning,-7.427055702917773
+Winnipeg Jets,St. Louis Blues,Zachary Bolduc,0.5,2.6,Bet365,1.45,Bet365,Player Points,Winnipeg Jets v St. Louis Blues,-7.427055702917773
+Winnipeg Jets,St. Louis Blues,Nino Niederreiter,0.5,2.5,Bet365,1.483,Pinnacle,Player Points,Winnipeg Jets v St. Louis Blues,-7.430883344571804
+Winnipeg Jets,St. Louis Blues,Vladislav Namestnikov,0.5,2.36,Pinnacle,1.537,Pinnacle,Player Points,Winnipeg Jets v St. Louis Blues,-7.434690074214578
+Los Angeles Kings,Seattle Kraken,Kaapo Kakko,0.5,2.4,Neds,1.52,Neds,Player Points,Los Angeles Kings v Seattle Kraken,-7.456140350877205
+New York Rangers,Tampa Bay Lightning,Brandon Hagel,0.5,1.52,Neds,2.4,Neds,Player Points,New York Rangers v Tampa Bay Lightning,-7.456140350877205
+New York Rangers,Tampa Bay Lightning,Chris Kreider,0.5,2.4,Neds,1.52,Neds,Player Points,New York Rangers v Tampa Bay Lightning,-7.456140350877205
+San Jose Sharks,Calgary Flames,Nazem Kadri,0.5,1.52,Neds,2.4,Neds,Player Points,San Jose Sharks v Calgary Flames,-7.456140350877205
+Winnipeg Jets,St. Louis Blues,Jake Neighbours,0.5,2.4,Neds,1.52,Neds,Player Points,Winnipeg Jets v St. Louis Blues,-7.456140350877205
+New York Rangers,Tampa Bay Lightning,Nick Paul,0.5,2.4,Pinnacle,1.52,Bet365,Player Points,New York Rangers v Tampa Bay Lightning,-7.456140350877205
+New York Rangers,Tampa Bay Lightning,Mika Zibanejad,0.5,1.95,Bet365,1.78,Neds,Player Points,New York Rangers v Tampa Bay Lightning,-7.461826562950158
+San Jose Sharks,Calgary Flames,Will Smith,0.5,1.95,Bet365,1.78,Neds,Player Points,San Jose Sharks v Calgary Flames,-7.461826562950158
+Anaheim Ducks,Edmonton Oilers,Mason McTavish,0.5,1.78,Neds,1.95,Bet365,Player Points,Anaheim Ducks v Edmonton Oilers,-7.461826562950158
 Colorado Avalanche,Pittsburgh Penguins,Bryan Rust,0.5,1.78,Sportsbet,1.95,Sportsbet,Player Points,Colorado Avalanche v Pittsburgh Penguins,-7.461826562950158
 Seattle Kraken,Minnesota Wild,Mats Zuccarello,0.5,1.78,Sportsbet,1.95,Sportsbet,Player Points,Seattle Kraken v Minnesota Wild,-7.461826562950158
-Vancouver Canucks,Vegas Golden Knights,Pius Suter,0.5,1.862,Pinnacle,1.86,Bet365,Player Points,Vancouver Canucks v Vegas Golden Knights,-7.469133663652228
-Detroit Red Wings,Florida Panthers,Lucas Raymond,0.5,1.54,Pinnacle,2.35,Pinnacle,Player Points,Detroit Red Wings v Florida Panthers,-7.488256424426631
-Nashville Predators,Montreal Canadiens,Brady Skjei,0.5,2.35,Pinnacle,1.54,Pinnacle,Player Points,Nashville Predators v Montreal Canadiens,-7.488256424426631
-Ottawa Senators,Columbus Blue Jackets,Fabian Zetterlund,0.5,2.28,Pinnacle,1.571,Pinnacle,Player Points,Ottawa Senators v Columbus Blue Jackets,-7.513372865645973
-Ottawa Senators,Columbus Blue Jackets,Ridly Greig,0.5,2.14,Pinnacle,1.645,Pinnacle,Player Points,Ottawa Senators v Columbus Blue Jackets,-7.519245518847817
-Vancouver Canucks,Vegas Golden Knights,Pius Suter,0.5,1.86,Bet365,1.86,Bet365,Player Points,Vancouver Canucks v Vegas Golden Knights,-7.526881720430101
-Vancouver Canucks,Vegas Golden Knights,Jack Eichel,1.5,2.85,Pinnacle,1.38,Bet365,Player Points,Vancouver Canucks v Vegas Golden Knights,-7.551487414187652
+San Jose Sharks,Calgary Flames,Morgan Frost,0.5,2.1,Neds,1.671,Pinnacle,Player Points,San Jose Sharks v Calgary Flames,-7.463452167222373
+San Jose Sharks,Calgary Flames,Jonathan Huberdeau,0.5,1.671,Pinnacle,2.1,Neds,Player Points,San Jose Sharks v Calgary Flames,-7.463452167222373
+San Jose Sharks,Calgary Flames,Rasmus Andersson,0.5,2.33,Pinnacle,1.549,Pinnacle,Player Points,San Jose Sharks v Calgary Flames,-7.476234148017413
+Anaheim Ducks,Edmonton Oilers,Jake Walman,0.5,2.45,Bet365,1.5,Pinnacle,Player Points,Anaheim Ducks v Edmonton Oilers,-7.482993197278898
+Anaheim Ducks,Edmonton Oilers,Cutter Gauthier,0.5,2.45,Neds,1.5,Bet365,Player Points,Anaheim Ducks v Edmonton Oilers,-7.482993197278898
+New York Rangers,Tampa Bay Lightning,Oliver Bjorkstrand,0.5,2.45,Neds,1.5,Bet365,Player Points,New York Rangers v Tampa Bay Lightning,-7.482993197278898
+Winnipeg Jets,St. Louis Blues,Jake Neighbours,0.5,2.45,Pinnacle,1.5,Bet365,Player Points,Winnipeg Jets v St. Louis Blues,-7.482993197278898
+Los Angeles Kings,Seattle Kraken,Jaden Schwartz,0.5,2.35,Pinnacle,1.54,Pinnacle,Player Points,Los Angeles Kings v Seattle Kraken,-7.488256424426631
+San Jose Sharks,Calgary Flames,Mikael Backlund,0.5,2.35,Pinnacle,1.54,Pinnacle,Player Points,San Jose Sharks v Calgary Flames,-7.488256424426631
+Winnipeg Jets,St. Louis Blues,Pavel Buchnevich,0.5,1.961,Pinnacle,1.77,Neds,Player Points,Winnipeg Jets v St. Louis Blues,-7.491565758275076
+Los Angeles Kings,Seattle Kraken,Warren Foegele,0.5,2.1,Neds,1.67,Neds,Player Points,Los Angeles Kings v Seattle Kraken,-7.499287140005695
+San Jose Sharks,Calgary Flames,Jonathan Huberdeau,0.5,1.67,Neds,2.1,Neds,Player Points,San Jose Sharks v Calgary Flames,-7.499287140005695
+San Jose Sharks,Calgary Flames,Morgan Frost,0.5,2.1,Neds,1.67,Neds,Player Points,San Jose Sharks v Calgary Flames,-7.499287140005695
+Los Angeles Kings,Seattle Kraken,Jordan Eberle,0.5,2.39,Pinnacle,1.523,Pinnacle,Player Points,Los Angeles Kings v Seattle Kraken,-7.500885996313156
+Winnipeg Jets,St. Louis Blues,Cam Fowler,0.5,2.39,Pinnacle,1.523,Pinnacle,Player Points,Winnipeg Jets v St. Louis Blues,-7.500885996313156
+Los Angeles Kings,Seattle Kraken,Kaapo Kakko,0.5,2.47,Pinnacle,1.492,Pinnacle,Player Points,Los Angeles Kings v Seattle Kraken,-7.509958645841253
+New York Rangers,Tampa Bay Lightning,Brandon Hagel,0.5,1.492,Pinnacle,2.47,Pinnacle,Player Points,New York Rangers v Tampa Bay Lightning,-7.509958645841253
+San Jose Sharks,Calgary Flames,William Eklund,0.5,1.606,Pinnacle,2.21,Pinnacle,Player Points,San Jose Sharks v Calgary Flames,-7.5153694009455485
+Winnipeg Jets,St. Louis Blues,Cole Perfetti,0.5,1.86,Bet365,1.86,Bet365,Player Points,Winnipeg Jets v St. Louis Blues,-7.526881720430101
+Anaheim Ducks,Edmonton Oilers,Troy Terry,0.5,1.85,Neds,1.87,Neds,Player Points,Anaheim Ducks v Edmonton Oilers,-7.529989882931032
+Anaheim Ducks,Edmonton Oilers,Frank Vatrano,0.5,2.26,Pinnacle,1.58,Bet365,Player Points,Anaheim Ducks v Edmonton Oilers,-7.5389268511258045
+Los Angeles Kings,Seattle Kraken,Vince Dunn,0.5,2.26,Pinnacle,1.58,Bet365,Player Points,Los Angeles Kings v Seattle Kraken,-7.5389268511258045
+New York Rangers,Tampa Bay Lightning,Victor Hedman,0.5,1.73,Neds,2.01,Pinnacle,Player Points,New York Rangers v Tampa Bay Lightning,-7.554711989187024
+Winnipeg Jets,St. Louis Blues,Josh Morrissey,0.5,1.73,Neds,2.01,Pinnacle,Player Points,Winnipeg Jets v St. Louis Blues,-7.554711989187024
 Edmonton Oilers,Anaheim Ducks,Leon Draisaitl,1.5,1.83,Sportsbet,1.89,Sportsbet,Player Points,Edmonton Oilers v Anaheim Ducks,-7.5548616532223
-Detroit Red Wings,Florida Panthers,Evan Rodrigues,0.5,2.48,Pinnacle,1.487,Pinnacle,Player Points,Detroit Red Wings v Florida Panthers,-7.572076273944073
-Nashville Predators,Montreal Canadiens,Filip Forsberg,0.5,1.476,Pinnacle,2.51,Pinnacle,Player Points,Nashville Predators v Montreal Canadiens,-7.591314956974271
-Vancouver Canucks,Vegas Golden Knights,Jake DeBrusk,0.5,2.08,Pinnacle,1.68,Bet365,Player Points,Vancouver Canucks v Vegas Golden Knights,-7.600732600732596
-Nashville Predators,Montreal Canadiens,Cole Caufield,0.5,1.588,Pinnacle,2.24,Pinnacle,Player Points,Nashville Predators v Montreal Canadiens,-7.615149334292903
-Buffalo Sabres,Boston Bruins,JJ Peterka,0.5,1.512,Pinnacle,2.41,Pinnacle,Player Points,Buffalo Sabres v Boston Bruins,-7.631342071176084
-Buffalo Sabres,Boston Bruins,Jack Quinn,0.5,2.3,Pinnacle,1.558,Pinnacle,Player Points,Buffalo Sabres v Boston Bruins,-7.663113244404762
-Nashville Predators,Montreal Canadiens,Brendan Gallagher,0.5,2.34,Pinnacle,1.54,Pinnacle,Player Points,Nashville Predators v Montreal Canadiens,-7.670107670107673
-Chicago Blackhawks,Pittsburgh Penguins,Ryan Donato,0.5,1.571,Pinnacle,2.27,Pinnacle,Player Points,Chicago Blackhawks v Pittsburgh Penguins,-7.70658717896231
-Buffalo Sabres,Boston Bruins,Rasmus Dahlin,0.5,1.606,Pinnacle,2.2,Pinnacle,Player Points,Buffalo Sabres v Boston Bruins,-7.721046077210447
-Detroit Red Wings,Florida Panthers,Marco Kasper,0.5,2.5,Pinnacle,1.476,Pinnacle,Player Points,Detroit Red Wings v Florida Panthers,-7.750677506775072
-Vancouver Canucks,Vegas Golden Knights,Quinn Hughes,0.5,1.476,Pinnacle,2.5,Pinnacle,Player Points,Vancouver Canucks v Vegas Golden Knights,-7.750677506775072
-Buffalo Sabres,Boston Bruins,Tage Thompson,0.5,1.384,Pinnacle,2.8,Pinnacle,Player Points,Buffalo Sabres v Boston Bruins,-7.968620974401319
-Nashville Predators,Montreal Canadiens,Nick Suzuki,0.5,1.38,Pinnacle,2.81,Pinnacle,Player Points,Nashville Predators v Montreal Canadiens,-8.05095672804168
-Buffalo Sabres,Boston Bruins,David Pastrnak,0.5,1.374,Pinnacle,2.83,Pinnacle,Player Points,Buffalo Sabres v Boston Bruins,-8.115892830506999
-Vancouver Canucks,Vegas Golden Knights,Alex Pietrangelo,0.5,2.91,Pinnacle,1.355,Pinnacle,Player Points,Vancouver Canucks v Vegas Golden Knights,-8.164999175764942
-Nashville Predators,Montreal Canadiens,Mike Matheson,0.5,2.6,Pinnacle,1.434,Pinnacle,Player Points,Nashville Predators v Montreal Canadiens,-8.196545435039159
-Vancouver Canucks,Vegas Golden Knights,Filip Hronek,0.5,2.6,Pinnacle,1.434,Pinnacle,Player Points,Vancouver Canucks v Vegas Golden Knights,-8.196545435039159
-Vancouver Canucks,Vegas Golden Knights,Alex Pietrangelo,0.5,2.9,Bet365,1.355,Pinnacle,Player Points,Vancouver Canucks v Vegas Golden Knights,-8.28349662806973
-Vancouver Canucks,Vegas Golden Knights,Quinn Hughes,0.5,1.476,Pinnacle,2.45,Bet365,Player Points,Vancouver Canucks v Vegas Golden Knights,-8.567004037387305
-Ottawa Senators,Columbus Blue Jackets,Ivan Provorov,0.5,3.33,Pinnacle,1.272,Pinnacle,Player Points,Ottawa Senators v Columbus Blue Jackets,-8.646382231287886
-Vancouver Canucks,Vegas Golden Knights,Filip Hronek,0.5,2.55,Bet365,1.434,Pinnacle,Player Points,Vancouver Canucks v Vegas Golden Knights,-8.950693248010522
-Vancouver Canucks,Vegas Golden Knights,Pavel Dorofeyev,0.5,1.83,Bet365,1.826,Pinnacle,Player Points,Vancouver Canucks v Vegas Golden Knights,-9.409321339007292
-Vancouver Canucks,Vegas Golden Knights,Ivan Barbashev,0.5,2.22,Pinnacle,1.55,Bet365,Player Points,Vancouver Canucks v Vegas Golden Knights,-9.561174077303104
+New York Rangers,Tampa Bay Lightning,Artemi Panarin,0.5,1.48,Neds,2.5,Neds,Player Points,New York Rangers v Tampa Bay Lightning,-7.567567567567579
+San Jose Sharks,Calgary Flames,Collin Graf,0.5,2.5,Neds,1.48,Neds,Player Points,San Jose Sharks v Calgary Flames,-7.567567567567579
+Anaheim Ducks,Edmonton Oilers,Ryan Strome,0.5,2.48,Pinnacle,1.487,Pinnacle,Player Points,Anaheim Ducks v Edmonton Oilers,-7.572076273944073
+New York Rangers,Tampa Bay Lightning,Adam Fox,0.5,1.82,Neds,1.9,Bet365,Player Points,New York Rangers v Tampa Bay Lightning,-7.576633892423357
+Winnipeg Jets,St. Louis Blues,Nino Niederreiter,0.5,2.49,Pinnacle,1.483,Pinnacle,Player Points,Winnipeg Jets v St. Louis Blues,-7.591525914852926
+Anaheim Ducks,Edmonton Oilers,Darnell Nurse,0.5,2.47,Pinnacle,1.49,Pinnacle,Player Points,Anaheim Ducks v Edmonton Oilers,-7.59992391924571
+Anaheim Ducks,Edmonton Oilers,Trevor Zegras,0.5,2.05,Pinnacle,1.7,Neds,Player Points,Anaheim Ducks v Edmonton Oilers,-7.604017216642767
+Anaheim Ducks,Edmonton Oilers,Alex Killorn,0.5,2.55,Bet365,1.462,Pinnacle,Player Points,Anaheim Ducks v Edmonton Oilers,-7.6151390788873785
+Los Angeles Kings,Seattle Kraken,Jordan Eberle,0.5,2.39,Pinnacle,1.52,Bet365,Player Points,Los Angeles Kings v Seattle Kraken,-7.6304778683109475
+Winnipeg Jets,St. Louis Blues,Cam Fowler,0.5,2.39,Pinnacle,1.52,Bet365,Player Points,Winnipeg Jets v St. Louis Blues,-7.6304778683109475
+Anaheim Ducks,Edmonton Oilers,Mason McTavish,0.5,1.8,Bet365,1.92,Neds,Player Points,Anaheim Ducks v Edmonton Oilers,-7.638888888888884
+New York Rangers,Tampa Bay Lightning,Mika Zibanejad,0.5,1.92,Neds,1.8,Bet365,Player Points,New York Rangers v Tampa Bay Lightning,-7.638888888888884
+San Jose Sharks,Calgary Flames,Will Smith,0.5,1.92,Neds,1.8,Bet365,Player Points,San Jose Sharks v Calgary Flames,-7.638888888888884
+Winnipeg Jets,St. Louis Blues,Justin Faulk,0.5,2.75,Bet365,1.403,Pinnacle,Player Points,Winnipeg Jets v St. Louis Blues,-7.639473854726875
+Anaheim Ducks,Edmonton Oilers,Mason McTavish,0.5,1.78,Neds,1.943,Pinnacle,Player Points,Anaheim Ducks v Edmonton Oilers,-7.6465791923759685
+New York Rangers,Tampa Bay Lightning,Mika Zibanejad,0.5,1.943,Pinnacle,1.78,Neds,Player Points,New York Rangers v Tampa Bay Lightning,-7.6465791923759685
+San Jose Sharks,Calgary Flames,Will Smith,0.5,1.943,Pinnacle,1.78,Neds,Player Points,San Jose Sharks v Calgary Flames,-7.6465791923759685
+Los Angeles Kings,Seattle Kraken,Shane Wright,0.5,2.7,Bet365,1.416,Pinnacle,Player Points,Los Angeles Kings v Seattle Kraken,-7.6585059635907005
+Winnipeg Jets,St. Louis Blues,Robert Thomas,0.5,1.478,Pinnacle,2.5,Bet365,Player Points,Winnipeg Jets v St. Louis Blues,-7.6589986468200255
+Anaheim Ducks,Edmonton Oilers,Cutter Gauthier,0.5,2.52,Pinnacle,1.471,Pinnacle,Player Points,Anaheim Ducks v Edmonton Oilers,-7.663505012247351
+New York Rangers,Tampa Bay Lightning,Oliver Bjorkstrand,0.5,2.52,Pinnacle,1.471,Pinnacle,Player Points,New York Rangers v Tampa Bay Lightning,-7.663505012247351
+San Jose Sharks,Calgary Flames,Nazem Kadri,0.5,1.492,Pinnacle,2.46,Pinnacle,Player Points,San Jose Sharks v Calgary Flames,-7.674535190392118
+Anaheim Ducks,Edmonton Oilers,Trevor Zegras,0.5,2.02,Neds,1.719,Pinnacle,Player Points,Anaheim Ducks v Edmonton Oilers,-7.678307097725479
+Winnipeg Jets,St. Louis Blues,Pavel Buchnevich,0.5,1.94,Neds,1.781,Pinnacle,Player Points,Winnipeg Jets v St. Louis Blues,-7.694623083290408
+Winnipeg Jets,St. Louis Blues,Cole Perfetti,0.5,1.854,Pinnacle,1.86,Bet365,Player Points,Winnipeg Jets v St. Louis Blues,-7.700873438424338
+San Jose Sharks,Calgary Flames,William Eklund,0.5,1.606,Pinnacle,2.2,Bet365,Player Points,San Jose Sharks v Calgary Flames,-7.721046077210447
+Winnipeg Jets,St. Louis Blues,Jimmy Snuggerud,0.5,2.2,Pinnacle,1.606,Pinnacle,Player Points,Winnipeg Jets v St. Louis Blues,-7.721046077210447
+Anaheim Ducks,Edmonton Oilers,Troy Terry,0.5,1.83,Bet365,1.884,Pinnacle,Player Points,Anaheim Ducks v Edmonton Oilers,-7.7233650064390424
+San Jose Sharks,Calgary Flames,Matt Coronato,0.5,1.96,Neds,1.763,Pinnacle,Player Points,San Jose Sharks v Calgary Flames,-7.741905610797928
+New York Rangers,Tampa Bay Lightning,J.T. Miller,0.5,1.763,Pinnacle,1.96,Neds,Player Points,New York Rangers v Tampa Bay Lightning,-7.741905610797928
+New York Rangers,Tampa Bay Lightning,Chris Kreider,0.5,2.5,Bet365,1.476,Pinnacle,Player Points,New York Rangers v Tampa Bay Lightning,-7.750677506775072
+New York Rangers,Tampa Bay Lightning,Artemi Panarin,0.5,1.446,Pinnacle,2.59,Pinnacle,Player Points,New York Rangers v Tampa Bay Lightning,-7.766331832721862
+San Jose Sharks,Calgary Flames,Collin Graf,0.5,2.59,Pinnacle,1.446,Pinnacle,Player Points,San Jose Sharks v Calgary Flames,-7.766331832721862
+New York Rangers,Tampa Bay Lightning,Victor Hedman,0.5,1.746,Pinnacle,1.98,Neds,Player Points,New York Rangers v Tampa Bay Lightning,-7.778819119025293
+Los Angeles Kings,Seattle Kraken,Warren Foegele,0.5,2.1,Neds,1.662,Pinnacle,Player Points,Los Angeles Kings v Seattle Kraken,-7.7875193398659
+Los Angeles Kings,Seattle Kraken,Shane Wright,0.5,2.69,Pinnacle,1.416,Pinnacle,Player Points,Los Angeles Kings v Seattle Kraken,-7.796190116144763
+Winnipeg Jets,St. Louis Blues,Zack Bolduc,0.5,2.62,Pinnacle,1.436,Pinnacle,Player Points,Winnipeg Jets v St. Louis Blues,-7.805821939654267
+New York Rangers,Tampa Bay Lightning,Yanni Gourde,0.5,2.7,Bet365,1.413,Pinnacle,Player Points,New York Rangers v Tampa Bay Lightning,-7.808445388063223
+New York Rangers,Tampa Bay Lightning,Vincent Trocheck,0.5,1.76,Bet365,1.961,Pinnacle,Player Points,New York Rangers v Tampa Bay Lightning,-7.81257243521396
+Winnipeg Jets,St. Louis Blues,Pavel Buchnevich,0.5,1.961,Pinnacle,1.76,Bet365,Player Points,Winnipeg Jets v St. Louis Blues,-7.81257243521396
+Winnipeg Jets,St. Louis Blues,Kyle Connor,1.5,2.65,Bet365,1.427,Pinnacle,Player Points,Winnipeg Jets v St. Louis Blues,-7.81293384987638
+Winnipeg Jets,St. Louis Blues,Cole Perfetti,0.5,1.86,Bet365,1.85,Neds,Player Points,Winnipeg Jets v St. Louis Blues,-7.817494914269085
+Winnipeg Jets,St. Louis Blues,Cole Perfetti,0.5,1.85,Neds,1.86,Bet365,Player Points,Winnipeg Jets v St. Louis Blues,-7.817494914269085
+Los Angeles Kings,Seattle Kraken,Jani Nyman,0.5,2.67,Pinnacle,1.421,Pinnacle,Player Points,Los Angeles Kings v Seattle Kraken,-7.826160297516926
+New York Rangers,Tampa Bay Lightning,Brayden Point,0.5,1.421,Pinnacle,2.67,Pinnacle,Player Points,New York Rangers v Tampa Bay Lightning,-7.826160297516926
+Winnipeg Jets,St. Louis Blues,Jordan Kyrou,0.5,1.88,Neds,1.83,Bet365,Player Points,Winnipeg Jets v St. Louis Blues,-7.83629810487152
+New York Rangers,Tampa Bay Lightning,J.T. Miller,0.5,1.76,Bet365,1.96,Neds,Player Points,New York Rangers v Tampa Bay Lightning,-7.8385899814471305
+Los Angeles Kings,Seattle Kraken,Anze Kopitar,0.5,1.76,Bet365,1.96,Neds,Player Points,Los Angeles Kings v Seattle Kraken,-7.8385899814471305
+Los Angeles Kings,Seattle Kraken,Andrei Kuzmenko,0.5,1.96,Neds,1.76,Bet365,Player Points,Los Angeles Kings v Seattle Kraken,-7.8385899814471305
+San Jose Sharks,Calgary Flames,Matt Coronato,0.5,1.96,Neds,1.76,Bet365,Player Points,San Jose Sharks v Calgary Flames,-7.8385899814471305
+New York Rangers,Tampa Bay Lightning,Jake Guentzel,0.5,1.438,Pinnacle,2.61,Pinnacle,Player Points,New York Rangers v Tampa Bay Lightning,-7.855205452443004
+San Jose Sharks,Calgary Flames,Jonathan Huberdeau,0.5,1.66,Bet365,2.1,Neds,Player Points,San Jose Sharks v Calgary Flames,-7.860011474469308
+San Jose Sharks,Calgary Flames,Tyler Toffoli,0.5,1.66,Bet365,2.1,Neds,Player Points,San Jose Sharks v Calgary Flames,-7.860011474469308
+San Jose Sharks,Calgary Flames,William Eklund,0.5,1.66,Bet365,2.1,Neds,Player Points,San Jose Sharks v Calgary Flames,-7.860011474469308
+Los Angeles Kings,Seattle Kraken,Warren Foegele,0.5,2.1,Neds,1.66,Bet365,Player Points,Los Angeles Kings v Seattle Kraken,-7.860011474469308
+San Jose Sharks,Calgary Flames,Morgan Frost,0.5,2.1,Neds,1.66,Bet365,Player Points,San Jose Sharks v Calgary Flames,-7.860011474469308
+Winnipeg Jets,St. Louis Blues,Alex Iafallo,0.5,2.1,Neds,1.66,Bet365,Player Points,Winnipeg Jets v St. Louis Blues,-7.860011474469308
+Winnipeg Jets,St. Louis Blues,Mark Scheifele,0.5,1.398,Pinnacle,2.75,Bet365,Player Points,Winnipeg Jets v St. Louis Blues,-7.894394589673581
+Winnipeg Jets,St. Louis Blues,Justin Faulk,0.5,2.73,Pinnacle,1.403,Pinnacle,Player Points,Winnipeg Jets v St. Louis Blues,-7.905874121127154
+New York Rangers,Tampa Bay Lightning,Brayden Point,0.5,1.44,Bet365,2.6,Neds,Player Points,New York Rangers v Tampa Bay Lightning,-7.9059829059829
+Los Angeles Kings,Seattle Kraken,Jani Nyman,0.5,2.6,Neds,1.44,Bet365,Player Points,Los Angeles Kings v Seattle Kraken,-7.9059829059829
+Los Angeles Kings,Seattle Kraken,Shane Wright,0.5,2.6,Neds,1.44,Neds,Player Points,Los Angeles Kings v Seattle Kraken,-7.9059829059829
+New York Rangers,Tampa Bay Lightning,Yanni Gourde,0.5,2.6,Neds,1.44,Neds,Player Points,New York Rangers v Tampa Bay Lightning,-7.9059829059829
+Winnipeg Jets,St. Louis Blues,Justin Faulk,0.5,2.6,Neds,1.44,Neds,Player Points,Winnipeg Jets v St. Louis Blues,-7.9059829059829
+Anaheim Ducks,Edmonton Oilers,Jake Walman,0.5,2.35,Neds,1.53,Neds,Player Points,Anaheim Ducks v Edmonton Oilers,-7.9126686135447155
+Los Angeles Kings,Seattle Kraken,Anze Kopitar,0.5,1.757,Pinnacle,1.96,Neds,Player Points,Los Angeles Kings v Seattle Kraken,-7.9356045206927295
+New York Rangers,Tampa Bay Lightning,Yanni Gourde,0.5,2.69,Pinnacle,1.413,Pinnacle,Player Points,New York Rangers v Tampa Bay Lightning,-7.946129540617264
+Anaheim Ducks,Edmonton Oilers,Frank Vatrano,0.5,2.2,Neds,1.6,Neds,Player Points,Anaheim Ducks v Edmonton Oilers,-7.954545454545459
+Anaheim Ducks,Edmonton Oilers,Ryan Nugent-Hopkins,0.5,1.6,Neds,2.2,Neds,Player Points,Anaheim Ducks v Edmonton Oilers,-7.954545454545459
+Los Angeles Kings,Seattle Kraken,Adrian Kempe,0.5,1.6,Neds,2.2,Neds,Player Points,Los Angeles Kings v Seattle Kraken,-7.954545454545459
+Los Angeles Kings,Seattle Kraken,Brandon Montour,0.5,2.2,Neds,1.6,Neds,Player Points,Los Angeles Kings v Seattle Kraken,-7.954545454545459
+Los Angeles Kings,Seattle Kraken,Chandler Stephenson,0.5,2.2,Neds,1.6,Neds,Player Points,Los Angeles Kings v Seattle Kraken,-7.954545454545459
+Los Angeles Kings,Seattle Kraken,Vince Dunn,0.5,2.2,Neds,1.6,Neds,Player Points,Los Angeles Kings v Seattle Kraken,-7.954545454545459
+New York Rangers,Tampa Bay Lightning,Victor Hedman,0.5,1.74,Bet365,1.98,Neds,Player Points,New York Rangers v Tampa Bay Lightning,-7.976314872866608
+Winnipeg Jets,St. Louis Blues,Josh Morrissey,0.5,1.74,Bet365,1.98,Neds,Player Points,Winnipeg Jets v St. Louis Blues,-7.976314872866608
+Los Angeles Kings,Seattle Kraken,Drew Doughty,0.5,1.98,Neds,1.74,Bet365,Player Points,Los Angeles Kings v Seattle Kraken,-7.976314872866608
+Los Angeles Kings,Seattle Kraken,Jared McCann,0.5,1.98,Neds,1.74,Bet365,Player Points,Los Angeles Kings v Seattle Kraken,-7.976314872866608
+Los Angeles Kings,Seattle Kraken,Quinton Byfield,0.5,1.98,Neds,1.74,Bet365,Player Points,Los Angeles Kings v Seattle Kraken,-7.976314872866608
+New York Rangers,Tampa Bay Lightning,Oliver Bjorkstrand,0.5,2.5,Bet365,1.471,Pinnacle,Player Points,New York Rangers v Tampa Bay Lightning,-7.98096532970769
+Anaheim Ducks,Edmonton Oilers,Cutter Gauthier,0.5,2.5,Bet365,1.471,Pinnacle,Player Points,Anaheim Ducks v Edmonton Oilers,-7.98096532970769
+Anaheim Ducks,Edmonton Oilers,Trevor Zegras,0.5,2.02,Neds,1.71,Bet365,Player Points,Anaheim Ducks v Edmonton Oilers,-7.984482658792191
+Anaheim Ducks,Edmonton Oilers,Viktor Arvidsson,0.5,2.02,Neds,1.71,Bet365,Player Points,Anaheim Ducks v Edmonton Oilers,-7.984482658792191
+Los Angeles Kings,Seattle Kraken,Trevor Moore,0.5,2.05,Neds,1.689,Pinnacle,Player Points,Los Angeles Kings v Seattle Kraken,-7.98711894756603
+Winnipeg Jets,St. Louis Blues,Cole Perfetti,0.5,1.854,Pinnacle,1.85,Neds,Player Points,Winnipeg Jets v St. Louis Blues,-7.991486632263323
+Los Angeles Kings,Seattle Kraken,Jordan Eberle,0.5,2.3,Neds,1.55,Neds,Player Points,Los Angeles Kings v Seattle Kraken,-7.9943899018232845
+New York Rangers,Tampa Bay Lightning,Alexis Lafreniere,0.5,2.3,Neds,1.55,Bet365,Player Points,New York Rangers v Tampa Bay Lightning,-7.9943899018232845
+New York Rangers,Tampa Bay Lightning,Nick Paul,0.5,2.3,Neds,1.55,Neds,Player Points,New York Rangers v Tampa Bay Lightning,-7.9943899018232845
+Winnipeg Jets,St. Louis Blues,Cam Fowler,0.5,2.3,Neds,1.55,Neds,Player Points,Winnipeg Jets v St. Louis Blues,-7.9943899018232845
+Winnipeg Jets,St. Louis Blues,Vladislav Namestnikov,0.5,2.3,Neds,1.55,Bet365,Player Points,Winnipeg Jets v St. Louis Blues,-7.9943899018232845
+New York Rangers,Tampa Bay Lightning,Jake Guentzel,0.5,1.438,Pinnacle,2.6,Bet365,Player Points,New York Rangers v Tampa Bay Lightning,-8.002567668770721
+Winnipeg Jets,St. Louis Blues,Mark Scheifele,0.5,1.398,Pinnacle,2.74,Pinnacle,Player Points,Winnipeg Jets v St. Louis Blues,-8.027108591000708
+New York Rangers,Tampa Bay Lightning,Artemi Panarin,0.5,1.47,Bet365,2.5,Neds,Player Points,New York Rangers v Tampa Bay Lightning,-8.027210884353742
+San Jose Sharks,Calgary Flames,Collin Graf,0.5,2.5,Neds,1.47,Bet365,Player Points,San Jose Sharks v Calgary Flames,-8.027210884353742
+New York Rangers,Tampa Bay Lightning,Vincent Trocheck,0.5,1.787,Pinnacle,1.92,Neds,Player Points,New York Rangers v Tampa Bay Lightning,-8.043042342846496
+Anaheim Ducks,Edmonton Oilers,Leo Carlsson,0.5,1.94,Neds,1.77,Neds,Player Points,Anaheim Ducks v Edmonton Oilers,-8.043566893820264
+Winnipeg Jets,St. Louis Blues,Pavel Buchnevich,0.5,1.94,Neds,1.77,Neds,Player Points,Winnipeg Jets v St. Louis Blues,-8.043566893820264
+Anaheim Ducks,Edmonton Oilers,Leo Carlsson,0.5,1.94,Neds,1.769,Pinnacle,Player Points,Anaheim Ducks v Edmonton Oilers,-8.075504245511178
+New York Rangers,Tampa Bay Lightning,Anthony Cirelli,0.5,2.25,Neds,1.571,Pinnacle,Player Points,New York Rangers v Tampa Bay Lightning,-8.098168187283417
+Winnipeg Jets,St. Louis Blues,Cole Perfetti,0.5,1.85,Neds,1.85,Neds,Player Points,Winnipeg Jets v St. Louis Blues,-8.108108108108091
+Los Angeles Kings,Seattle Kraken,Jani Nyman,0.5,2.65,Bet365,1.421,Pinnacle,Player Points,Los Angeles Kings v Seattle Kraken,-8.108825833521438
+New York Rangers,Tampa Bay Lightning,Brayden Point,0.5,1.421,Pinnacle,2.65,Bet365,Player Points,New York Rangers v Tampa Bay Lightning,-8.108825833521438
+Anaheim Ducks,Edmonton Oilers,Troy Terry,0.5,1.83,Bet365,1.87,Neds,Player Points,Anaheim Ducks v Edmonton Oilers,-8.1207445720463909
+Anaheim Ducks,Edmonton Oilers,Jackson LaCombe,0.5,2.25,Neds,1.57,Bet365,Player Points,Anaheim Ducks v Edmonton Oilers,-8.138711960368017
+Anaheim Ducks,Edmonton Oilers,Jackson LaCombe,0.5,2.25,Neds,1.5699999999999998,Neds,Player Points,Anaheim Ducks v Edmonton Oilers,-8.138711960368017
+Los Angeles Kings,Seattle Kraken,Jaden Schwartz,0.5,2.25,Neds,1.5699999999999998,Neds,Player Points,Los Angeles Kings v Seattle Kraken,-8.138711960368017
+Los Angeles Kings,Seattle Kraken,Phillip Danault,0.5,2.25,Neds,1.57,Bet365,Player Points,Los Angeles Kings v Seattle Kraken,-8.138711960368017
+Los Angeles Kings,Seattle Kraken,Phillip Danault,0.5,2.25,Neds,1.5699999999999998,Neds,Player Points,Los Angeles Kings v Seattle Kraken,-8.138711960368017
+New York Rangers,Tampa Bay Lightning,Anthony Cirelli,0.5,2.25,Neds,1.57,Bet365,Player Points,New York Rangers v Tampa Bay Lightning,-8.138711960368017
+New York Rangers,Tampa Bay Lightning,Anthony Cirelli,0.5,2.25,Neds,1.5699999999999998,Neds,Player Points,New York Rangers v Tampa Bay Lightning,-8.138711960368017
+San Jose Sharks,Calgary Flames,Macklin Celebrini,0.5,1.5699999999999998,Neds,2.25,Neds,Player Points,San Jose Sharks v Calgary Flames,-8.138711960368017
+San Jose Sharks,Calgary Flames,Mikael Backlund,0.5,2.25,Neds,1.5699999999999998,Neds,Player Points,San Jose Sharks v Calgary Flames,-8.138711960368017
+San Jose Sharks,Calgary Flames,Rasmus Andersson,0.5,2.25,Neds,1.57,Bet365,Player Points,San Jose Sharks v Calgary Flames,-8.138711960368017
+San Jose Sharks,Calgary Flames,Rasmus Andersson,0.5,2.25,Neds,1.5699999999999998,Neds,Player Points,San Jose Sharks v Calgary Flames,-8.138711960368017
+San Jose Sharks,Calgary Flames,Yegor Sharangovich,0.5,2.25,Neds,1.57,Bet365,Player Points,San Jose Sharks v Calgary Flames,-8.138711960368017
+San Jose Sharks,Calgary Flames,Yegor Sharangovich,0.5,2.25,Neds,1.5699999999999998,Neds,Player Points,San Jose Sharks v Calgary Flames,-8.138711960368017
+Winnipeg Jets,St. Louis Blues,Brayden Schenn,0.5,2.25,Neds,1.57,Bet365,Player Points,Winnipeg Jets v St. Louis Blues,-8.138711960368017
+Winnipeg Jets,St. Louis Blues,Brayden Schenn,0.5,2.25,Neds,1.5699999999999998,Neds,Player Points,Winnipeg Jets v St. Louis Blues,-8.138711960368017
+Los Angeles Kings,Seattle Kraken,Drew Doughty,0.5,1.98,Neds,1.735,Pinnacle,Player Points,Los Angeles Kings v Seattle Kraken,-8.141938113119673
+Los Angeles Kings,Seattle Kraken,Jared McCann,0.5,1.98,Neds,1.735,Pinnacle,Player Points,Los Angeles Kings v Seattle Kraken,-8.141938113119673
+Winnipeg Jets,St. Louis Blues,Mark Scheifele,0.5,1.42,Bet365,2.65,Neds,Player Points,Winnipeg Jets v St. Louis Blues,-8.158384267871387
+Los Angeles Kings,Seattle Kraken,Andrei Kuzmenko,0.5,1.96,Neds,1.75,Neds,Player Points,Los Angeles Kings v Seattle Kraken,-8.163265306122458
+Los Angeles Kings,Seattle Kraken,Anze Kopitar,0.5,1.75,Neds,1.96,Neds,Player Points,Los Angeles Kings v Seattle Kraken,-8.163265306122458
+New York Rangers,Tampa Bay Lightning,J.T. Miller,0.5,1.75,Neds,1.96,Neds,Player Points,New York Rangers v Tampa Bay Lightning,-8.163265306122458
+San Jose Sharks,Calgary Flames,Mackenzie Weegar,0.5,1.75,Neds,1.96,Neds,Player Points,San Jose Sharks v Calgary Flames,-8.163265306122458
+San Jose Sharks,Calgary Flames,Matt Coronato,0.5,1.96,Neds,1.75,Neds,Player Points,San Jose Sharks v Calgary Flames,-8.163265306122458
+Winnipeg Jets,St. Louis Blues,Kyle Connor,1.5,2.55,Neds,1.45,Neds,Player Points,Winnipeg Jets v St. Louis Blues,-8.181203515889113
+San Jose Sharks,Calgary Flames,Tyler Toffoli,0.5,1.65,Neds,2.1,Neds,Player Points,San Jose Sharks v Calgary Flames,-8.225108225108224
+San Jose Sharks,Calgary Flames,William Eklund,0.5,1.65,Neds,2.1,Neds,Player Points,San Jose Sharks v Calgary Flames,-8.225108225108224
+Winnipeg Jets,St. Louis Blues,Alex Iafallo,0.5,2.1,Neds,1.65,Neds,Player Points,Winnipeg Jets v St. Louis Blues,-8.225108225108224
+Anaheim Ducks,Edmonton Oilers,Evan Bouchard,0.5,1.62,Bet365,2.15,Neds,Player Points,Anaheim Ducks v Edmonton Oilers,-8.24002296870514
+Los Angeles Kings,Seattle Kraken,Matty Beniers,0.5,2.15,Neds,1.62,Neds,Player Points,Los Angeles Kings v Seattle Kraken,-8.24002296870514
+Winnipeg Jets,St. Louis Blues,Alex Iafallo,0.5,2.1,Neds,1.649,Pinnacle,Player Points,Winnipeg Jets v St. Louis Blues,-8.261861445609163
+San Jose Sharks,Calgary Flames,Tyler Toffoli,0.5,1.649,Pinnacle,2.1,Neds,Player Points,San Jose Sharks v Calgary Flames,-8.261861445609163
+Anaheim Ducks,Edmonton Oilers,Mason McTavish,0.5,1.78,Neds,1.92,Neds,Player Points,Anaheim Ducks v Edmonton Oilers,-8.263108614232229
+New York Rangers,Tampa Bay Lightning,Mika Zibanejad,0.5,1.92,Neds,1.78,Neds,Player Points,New York Rangers v Tampa Bay Lightning,-8.263108614232229
+New York Rangers,Tampa Bay Lightning,Vincent Trocheck,0.5,1.78,Neds,1.92,Neds,Player Points,New York Rangers v Tampa Bay Lightning,-8.263108614232229
+San Jose Sharks,Calgary Flames,Will Smith,0.5,1.92,Neds,1.78,Neds,Player Points,San Jose Sharks v Calgary Flames,-8.263108614232229
+Los Angeles Kings,Seattle Kraken,Trevor Moore,0.5,2.05,Neds,1.68,Bet365,Player Points,Los Angeles Kings v Seattle Kraken,-8.304297328687582
+Los Angeles Kings,Seattle Kraken,Trevor Moore,0.5,2.05,Neds,1.6800000000000002,Neds,Player Points,Los Angeles Kings v Seattle Kraken,-8.304297328687582
+San Jose Sharks,Calgary Flames,Alexander Wennberg,0.5,2.05,Neds,1.68,Bet365,Player Points,San Jose Sharks v Calgary Flames,-8.304297328687582
+San Jose Sharks,Calgary Flames,Alexander Wennberg,0.5,2.05,Neds,1.6800000000000002,Neds,Player Points,San Jose Sharks v Calgary Flames,-8.304297328687582
+Los Angeles Kings,Seattle Kraken,Drew Doughty,0.5,1.98,Neds,1.73,Neds,Player Points,Los Angeles Kings v Seattle Kraken,-8.308518713142998
+Los Angeles Kings,Seattle Kraken,Jared McCann,0.5,1.98,Neds,1.73,Neds,Player Points,Los Angeles Kings v Seattle Kraken,-8.308518713142998
+Los Angeles Kings,Seattle Kraken,Quinton Byfield,0.5,1.98,Neds,1.73,Neds,Player Points,Los Angeles Kings v Seattle Kraken,-8.308518713142998
+New York Rangers,Tampa Bay Lightning,Victor Hedman,0.5,1.73,Neds,1.98,Neds,Player Points,New York Rangers v Tampa Bay Lightning,-8.308518713142998
+Winnipeg Jets,St. Louis Blues,Josh Morrissey,0.5,1.73,Neds,1.98,Neds,Player Points,Winnipeg Jets v St. Louis Blues,-8.308518713142998
+Anaheim Ducks,Edmonton Oilers,Trevor Zegras,0.5,2.02,Neds,1.7,Neds,Player Points,Anaheim Ducks v Edmonton Oilers,-8.328479906814223
+Anaheim Ducks,Edmonton Oilers,Viktor Arvidsson,0.5,2.02,Neds,1.7,Neds,Player Points,Anaheim Ducks v Edmonton Oilers,-8.328479906814223
+New York Rangers,Tampa Bay Lightning,Brandon Hagel,0.5,1.5,Bet365,2.4,Neds,Player Points,New York Rangers v Tampa Bay Lightning,-8.333333333333325
+Winnipeg Jets,St. Louis Blues,Robert Thomas,0.5,1.5,Bet365,2.4,Neds,Player Points,Winnipeg Jets v St. Louis Blues,-8.333333333333325
+San Jose Sharks,Calgary Flames,Nazem Kadri,0.5,1.5,Bet365,2.4,Neds,Player Points,San Jose Sharks v Calgary Flames,-8.333333333333325
+Anaheim Ducks,Edmonton Oilers,Darnell Nurse,0.5,2.4,Neds,1.5,Bet365,Player Points,Anaheim Ducks v Edmonton Oilers,-8.333333333333325
+Anaheim Ducks,Edmonton Oilers,Ryan Strome,0.5,2.4,Neds,1.5,Bet365,Player Points,Anaheim Ducks v Edmonton Oilers,-8.333333333333325
+Los Angeles Kings,Seattle Kraken,Kaapo Kakko,0.5,2.4,Neds,1.5,Bet365,Player Points,Los Angeles Kings v Seattle Kraken,-8.333333333333325
+New York Rangers,Tampa Bay Lightning,Chris Kreider,0.5,2.4,Neds,1.5,Bet365,Player Points,New York Rangers v Tampa Bay Lightning,-8.333333333333325
+Winnipeg Jets,St. Louis Blues,Jake Neighbours,0.5,2.4,Neds,1.5,Bet365,Player Points,Winnipeg Jets v St. Louis Blues,-8.333333333333325
+Winnipeg Jets,St. Louis Blues,Nino Niederreiter,0.5,2.4,Neds,1.5,Bet365,Player Points,Winnipeg Jets v St. Louis Blues,-8.333333333333325
+Anaheim Ducks,Edmonton Oilers,Jake Walman,0.5,2.35,Neds,1.52,Bet365,Player Points,Anaheim Ducks v Edmonton Oilers,-8.342665173572229
+Anaheim Ducks,Edmonton Oilers,Leo Carlsson,0.5,1.94,Neds,1.76,Bet365,Player Points,Anaheim Ducks v Edmonton Oilers,-8.364573570759148
+Winnipeg Jets,St. Louis Blues,Pavel Buchnevich,0.5,1.94,Neds,1.76,Bet365,Player Points,Winnipeg Jets v St. Louis Blues,-8.364573570759148
+San Jose Sharks,Calgary Flames,Collin Graf,0.5,2.55,Bet365,1.446,Pinnacle,Player Points,San Jose Sharks v Calgary Flames,-8.371979497193083
+New York Rangers,Tampa Bay Lightning,Artemi Panarin,0.5,1.446,Pinnacle,2.55,Bet365,Player Points,New York Rangers v Tampa Bay Lightning,-8.371979497193083
+Anaheim Ducks,Edmonton Oilers,Alex Killorn,0.5,2.45,Neds,1.48,Neds,Player Points,Anaheim Ducks v Edmonton Oilers,-8.383894098179812
+Winnipeg Jets,St. Louis Blues,Jimmy Snuggerud,0.5,2.45,Neds,1.48,Neds,Player Points,Winnipeg Jets v St. Louis Blues,-8.383894098179812
+Los Angeles Kings,Seattle Kraken,Shane Wright,0.5,2.6,Neds,1.43,Bet365,Player Points,Los Angeles Kings v Seattle Kraken,-8.391608391608397
+New York Rangers,Tampa Bay Lightning,Yanni Gourde,0.5,2.6,Neds,1.43,Bet365,Player Points,New York Rangers v Tampa Bay Lightning,-8.391608391608397
+Los Angeles Kings,Seattle Kraken,Kevin Fiala,0.5,1.645,Pinnacle,2.1,Neds,Player Points,Los Angeles Kings v Seattle Kraken,-8.409321175278617
+New York Rangers,Tampa Bay Lightning,Jake Guentzel,0.5,1.46,Neds,2.5,Neds,Player Points,New York Rangers v Tampa Bay Lightning,-8.493150684931505
+Winnipeg Jets,St. Louis Blues,Zack Bolduc,0.5,2.5,Neds,1.46,Neds,Player Points,Winnipeg Jets v St. Louis Blues,-8.493150684931505
+Los Angeles Kings,Seattle Kraken,Phillip Danault,0.5,2.25,Neds,1.561,Pinnacle,Player Points,Los Angeles Kings v Seattle Kraken,-8.50594348352196
+Winnipeg Jets,St. Louis Blues,Brayden Schenn,0.5,2.25,Neds,1.561,Pinnacle,Player Points,Winnipeg Jets v St. Louis Blues,-8.50594348352196
+Anaheim Ducks,Edmonton Oilers,Evan Bouchard,0.5,1.613,Pinnacle,2.15,Neds,Player Points,Anaheim Ducks v Edmonton Oilers,-8.507908130163354
+Winnipeg Jets,St. Louis Blues,Vladislav Namestnikov,0.5,2.3,Neds,1.537,Pinnacle,Player Points,Winnipeg Jets v St. Louis Blues,-8.54006958784761
+Anaheim Ducks,Edmonton Oilers,Zach Hyman,0.5,1.641,Pinnacle,2.1,Neds,Player Points,Anaheim Ducks v Edmonton Oilers,-8.557499782362665
+Anaheim Ducks,Edmonton Oilers,Frank Vatrano,0.5,2.2,Neds,1.584,Pinnacle,Player Points,Anaheim Ducks v Edmonton Oilers,-8.585858585858585
+Los Angeles Kings,Seattle Kraken,Vince Dunn,0.5,2.2,Neds,1.584,Pinnacle,Player Points,Los Angeles Kings v Seattle Kraken,-8.585858585858585
+Anaheim Ducks,Edmonton Oilers,Zach Hyman,0.5,1.64,Bet365,2.1,Neds,Player Points,Anaheim Ducks v Edmonton Oilers,-8.594657375145175
+Los Angeles Kings,Seattle Kraken,Kevin Fiala,0.5,1.64,Bet365,2.1,Neds,Player Points,Los Angeles Kings v Seattle Kraken,-8.594657375145175
+Anaheim Ducks,Edmonton Oilers,Jeff Skinner,0.5,2.1,Neds,1.64,Neds,Player Points,Anaheim Ducks v Edmonton Oilers,-8.594657375145175
+New York Rangers,Tampa Bay Lightning,Nikita Kucherov,1.5,2.1,Neds,1.64,Bet365,Player Points,New York Rangers v Tampa Bay Lightning,-8.594657375145175
+San Jose Sharks,Calgary Flames,Blake Coleman,0.5,2.1,Neds,1.64,Bet365,Player Points,San Jose Sharks v Calgary Flames,-8.594657375145175
+San Jose Sharks,Calgary Flames,Yegor Sharangovich,0.5,2.25,Neds,1.558,Pinnacle,Player Points,San Jose Sharks v Calgary Flames,-8.629296819283994
+Winnipeg Jets,St. Louis Blues,Kyle Connor,1.5,2.55,Neds,1.44,Bet365,Player Points,Winnipeg Jets v St. Louis Blues,-8.660130718954262
+Los Angeles Kings,Seattle Kraken,Matty Beniers,0.5,2.15,Neds,1.609,Pinnacle,Player Points,Los Angeles Kings v Seattle Kraken,-8.662031884602595
+New York Rangers,Tampa Bay Lightning,Alexis Lafreniere,0.5,2.3,Neds,1.534,Pinnacle,Player Points,New York Rangers v Tampa Bay Lightning,-8.66730910946092
+Los Angeles Kings,Seattle Kraken,Kaapo Kakko,0.5,2.4,Neds,1.492,Pinnacle,Player Points,Los Angeles Kings v Seattle Kraken,-8.690795352993753
+New York Rangers,Tampa Bay Lightning,Brandon Hagel,0.5,1.492,Pinnacle,2.4,Neds,Player Points,New York Rangers v Tampa Bay Lightning,-8.690795352993753
+San Jose Sharks,Calgary Flames,Nazem Kadri,0.5,1.492,Pinnacle,2.4,Neds,Player Points,San Jose Sharks v Calgary Flames,-8.690795352993753
+Los Angeles Kings,Seattle Kraken,Chandler Stephenson,0.5,2.2,Neds,1.581,Pinnacle,Player Points,Los Angeles Kings v Seattle Kraken,-8.705652348916114
+Anaheim Ducks,Edmonton Oilers,Ryan Nugent-Hopkins,0.5,1.58,Bet365,2.2,Neds,Player Points,Anaheim Ducks v Edmonton Oilers,-8.74568469505177
+Anaheim Ducks,Edmonton Oilers,Frank Vatrano,0.5,2.2,Neds,1.58,Bet365,Player Points,Anaheim Ducks v Edmonton Oilers,-8.74568469505177
+Los Angeles Kings,Seattle Kraken,Brandon Montour,0.5,2.2,Neds,1.58,Bet365,Player Points,Los Angeles Kings v Seattle Kraken,-8.74568469505177
+Los Angeles Kings,Seattle Kraken,Chandler Stephenson,0.5,2.2,Neds,1.58,Bet365,Player Points,Los Angeles Kings v Seattle Kraken,-8.74568469505177
+Los Angeles Kings,Seattle Kraken,Vince Dunn,0.5,2.2,Neds,1.58,Bet365,Player Points,Los Angeles Kings v Seattle Kraken,-8.74568469505177
+Anaheim Ducks,Edmonton Oilers,Darnell Nurse,0.5,2.4,Neds,1.49,Pinnacle,Player Points,Anaheim Ducks v Edmonton Oilers,-8.780760626398209
+Anaheim Ducks,Edmonton Oilers,Cutter Gauthier,0.5,2.45,Neds,1.471,Pinnacle,Player Points,Anaheim Ducks v Edmonton Oilers,-8.797291860319923
+New York Rangers,Tampa Bay Lightning,Oliver Bjorkstrand,0.5,2.45,Neds,1.471,Pinnacle,Player Points,New York Rangers v Tampa Bay Lightning,-8.797291860319923
+Los Angeles Kings,Seattle Kraken,Jani Nyman,0.5,2.6,Neds,1.421,Pinnacle,Player Points,Los Angeles Kings v Seattle Kraken,-8.834515238456131
+New York Rangers,Tampa Bay Lightning,Brayden Point,0.5,1.421,Pinnacle,2.6,Neds,Player Points,New York Rangers v Tampa Bay Lightning,-8.834515238456131
+Anaheim Ducks,Edmonton Oilers,Alex Killorn,0.5,2.45,Neds,1.47,Bet365,Player Points,Anaheim Ducks v Edmonton Oilers,-8.843537414965974
+Winnipeg Jets,St. Louis Blues,Jimmy Snuggerud,0.5,2.45,Neds,1.47,Bet365,Player Points,Winnipeg Jets v St. Louis Blues,-8.843537414965974
+Winnipeg Jets,St. Louis Blues,Justin Faulk,0.5,2.6,Neds,1.42,Bet365,Player Points,Winnipeg Jets v St. Louis Blues,-8.884073672806059
+New York Rangers,Tampa Bay Lightning,Nikita Kucherov,1.5,2.1,Neds,1.632,Pinnacle,Player Points,New York Rangers v Tampa Bay Lightning,-8.8935574229692
+San Jose Sharks,Calgary Flames,Blake Coleman,0.5,2.1,Neds,1.632,Pinnacle,Player Points,San Jose Sharks v Calgary Flames,-8.8935574229692
+New York Rangers,Tampa Bay Lightning,Vincent Trocheck,0.5,1.76,Bet365,1.92,Neds,Player Points,New York Rangers v Tampa Bay Lightning,-8.90151515151516
+Anaheim Ducks,Edmonton Oilers,Ryan Strome,0.5,2.4,Neds,1.487,Pinnacle,Player Points,Anaheim Ducks v Edmonton Oilers,-8.916162295449448
+San Jose Sharks,Calgary Flames,Macklin Celebrini,0.5,1.55,Bet365,2.25,Neds,Player Points,San Jose Sharks v Calgary Flames,-8.960573476702516
+Los Angeles Kings,Seattle Kraken,Jaden Schwartz,0.5,2.25,Neds,1.55,Bet365,Player Points,Los Angeles Kings v Seattle Kraken,-8.960573476702516
+San Jose Sharks,Calgary Flames,Mikael Backlund,0.5,2.25,Neds,1.55,Bet365,Player Points,San Jose Sharks v Calgary Flames,-8.960573476702516
+New York Rangers,Tampa Bay Lightning,Jake Guentzel,0.5,1.45,Bet365,2.5,Neds,Player Points,New York Rangers v Tampa Bay Lightning,-8.965517241379306
+San Jose Sharks,Calgary Flames,Rasmus Andersson,0.5,2.25,Neds,1.549,Pinnacle,Player Points,San Jose Sharks v Calgary Flames,-9.002223656839536
+Los Angeles Kings,Seattle Kraken,Shane Wright,0.5,2.6,Neds,1.416,Pinnacle,Player Points,Los Angeles Kings v Seattle Kraken,-9.083007388092135
+Winnipeg Jets,St. Louis Blues,Nino Niederreiter,0.5,2.4,Neds,1.483,Pinnacle,Player Points,Winnipeg Jets v St. Louis Blues,-9.097550011238486
+Los Angeles Kings,Seattle Kraken,Brandon Montour,0.5,2.2,Neds,1.571,Pinnacle,Player Points,Los Angeles Kings v Seattle Kraken,-9.108269197384411
+Anaheim Ducks,Edmonton Oilers,Ryan Nugent-Hopkins,0.5,1.571,Pinnacle,2.2,Neds,Player Points,Anaheim Ducks v Edmonton Oilers,-9.108269197384411
+Los Angeles Kings,Seattle Kraken,Jordan Eberle,0.5,2.3,Neds,1.523,Pinnacle,Player Points,Los Angeles Kings v Seattle Kraken,-9.13814268177795
+New York Rangers,Tampa Bay Lightning,Nick Paul,0.5,2.3,Neds,1.523,Pinnacle,Player Points,New York Rangers v Tampa Bay Lightning,-9.13814268177795
+Winnipeg Jets,St. Louis Blues,Cam Fowler,0.5,2.3,Neds,1.523,Pinnacle,Player Points,Winnipeg Jets v St. Louis Blues,-9.13814268177795
+Los Angeles Kings,Seattle Kraken,Adrian Kempe,0.5,1.57,Bet365,2.2,Neds,Player Points,Los Angeles Kings v Seattle Kraken,-9.148812970469011
+San Jose Sharks,Calgary Flames,Collin Graf,0.5,2.5,Neds,1.446,Pinnacle,Player Points,San Jose Sharks v Calgary Flames,-9.156293222683276
+New York Rangers,Tampa Bay Lightning,Artemi Panarin,0.5,1.446,Pinnacle,2.5,Neds,Player Points,New York Rangers v Tampa Bay Lightning,-9.156293222683276
+Anaheim Ducks,Edmonton Oilers,Jeff Skinner,0.5,2.1,Neds,1.625,Pinnacle,Player Points,Anaheim Ducks v Edmonton Oilers,-9.15750915750917
+Anaheim Ducks,Edmonton Oilers,Alex Killorn,0.5,2.45,Neds,1.462,Pinnacle,Player Points,Anaheim Ducks v Edmonton Oilers,-9.215779334989804
+Anaheim Ducks,Edmonton Oilers,Jake Walman,0.5,2.35,Neds,1.5,Pinnacle,Player Points,Anaheim Ducks v Edmonton Oilers,-9.219858156028371
+Los Angeles Kings,Seattle Kraken,Adrian Kempe,0.5,1.568,Pinnacle,2.2,Neds,Player Points,Los Angeles Kings v Seattle Kraken,-9.23005565862709
+New York Rangers,Tampa Bay Lightning,Yanni Gourde,0.5,2.6,Neds,1.413,Pinnacle,Player Points,New York Rangers v Tampa Bay Lightning,-9.232946812564657
+San Jose Sharks,Calgary Flames,Macklin Celebrini,0.5,1.543,Pinnacle,2.25,Neds,Player Points,San Jose Sharks v Calgary Flames,-9.25325844314826
+Winnipeg Jets,St. Louis Blues,Mark Scheifele,0.5,1.398,Pinnacle,2.65,Neds,Player Points,Winnipeg Jets v St. Louis Blues,-9.26660728264097
+Los Angeles Kings,Seattle Kraken,Jordan Eberle,0.5,2.3,Neds,1.52,Bet365,Player Points,Los Angeles Kings v Seattle Kraken,-9.267734553775764
+New York Rangers,Tampa Bay Lightning,Nick Paul,0.5,2.3,Neds,1.52,Bet365,Player Points,New York Rangers v Tampa Bay Lightning,-9.267734553775764
+Winnipeg Jets,St. Louis Blues,Cam Fowler,0.5,2.3,Neds,1.52,Bet365,Player Points,Winnipeg Jets v St. Louis Blues,-9.267734553775764
+Winnipeg Jets,St. Louis Blues,Kyle Connor,1.5,2.55,Neds,1.427,Pinnacle,Player Points,Winnipeg Jets v St. Louis Blues,-9.292771067782413
+Winnipeg Jets,St. Louis Blues,Robert Thomas,0.5,1.478,Pinnacle,2.4,Neds,Player Points,Winnipeg Jets v St. Louis Blues,-9.325665313486686
+Anaheim Ducks,Edmonton Oilers,Jeff Skinner,0.5,2.1,Neds,1.62,Bet365,Player Points,Anaheim Ducks v Edmonton Oilers,-9.347442680776009
+Anaheim Ducks,Edmonton Oilers,Jackson LaCombe,0.5,2.19,Pinnacle,1.57,Bet365,Player Points,Anaheim Ducks v Edmonton Oilers,-9.356367972544577
+Anaheim Ducks,Edmonton Oilers,Jackson LaCombe,0.5,2.19,Pinnacle,1.5699999999999998,Neds,Player Points,Anaheim Ducks v Edmonton Oilers,-9.356367972544577
+Los Angeles Kings,Seattle Kraken,Jaden Schwartz,0.5,2.25,Neds,1.54,Pinnacle,Player Points,Los Angeles Kings v Seattle Kraken,-9.379509379509376
+San Jose Sharks,Calgary Flames,Mikael Backlund,0.5,2.25,Neds,1.54,Pinnacle,Player Points,San Jose Sharks v Calgary Flames,-9.379509379509376
+New York Rangers,Tampa Bay Lightning,Chris Kreider,0.5,2.4,Neds,1.476,Pinnacle,Player Points,New York Rangers v Tampa Bay Lightning,-9.417344173441734
+New York Rangers,Tampa Bay Lightning,Jake Guentzel,0.5,1.438,Pinnacle,2.5,Neds,Player Points,New York Rangers v Tampa Bay Lightning,-9.541029207232278
+Winnipeg Jets,St. Louis Blues,Zack Bolduc,0.5,2.5,Neds,1.436,Pinnacle,Player Points,Winnipeg Jets v St. Louis Blues,-9.637883008356551
+Los Angeles Kings,Seattle Kraken,Andrei Kuzmenko,0.5,1.892,Pinnacle,1.76,Bet365,Player Points,Los Angeles Kings v Seattle Kraken,-9.672304439746293
+Winnipeg Jets,St. Louis Blues,Justin Faulk,0.5,2.6,Neds,1.403,Pinnacle,Player Points,Winnipeg Jets v St. Louis Blues,-9.73737595262898
+San Jose Sharks,Calgary Flames,William Eklund,0.5,1.606,Pinnacle,2.1,Neds,Player Points,San Jose Sharks v Calgary Flames,-9.885548241712616
+Los Angeles Kings,Seattle Kraken,Andrei Kuzmenko,0.5,1.892,Pinnacle,1.75,Neds,Player Points,Los Angeles Kings v Seattle Kraken,-9.99697976442162
+Winnipeg Jets,St. Louis Blues,Jimmy Snuggerud,0.5,2.2,Pinnacle,1.48,Neds,Player Points,Winnipeg Jets v St. Louis Blues,-13.022113022113025
+Winnipeg Jets,St. Louis Blues,Jimmy Snuggerud,0.5,2.2,Pinnacle,1.47,Bet365,Player Points,Winnipeg Jets v St. Louis Blues,-13.481756338899187
