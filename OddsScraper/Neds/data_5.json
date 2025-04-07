@@ -62,7 +62,7 @@
             "name": "Adam Lowry (Winnipeg Jets)",
             "home_away": "HOME",
             "visible": true,
-            "sort_order": 450,
+            "sort_order": 460,
             "market_id": "2fa24767-463e-46c5-97ef-41c3e9148548"
         },
         "034b86a4-9220-4776-a077-af6f4abac33d": {
@@ -108,13 +108,6 @@
             "visible": true,
             "sort_order": 20,
             "market_id": "e66b6693-7d48-49fd-824a-e9e5f08d2f56"
-        },
-        "04a7dcaf-4ba9-4d98-bcbb-6834189fce0c": {
-            "id": "04a7dcaf-4ba9-4d98-bcbb-6834189fce0c",
-            "name": "Under (0.5)",
-            "visible": true,
-            "sort_order": 20,
-            "market_id": "19db4a39-1935-47af-b02c-796f40ff09ad"
         },
         "051602a7-e9b3-47b2-9385-45927554ae04": {
             "id": "051602a7-e9b3-47b2-9385-45927554ae04",
@@ -239,7 +232,7 @@
             "name": "Josh Morrissey (Winnipeg Jets)",
             "home_away": "HOME",
             "visible": true,
-            "sort_order": 460,
+            "sort_order": 450,
             "market_id": "2fa24767-463e-46c5-97ef-41c3e9148548"
         },
         "0cf04f06-02f1-44b6-a82d-9adf3e1ea2d9": {
@@ -798,13 +791,6 @@
             "sort_order": 10,
             "market_id": "59010d9a-5171-4de1-ba98-e0baf134531b"
         },
-        "2b8f2ce3-2ddf-41cb-b2ed-0ed5682af72b": {
-            "id": "2b8f2ce3-2ddf-41cb-b2ed-0ed5682af72b",
-            "name": "Over (0.5)",
-            "visible": true,
-            "sort_order": 10,
-            "market_id": "2b032fec-8445-4f59-b661-e7954f5ce778"
-        },
         "2c529c2a-10cd-4148-9325-a58048ec5a5c": {
             "id": "2c529c2a-10cd-4148-9325-a58048ec5a5c",
             "name": "Under (3)",
@@ -939,7 +925,7 @@
             "name": "Vladislav Namestnikov (Winnipeg Jets)",
             "home_away": "HOME",
             "visible": true,
-            "sort_order": 490,
+            "sort_order": 480,
             "market_id": "2fa24767-463e-46c5-97ef-41c3e9148548"
         },
         "329af93d-7b76-466c-b243-e9efd39c24f1": {
@@ -1191,26 +1177,12 @@
             "sort_order": 20,
             "market_id": "c3d2ce9a-f947-4d30-a732-540c7d0d179d"
         },
-        "3ff3a881-7914-4b16-853d-d50ac6891aca": {
-            "id": "3ff3a881-7914-4b16-853d-d50ac6891aca",
-            "name": "Over (2.5)",
-            "visible": true,
-            "sort_order": 10,
-            "market_id": "b13472b2-9c36-4657-a630-c37f328bf99a"
-        },
         "3ff4bb23-4a24-41ff-ab4e-5c12b7cb68c5": {
             "id": "3ff4bb23-4a24-41ff-ab4e-5c12b7cb68c5",
             "name": "Winnipeg Jets / Over 5.5",
             "visible": true,
             "sort_order": 20,
             "market_id": "b73e39fd-2c43-4148-b4fc-7d9294df14d8"
-        },
-        "40ce290d-0ebc-40d1-acd2-d6a28c44282d": {
-            "id": "40ce290d-0ebc-40d1-acd2-d6a28c44282d",
-            "name": "Under (0.5)",
-            "visible": true,
-            "sort_order": 20,
-            "market_id": "162b2caf-59bf-4f30-95c6-83c0ba66cbcc"
         },
         "415242f8-8f09-4145-ade7-cbed17cdf1ab": {
             "id": "415242f8-8f09-4145-ade7-cbed17cdf1ab",
@@ -2449,6 +2421,13 @@
             "sort_order": 80,
             "market_id": "f20b513a-8774-435e-a2ca-55c9d2f83f68"
         },
+        "88ca39b6-7012-49cc-bc19-bc77f6ed2469": {
+            "id": "88ca39b6-7012-49cc-bc19-bc77f6ed2469",
+            "name": "Under (0.5)",
+            "visible": true,
+            "sort_order": 20,
+            "market_id": "bbe95c8d-ad7d-42bf-a33a-b692e4cedfcb"
+        },
         "88dd61d8-8d4e-43f4-b227-8740e92b56b3": {
             "id": "88dd61d8-8d4e-43f4-b227-8740e92b56b3",
             "name": "Over (1.5)",
@@ -2550,6 +2529,13 @@
             "visible": true,
             "sort_order": 20,
             "market_id": "dbaacc9b-8bfa-43b6-a52a-732e524097e5"
+        },
+        "91403989-02e0-45d0-a1c1-cb78991f92d8": {
+            "id": "91403989-02e0-45d0-a1c1-cb78991f92d8",
+            "name": "Over (0.5)",
+            "visible": true,
+            "sort_order": 10,
+            "market_id": "bbe95c8d-ad7d-42bf-a33a-b692e4cedfcb"
         },
         "914d9632-6f44-44ce-989c-73bc4b44bb3d": {
             "id": "914d9632-6f44-44ce-989c-73bc4b44bb3d",
@@ -2676,26 +2662,12 @@
             "sort_order": 120,
             "market_id": "dbaacc9b-8bfa-43b6-a52a-732e524097e5"
         },
-        "998ac965-d31b-49e9-a66d-97387f9627f2": {
-            "id": "998ac965-d31b-49e9-a66d-97387f9627f2",
-            "name": "Under (2.5)",
-            "visible": true,
-            "sort_order": 20,
-            "market_id": "b13472b2-9c36-4657-a630-c37f328bf99a"
-        },
         "9a6a90d5-23f0-4519-b93d-8915cbbd8631": {
             "id": "9a6a90d5-23f0-4519-b93d-8915cbbd8631",
             "name": "Yes",
             "visible": true,
             "sort_order": 20,
             "market_id": "d7b975a9-4605-4804-84bd-83be449a405d"
-        },
-        "9b30c402-a0ea-4d84-ba64-b4371f81de5f": {
-            "id": "9b30c402-a0ea-4d84-ba64-b4371f81de5f",
-            "name": "Over (0.5)",
-            "visible": true,
-            "sort_order": 10,
-            "market_id": "19db4a39-1935-47af-b02c-796f40ff09ad"
         },
         "9b57859d-1f22-4e0f-a968-8e12a56bbc35": {
             "id": "9b57859d-1f22-4e0f-a968-8e12a56bbc35",
@@ -2857,7 +2829,7 @@
             "name": "Cam Fowler (St. Louis Blues)",
             "home_away": "AWAY",
             "visible": true,
-            "sort_order": 580,
+            "sort_order": 570,
             "market_id": "2fa24767-463e-46c5-97ef-41c3e9148548"
         },
         "a417f71a-16e8-415a-9739-c564159b4848": {
@@ -2894,7 +2866,7 @@
             "name": "Radek Faksa (St. Louis Blues)",
             "home_away": "AWAY",
             "visible": true,
-            "sort_order": 570,
+            "sort_order": 580,
             "market_id": "2fa24767-463e-46c5-97ef-41c3e9148548"
         },
         "a5e46271-a189-4298-992e-7340d9ac2a08": {
@@ -2986,13 +2958,6 @@
             "visible": true,
             "sort_order": 20,
             "market_id": "0cb1c8dc-3bec-472e-b1df-f3e6dbd5c0fb"
-        },
-        "ab8f8ae1-b1a1-46ab-862b-6cdc98a29530": {
-            "id": "ab8f8ae1-b1a1-46ab-862b-6cdc98a29530",
-            "name": "Over (0.5)",
-            "visible": true,
-            "sort_order": 10,
-            "market_id": "a69f8ff4-1550-4e6e-b7f2-e7ae5202d17a"
         },
         "ab965136-4a3b-45f1-a9b7-82f887290f1f": {
             "id": "ab965136-4a3b-45f1-a9b7-82f887290f1f",
@@ -3089,13 +3054,6 @@
             "sort_order": 70,
             "market_id": "f20b513a-8774-435e-a2ca-55c9d2f83f68"
         },
-        "b40896d4-cbb8-4d4f-a7b6-4b4a0f22b55b": {
-            "id": "b40896d4-cbb8-4d4f-a7b6-4b4a0f22b55b",
-            "name": "Over (0.5)",
-            "visible": true,
-            "sort_order": 10,
-            "market_id": "162b2caf-59bf-4f30-95c6-83c0ba66cbcc"
-        },
         "b46cda3c-b2b2-4a24-8b17-1921587d739c": {
             "id": "b46cda3c-b2b2-4a24-8b17-1921587d739c",
             "name": "Over (2.5)",
@@ -3171,7 +3129,7 @@
             "name": "Alexei Toropchenko (St. Louis Blues)",
             "home_away": "AWAY",
             "visible": true,
-            "sort_order": 480,
+            "sort_order": 490,
             "market_id": "2fa24767-463e-46c5-97ef-41c3e9148548"
         },
         "b96b4d84-9fe1-43c9-b813-ccb81717f264": {
@@ -3628,13 +3586,6 @@
             "sort_order": 100,
             "market_id": "ec1e324f-97fa-4ac7-9e9e-791a8bed6918"
         },
-        "d275e647-5731-40b5-97ca-46999f3ad2b3": {
-            "id": "d275e647-5731-40b5-97ca-46999f3ad2b3",
-            "name": "Under (0.5)",
-            "visible": true,
-            "sort_order": 20,
-            "market_id": "2b032fec-8445-4f59-b661-e7954f5ce778"
-        },
         "d30fbb1b-44dc-4982-bf6f-29e0996c83cb": {
             "id": "d30fbb1b-44dc-4982-bf6f-29e0996c83cb",
             "name": "Winnipeg Jets (-1.5)",
@@ -3793,7 +3744,7 @@
             "name": "Nathan Walker (St. Louis Blues)",
             "home_away": "AWAY",
             "visible": true,
-            "sort_order": 510,
+            "sort_order": 520,
             "market_id": "2fa24767-463e-46c5-97ef-41c3e9148548"
         },
         "db5df8cf-88ea-4079-a200-10a25b88c628": {
@@ -4382,13 +4333,6 @@
             "sort_order": 10,
             "market_id": "d77fc27f-97b6-4ad1-b781-b21a8a61bcc0"
         },
-        "f89cba5e-f908-457f-9d10-7c3a0b3e2332": {
-            "id": "f89cba5e-f908-457f-9d10-7c3a0b3e2332",
-            "name": "Under (0.5)",
-            "visible": true,
-            "sort_order": 20,
-            "market_id": "a69f8ff4-1550-4e6e-b7f2-e7ae5202d17a"
-        },
         "f8e83eaf-2e87-45b4-b830-bb7534a24ae2": {
             "id": "f8e83eaf-2e87-45b4-b830-bb7534a24ae2",
             "name": "Over (1)",
@@ -4575,7 +4519,7 @@
             "name": "Brandon Tanev (Winnipeg Jets)",
             "home_away": "HOME",
             "visible": true,
-            "sort_order": 520,
+            "sort_order": 510,
             "market_id": "2fa24767-463e-46c5-97ef-41c3e9148548"
         }
     },
@@ -4602,8 +4546,8 @@
                 "name": "Match"
             },
             "match_status": "BettingOpen",
-            "advertised_start": "2025-04-07T23:38:00Z",
-            "actual_start": "2025-04-07T23:38:00Z",
+            "advertised_start": "2025-04-07T23:41:00Z",
+            "actual_start": "2025-04-07T23:41:00Z",
             "visible": true,
             "slug": "winnipeg-jets-vs-st-louis-blues",
             "competition": {
@@ -4752,7 +4696,6 @@
                         "9bf49346-bcce-4713-b606-4a5156b91498",
                         "80529725-1af6-4801-9925-1229bb211383",
                         "cce4c952-256b-453a-9d07-e592bc986d28",
-                        "19db4a39-1935-47af-b02c-796f40ff09ad",
                         "09a9848a-a71c-43a6-ac0e-a50adf1e74e9",
                         "ce0a61ea-c8f6-49bc-830d-f9f55e3d7231",
                         "f764a6b8-d47e-4675-a553-3ff943dc37b2",
@@ -4775,7 +4718,6 @@
                         "bbd87b00-3f07-4051-a83b-e809c463234c",
                         "2b5e36d7-2b34-4b3f-b924-9456a1d032af",
                         "7ab879c7-49e9-4afd-8f05-e861560102e7",
-                        "162b2caf-59bf-4f30-95c6-83c0ba66cbcc",
                         "181c5953-1644-49c1-a10d-1c16b08375e9",
                         "b6a0b868-3de2-47de-85ae-5d7534a6a9fe",
                         "3a9299d0-f561-4c9d-8800-dd12f56ef5d9",
@@ -4796,7 +4738,6 @@
                         "3a70e78c-1715-4b16-ac60-bf717423eaab",
                         "0de2c2dd-aa7e-4912-b9aa-c752b3c7ccf2",
                         "3fa17287-3ab0-41e5-89b7-a90f82f1544f",
-                        "b13472b2-9c36-4657-a630-c37f328bf99a",
                         "a46c56d2-1e82-456e-9315-ddb80f84fc78",
                         "c77aba17-e625-4f6f-861b-c2e0b641533e",
                         "edf9bcf5-c99b-4cfb-ae19-603df439b383"
@@ -4814,9 +4755,9 @@
                         "c4ec6187-c1d6-471a-a543-ef7cd9b34de3",
                         "d10cda39-e6ad-4f2d-b822-0680fa4e8452",
                         "d2a0305c-2f64-45ec-bdf7-f66eb372d2c1",
-                        "a69f8ff4-1550-4e6e-b7f2-e7ae5202d17a",
                         "64875c85-208a-4c1f-911b-6ec0042c2b39",
                         "1846362b-11b2-48fd-adac-0e867fd597f8",
+                        "bbe95c8d-ad7d-42bf-a33a-b692e4cedfcb",
                         "1c7b0e98-51ae-4ef5-bd4d-ec95751421c7"
                     ]
                 },
@@ -4967,13 +4908,12 @@
                         "81cd6124-eadd-41f1-a078-9d1030e8f936",
                         "bc7c8725-127c-4e8a-af68-cfd9934d74d4",
                         "8db2666e-4b9b-4d27-b328-f969b440e019",
-                        "2b032fec-8445-4f59-b661-e7954f5ce778",
                         "b41bab01-f89f-46ce-ad53-6750e8506c78",
                         "d387e68f-de5c-4ed7-b585-7b3a3651d6cd"
                     ]
                 }
             ],
-            "market_count": 227,
+            "market_count": 223,
             "main_markets": [
                 "9836a712-aa1a-41ed-a5fc-afb132cebc61"
             ],
@@ -5044,7 +4984,6 @@
                 "9bf49346-bcce-4713-b606-4a5156b91498",
                 "80529725-1af6-4801-9925-1229bb211383",
                 "cce4c952-256b-453a-9d07-e592bc986d28",
-                "19db4a39-1935-47af-b02c-796f40ff09ad",
                 "09a9848a-a71c-43a6-ac0e-a50adf1e74e9",
                 "ce0a61ea-c8f6-49bc-830d-f9f55e3d7231",
                 "f764a6b8-d47e-4675-a553-3ff943dc37b2",
@@ -5062,7 +5001,6 @@
                 "bbd87b00-3f07-4051-a83b-e809c463234c",
                 "2b5e36d7-2b34-4b3f-b924-9456a1d032af",
                 "7ab879c7-49e9-4afd-8f05-e861560102e7",
-                "162b2caf-59bf-4f30-95c6-83c0ba66cbcc",
                 "181c5953-1644-49c1-a10d-1c16b08375e9",
                 "b6a0b868-3de2-47de-85ae-5d7534a6a9fe",
                 "3a9299d0-f561-4c9d-8800-dd12f56ef5d9",
@@ -5078,7 +5016,6 @@
                 "3a70e78c-1715-4b16-ac60-bf717423eaab",
                 "0de2c2dd-aa7e-4912-b9aa-c752b3c7ccf2",
                 "3fa17287-3ab0-41e5-89b7-a90f82f1544f",
-                "b13472b2-9c36-4657-a630-c37f328bf99a",
                 "a46c56d2-1e82-456e-9315-ddb80f84fc78",
                 "c77aba17-e625-4f6f-861b-c2e0b641533e",
                 "edf9bcf5-c99b-4cfb-ae19-603df439b383",
@@ -5091,9 +5028,9 @@
                 "c4ec6187-c1d6-471a-a543-ef7cd9b34de3",
                 "d10cda39-e6ad-4f2d-b822-0680fa4e8452",
                 "d2a0305c-2f64-45ec-bdf7-f66eb372d2c1",
-                "a69f8ff4-1550-4e6e-b7f2-e7ae5202d17a",
                 "64875c85-208a-4c1f-911b-6ec0042c2b39",
                 "1846362b-11b2-48fd-adac-0e867fd597f8",
+                "bbe95c8d-ad7d-42bf-a33a-b692e4cedfcb",
                 "1c7b0e98-51ae-4ef5-bd4d-ec95751421c7",
                 "26ab4d41-6274-44d2-a583-9ee74ad58983",
                 "dd387fc6-0074-4f44-bfec-0eb0dc3aa0b5",
@@ -5202,7 +5139,6 @@
                 "81cd6124-eadd-41f1-a078-9d1030e8f936",
                 "bc7c8725-127c-4e8a-af68-cfd9934d74d4",
                 "8db2666e-4b9b-4d27-b328-f969b440e019",
-                "2b032fec-8445-4f59-b661-e7954f5ce778",
                 "b41bab01-f89f-46ce-ad53-6750e8506c78",
                 "d387e68f-de5c-4ed7-b585-7b3a3651d6cd"
             ],
@@ -5364,10 +5300,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "1st Period Line (-0.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "same_game_multi_available": true,
             "comments": "If the Line market results in a refund, the whole SGM bet will be refunded.",
@@ -5385,10 +5321,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Total (6.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "same_game_multi_available": true,
             "comments": "Includes Overtime. If the Total market results in a refund, the whole SGM bet will be refunded.",
@@ -5406,10 +5342,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Cole Perfetti (Win) : Plus minus (0.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "visible": true,
             "entrant_ids": [
@@ -5425,10 +5361,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "2nd Period St. Louis Blues Total (2.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "same_game_multi_available": true,
             "visible": true,
@@ -5445,10 +5381,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Player Points O/U - Nino Niederreiter (0.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "visible": true,
             "entrant_ids": [
@@ -5464,10 +5400,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "St. Louis Blues Total (3.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "same_game_multi_available": true,
             "visible": true,
@@ -5484,10 +5420,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Line (-2.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "same_game_multi_available": true,
             "comments": "If the Line market results in a refund, the whole SGM bet will be refunded.",
@@ -5505,34 +5441,15 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Player Shots O/U - Kyle Connor (2.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "visible": true,
             "entrant_ids": [
                 "86a2cb74-9b23-4e19-bde4-4dd36fecd2fa",
                 "2c9d9ce4-0ee9-4bb0-8a56-96abbff7160c"
-            ],
-            "num_winners": 1
-        },
-        "162b2caf-59bf-4f30-95c6-83c0ba66cbcc": {
-            "id": "162b2caf-59bf-4f30-95c6-83c0ba66cbcc",
-            "event_id": "6d48aec9-c84a-4b2c-b277-8f335b0cc38a",
-            "market_type_id": "5520d6b6-78da-4259-a83c-a8fa45dbebc0",
-            "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
-            "name": "Player Assists O/U - Nikolaj Ehlers (0.5)",
-            "advertised_start": {
-                "seconds": 1744069080
-            },
-            "actual_start": {
-                "seconds": 1744069080
-            },
-            "visible": true,
-            "entrant_ids": [
-                "b40896d4-cbb8-4d4f-a7b6-4b4a0f22b55b",
-                "40ce290d-0ebc-40d1-acd2-d6a28c44282d"
             ],
             "num_winners": 1
         },
@@ -5543,10 +5460,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Total (8.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "same_game_multi_available": true,
             "comments": "Includes Overtime. If the Total market results in a refund, the whole SGM bet will be refunded.",
@@ -5564,10 +5481,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "3rd Period Head To Head",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "same_game_multi_available": true,
             "visible": true,
@@ -5584,10 +5501,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Player Assists O/U - Nino Niederreiter (0.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "visible": true,
             "entrant_ids": [
@@ -5603,10 +5520,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Player Powerplay Points O/U - Robert Thomas (0.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "visible": true,
             "entrant_ids": [
@@ -5622,10 +5539,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "1st Period Winnipeg Jets Total (0.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "same_game_multi_available": true,
             "visible": true,
@@ -5642,10 +5559,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "1st Period Correct Score",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "same_game_multi_available": true,
             "visible": true,
@@ -5670,25 +5587,6 @@
             ],
             "num_winners": 1
         },
-        "19db4a39-1935-47af-b02c-796f40ff09ad": {
-            "id": "19db4a39-1935-47af-b02c-796f40ff09ad",
-            "event_id": "6d48aec9-c84a-4b2c-b277-8f335b0cc38a",
-            "market_type_id": "0cb4b6c2-073a-4cab-b7e3-1eb73e8d467c",
-            "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
-            "name": "Player Points O/U - Nikolaj Ehlers (0.5)",
-            "advertised_start": {
-                "seconds": 1744069080
-            },
-            "actual_start": {
-                "seconds": 1744069080
-            },
-            "visible": true,
-            "entrant_ids": [
-                "9b30c402-a0ea-4d84-ba64-b4371f81de5f",
-                "04a7dcaf-4ba9-4d98-bcbb-6834189fce0c"
-            ],
-            "num_winners": 1
-        },
         "1a93a8a7-73f1-4cf9-819c-c45fcb885106": {
             "id": "1a93a8a7-73f1-4cf9-819c-c45fcb885106",
             "event_id": "6d48aec9-c84a-4b2c-b277-8f335b0cc38a",
@@ -5696,10 +5594,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Total (7.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "same_game_multi_available": true,
             "comments": "Includes Overtime. If the Total market results in a refund, the whole SGM bet will be refunded.",
@@ -5717,10 +5615,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Total (8)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "comments": "Includes Overtime. If the Total market results in a refund, the whole SGM bet will be refunded.",
             "visible": true,
@@ -5737,10 +5635,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Line (+1.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "same_game_multi_available": true,
             "comments": "If the Line market results in a refund, the whole SGM bet will be refunded.",
@@ -5758,10 +5656,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Player Powerplay Points O/U - Zack Bolduc (0.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "visible": true,
             "entrant_ids": [
@@ -5777,10 +5675,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Highest Scoring Period",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "same_game_multi_available": true,
             "visible": true,
@@ -5798,10 +5696,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Line (+2.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "same_game_multi_available": true,
             "comments": "If the Line market results in a refund, the whole SGM bet will be refunded.",
@@ -5819,10 +5717,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Winnipeg Jets Total (4)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "visible": true,
             "entrant_ids": [
@@ -5838,10 +5736,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "1st Period St. Louis Blues Total (1)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "visible": true,
             "entrant_ids": [
@@ -5857,10 +5755,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Player Assists O/U - Cole Perfetti (0.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "visible": true,
             "entrant_ids": [
@@ -5876,10 +5774,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "1st Period Total (2.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "same_game_multi_available": true,
             "visible": true,
@@ -5896,10 +5794,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "2nd Period Line (+0.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "same_game_multi_available": true,
             "comments": "If the Line market results in a refund, the whole SGM bet will be refunded.",
@@ -5917,10 +5815,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Player Saves O/U - Joel Hofer (23.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "visible": true,
             "entrant_ids": [
@@ -5936,10 +5834,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Player Blocked Shots O/U - Dylan Samberg (1.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "visible": true,
             "entrant_ids": [
@@ -5955,10 +5853,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Adam Lowry (Win) : Plus minus (0.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "visible": true,
             "entrant_ids": [
@@ -5974,35 +5872,16 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Time of first goal",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "visible": true,
             "entrant_ids": [
                 "fea41710-2b92-4869-ac47-952834ed46aa",
                 "6dad03fc-039b-4b23-a304-85963cd34bc3",
                 "183a0771-80dd-4954-b2f7-8e4d2f06ebca"
-            ],
-            "num_winners": 1
-        },
-        "2b032fec-8445-4f59-b661-e7954f5ce778": {
-            "id": "2b032fec-8445-4f59-b661-e7954f5ce778",
-            "event_id": "6d48aec9-c84a-4b2c-b277-8f335b0cc38a",
-            "market_type_id": "613197ca-2558-4feb-afe2-ec31e81c75bc",
-            "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
-            "name": "Morgan Barron : Plus minus (0.5)",
-            "advertised_start": {
-                "seconds": 1744069080
-            },
-            "actual_start": {
-                "seconds": 1744069080
-            },
-            "visible": true,
-            "entrant_ids": [
-                "2b8f2ce3-2ddf-41cb-b2ed-0ed5682af72b",
-                "d275e647-5731-40b5-97ca-46999f3ad2b3"
             ],
             "num_winners": 1
         },
@@ -6013,10 +5892,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Player Assists O/U - Kyle Connor (0.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "visible": true,
             "entrant_ids": [
@@ -6032,10 +5911,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "2nd Period Double Chance",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "same_game_multi_available": true,
             "is_multiple_outcome_market": true,
@@ -6045,7 +5924,7 @@
                 "1defb21c-075a-4b1f-a613-6b0bbb9df983",
                 "2cba9e2c-2d67-4850-8633-2305e201c664"
             ],
-            "num_winners": 3
+            "num_winners": 99
         },
         "2c769888-d303-4a08-8b28-1870393fe86b": {
             "id": "2c769888-d303-4a08-8b28-1870393fe86b",
@@ -6054,10 +5933,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "1st Period Winnipeg Jets Total (2.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "same_game_multi_available": true,
             "visible": true,
@@ -6074,10 +5953,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "2nd Period Total (1)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "visible": true,
             "entrant_ids": [
@@ -6093,10 +5972,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "2nd Period Winnipeg Jets Total (0.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "same_game_multi_available": true,
             "visible": true,
@@ -6113,10 +5992,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Winnipeg Jets Total (1.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "same_game_multi_available": true,
             "visible": true,
@@ -6133,10 +6012,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "3rd Period St. Louis Blues Total (2)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "visible": true,
             "entrant_ids": [
@@ -6152,10 +6031,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Anytime Goal Scorer",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "same_game_multi_available": true,
             "is_multiple_outcome_market": true,
@@ -6174,24 +6053,24 @@
                 "badb2d5c-65ef-4ed8-89b6-5c3ff1ff41c2",
                 "1f1dd736-03d4-4527-8386-ea94b15fe695",
                 "3d1076bf-f49b-4d00-abc2-b00fc41401bb",
-                "03029502-3ca6-4d06-954d-891426cbc07e",
                 "0c978770-8a03-440f-9dec-ae941bf6abc0",
+                "03029502-3ca6-4d06-954d-891426cbc07e",
                 "0fe8c23a-cd26-47a1-81d3-650f2eb333e7",
-                "b9310788-cebc-49dc-9c58-3b210c466f41",
                 "323b3029-40ac-452b-a8f7-b0af4daec5ef",
+                "b9310788-cebc-49dc-9c58-3b210c466f41",
                 "fad34a04-fdbd-4ea8-8d5d-bc2c9e02a59a",
-                "dad338c6-dc48-4c03-9b27-8ee8ff41b7a0",
                 "fff66cd9-99ee-437b-974f-7fae90f4f926",
+                "dad338c6-dc48-4c03-9b27-8ee8ff41b7a0",
                 "d5e3ca20-fbf4-42dd-b268-27df5c9a7731",
                 "e6b2fb8a-30b1-45a8-9df0-7c4a11755ee5",
                 "6798c18a-e3ea-473d-a533-8b34e774f394",
                 "d05926ec-dbab-471f-bdd7-eb0f36496df8",
-                "a5cf44d0-0109-4308-9a1c-cf8bb9e6fc54",
                 "a3e836b9-3803-433f-a480-0c0d69330c9b",
+                "a5cf44d0-0109-4308-9a1c-cf8bb9e6fc54",
                 "efea7ca9-84c0-4200-89f5-e7691a7ce9a1",
                 "96419a32-1b8d-4752-b49e-7f456a91cc8c"
             ],
-            "num_winners": 60
+            "num_winners": 99
         },
         "32d26755-bcd4-48ec-b3ac-dda09b6133b6": {
             "id": "32d26755-bcd4-48ec-b3ac-dda09b6133b6",
@@ -6200,10 +6079,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "St. Louis Blues Total (2)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "visible": true,
             "entrant_ids": [
@@ -6219,10 +6098,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "3rd Period Winnipeg Jets Total (0.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "same_game_multi_available": true,
             "visible": true,
@@ -6239,10 +6118,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "1st Period Line (-1.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "same_game_multi_available": true,
             "comments": "If the Line market results in a refund, the whole SGM bet will be refunded.",
@@ -6260,10 +6139,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Player Shots O/U - Justin Faulk (1.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "visible": true,
             "entrant_ids": [
@@ -6279,10 +6158,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Player Assists O/U - Philip Broberg (0.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "visible": true,
             "entrant_ids": [
@@ -6298,10 +6177,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "3rd Period Winnipeg Jets Total (1.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "same_game_multi_available": true,
             "visible": true,
@@ -6318,10 +6197,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Player Shots O/U - Mark Scheifele (1.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "visible": true,
             "entrant_ids": [
@@ -6337,10 +6216,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Player Assists O/U - Josh Morrissey (0.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "visible": true,
             "entrant_ids": [
@@ -6356,10 +6235,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "3rd Period Result and Over/Under 2.5",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "same_game_multi_available": true,
             "visible": true,
@@ -6380,10 +6259,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "2nd Period Total (2)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "visible": true,
             "entrant_ids": [
@@ -6399,10 +6278,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Winnipeg Jets Total (1)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "visible": true,
             "entrant_ids": [
@@ -6418,10 +6297,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Player Assists O/U - Robert Thomas (0.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "visible": true,
             "entrant_ids": [
@@ -6437,10 +6316,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "3rd Period Total (0.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "same_game_multi_available": true,
             "visible": true,
@@ -6457,10 +6336,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Player Shots O/U - Cole Perfetti (1.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "visible": true,
             "entrant_ids": [
@@ -6476,10 +6355,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Player Shots O/U - Alex Iafallo (1.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "visible": true,
             "entrant_ids": [
@@ -6495,10 +6374,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Player Points O/U - Jake Neighbours (0.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "visible": true,
             "entrant_ids": [
@@ -6514,10 +6393,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Player Assists O/U - Vladislav Namestnikov (0.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "visible": true,
             "entrant_ids": [
@@ -6533,10 +6412,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Player Shots O/U - Brayden Schenn (1.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "visible": true,
             "entrant_ids": [
@@ -6552,10 +6431,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Player Shots O/U - Jimmy Snuggerud (1.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "visible": true,
             "entrant_ids": [
@@ -6571,10 +6450,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Player Shutouts O/U - Connor Hellebuyck (0.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "visible": true,
             "entrant_ids": [
@@ -6590,10 +6469,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Player Points O/U - Josh Morrissey (0.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "visible": true,
             "entrant_ids": [
@@ -6609,10 +6488,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "St. Louis Blues Total (4.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "same_game_multi_available": true,
             "visible": true,
@@ -6629,10 +6508,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Total (7)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "comments": "Includes Overtime. If the Total market results in a refund, the whole SGM bet will be refunded.",
             "visible": true,
@@ -6649,10 +6528,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "2nd Period Winnipeg Jets Total (1.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "same_game_multi_available": true,
             "visible": true,
@@ -6669,10 +6548,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "First Team to Score (Regular Time Only)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "visible": true,
             "entrant_ids": [
@@ -6689,10 +6568,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "3rd Period Line (-1.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "same_game_multi_available": true,
             "comments": "If the Line market results in a refund, the whole SGM bet will be refunded.",
@@ -6710,10 +6589,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "3rd Period Total (1)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "visible": true,
             "entrant_ids": [
@@ -6729,10 +6608,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Correct Score (inc OT)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "same_game_multi_available": true,
             "visible": true,
@@ -6790,10 +6669,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "2nd Period Line (-1.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "same_game_multi_available": true,
             "comments": "If the Line market results in a refund, the whole SGM bet will be refunded.",
@@ -6811,10 +6690,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "3rd Period Total (2)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "visible": true,
             "entrant_ids": [
@@ -6830,10 +6709,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "1st Period Head To Head",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "same_game_multi_available": true,
             "visible": true,
@@ -6850,10 +6729,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Player Points O/U - Brayden Schenn (0.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "visible": true,
             "entrant_ids": [
@@ -6869,10 +6748,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "3rd Period St. Louis Blues Total (1)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "visible": true,
             "entrant_ids": [
@@ -6888,10 +6767,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "2nd Period Line (-1)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "visible": true,
             "entrant_ids": [
@@ -6907,10 +6786,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "3rd Period Line (+1.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "same_game_multi_available": true,
             "comments": "If the Line market results in a refund, the whole SGM bet will be refunded.",
@@ -6928,10 +6807,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Player Powerplay Points O/U - Cam Fowler (0.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "visible": true,
             "entrant_ids": [
@@ -6947,10 +6826,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "3rd Period Total Goals Exact",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "same_game_multi_available": true,
             "visible": true,
@@ -6968,10 +6847,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Player Powerplay Points O/U - Pavel Buchnevich (0.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "visible": true,
             "entrant_ids": [
@@ -6987,10 +6866,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Alex Iafallo : Plus minus (0.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "visible": true,
             "entrant_ids": [
@@ -7006,10 +6885,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Race to 3 Goals",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "visible": true,
             "entrant_ids": [
@@ -7026,10 +6905,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "1st Period Double Chance",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "same_game_multi_available": true,
             "is_multiple_outcome_market": true,
@@ -7039,7 +6918,7 @@
                 "788f4ccd-88fc-439d-8f49-280954a0b482",
                 "3bff875a-226c-4548-938e-d2a90a8e5bcb"
             ],
-            "num_winners": 3
+            "num_winners": 99
         },
         "69a6ae5d-8365-4bb8-b60a-ea74921ca27b": {
             "id": "69a6ae5d-8365-4bb8-b60a-ea74921ca27b",
@@ -7048,10 +6927,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "1st Period Betting (3-way)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "same_game_multi_available": true,
             "comments": "Resulted off of period score only (20 minutes)",
@@ -7070,10 +6949,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "3rd Period Result and Over/Under 1.5",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "same_game_multi_available": true,
             "visible": true,
@@ -7094,10 +6973,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "2nd Period Total (2.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "same_game_multi_available": true,
             "visible": true,
@@ -7114,10 +6993,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Both Teams To Score in 2nd Period",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "same_game_multi_available": true,
             "visible": true,
@@ -7134,10 +7013,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Player Goals Against O/U - Connor Hellebuyck (2.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "visible": true,
             "entrant_ids": [
@@ -7153,10 +7032,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Player Assists O/U - Jake Neighbours (0.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "visible": true,
             "entrant_ids": [
@@ -7172,10 +7051,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Both Teams To Score 2+ Goals",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "same_game_multi_available": true,
             "visible": true,
@@ -7192,10 +7071,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Match Result and Over/Under Goals (6.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "visible": true,
             "entrant_ids": [
@@ -7213,10 +7092,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Player Assists O/U - Cam Fowler (0.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "visible": true,
             "entrant_ids": [
@@ -7232,10 +7111,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "1st Period Winnipeg Jets Total (2)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "visible": true,
             "entrant_ids": [
@@ -7251,10 +7130,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "2nd Period Line (+1.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "same_game_multi_available": true,
             "comments": "If the Line market results in a refund, the whole SGM bet will be refunded.",
@@ -7272,10 +7151,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Winnipeg Jets Total (3)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "visible": true,
             "entrant_ids": [
@@ -7291,10 +7170,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Player Powerplay Points O/U - Brayden Schenn (0.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "visible": true,
             "entrant_ids": [
@@ -7310,10 +7189,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Player Points O/U - Jordan Kyrou (0.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "visible": true,
             "entrant_ids": [
@@ -7329,10 +7208,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "2nd Period Total (1.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "same_game_multi_available": true,
             "visible": true,
@@ -7349,10 +7228,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Dylan Samberg (Win) : Plus minus (0.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "visible": true,
             "entrant_ids": [
@@ -7368,10 +7247,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Player Assists O/U - Mark Scheifele (0.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "visible": true,
             "entrant_ids": [
@@ -7387,10 +7266,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Total (4)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "comments": "Includes Overtime. If the Total market results in a refund, the whole SGM bet will be refunded.",
             "visible": true,
@@ -7407,10 +7286,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Brandon Tanev : Plus minus (0.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "visible": true,
             "entrant_ids": [
@@ -7426,10 +7305,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Player Assists O/U - Alex Iafallo (0.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "visible": true,
             "entrant_ids": [
@@ -7445,10 +7324,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "St. Louis Blues Total (3)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "visible": true,
             "entrant_ids": [
@@ -7464,10 +7343,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Player Shutouts O/U - Joel Hofer (0.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "visible": true,
             "entrant_ids": [
@@ -7483,10 +7362,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Player Points O/U - Kyle Connor (1.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "visible": true,
             "entrant_ids": [
@@ -7502,10 +7381,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Dylan DeMelo (Win) : Plus minus (0.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "visible": true,
             "entrant_ids": [
@@ -7521,10 +7400,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Luke Schenn : Plus minus (0.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "visible": true,
             "entrant_ids": [
@@ -7540,10 +7419,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "3rd Period Line (-1)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "visible": true,
             "entrant_ids": [
@@ -7559,10 +7438,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Total (9.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "same_game_multi_available": true,
             "comments": "Includes Overtime. If the Total market results in a refund, the whole SGM bet will be refunded.",
@@ -7580,10 +7459,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Player Assists O/U - Jimmy Snuggerud (0.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "visible": true,
             "entrant_ids": [
@@ -7599,10 +7478,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "1st Period Total Goals Exact",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "same_game_multi_available": true,
             "visible": true,
@@ -7620,10 +7499,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Player Points O/U - Vladislav Namestnikov (0.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "visible": true,
             "entrant_ids": [
@@ -7639,10 +7518,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Player Shots O/U - Jordan Kyrou (2.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "visible": true,
             "entrant_ids": [
@@ -7658,10 +7537,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Winnipeg Jets Total (3.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "same_game_multi_available": true,
             "visible": true,
@@ -7678,10 +7557,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "3rd Period St. Louis Blues Total (2.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "same_game_multi_available": true,
             "visible": true,
@@ -7698,10 +7577,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "3rd Period Double Chance",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "same_game_multi_available": true,
             "is_multiple_outcome_market": true,
@@ -7711,7 +7590,7 @@
                 "f90b751c-43ef-4b71-a731-6dddd7389279",
                 "91afcfa9-688b-4c9e-ae3a-0bffe206bfd8"
             ],
-            "num_winners": 3
+            "num_winners": 99
         },
         "8bbaab1e-b2a8-4907-a27b-01fff4fabe76": {
             "id": "8bbaab1e-b2a8-4907-a27b-01fff4fabe76",
@@ -7720,10 +7599,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "2nd Period Result and Over/Under 1.5",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "same_game_multi_available": true,
             "visible": true,
@@ -7744,10 +7623,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "2nd Period Result and Over/Under 2.5",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "same_game_multi_available": true,
             "visible": true,
@@ -7768,10 +7647,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Mason Appleton (Win) : Plus minus (0.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "visible": true,
             "entrant_ids": [
@@ -7787,10 +7666,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Logan Stanley (Win) : Plus minus (0.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "visible": true,
             "entrant_ids": [
@@ -7806,10 +7685,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Both Teams To Score",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "same_game_multi_available": true,
             "visible": true,
@@ -7826,10 +7705,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "1st Period Line (+1.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "same_game_multi_available": true,
             "comments": "If the Line market results in a refund, the whole SGM bet will be refunded.",
@@ -7847,10 +7726,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Match Result and Over/Under Goals (4.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "visible": true,
             "entrant_ids": [
@@ -7868,10 +7747,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "1st Period St. Louis Blues Total (0.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "same_game_multi_available": true,
             "visible": true,
@@ -7888,10 +7767,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "2nd Period Winnipeg Jets Total (2.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "same_game_multi_available": true,
             "visible": true,
@@ -7908,10 +7787,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "3rd Period Betting (3-way)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "same_game_multi_available": true,
             "comments": "Resulted off of period score only (20 minutes)",
@@ -7930,10 +7809,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "St. Louis Blues Total (4)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "visible": true,
             "entrant_ids": [
@@ -7949,10 +7828,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Both Teams To Score 3+ Goals",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "same_game_multi_available": true,
             "visible": true,
@@ -7969,10 +7848,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "3rd Period Winnipeg Jets Total (1)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "visible": true,
             "entrant_ids": [
@@ -7988,10 +7867,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Head To Head",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "is_primary": true,
             "same_game_multi_available": true,
@@ -8009,10 +7888,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Player Points O/U - Justin Faulk (0.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "visible": true,
             "entrant_ids": [
@@ -8028,10 +7907,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "1st Period St. Louis Blues Total (1.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "same_game_multi_available": true,
             "visible": true,
@@ -8048,10 +7927,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "3rd Period Line (-0.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "same_game_multi_available": true,
             "comments": "If the Line market results in a refund, the whole SGM bet will be refunded.",
@@ -8069,10 +7948,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "2nd Period Total (0.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "same_game_multi_available": true,
             "visible": true,
@@ -8089,10 +7968,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Line (-1.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "same_game_multi_available": true,
             "comments": "If the Line market results in a refund, the whole SGM bet will be refunded.",
@@ -8110,10 +7989,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "1st Period Result and Over/Under 2.5 Goals",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "same_game_multi_available": true,
             "visible": true,
@@ -8134,10 +8013,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Player Shots O/U - Pavel Buchnevich (1.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "visible": true,
             "entrant_ids": [
@@ -8153,10 +8032,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Player Assists O/U - Brayden Schenn (0.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "visible": true,
             "entrant_ids": [
@@ -8172,10 +8051,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "3rd Period Winnipeg Jets Total (2)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "visible": true,
             "entrant_ids": [
@@ -8191,10 +8070,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Player Points O/U - Cole Perfetti (0.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "visible": true,
             "entrant_ids": [
@@ -8210,10 +8089,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "3rd Period Total (2.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "same_game_multi_available": true,
             "visible": true,
@@ -8230,10 +8109,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Total (5.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "same_game_multi_available": true,
             "comments": "Includes Overtime. If the Total market results in a refund, the whole SGM bet will be refunded.",
@@ -8251,34 +8130,15 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Josh Morrissey (Win) : Plus minus (0.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "visible": true,
             "entrant_ids": [
                 "cad7e445-1e16-49fc-a79b-d3c68be01046",
                 "3a166a65-63ae-4029-9271-bc4e30af04bf"
-            ],
-            "num_winners": 1
-        },
-        "a69f8ff4-1550-4e6e-b7f2-e7ae5202d17a": {
-            "id": "a69f8ff4-1550-4e6e-b7f2-e7ae5202d17a",
-            "event_id": "6d48aec9-c84a-4b2c-b277-8f335b0cc38a",
-            "market_type_id": "d9715339-2570-4951-950d-65ebbbcaedf7",
-            "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
-            "name": "Player Powerplay Points O/U - Nikolaj Ehlers (0.5)",
-            "advertised_start": {
-                "seconds": 1744069080
-            },
-            "actual_start": {
-                "seconds": 1744069080
-            },
-            "visible": true,
-            "entrant_ids": [
-                "ab8f8ae1-b1a1-46ab-862b-6cdc98a29530",
-                "f89cba5e-f908-457f-9d10-7c3a0b3e2332"
             ],
             "num_winners": 1
         },
@@ -8289,10 +8149,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "2nd Period St. Louis Blues Total (1.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "same_game_multi_available": true,
             "visible": true,
@@ -8309,10 +8169,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Winning Margin (Regular Time Only)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "same_game_multi_available": true,
             "visible": true,
@@ -8338,10 +8198,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "3rd Period Total (1.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "same_game_multi_available": true,
             "visible": true,
@@ -8358,10 +8218,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Player Shots O/U - Josh Morrissey (2.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "visible": true,
             "entrant_ids": [
@@ -8377,10 +8237,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "1st Period St. Louis Blues Total (2.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "same_game_multi_available": true,
             "visible": true,
@@ -8397,10 +8257,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Player Goals Against O/U - Joel Hofer (2.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "visible": true,
             "entrant_ids": [
@@ -8416,34 +8276,15 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Kyle Connor (Win) : Plus minus (0.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "visible": true,
             "entrant_ids": [
                 "e0441436-2ded-48c5-9240-e7f5163d0792",
                 "f0fff84e-fd1f-4787-967d-652babe3df2d"
-            ],
-            "num_winners": 1
-        },
-        "b13472b2-9c36-4657-a630-c37f328bf99a": {
-            "id": "b13472b2-9c36-4657-a630-c37f328bf99a",
-            "event_id": "6d48aec9-c84a-4b2c-b277-8f335b0cc38a",
-            "market_type_id": "335f6553-072c-41dc-bd54-200c6d459d35",
-            "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
-            "name": "Player Shots O/U - Nikolaj Ehlers (2.5)",
-            "advertised_start": {
-                "seconds": 1744069080
-            },
-            "actual_start": {
-                "seconds": 1744069080
-            },
-            "visible": true,
-            "entrant_ids": [
-                "3ff3a881-7914-4b16-853d-d50ac6891aca",
-                "998ac965-d31b-49e9-a66d-97387f9627f2"
             ],
             "num_winners": 1
         },
@@ -8454,10 +8295,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "1st Period Result and Over/Under 1.5 Goals",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "same_game_multi_available": true,
             "visible": true,
@@ -8478,10 +8319,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Match Betting (3-way)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "same_game_multi_available": true,
             "comments": "Does Not Include OT",
@@ -8500,10 +8341,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Nino Niederreiter (Win) : Plus minus (0.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "visible": true,
             "entrant_ids": [
@@ -8519,10 +8360,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Winnipeg Jets Total (2)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "visible": true,
             "entrant_ids": [
@@ -8538,10 +8379,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Player Assists O/U - Pavel Buchnevich (0.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "visible": true,
             "entrant_ids": [
@@ -8557,10 +8398,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Match Result and Over/Under Goals (5.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "visible": true,
             "entrant_ids": [
@@ -8578,10 +8419,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "1st Period Line (-1)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "visible": true,
             "entrant_ids": [
@@ -8597,15 +8438,34 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Player Assists O/U - Justin Faulk (0.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "visible": true,
             "entrant_ids": [
                 "fbf9bc65-6d7c-429b-b61f-d93464547646",
                 "547c4975-19de-4563-81df-70be5ede50ad"
+            ],
+            "num_winners": 1
+        },
+        "bbe95c8d-ad7d-42bf-a33a-b692e4cedfcb": {
+            "id": "bbe95c8d-ad7d-42bf-a33a-b692e4cedfcb",
+            "event_id": "6d48aec9-c84a-4b2c-b277-8f335b0cc38a",
+            "market_type_id": "d9715339-2570-4951-950d-65ebbbcaedf7",
+            "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
+            "name": "Player Powerplay Points O/U - Vladislav Namestnikov (0.5)",
+            "advertised_start": {
+                "seconds": 1744069260
+            },
+            "actual_start": {
+                "seconds": 1744069260
+            },
+            "visible": true,
+            "entrant_ids": [
+                "91403989-02e0-45d0-a1c1-cb78991f92d8",
+                "88ca39b6-7012-49cc-bc19-bc77f6ed2469"
             ],
             "num_winners": 1
         },
@@ -8616,10 +8476,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Mark Scheifele (Win) : Plus minus (0.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "visible": true,
             "entrant_ids": [
@@ -8635,10 +8495,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Both Teams To Score in 1st Period",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "same_game_multi_available": true,
             "visible": true,
@@ -8655,10 +8515,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "2nd Period Line (+1)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "visible": true,
             "entrant_ids": [
@@ -8674,10 +8534,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "1st Period Winnipeg Jets Total (1.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "same_game_multi_available": true,
             "visible": true,
@@ -8694,10 +8554,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Player Assists O/U - Zack Bolduc (0.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "visible": true,
             "entrant_ids": [
@@ -8713,10 +8573,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "1st Period Total (1.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "same_game_multi_available": true,
             "visible": true,
@@ -8733,10 +8593,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "1st Period Total (2)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "visible": true,
             "entrant_ids": [
@@ -8752,10 +8612,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Player Powerplay Points O/U - Alex Iafallo (0.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "visible": true,
             "entrant_ids": [
@@ -8771,10 +8631,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "1st Period Winnipeg Jets Total (1)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "visible": true,
             "entrant_ids": [
@@ -8790,10 +8650,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Player Powerplay Points O/U - Justin Faulk (0.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "visible": true,
             "entrant_ids": [
@@ -8809,10 +8669,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Double Chance (Regular Time)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "same_game_multi_available": true,
             "is_multiple_outcome_market": true,
@@ -8822,7 +8682,7 @@
                 "a4d85bb8-d019-4905-9b0b-abff0323893c",
                 "2fd564d1-1e87-4dc7-86f0-11466a65e12a"
             ],
-            "num_winners": 3
+            "num_winners": 99
         },
         "c6223b24-09c2-4c88-8e27-236697bf2523": {
             "id": "c6223b24-09c2-4c88-8e27-236697bf2523",
@@ -8831,10 +8691,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "1st Period St. Louis Blues Total (2)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "visible": true,
             "entrant_ids": [
@@ -8850,10 +8710,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "2nd Period Winnipeg Jets Total (2)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "visible": true,
             "entrant_ids": [
@@ -8869,10 +8729,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "2nd Period Betting (3-way)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "same_game_multi_available": true,
             "comments": "Resulted off of period score only (20 minutes)",
@@ -8891,10 +8751,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Player Shots O/U - Robert Thomas (1.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "visible": true,
             "entrant_ids": [
@@ -8910,10 +8770,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Player Saves O/U - Connor Hellebuyck (21.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "visible": true,
             "entrant_ids": [
@@ -8929,10 +8789,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "2nd Period St. Louis Blues Total (0.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "same_game_multi_available": true,
             "visible": true,
@@ -8949,10 +8809,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Winnipeg Jets Total (2.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "same_game_multi_available": true,
             "visible": true,
@@ -8969,10 +8829,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Player Powerplay Points O/U - Jordan Kyrou (0.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "visible": true,
             "entrant_ids": [
@@ -8988,10 +8848,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Player Points O/U - Mark Scheifele (0.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "visible": true,
             "entrant_ids": [
@@ -9007,10 +8867,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Player Points O/U - Pavel Buchnevich (0.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "visible": true,
             "entrant_ids": [
@@ -9026,10 +8886,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "1st Period Total (1)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "visible": true,
             "entrant_ids": [
@@ -9045,10 +8905,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "St. Louis Blues Total (2.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "same_game_multi_available": true,
             "visible": true,
@@ -9065,10 +8925,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Player Points O/U - Jimmy Snuggerud (0.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "visible": true,
             "entrant_ids": [
@@ -9084,10 +8944,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Player Powerplay Points O/U - Kyle Connor (0.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "visible": true,
             "entrant_ids": [
@@ -9103,10 +8963,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Player Powerplay Points O/U - Mark Scheifele (0.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "visible": true,
             "entrant_ids": [
@@ -9122,10 +8982,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "First Team to Score in 1st Period",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "visible": true,
             "entrant_ids": [
@@ -9142,10 +9002,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Vladislav Namestnikov : Plus minus (0.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "visible": true,
             "entrant_ids": [
@@ -9161,10 +9021,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "1st Period Total (0.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "same_game_multi_available": true,
             "visible": true,
@@ -9181,10 +9041,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "St. Louis Blues Total (1.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "same_game_multi_available": true,
             "visible": true,
@@ -9201,10 +9061,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "3rd Period Line (+0.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "same_game_multi_available": true,
             "comments": "If the Line market results in a refund, the whole SGM bet will be refunded.",
@@ -9222,10 +9082,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Player Assists O/U - Jordan Kyrou (0.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "visible": true,
             "entrant_ids": [
@@ -9241,10 +9101,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "2nd Period Total Goals Exact",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "same_game_multi_available": true,
             "visible": true,
@@ -9262,10 +9122,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Total (3.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "same_game_multi_available": true,
             "comments": "Includes Overtime. If the Total market results in a refund, the whole SGM bet will be refunded.",
@@ -9283,10 +9143,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Both Teams To Score in 3rd Period",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "same_game_multi_available": true,
             "visible": true,
@@ -9303,10 +9163,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Total (5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "comments": "Includes Overtime. If the Total market results in a refund, the whole SGM bet will be refunded.",
             "visible": true,
@@ -9323,10 +9183,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Total (9)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "comments": "Includes Overtime. If the Total market results in a refund, the whole SGM bet will be refunded.",
             "visible": true,
@@ -9343,10 +9203,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "2nd Period St. Louis Blues Total (1)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "visible": true,
             "entrant_ids": [
@@ -9362,10 +9222,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Player Points O/U - Robert Thomas (0.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "visible": true,
             "entrant_ids": [
@@ -9381,10 +9241,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "3rd Period Correct Score",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "same_game_multi_available": true,
             "visible": true,
@@ -9416,10 +9276,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Player Blocked Shots O/U - Philip Broberg (1.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "visible": true,
             "entrant_ids": [
@@ -9435,10 +9295,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "2nd Period St. Louis Blues Total (2)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "visible": true,
             "entrant_ids": [
@@ -9454,10 +9314,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "3rd Period St. Louis Blues Total (1.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "same_game_multi_available": true,
             "visible": true,
@@ -9474,10 +9334,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Player Powerplay Points O/U - Cole Perfetti (0.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "visible": true,
             "entrant_ids": [
@@ -9493,10 +9353,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "St. Louis Blues Total (1)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "visible": true,
             "entrant_ids": [
@@ -9512,10 +9372,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "2nd Period Winnipeg Jets Total (1)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "visible": true,
             "entrant_ids": [
@@ -9531,10 +9391,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "3rd Period St. Louis Blues Total (0.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "same_game_multi_available": true,
             "visible": true,
@@ -9551,10 +9411,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "2nd Period Head To Head",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "same_game_multi_available": true,
             "visible": true,
@@ -9571,10 +9431,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "2nd Period Line (-0.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "same_game_multi_available": true,
             "comments": "If the Line market results in a refund, the whole SGM bet will be refunded.",
@@ -9592,10 +9452,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Player Points O/U - Zack Bolduc (0.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "visible": true,
             "entrant_ids": [
@@ -9611,10 +9471,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Player Points O/U - Alex Iafallo (0.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "visible": true,
             "entrant_ids": [
@@ -9630,10 +9490,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "1st Period Line (+1)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "visible": true,
             "entrant_ids": [
@@ -9649,10 +9509,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "St. Louis Blues Total (0.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "same_game_multi_available": true,
             "visible": true,
@@ -9669,10 +9529,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "3rd Period Winnipeg Jets Total (2.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "same_game_multi_available": true,
             "visible": true,
@@ -9689,10 +9549,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Total (6)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "comments": "Includes Overtime. If the Total market results in a refund, the whole SGM bet will be refunded.",
             "visible": true,
@@ -9709,10 +9569,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Total Goals Exact (Regular Time only)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "same_game_multi_available": true,
             "visible": true,
@@ -9738,10 +9598,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "3rd Period Line (+1)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "visible": true,
             "entrant_ids": [
@@ -9757,10 +9617,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Player Shots O/U - Zack Bolduc (1.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "visible": true,
             "entrant_ids": [
@@ -9776,10 +9636,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Jaret Anderson-Dolan : Plus minus (0.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "visible": true,
             "entrant_ids": [
@@ -9795,10 +9655,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Total (4.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "same_game_multi_available": true,
             "comments": "Includes Overtime. If the Total market results in a refund, the whole SGM bet will be refunded.",
@@ -9816,10 +9676,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "2nd Period Correct Score",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "same_game_multi_available": true,
             "visible": true,
@@ -9851,10 +9711,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Line (-3.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "same_game_multi_available": true,
             "comments": "If the Line market results in a refund, the whole SGM bet will be refunded.",
@@ -9872,10 +9732,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Player Points O/U - Philip Broberg (0.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "visible": true,
             "entrant_ids": [
@@ -9891,10 +9751,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Winnipeg Jets Total (0.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "same_game_multi_available": true,
             "visible": true,
@@ -9911,10 +9771,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Player Powerplay Points O/U - Josh Morrissey (0.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "visible": true,
             "entrant_ids": [
@@ -9930,10 +9790,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Player Points O/U - Cam Fowler (0.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "visible": true,
             "entrant_ids": [
@@ -9949,10 +9809,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "1st Period Line (+0.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "same_game_multi_available": true,
             "comments": "If the Line market results in a refund, the whole SGM bet will be refunded.",
@@ -9970,10 +9830,10 @@
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Winnipeg Jets Total (4.5)",
             "advertised_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "actual_start": {
-                "seconds": 1744069080
+                "seconds": 1744069260
             },
             "same_game_multi_available": true,
             "visible": true,
@@ -9993,14 +9853,12 @@
         "0a26fef8-5153-4d6b-8c3b-28e88911bc8a": false,
         "0cb1c8dc-3bec-472e-b1df-f3e6dbd5c0fb": false,
         "0de2c2dd-aa7e-4912-b9aa-c752b3c7ccf2": false,
-        "162b2caf-59bf-4f30-95c6-83c0ba66cbcc": false,
         "16727fb2-8e3f-4d82-b203-79e2434a704b": false,
         "178873f3-ff20-42b7-bfff-5c0dec4213b2": false,
         "181c5953-1644-49c1-a10d-1c16b08375e9": false,
         "1846362b-11b2-48fd-adac-0e867fd597f8": false,
         "1866df11-9733-4feb-b91f-4473e4e32fe5": false,
         "1912e316-db46-4cf9-87c8-ec767dbf823e": true,
-        "19db4a39-1935-47af-b02c-796f40ff09ad": false,
         "1a93a8a7-73f1-4cf9-819c-c45fcb885106": false,
         "1b2fd026-9de3-4443-bd8d-d49900b538c8": false,
         "1c25b440-2e6d-44ff-9382-d67393a89765": false,
@@ -10016,7 +9874,6 @@
         "26ab4d41-6274-44d2-a583-9ee74ad58983": false,
         "28e376a7-f7a9-43f5-9dc7-c08bbe62c3d8": false,
         "2aff1bf0-955e-4346-99e3-e638128b18be": true,
-        "2b032fec-8445-4f59-b661-e7954f5ce778": false,
         "2b5e36d7-2b34-4b3f-b924-9456a1d032af": false,
         "2b97753f-38e6-4fe0-b23a-dcc6f58a2080": true,
         "2c769888-d303-4a08-8b28-1870393fe86b": false,
@@ -10127,7 +9984,6 @@
         "a56ada33-7809-44b0-b488-8b5c75b5077e": false,
         "a5b8d62c-c537-4967-ba82-90ed8d266961": false,
         "a688ce65-2233-4142-ab2a-1b628615ee8f": false,
-        "a69f8ff4-1550-4e6e-b7f2-e7ae5202d17a": false,
         "a70ec162-f261-43ed-aa5d-125c166e7a01": false,
         "aa390962-f0fc-47ba-b89c-657fd0fa22e2": true,
         "ad02d14a-2d9d-4b13-b532-64626c9531a8": false,
@@ -10135,7 +9991,6 @@
         "afa89122-e2f9-4812-86ed-4300d4d9e95a": false,
         "affeffad-4987-414f-8bff-2d9a984f2693": false,
         "b11602c8-a8ef-4946-8cd1-7d024b58e5e3": false,
-        "b13472b2-9c36-4657-a630-c37f328bf99a": false,
         "b1cfc902-bbdb-48ec-9c7a-92e2fd81e5bf": false,
         "b2c06676-8122-48c0-a8e3-4287fc24dff4": true,
         "b41bab01-f89f-46ce-ad53-6750e8506c78": false,
@@ -10144,6 +9999,7 @@
         "b73e39fd-2c43-4148-b4fc-7d9294df14d8": false,
         "b8db58d1-0559-4ffe-99d7-8dbe7fae51de": false,
         "bbd87b00-3f07-4051-a83b-e809c463234c": false,
+        "bbe95c8d-ad7d-42bf-a33a-b692e4cedfcb": false,
         "bc7c8725-127c-4e8a-af68-cfd9934d74d4": false,
         "bdb9a17b-b12d-4533-94cf-18329d657df2": true,
         "bde5c548-9113-4569-b7b2-0b056d995ca5": false,
@@ -10240,7 +10096,7 @@
         },
         "0119e772-4b69-49e2-a2f3-9029f21ba6d0:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 19,
+                "numerator": 21,
                 "denominator": 50
             }
         },
@@ -10264,8 +10120,8 @@
         },
         "03029502-3ca6-4d06-954d-891426cbc07e:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 4,
-                "denominator": 1
+                "numerator": 21,
+                "denominator": 5
             }
         },
         "034b86a4-9220-4776-a077-af6f4abac33d:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -10304,12 +10160,6 @@
                 "denominator": 50
             }
         },
-        "04a7dcaf-4ba9-4d98-bcbb-6834189fce0c:940b8704-e497-4a76-b390-00918ff7d282:": {
-            "odds": {
-                "numerator": 21,
-                "denominator": 20
-            }
-        },
         "051602a7-e9b3-47b2-9385-45927554ae04:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
                 "numerator": 7,
@@ -10318,8 +10168,8 @@
         },
         "058ed724-963e-42bd-8ec9-10543b2d7731:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 39,
-                "denominator": 50
+                "numerator": 22,
+                "denominator": 25
             }
         },
         "05c2e3c0-ca7d-4d96-8b38-7c51a56e7d30:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -10456,8 +10306,8 @@
         },
         "0f0d9f80-5dd7-45e9-b532-198b86515285:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 27,
-                "denominator": 20
+                "numerator": 7,
+                "denominator": 5
             }
         },
         "0f9da48b-cb49-4ba9-8a97-ba7cb08f3d92:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -10468,8 +10318,8 @@
         },
         "0f9ddb32-64e0-42c1-b8ee-20bf746910e3:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 53,
-                "denominator": 100
+                "numerator": 1,
+                "denominator": 2
             }
         },
         "0fbffaf3-9149-4092-b22c-52530381cfd0:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -10480,14 +10330,14 @@
         },
         "0fe8c23a-cd26-47a1-81d3-650f2eb333e7:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 13,
-                "denominator": 2
+                "numerator": 27,
+                "denominator": 4
             }
         },
         "100e322d-b308-4756-9a8f-8bfb87575130:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 9,
-                "denominator": 4
+                "numerator": 21,
+                "denominator": 10
             }
         },
         "10c35e01-24e5-4192-882b-757f46cf0d4b:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -10546,8 +10396,8 @@
         },
         "15a9f199-3940-4df2-9c2f-a01a3117b2a9:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 39,
-                "denominator": 20
+                "numerator": 2,
+                "denominator": 1
             }
         },
         "15b02a8a-92ce-4e6e-96f2-13a083691e82:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -10576,7 +10426,7 @@
         },
         "182af9d9-d7f6-4292-a315-fdbd6bac8921:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 49,
+                "numerator": 51,
                 "denominator": 50
             }
         },
@@ -10618,7 +10468,7 @@
         },
         "19162d93-203a-4b48-877d-2fc96094494f:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 21,
+                "numerator": 23,
                 "denominator": 10
             }
         },
@@ -10678,8 +10528,8 @@
         },
         "1f1dd736-03d4-4527-8386-ea94b15fe695:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 15,
-                "denominator": 4
+                "numerator": 18,
+                "denominator": 5
             }
         },
         "1f979e68-d2ee-4516-80e2-e15c576f281a:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -10738,8 +10588,8 @@
         },
         "24733b30-ce70-4e9e-a660-39a72452ba09:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 3,
-                "denominator": 5
+                "numerator": 57,
+                "denominator": 100
             }
         },
         "24df51ec-37a4-4ad0-8d65-6d4a47390e02:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -10804,7 +10654,7 @@
         },
         "2800a9d9-036a-47d6-be6a-b59fec867665:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 11,
+                "numerator": 13,
                 "denominator": 25
             }
         },
@@ -10852,8 +10702,8 @@
         },
         "2ac523af-9300-49ed-aebe-0ee4120bbf0e:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 3,
-                "denominator": 2
+                "numerator": 29,
+                "denominator": 20
             }
         },
         "2af607b1-b9c8-4be1-8f9e-3b768f8c1d1b:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -10874,12 +10724,6 @@
                 "denominator": 5
             }
         },
-        "2b8f2ce3-2ddf-41cb-b2ed-0ed5682af72b:940b8704-e497-4a76-b390-00918ff7d282:": {
-            "odds": {
-                "numerator": 41,
-                "denominator": 20
-            }
-        },
         "2c529c2a-10cd-4148-9325-a58048ec5a5c:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
                 "numerator": 23,
@@ -10888,8 +10732,8 @@
         },
         "2c9d9ce4-0ee9-4bb0-8a56-96abbff7160c:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 6,
-                "denominator": 5
+                "numerator": 13,
+                "denominator": 10
             }
         },
         "2cba9e2c-2d67-4850-8633-2305e201c664:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -10954,8 +10798,8 @@
         },
         "2feae80d-ea26-482c-80ed-5cfc1d6d34e8:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 8,
-                "denominator": 25
+                "numerator": 33,
+                "denominator": 100
             }
         },
         "303ef53b-240b-4dcb-ab00-b023b69fd8a0:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -10990,8 +10834,8 @@
         },
         "323b3029-40ac-452b-a8f7-b0af4daec5ef:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 7,
-                "denominator": 1
+                "numerator": 27,
+                "denominator": 4
             }
         },
         "329af93d-7b76-466c-b243-e9efd39c24f1:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -11044,8 +10888,8 @@
         },
         "367d2010-1b0d-4c4d-8513-06a8244ab82e:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 9,
-                "denominator": 4
+                "numerator": 11,
+                "denominator": 5
             }
         },
         "37357000-bf23-4aae-b232-556d75107282:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -11116,8 +10960,8 @@
         },
         "3bc926f6-ba25-4bce-a563-3fe19b93a92b:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 41,
-                "denominator": 50
+                "numerator": 91,
+                "denominator": 100
             }
         },
         "3be1576e-aaaf-4f2f-b321-fb8958e64593:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -11152,8 +10996,8 @@
         },
         "3d1076bf-f49b-4d00-abc2-b00fc41401bb:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 19,
-                "denominator": 5
+                "numerator": 15,
+                "denominator": 4
             }
         },
         "3dd5fcb0-e314-4023-9b5c-c7aceba21c43:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -11198,22 +11042,10 @@
                 "denominator": 25
             }
         },
-        "3ff3a881-7914-4b16-853d-d50ac6891aca:940b8704-e497-4a76-b390-00918ff7d282:": {
-            "odds": {
-                "numerator": 4,
-                "denominator": 5
-            }
-        },
         "3ff4bb23-4a24-41ff-ab4e-5c12b7cb68c5:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
                 "numerator": 41,
                 "denominator": 20
-            }
-        },
-        "40ce290d-0ebc-40d1-acd2-d6a28c44282d:940b8704-e497-4a76-b390-00918ff7d282:": {
-            "odds": {
-                "numerator": 13,
-                "denominator": 25
             }
         },
         "415242f8-8f09-4145-ade7-cbed17cdf1ab:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -11260,8 +11092,8 @@
         },
         "433e8567-2922-4f59-a3bc-3e7938048225:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 17,
-                "denominator": 10
+                "numerator": 7,
+                "denominator": 4
             }
         },
         "435b18d7-4c7f-4ea7-b215-3cf9200fe326:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -11272,8 +11104,8 @@
         },
         "43649468-342c-4475-af84-175fbd43db36:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 22,
-                "denominator": 25
+                "numerator": 4,
+                "denominator": 5
             }
         },
         "43754edf-bddb-4195-b65c-395779bfa4b1:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -11344,8 +11176,8 @@
         },
         "48758813-b5cc-451d-aded-c28bf54e57a4:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 4,
-                "denominator": 5
+                "numerator": 83,
+                "denominator": 100
             }
         },
         "49084909-10cd-46f3-a485-d6104896ef20:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -11386,8 +11218,8 @@
         },
         "4a1ff0b4-e151-4edc-9a0c-b7af0576b7d4:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 17,
-                "denominator": 20
+                "numerator": 4,
+                "denominator": 5
             }
         },
         "4b5ea80c-faa8-4f10-9b1d-b040c7998832:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -11404,8 +11236,8 @@
         },
         "4beb354e-d20c-4c91-8fd7-637e1676c13a:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 27,
-                "denominator": 20
+                "numerator": 5,
+                "denominator": 4
             }
         },
         "4c032b8c-420c-4a45-985d-f1b65f1d9f60:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -11422,8 +11254,8 @@
         },
         "4c0f2b98-9a0c-4a60-a492-f52524ddf4f1:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 13,
-                "denominator": 5
+                "numerator": 5,
+                "denominator": 2
             }
         },
         "4cb48ad2-b5ac-4561-babb-b1d3a123ca37:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -11452,8 +11284,8 @@
         },
         "4f256aed-d05b-4a83-8eb8-23559ed921c7:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 53,
-                "denominator": 100
+                "numerator": 1,
+                "denominator": 2
             }
         },
         "51f16baf-0b3a-4fae-adef-4cdc283b9f73:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -11506,8 +11338,8 @@
         },
         "53fa052f-4c40-434c-b48e-2b694c0398ee:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 11,
-                "denominator": 10
+                "numerator": 21,
+                "denominator": 20
             }
         },
         "5401f4cd-1ed7-45e6-9f87-cdfb98720ad0:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -11524,8 +11356,8 @@
         },
         "547ddd60-9cca-43cf-b17e-250fc00650c4:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 9,
-                "denominator": 5
+                "numerator": 17,
+                "denominator": 10
             }
         },
         "54d04221-c4d6-4f85-88ba-8d4ad050825e:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -11542,7 +11374,7 @@
         },
         "556f8fe6-854c-40aa-b47a-b09e02891422:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 53,
+                "numerator": 57,
                 "denominator": 100
             }
         },
@@ -11692,8 +11524,8 @@
         },
         "62915391-0580-4477-bf83-67b75cbc2d38:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 19,
-                "denominator": 50
+                "numerator": 11,
+                "denominator": 25
             }
         },
         "62d1d3fb-0630-4512-9986-0778081962af:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -11758,8 +11590,8 @@
         },
         "673475ec-6327-4397-8762-ac1582c6800d:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 1,
-                "denominator": 2
+                "numerator": 53,
+                "denominator": 100
             }
         },
         "6777308b-1fba-45df-8fb5-7d1e0cf395b8:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -11812,8 +11644,8 @@
         },
         "69b29f76-b59d-4d17-bbf3-741902fea677:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 27,
-                "denominator": 10
+                "numerator": 13,
+                "denominator": 5
             }
         },
         "6a5c1627-93ac-4816-acae-c50a73a4371d:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -11836,7 +11668,7 @@
         },
         "6b975c80-c0e6-4e9b-8d50-447dc0d1f5f3:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 11,
+                "numerator": 13,
                 "denominator": 50
             }
         },
@@ -11848,8 +11680,8 @@
         },
         "6bc3f97f-c472-4ef3-bf36-ca2ae4712817:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 21,
-                "denominator": 10
+                "numerator": 41,
+                "denominator": 20
             }
         },
         "6bd9b705-5784-49c7-81dd-1efed35cc3f7:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -11860,7 +11692,7 @@
         },
         "6c8b0cdf-bb7b-42fe-8b4f-7e2b4e2ac2c0:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 29,
+                "numerator": 31,
                 "denominator": 20
             }
         },
@@ -12016,8 +11848,8 @@
         },
         "76fae3d0-fa69-4844-a74c-ee928ea9b127:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 13,
-                "denominator": 10
+                "numerator": 27,
+                "denominator": 20
             }
         },
         "771d05c4-c554-4461-86fd-8682cd9d5ace:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -12070,14 +11902,14 @@
         },
         "7b886015-edd7-4b9d-b513-2d242daa52a3:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 8,
-                "denominator": 5
+                "numerator": 17,
+                "denominator": 10
             }
         },
         "7baa0083-594e-42e8-b078-ac833e263a81:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 3,
-                "denominator": 1
+                "numerator": 13,
+                "denominator": 5
             }
         },
         "7bbfadc9-71ff-4cc3-aa12-92ab241d488b:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -12220,8 +12052,8 @@
         },
         "86a2cb74-9b23-4e19-bde4-4dd36fecd2fa:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 3,
-                "denominator": 5
+                "numerator": 11,
+                "denominator": 20
             }
         },
         "86e66ce4-faa8-4d5b-a452-59bc33ea318c:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -12242,6 +12074,12 @@
                 "denominator": 1
             }
         },
+        "88ca39b6-7012-49cc-bc19-bc77f6ed2469:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 1,
+                "denominator": 20
+            }
+        },
         "88dd61d8-8d4e-43f4-b227-8740e92b56b3:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
                 "numerator": 4,
@@ -12250,8 +12088,8 @@
         },
         "894b123b-db48-4a09-8593-a92e37553a6f:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 11,
-                "denominator": 100
+                "numerator": 3,
+                "denominator": 25
             }
         },
         "8ad43257-93f3-4c1d-9738-5f2f43a0fb0b:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -12316,8 +12154,8 @@
         },
         "8fe1936c-c6e6-4b9b-9b06-693edfb1ef1b:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 47,
-                "denominator": 20
+                "numerator": 23,
+                "denominator": 10
             }
         },
         "910144df-f546-46dc-afd9-37af2341482d:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -12326,16 +12164,22 @@
                 "denominator": 1
             }
         },
+        "91403989-02e0-45d0-a1c1-cb78991f92d8:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 27,
+                "denominator": 4
+            }
+        },
         "914d9632-6f44-44ce-989c-73bc4b44bb3d:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 7,
-                "denominator": 5
+                "numerator": 27,
+                "denominator": 20
             }
         },
         "9181de60-dbc4-4ab5-9648-9c42e2394a65:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 51,
-                "denominator": 50
+                "numerator": 1,
+                "denominator": 1
             }
         },
         "91afcfa9-688b-4c9e-ae3a-0bffe206bfd8:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -12406,7 +12250,7 @@
         },
         "96e09969-6005-4fe2-a481-34e8594c7bc1:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 19,
+                "numerator": 17,
                 "denominator": 10
             }
         },
@@ -12428,22 +12272,10 @@
                 "denominator": 1
             }
         },
-        "998ac965-d31b-49e9-a66d-97387f9627f2:940b8704-e497-4a76-b390-00918ff7d282:": {
-            "odds": {
-                "numerator": 91,
-                "denominator": 100
-            }
-        },
         "9a6a90d5-23f0-4519-b93d-8915cbbd8631:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
                 "numerator": 7,
                 "denominator": 5
-            }
-        },
-        "9b30c402-a0ea-4d84-ba64-b4371f81de5f:940b8704-e497-4a76-b390-00918ff7d282:": {
-            "odds": {
-                "numerator": 17,
-                "denominator": 25
             }
         },
         "9b57859d-1f22-4e0f-a968-8e12a56bbc35:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -12478,8 +12310,8 @@
         },
         "9cd4425a-0d87-45b9-95ee-fa1c2a4710a3:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 11,
-                "denominator": 100
+                "numerator": 7,
+                "denominator": 50
             }
         },
         "9d65957b-fa8d-4881-ae25-68b23ea1f0bf:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -12580,8 +12412,8 @@
         },
         "a417f71a-16e8-415a-9739-c564159b4848:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 9,
-                "denominator": 10
+                "numerator": 47,
+                "denominator": 50
             }
         },
         "a48cb6ed-2b6d-4c77-8a26-2bfae80c1e81:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -12604,8 +12436,8 @@
         },
         "a5cf44d0-0109-4308-9a1c-cf8bb9e6fc54:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 11,
-                "denominator": 1
+                "numerator": 23,
+                "denominator": 2
             }
         },
         "a5e46271-a189-4298-992e-7340d9ac2a08:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -12680,12 +12512,6 @@
                 "denominator": 25
             }
         },
-        "ab8f8ae1-b1a1-46ab-862b-6cdc98a29530:940b8704-e497-4a76-b390-00918ff7d282:": {
-            "odds": {
-                "numerator": 13,
-                "denominator": 4
-            }
-        },
         "ab965136-4a3b-45f1-a9b7-82f887290f1f:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
                 "numerator": 1,
@@ -12700,8 +12526,8 @@
         },
         "ae0acdea-01cc-4482-8b75-1f459e238f1c:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 17,
-                "denominator": 20
+                "numerator": 77,
+                "denominator": 100
             }
         },
         "ae513990-a988-4129-80cd-1b78571c70c5:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -12718,8 +12544,8 @@
         },
         "af16c193-22f9-43f6-b43d-d6e9ce1e6c32:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 11,
-                "denominator": 25
+                "numerator": 21,
+                "denominator": 50
             }
         },
         "b030461b-2715-46df-bb3e-d6e4cc378221:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -12742,8 +12568,8 @@
         },
         "b13358df-3c37-488b-b47e-a86b75dc38c1:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 19,
-                "denominator": 4
+                "numerator": 22,
+                "denominator": 5
             }
         },
         "b14cfeb1-4df5-4be1-ba53-bcc67ff991da:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -12762,12 +12588,6 @@
             "odds": {
                 "numerator": 15,
                 "denominator": 1
-            }
-        },
-        "b40896d4-cbb8-4d4f-a7b6-4b4a0f22b55b:940b8704-e497-4a76-b390-00918ff7d282:": {
-            "odds": {
-                "numerator": 29,
-                "denominator": 20
             }
         },
         "b46cda3c-b2b2-4a24-8b17-1921587d739c:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -12802,8 +12622,8 @@
         },
         "b5cd9064-d27b-4874-be84-7dd454f5b1f0:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 23,
-                "denominator": 25
+                "numerator": 83,
+                "denominator": 100
             }
         },
         "b5e33f3f-3a4f-449d-be9e-3933335ba236:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -12832,8 +12652,8 @@
         },
         "b9310788-cebc-49dc-9c58-3b210c466f41:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 7,
-                "denominator": 1
+                "numerator": 29,
+                "denominator": 4
             }
         },
         "b96b4d84-9fe1-43c9-b813-ccb81717f264:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -12862,8 +12682,8 @@
         },
         "badb2d5c-65ef-4ed8-89b6-5c3ff1ff41c2:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 18,
-                "denominator": 5
+                "numerator": 7,
+                "denominator": 2
             }
         },
         "bb39c490-f588-4ea3-9116-2081912f667e:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -12910,7 +12730,7 @@
         },
         "bdd1db46-fcb5-42ab-bccb-b6a2311cb3e7:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 11,
+                "numerator": 12,
                 "denominator": 25
             }
         },
@@ -13096,8 +12916,8 @@
         },
         "cb11a11b-12d1-4bcb-accb-fc0e053bd844:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 18,
-                "denominator": 25
+                "numerator": 3,
+                "denominator": 4
             }
         },
         "cb1bc3fa-26b3-439f-85de-6249fcc360df:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -13144,8 +12964,8 @@
         },
         "cd6474e2-32ee-446f-8e77-5b0fed0b003d:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 19,
-                "denominator": 4
+                "numerator": 4,
+                "denominator": 1
             }
         },
         "cf85b0f5-1cba-47ef-af8d-ef49cb9f1262:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -13204,20 +13024,14 @@
         },
         "d1b83042-48e7-461e-aa10-f4b226d6b064:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 11,
-                "denominator": 20
+                "numerator": 53,
+                "denominator": 100
             }
         },
         "d257676f-d847-4a1b-bfe1-9a3f60df56bf:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
                 "numerator": 33,
                 "denominator": 1
-            }
-        },
-        "d275e647-5731-40b5-97ca-46999f3ad2b3:940b8704-e497-4a76-b390-00918ff7d282:": {
-            "odds": {
-                "numerator": 33,
-                "denominator": 100
             }
         },
         "d30fbb1b-44dc-4982-bf6f-29e0996c83cb:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -13234,8 +13048,8 @@
         },
         "d37c7bb0-8d44-456e-a40b-878d3146bffb:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 13,
-                "denominator": 20
+                "numerator": 17,
+                "denominator": 25
             }
         },
         "d39e1e44-366b-4970-9d6c-13785db0c68d:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -13258,8 +13072,8 @@
         },
         "d5247585-8598-4bf2-87c0-bfcd25839a16:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 73,
-                "denominator": 100
+                "numerator": 7,
+                "denominator": 10
             }
         },
         "d5841a18-4454-4c52-906c-b8a0bcc4493c:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -13276,8 +13090,8 @@
         },
         "d5e3ca20-fbf4-42dd-b268-27df5c9a7731:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 17,
-                "denominator": 2
+                "numerator": 35,
+                "denominator": 4
             }
         },
         "d676da14-3a3e-480a-8fdc-47ad2fff1405:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -13288,8 +13102,8 @@
         },
         "d70d3f1f-aaa8-45e0-9335-3c57bef46674:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 25,
-                "denominator": 4
+                "numerator": 13,
+                "denominator": 2
             }
         },
         "d7502fdb-07c4-4cdd-b667-9eab4df78a1f:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -13312,8 +13126,8 @@
         },
         "d8ce64be-d010-44fd-b68d-97928e4dfb71:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 21,
-                "denominator": 20
+                "numerator": 1,
+                "denominator": 1
             }
         },
         "d90a943c-b52f-4315-b1db-159ac2375b5f:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -13342,14 +13156,14 @@
         },
         "dac997db-1b06-425b-aba4-e1d9740654a8:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 27,
-                "denominator": 20
+                "numerator": 13,
+                "denominator": 10
             }
         },
         "dad338c6-dc48-4c03-9b27-8ee8ff41b7a0:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 33,
-                "denominator": 4
+                "numerator": 17,
+                "denominator": 2
             }
         },
         "db5df8cf-88ea-4079-a200-10a25b88c628:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -13456,8 +13270,8 @@
         },
         "e137cc2b-cab1-469e-9266-3706b1d6d05c:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 8,
-                "denominator": 5
+                "numerator": 3,
+                "denominator": 2
             }
         },
         "e137ce2a-69e4-4f80-bf52-c5c8322a53a3:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -13534,7 +13348,7 @@
         },
         "e5528337-315a-4c57-8f72-e3e2f27fd238:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 8,
+                "numerator": 7,
                 "denominator": 5
             }
         },
@@ -13564,8 +13378,8 @@
         },
         "e6b2fb8a-30b1-45a8-9df0-7c4a11755ee5:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 10,
-                "denominator": 1
+                "numerator": 19,
+                "denominator": 2
             }
         },
         "e6b87643-737b-4c41-be2f-e1c15e097620:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -13600,8 +13414,8 @@
         },
         "e80e0997-f77a-40be-a8ae-1ad28c8e19f6:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 47,
-                "denominator": 50
+                "numerator": 9,
+                "denominator": 10
             }
         },
         "e8cf3b6a-d382-4079-8cd6-2a9a5738ca72:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -13660,14 +13474,14 @@
         },
         "ec586a96-1d37-43b5-b664-882f11f52a51:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 9,
-                "denominator": 5
+                "numerator": 7,
+                "denominator": 4
             }
         },
         "ec7ab941-3a32-47b4-a8aa-38947fee592e:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 21,
-                "denominator": 50
+                "numerator": 2,
+                "denominator": 5
             }
         },
         "ec7c109d-10f9-47e4-a864-345415bdf2cc:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -13678,8 +13492,8 @@
         },
         "ece94f10-2afe-43e8-bedb-16cb930106e0:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 6,
-                "denominator": 5
+                "numerator": 5,
+                "denominator": 4
             }
         },
         "ed198862-8aa3-4737-913e-277d556f4cbc:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -13832,12 +13646,6 @@
                 "denominator": 20
             }
         },
-        "f89cba5e-f908-457f-9d10-7c3a0b3e2332:940b8704-e497-4a76-b390-00918ff7d282:": {
-            "odds": {
-                "numerator": 9,
-                "denominator": 50
-            }
-        },
         "f8e83eaf-2e87-45b4-b830-bb7534a24ae2:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
                 "numerator": 23,
@@ -13906,7 +13714,7 @@
         },
         "fbac7944-4bb5-4692-a3fb-7dadb0374a22:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 13,
+                "numerator": 11,
                 "denominator": 1
             }
         },
@@ -13936,8 +13744,8 @@
         },
         "fcf01f5f-d701-4c67-92f6-d242bd8e4794:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 33,
-                "denominator": 100
+                "numerator": 7,
+                "denominator": 20
             }
         },
         "fcf5f6b7-8278-4fea-9123-bfbdc654941e:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -13984,8 +13792,8 @@
         },
         "ffb7701c-45b8-4bfc-a544-12c7bc7b0d5a:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 1,
-                "denominator": 4
+                "numerator": 13,
+                "denominator": 50
             }
         },
         "fff66cd9-99ee-437b-974f-7fae90f4f926:940b8704-e497-4a76-b390-00918ff7d282:": {
