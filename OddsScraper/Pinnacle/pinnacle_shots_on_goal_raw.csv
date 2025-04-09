@@ -19,10 +19,10 @@ id,name,rot_num,line_id,price,handicap,selection,home_team,away_team
 1607551476,Under,25,4887037175,1.636,2.5,Travis Konecny (Shots On Goal),New York Rangers,Philadelphia Flyers
 1607551994,Over,28,4887038653,1.813,1.5,Leo Carlsson (Shots On Goal),Anaheim Ducks,Calgary Flames
 1607551995,Under,29,4887038655,1.934,1.5,Leo Carlsson (Shots On Goal),Anaheim Ducks,Calgary Flames
-1607551488,Under,25,4888308060,2.03,1.5,Adam Fox (Shots On Goal),New York Rangers,Philadelphia Flyers
-1607551487,Over,24,4888308059,1.729,1.5,Adam Fox (Shots On Goal),New York Rangers,Philadelphia Flyers
-1607551460,Over,24,4888308057,1.564,2.5,Artemi Panarin (Shots On Goal),New York Rangers,Philadelphia Flyers
-1607551461,Under,25,4888308058,2.32,2.5,Artemi Panarin (Shots On Goal),New York Rangers,Philadelphia Flyers
+1607551488,Under,25,4888835273,1.854,1.5,Adam Fox (Shots On Goal),New York Rangers,Philadelphia Flyers
+1607551487,Over,24,4888835272,1.877,1.5,Adam Fox (Shots On Goal),New York Rangers,Philadelphia Flyers
+1607551460,Over,24,4888834443,1.68,2.5,Artemi Panarin (Shots On Goal),New York Rangers,Philadelphia Flyers
+1607551461,Under,25,4888834444,2.1,2.5,Artemi Panarin (Shots On Goal),New York Rangers,Philadelphia Flyers
 1607551973,Over,28,4887918282,2.26,2.5,Cutter Gauthier (Shots On Goal),Anaheim Ducks,Calgary Flames
 1607551974,Under,29,4887918283,1.588,2.5,Cutter Gauthier (Shots On Goal),Anaheim Ducks,Calgary Flames
 1607551901,Over,28,4887038396,1.826,1.5,Alex Killorn (Shots On Goal),Anaheim Ducks,Calgary Flames
@@ -39,20 +39,12 @@ id,name,rot_num,line_id,price,handicap,selection,home_team,away_team
 1607551839,Under,31,4888376598,2.26,1.5,Robert Thomas (Shots On Goal),Edmonton Oilers,St. Louis Blues
 1607551814,Over,30,4888259795,1.98,2.5,Jordan Kyrou (Shots On Goal),Edmonton Oilers,St. Louis Blues
 1607551815,Under,31,4888259796,1.769,2.5,Jordan Kyrou (Shots On Goal),Edmonton Oilers,St. Louis Blues
-1607551859,Over,30,4888259829,1.847,2.5,Evan Bouchard (Shots On Goal),Edmonton Oilers,St. Louis Blues
-1607551860,Under,31,4888259830,1.884,2.5,Evan Bouchard (Shots On Goal),Edmonton Oilers,St. Louis Blues
-1607551850,Over,30,4888259823,1.502,1.5,Jake Walman (Shots On Goal),Edmonton Oilers,St. Louis Blues
-1607551851,Under,31,4888259824,2.44,1.5,Jake Walman (Shots On Goal),Edmonton Oilers,St. Louis Blues
-1607551776,Under,31,4888289488,2.16,2.5,Zach Hyman (Shots On Goal),Edmonton Oilers,St. Louis Blues
-1607551775,Over,30,4888289487,1.645,2.5,Zach Hyman (Shots On Goal),Edmonton Oilers,St. Louis Blues
 1607551748,Over,30,4888376591,2.11,1.5,Brayden Schenn (Shots On Goal),Edmonton Oilers,St. Louis Blues
 1607551749,Under,31,4888376592,1.68,1.5,Brayden Schenn (Shots On Goal),Edmonton Oilers,St. Louis Blues
-1607551802,Over,30,4888259783,1.485,1.5,Darnell Nurse (Shots On Goal),Edmonton Oilers,St. Louis Blues
-1607551803,Under,31,4888259784,2.48,1.5,Darnell Nurse (Shots On Goal),Edmonton Oilers,St. Louis Blues
 1607551706,Over,26,4887194014,1.485,1.5,William Eklund (Shots On Goal),Minnesota Wild,San Jose Sharks
 1607551707,Under,27,4887194015,2.48,1.5,William Eklund (Shots On Goal),Minnesota Wild,San Jose Sharks
-1607551685,Over,26,4888140199,1.763,1.5,Brock Faber (Shots On Goal),Minnesota Wild,San Jose Sharks
-1607551686,Under,27,4888140200,1.98,1.5,Brock Faber (Shots On Goal),Minnesota Wild,San Jose Sharks
+1607551685,Over,26,4888772847,1.757,1.5,Brock Faber (Shots On Goal),Minnesota Wild,San Jose Sharks
+1607551686,Under,27,4888772848,1.99,1.5,Brock Faber (Shots On Goal),Minnesota Wild,San Jose Sharks
 1607551694,Over,26,4888448466,2.22,3.5,Matt Boldy (Shots On Goal),Minnesota Wild,San Jose Sharks
 1607551695,Under,27,4888448467,1.606,3.5,Matt Boldy (Shots On Goal),Minnesota Wild,San Jose Sharks
 1607551730,Over,26,4888278023,2.09,3.5,Macklin Celebrini (Shots On Goal),Minnesota Wild,San Jose Sharks
@@ -99,28 +91,34 @@ id,name,rot_num,line_id,price,handicap,selection,home_team,away_team
 1607552043,Under,29,4888449876,2.23,1.5,Rasmus Andersson (Shots On Goal),Anaheim Ducks,Calgary Flames
 1607551529,Over,24,4887037312,1.571,1.5,Tyson Foerster (Shots On Goal),New York Rangers,Philadelphia Flyers
 1607551530,Under,25,4887037313,2.29,1.5,Tyson Foerster (Shots On Goal),New York Rangers,Philadelphia Flyers
-1607558357,Over,22,4888140179,2.14,2.5,John Tavares (Shots On Goal),Tampa Bay Lightning,Toronto Maple Leafs
-1607558358,Under,23,4888140180,1.653,2.5,John Tavares (Shots On Goal),Tampa Bay Lightning,Toronto Maple Leafs
+1607558486,Over,22,4888789186,1.694,1.5,Anthony Cirelli (Shots On Goal),Tampa Bay Lightning,Toronto Maple Leafs
+1607558487,Under,23,4888789187,2.08,1.5,Anthony Cirelli (Shots On Goal),Tampa Bay Lightning,Toronto Maple Leafs
+1607558357,Over,22,4888769471,2.2,2.5,John Tavares (Shots On Goal),Tampa Bay Lightning,Toronto Maple Leafs
+1607558358,Under,23,4888769472,1.621,2.5,John Tavares (Shots On Goal),Tampa Bay Lightning,Toronto Maple Leafs
 1607558474,Over,22,4887193931,1.571,1.5,Mitch Marner (Shots On Goal),Tampa Bay Lightning,Toronto Maple Leafs
 1607558475,Under,23,4887193932,2.29,1.5,Mitch Marner (Shots On Goal),Tampa Bay Lightning,Toronto Maple Leafs
-1607558513,Over,22,4888764396,1.606,1.5,Matthew Knies (Shots On Goal),Tampa Bay Lightning,Toronto Maple Leafs
-1607558514,Under,23,4888764397,2.23,1.5,Matthew Knies (Shots On Goal),Tampa Bay Lightning,Toronto Maple Leafs
+1607558513,Over,22,4888792498,1.704,1.5,Matthew Knies (Shots On Goal),Tampa Bay Lightning,Toronto Maple Leafs
+1607558514,Under,23,4888792499,2.07,1.5,Matthew Knies (Shots On Goal),Tampa Bay Lightning,Toronto Maple Leafs
 1607558525,Over,22,4888656088,1.555,1.5,Bobby McMann (Shots On Goal),Tampa Bay Lightning,Toronto Maple Leafs
 1607558526,Under,23,4888656089,2.33,1.5,Bobby McMann (Shots On Goal),Tampa Bay Lightning,Toronto Maple Leafs
-1607558426,Over,22,4888140181,1.793,2.5,William Nylander (Shots On Goal),Tampa Bay Lightning,Toronto Maple Leafs
-1607558427,Under,23,4888140182,1.952,2.5,William Nylander (Shots On Goal),Tampa Bay Lightning,Toronto Maple Leafs
-1607558450,Over,22,4888654514,1.877,3.5,Auston Matthews (Shots On Goal),Tampa Bay Lightning,Toronto Maple Leafs
-1607558451,Under,23,4888654515,1.854,3.5,Auston Matthews (Shots On Goal),Tampa Bay Lightning,Toronto Maple Leafs
-1607564138,Over,30,4888700854,1.952,1.5,Adam Henrique (Shots On Goal),Edmonton Oilers,St. Louis Blues
-1607564139,Under,31,4888700855,1.787,1.5,Adam Henrique (Shots On Goal),Edmonton Oilers,St. Louis Blues
-1607614549,Over,30,4888692621,2.05,1.5,Corey Perry (Shots On Goal),Edmonton Oilers,St. Louis Blues
-1607614550,Under,31,4888692622,1.714,1.5,Corey Perry (Shots On Goal),Edmonton Oilers,St. Louis Blues
-1607614531,Over,30,4888451441,2.39,2.5,Jeff Skinner (Shots On Goal),Edmonton Oilers,St. Louis Blues
-1607614532,Under,31,4888451442,1.529,2.5,Jeff Skinner (Shots On Goal),Edmonton Oilers,St. Louis Blues
+1607558369,Over,22,4888769477,2.19,2.5,Victor Hedman (Shots On Goal),Tampa Bay Lightning,Toronto Maple Leafs
+1607558370,Under,23,4888769478,1.625,2.5,Victor Hedman (Shots On Goal),Tampa Bay Lightning,Toronto Maple Leafs
+1607558381,Over,22,4888769483,2.15,3.5,Nikita Kucherov (Shots On Goal),Tampa Bay Lightning,Toronto Maple Leafs
+1607558382,Under,23,4888769484,1.649,3.5,Nikita Kucherov (Shots On Goal),Tampa Bay Lightning,Toronto Maple Leafs
+1607558426,Over,22,4888791679,1.694,2.5,William Nylander (Shots On Goal),Tampa Bay Lightning,Toronto Maple Leafs
+1607558427,Under,23,4888791680,2.08,2.5,William Nylander (Shots On Goal),Tampa Bay Lightning,Toronto Maple Leafs
+1607558402,Over,22,4888765575,1.649,1.5,Oliver Bjorkstrand (Shots On Goal),Tampa Bay Lightning,Toronto Maple Leafs
+1607558403,Under,23,4888765576,2.15,1.5,Oliver Bjorkstrand (Shots On Goal),Tampa Bay Lightning,Toronto Maple Leafs
+1607558414,Over,22,4888769499,1.694,1.5,Nick Paul (Shots On Goal),Tampa Bay Lightning,Toronto Maple Leafs
+1607558415,Under,23,4888769500,2.08,1.5,Nick Paul (Shots On Goal),Tampa Bay Lightning,Toronto Maple Leafs
+1607558450,Over,22,4888769517,1.892,3.5,Auston Matthews (Shots On Goal),Tampa Bay Lightning,Toronto Maple Leafs
+1607558451,Under,23,4888769518,1.84,3.5,Auston Matthews (Shots On Goal),Tampa Bay Lightning,Toronto Maple Leafs
+1607558462,Over,22,4888769519,2.0,2.5,Brandon Hagel (Shots On Goal),Tampa Bay Lightning,Toronto Maple Leafs
+1607558463,Under,23,4888769520,1.757,2.5,Brandon Hagel (Shots On Goal),Tampa Bay Lightning,Toronto Maple Leafs
+1607558438,Over,22,4888791334,1.961,2.5,Brayden Point (Shots On Goal),Tampa Bay Lightning,Toronto Maple Leafs
+1607558439,Under,23,4888791335,1.775,2.5,Brayden Point (Shots On Goal),Tampa Bay Lightning,Toronto Maple Leafs
 1607614534,Over,30,4888389057,1.97,1.5,Jimmy Snuggerud (Shots On Goal),Edmonton Oilers,St. Louis Blues
 1607614535,Under,31,4888389058,1.781,1.5,Jimmy Snuggerud (Shots On Goal),Edmonton Oilers,St. Louis Blues
-1607614528,Under,31,4888266964,1.847,2.5,Viktor Arvidsson (Shots On Goal),Edmonton Oilers,St. Louis Blues
-1607614527,Over,30,4888266963,1.892,2.5,Viktor Arvidsson (Shots On Goal),Edmonton Oilers,St. Louis Blues
 1607614679,Over,28,4888277973,1.609,1.5,Olen Zellweger (Shots On Goal),Anaheim Ducks,Calgary Flames
 1607614680,Under,29,4888277974,2.22,1.5,Olen Zellweger (Shots On Goal),Anaheim Ducks,Calgary Flames
 1607614693,Over,28,4888433741,1.806,1.5,Joel Farabee (Shots On Goal),Anaheim Ducks,Calgary Flames
