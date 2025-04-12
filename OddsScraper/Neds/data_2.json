@@ -897,13 +897,6 @@
             "sort_order": 300,
             "market_id": "570041c2-5472-4937-b12a-68dc4ec0fbac"
         },
-        "3135a4f9-9baa-4305-aaa4-acb1c0503033": {
-            "id": "3135a4f9-9baa-4305-aaa4-acb1c0503033",
-            "name": "Under (0.5)",
-            "visible": true,
-            "sort_order": 20,
-            "market_id": "5fae84ab-b2e5-4ccb-92ef-123667ee6ece"
-        },
         "3187f623-1ce9-41b3-97b5-03fa7146c146": {
             "id": "3187f623-1ce9-41b3-97b5-03fa7146c146",
             "name": "Los Angeles Kings 3-1",
@@ -1883,13 +1876,6 @@
             "visible": true,
             "sort_order": 20,
             "market_id": "940f28f6-a869-460f-84ce-0c9f2a7503d0"
-        },
-        "73c596f2-d1e8-4bfa-a3d9-7b79f65693f4": {
-            "id": "73c596f2-d1e8-4bfa-a3d9-7b79f65693f4",
-            "name": "Over (0.5)",
-            "visible": true,
-            "sort_order": 10,
-            "market_id": "5fae84ab-b2e5-4ccb-92ef-123667ee6ece"
         },
         "73e3222a-561f-465c-966f-bae39eedea6b": {
             "id": "73e3222a-561f-465c-966f-bae39eedea6b",
@@ -3127,6 +3113,13 @@
             "sort_order": 20,
             "market_id": "d6ac4c35-c41a-49ff-8d62-3ee1c9b79b77"
         },
+        "c418abf4-cc5d-40c3-b7bc-7268c9ac6079": {
+            "id": "c418abf4-cc5d-40c3-b7bc-7268c9ac6079",
+            "name": "Over (0.5)",
+            "visible": true,
+            "sort_order": 10,
+            "market_id": "6abe82ba-4518-480d-9b27-c18af21edd61"
+        },
         "c449c978-a2f6-4480-816e-b357ec3a2878": {
             "id": "c449c978-a2f6-4480-816e-b357ec3a2878",
             "name": "Adrian Kempe (Los Angeles Kings)",
@@ -4027,6 +4020,13 @@
             "sort_order": 330,
             "market_id": "570041c2-5472-4937-b12a-68dc4ec0fbac"
         },
+        "f958aa92-ecd1-4be7-947c-350ca84c9da2": {
+            "id": "f958aa92-ecd1-4be7-947c-350ca84c9da2",
+            "name": "Under (0.5)",
+            "visible": true,
+            "sort_order": 20,
+            "market_id": "6abe82ba-4518-480d-9b27-c18af21edd61"
+        },
         "f967fc0f-f3a3-48d1-9ed7-e5f71d2da071": {
             "id": "f967fc0f-f3a3-48d1-9ed7-e5f71d2da071",
             "name": "Yes",
@@ -4462,8 +4462,8 @@
                         "c163f899-aa67-4bab-bcfd-86f2d3996a87",
                         "c0ce39a0-f8ab-4769-94a7-7ccc1e221803",
                         "03a8767a-0d1f-47f9-bc70-7d1c16bd9a22",
+                        "6abe82ba-4518-480d-9b27-c18af21edd61",
                         "3e0a040a-68ee-4886-a78e-89847d0a0807",
-                        "5fae84ab-b2e5-4ccb-92ef-123667ee6ece",
                         "4c45c8db-dfa8-462a-a44f-cbdae5fe9b7a"
                     ]
                 }
@@ -4666,8 +4666,8 @@
                 "c163f899-aa67-4bab-bcfd-86f2d3996a87",
                 "c0ce39a0-f8ab-4769-94a7-7ccc1e221803",
                 "03a8767a-0d1f-47f9-bc70-7d1c16bd9a22",
+                "6abe82ba-4518-480d-9b27-c18af21edd61",
                 "3e0a040a-68ee-4886-a78e-89847d0a0807",
-                "5fae84ab-b2e5-4ccb-92ef-123667ee6ece",
                 "4c45c8db-dfa8-462a-a44f-cbdae5fe9b7a"
             ],
             "category_id": "b7c1f944-d02b-4d9b-b6f3-cb31389cfe36",
@@ -6321,25 +6321,6 @@
             ],
             "num_winners": 1
         },
-        "5fae84ab-b2e5-4ccb-92ef-123667ee6ece": {
-            "id": "5fae84ab-b2e5-4ccb-92ef-123667ee6ece",
-            "event_id": "132ad8a4-355b-4b02-b9b4-060b6711528b",
-            "market_type_id": "613197ca-2558-4feb-afe2-ec31e81c75bc",
-            "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
-            "name": "Trevor Moore (Lak) : Plus minus (0.5)",
-            "advertised_start": {
-                "seconds": 1744488480
-            },
-            "actual_start": {
-                "seconds": 1744488480
-            },
-            "visible": true,
-            "entrant_ids": [
-                "73c596f2-d1e8-4bfa-a3d9-7b79f65693f4",
-                "3135a4f9-9baa-4305-aaa4-acb1c0503033"
-            ],
-            "num_winners": 1
-        },
         "6037b8b9-a5be-4722-a62a-d5067faae253": {
             "id": "6037b8b9-a5be-4722-a62a-d5067faae253",
             "event_id": "132ad8a4-355b-4b02-b9b4-060b6711528b",
@@ -6413,6 +6394,25 @@
             "entrant_ids": [
                 "857c3117-5496-42b7-95ce-747dd6d67e4a",
                 "ac62e080-308d-45c7-ac4a-bf2fa9c1412f"
+            ],
+            "num_winners": 1
+        },
+        "6abe82ba-4518-480d-9b27-c18af21edd61": {
+            "id": "6abe82ba-4518-480d-9b27-c18af21edd61",
+            "event_id": "132ad8a4-355b-4b02-b9b4-060b6711528b",
+            "market_type_id": "613197ca-2558-4feb-afe2-ec31e81c75bc",
+            "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
+            "name": "Quinton Byfield (Lak) : Plus minus (0.5)",
+            "advertised_start": {
+                "seconds": 1744488480
+            },
+            "actual_start": {
+                "seconds": 1744488480
+            },
+            "visible": true,
+            "entrant_ids": [
+                "c418abf4-cc5d-40c3-b7bc-7268c9ac6079",
+                "f958aa92-ecd1-4be7-947c-350ca84c9da2"
             ],
             "num_winners": 1
         },
@@ -8906,11 +8906,11 @@
         "570041c2-5472-4937-b12a-68dc4ec0fbac": true,
         "5a2d4f19-ad52-47c2-beb6-9aa2d6b6e8e9": false,
         "5ae2a44d-d8d3-4746-a697-5544bf926f52": true,
-        "5fae84ab-b2e5-4ccb-92ef-123667ee6ece": false,
         "6037b8b9-a5be-4722-a62a-d5067faae253": false,
         "60ccf25b-6ea7-4716-a79e-2919587bf92a": false,
         "61a0080c-2792-48cc-962b-759543c7c0ee": false,
         "68ab3715-f7d8-470f-962f-0cbab7a4fc46": false,
+        "6abe82ba-4518-480d-9b27-c18af21edd61": false,
         "6bd0f1ce-0d7e-4a21-b8d9-64afbc1f0432": false,
         "6c274387-bb0f-44de-9dff-7da51c402698": true,
         "6c2a79ac-3975-4962-8ba1-2c161d5b8d84": false,
@@ -9764,12 +9764,6 @@
                 "denominator": 1
             }
         },
-        "3135a4f9-9baa-4305-aaa4-acb1c0503033:940b8704-e497-4a76-b390-00918ff7d282:": {
-            "odds": {
-                "numerator": 11,
-                "denominator": 25
-            }
-        },
         "3187f623-1ce9-41b3-97b5-03fa7146c146:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
                 "numerator": 25,
@@ -10578,12 +10572,6 @@
             "odds": {
                 "numerator": 33,
                 "denominator": 100
-            }
-        },
-        "73c596f2-d1e8-4bfa-a3d9-7b79f65693f4:940b8704-e497-4a76-b390-00918ff7d282:": {
-            "odds": {
-                "numerator": 8,
-                "denominator": 5
             }
         },
         "73e3222a-561f-465c-966f-bae39eedea6b:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -11606,6 +11594,12 @@
                 "denominator": 5
             }
         },
+        "c418abf4-cc5d-40c3-b7bc-7268c9ac6079:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 29,
+                "denominator": 20
+            }
+        },
         "c449c978-a2f6-4480-816e-b357ec3a2878:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
                 "numerator": 2,
@@ -12348,6 +12342,12 @@
             "odds": {
                 "numerator": 300,
                 "denominator": 1
+            }
+        },
+        "f958aa92-ecd1-4be7-947c-350ca84c9da2:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 12,
+                "denominator": 25
             }
         },
         "f967fc0f-f3a3-48d1-9ed7-e5f71d2da071:940b8704-e497-4a76-b390-00918ff7d282:": {
